@@ -1,0 +1,11 @@
+From: Nirja Chakrabarti <nirja.chakrabarti@smithduncan.co.uk>
+To: Hredhaan Rege <hredhaan.rege@arnold.org>
+Date: Fri, 12 Jun 2026 22:16:30 -0500
+Subject: Lunch receipt
+Message-ID: <af2bfd22-d08c-4ca7-b781-22e04813c236@smithduncan.co.uk>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_388030_9757975044"
+X-Attachment-Name: receipt_193.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

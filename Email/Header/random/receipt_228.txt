@@ -1,0 +1,11 @@
+From: Gagan Ghose <gagan.ghose@balakrishnan.com>
+To: Pavani Naidu <pavani.naidu@johnson.com>
+Date: Wed, 04 Feb 2026 05:57:20 +0100
+Subject: Expenses – March
+Message-ID: <92256ddc-9714-485a-9b64-867e7650db8b@balakrishnan.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_894106_3269449753"
+X-Attachment-Name: receipt_228.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

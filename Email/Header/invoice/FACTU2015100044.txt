@@ -1,0 +1,11 @@
+From: Andrew Gregory <andrew.gregory@millshopkins.net>
+To: Marion Patterson <marion.patterson@owenali.com>
+Date: Tue, 12 May 2026 23:01:15 -0800
+Subject: Payment reminder: Invoice #15100044
+Message-ID: <25909de3-0a38-4f63-a9c8-baa4acbd020b@millshopkins.net>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_068626_4239534830"
+X-Attachment-Name: FACTU2015100044.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

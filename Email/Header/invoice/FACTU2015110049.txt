@@ -1,0 +1,11 @@
+From: Heidi Russell <heidi.russell@mann.co.uk>
+To: Matthew Hinton <matthew.hinton@henryjenkins.com>
+Date: Thu, 09 Apr 2026 13:27:06 +0000
+Subject: Copy of invoice FACTU2015110049 as requested
+Message-ID: <7e28a7f3-ce76-4595-824e-a8e4fa8ce75a@mann.co.uk>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_089778_2242772382"
+X-Attachment-Name: FACTU2015110049.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

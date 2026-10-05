@@ -1,0 +1,12 @@
+From: Fisher, Evans and Wilson Billing <no-reply@setty.com>
+To: Vasana Kar <vasana.kar@robertswilkinson.com>
+Reply-To: billing@setty.com
+Date: Fri, 31 Jul 2026 05:18:28 +0530
+Subject: Billing notification – invoice INV-16120063
+Message-ID: <0bb0fd5c-fe70-4924-83c6-b7e8eb3ed247@setty.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_953511_5095028089"
+X-Attachment-Name: FACTU2016120063.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

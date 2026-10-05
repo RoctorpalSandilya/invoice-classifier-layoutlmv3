@@ -1,0 +1,12 @@
+From: Mr Clive Richardson <mr.richardson@harrison.io>
+To: Mr Tony Jenkins <mr.jenkins@sims.com>
+Date: Sun, 05 Apr 2026 22:36:29 -0500
+Subject: Your invoice INV-18080044 is attached
+Message-ID: <5863cea7-38de-4f07-af03-714c0c8ab79e@harrison.io>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_577189_9339051010"
+X-Attachment-Name: FACTU2018080044.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

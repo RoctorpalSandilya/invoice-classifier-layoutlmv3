@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: #15090057
+Account: ACC-982936
+Amount: €1,293.63
+Due date: 06 Sep 2026
+
+The invoice is attached to this email in image format. You can also view and pay it online at https://billing.jhaveri.com/invoices/15090057.
+
+This is an automated message; please do not reply to this email.
+
+Weber-Lambert Billing Team

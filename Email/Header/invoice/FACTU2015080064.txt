@@ -1,0 +1,12 @@
+From: Erik West <erik.west@kim.com>
+To: Guy Sutton <guy.sutton@barrerasmith.in>
+Date: Mon, 03 Aug 2026 22:15:22 +0100
+Subject: Friendly reminder – invoice INV-15080064 due 02 Oct 2026
+Message-ID: <133c2f2b-2317-4536-8932-1f72f38327b5@kim.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_402145_8928163754"
+X-Attachment-Name: FACTU2015080064.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

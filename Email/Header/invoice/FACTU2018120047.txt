@@ -1,0 +1,11 @@
+From: Francesca Williams <francesca.williams@chambers.in>
+To: Ms Ruth Atkinson <ms.atkinson@nayar.io>
+Date: Mon, 06 Apr 2026 21:12:00 -0800
+Subject: Tax Invoice INV-18120047
+Message-ID: <5c38d165-ab3c-4065-bb72-6f83a03a4f5b@chambers.in>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_081436_9852520664"
+X-Attachment-Name: FACTU2018120047.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

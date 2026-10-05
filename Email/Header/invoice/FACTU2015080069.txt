@@ -1,0 +1,11 @@
+From: David Barnes <david.barnes@wood.com>
+To: Kashish Bal <kashish.bal@bedi.in>
+Date: Thu, 23 Jul 2026 16:36:40 +0100
+Subject: Reminder: outstanding invoice 15080069
+Message-ID: <d8c53fd6-ef7a-4f9a-b49d-9df41302eb2d@wood.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_682492_7127780049"
+X-Attachment-Name: FACTU2015080069.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

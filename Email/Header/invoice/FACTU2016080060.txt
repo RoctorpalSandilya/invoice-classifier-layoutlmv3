@@ -1,0 +1,11 @@
+From: Claire Blake <claire.blake@patel.net>
+To: Rudra Banerjee <rudra.banerjee@oneill.io>
+Date: Wed, 21 Jan 2026 22:20:42 -0500
+Subject: Friendly reminder – invoice INV-16080060 due 20 Feb 2026
+Message-ID: <3f60cdec-abc5-4322-9e7c-38d14de850ff@patel.net>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_316754_2039515090"
+X-Attachment-Name: FACTU2016080060.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

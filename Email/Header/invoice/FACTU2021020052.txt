@@ -1,0 +1,12 @@
+From: Nicholas Fowler <nicholas.fowler@dalia.co.uk>
+To: Ann Gould <ann.gould@dalia.com>
+Cc: Richard Carr <richard.carr@dalia.com>
+Date: Wed, 23 Sep 2026 22:37:24 +0530
+Subject: [Action required] Invoice INV-21020052 – Choudhry-Nair
+Message-ID: <c0de1dde-9a6e-4a63-bdd5-a974737d07da@dalia.co.uk>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_437184_7575276715"
+X-Attachment-Name: FACTU2021020052.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

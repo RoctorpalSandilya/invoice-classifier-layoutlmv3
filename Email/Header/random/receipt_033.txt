@@ -1,0 +1,11 @@
+From: Elliott O'Brien <elliott.o'brien@shaborde.com>
+To: Chaman Hegde <chaman.hegde@powell.com>
+Date: Tue, 03 Feb 2026 10:44:21 +0100
+Subject: Lunch receipt
+Message-ID: <e1d7fbb5-1fce-4ae9-a64c-490587828828@shaborde.com>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_412817_8565132709"
+X-Attachment-Name: receipt_033.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

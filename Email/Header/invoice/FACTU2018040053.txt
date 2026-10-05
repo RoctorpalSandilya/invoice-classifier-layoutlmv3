@@ -1,0 +1,13 @@
+From: Burke, Marshall and Hayes Billing <no-reply@gillespie-hogan.com>
+To: Anthony Wright <anthony.wright@marsh.net>
+Reply-To: billing@gillespie-hogan.com
+Date: Fri, 20 Mar 2026 22:52:30 +0000
+Subject: New invoice #18040053 generated
+Message-ID: <c1e8978b-6781-452a-a553-49569778e7fb@gillespie-hogan.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_923817_0652115729"
+X-Attachment-Name: FACTU2018040053.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

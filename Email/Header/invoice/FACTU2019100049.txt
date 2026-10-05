@@ -1,0 +1,12 @@
+From: Richard Medina <richard.medina@sandalraj.io>
+To: Miss Valerie Evans <miss.evans@sandalraj.in>
+Cc: Yvonne Peacock <yvonne.peacock@sandalraj.in>
+Date: Tue, 26 May 2026 13:39:04 +0530
+Subject: AP: new vendor invoice 19100049
+Message-ID: <66ca4e09-27f9-4bf1-adb2-b958af1f451e@sandalraj.io>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_118710_2471888638"
+X-Attachment-Name: FACTU2019100049.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

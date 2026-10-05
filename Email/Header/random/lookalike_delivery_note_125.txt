@@ -1,0 +1,11 @@
+From: Christina Jones <christina.jones@dave.net>
+To: Henry Oconnor <henry.oconnor@wilkinson-moore.net>
+Date: Fri, 01 May 2026 11:41:27 +0100
+Subject: Your order has shipped
+Message-ID: <421949cc-927e-40c3-b93f-b28301bb6f8c@dave.net>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_938955_2967547506"
+X-Attachment-Name: lookalike_delivery_note_125.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

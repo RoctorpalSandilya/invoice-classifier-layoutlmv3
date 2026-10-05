@@ -1,0 +1,11 @@
+From: William Deshpande <william.deshpande@black.net>
+To: Rachel Chavez <rachel.chavez@brewerarmstrong.com>
+Date: Tue, 23 Jun 2026 02:34:46 +0100
+Subject: Invoice 19120042 – Brewer-Armstrong
+Message-ID: <257132ff-3744-4e61-8834-8951c02b8fee@black.net>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_304075_7812375924"
+X-Attachment-Name: FACTU2019120042.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

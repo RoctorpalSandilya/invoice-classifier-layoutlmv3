@@ -1,0 +1,11 @@
+From: Northgate Bank <statements@lloyd.com>
+To: Yuvraj Raman <yuvraj.raman@badal-purohit.com>
+Date: Wed, 12 Aug 2026 06:09:07 -0500
+Subject: Statement of account
+Message-ID: <7dbc9a5a-d4e2-47ed-b8a0-e533d77e1c8b@lloyd.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_928648_4647308143"
+X-Attachment-Name: lookalike_bank_statement_081.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

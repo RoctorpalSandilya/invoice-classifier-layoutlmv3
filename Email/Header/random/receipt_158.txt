@@ -1,0 +1,11 @@
+From: Ronald Shannon <ronald.shannon@youngsmith.com>
+To: Keith English <keith.english@bora.org>
+Date: Fri, 15 May 2026 11:18:56 +0100
+Subject: Receipt for expense claim
+Message-ID: <0dd3318b-845b-4ac7-b5f3-ce771b6e97d8@youngsmith.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_992477_8305352422"
+X-Attachment-Name: receipt_158.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

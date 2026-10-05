@@ -1,0 +1,12 @@
+From: Dr Rhys Richardson <dr.richardson@barnes.net>
+To: James Brown <james.brown@ahuja.in>
+Date: Sun, 10 May 2026 06:50:47 +0100
+Subject: Invoice INV-19020057 | Due 09 Jul 2026
+Message-ID: <1c981ec0-e5de-4ee4-bb11-9c6f2513e0c0@barnes.net>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_804334_0406933069"
+X-Attachment-Name: FACTU2019020057.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

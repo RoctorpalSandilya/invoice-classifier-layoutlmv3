@@ -1,0 +1,12 @@
+From: George Garcia <george.garcia@gourchanda.co.uk>
+To: Omkaar Bala <omkaar.bala@greenwood.in>
+Date: Sat, 10 Jan 2026 19:22:57 +0200
+Subject: Friendly reminder – invoice INV-20100057 due 11 Mar 2026
+Message-ID: <f7810d0d-6afb-42f0-99d5-559213c20c78@gourchanda.co.uk>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_100009_0149368590"
+X-Attachment-Name: FACTU2020100057.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

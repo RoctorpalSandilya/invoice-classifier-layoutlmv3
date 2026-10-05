@@ -1,0 +1,12 @@
+From: Harry Jones <harry.jones@wilkinson.com>
+To: Jeremiah Khanna <jeremiah.khanna@bartlettanderson.co.uk>
+Date: Sat, 25 Apr 2026 12:06:28 +0100
+Subject: Re-sending invoice INV-19050041
+Message-ID: <e69ad358-2a14-452a-a7af-223094394165@wilkinson.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_634390_9355353751"
+X-Attachment-Name: FACTU2019050041.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

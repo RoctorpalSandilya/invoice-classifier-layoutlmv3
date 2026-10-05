@@ -1,0 +1,11 @@
+From: Shivani Pal <shivani.pal@ramachandran.io>
+To: Bishakha Bava <bishakha.bava@clarke.com>
+Date: Tue, 02 Jun 2026 22:41:37 +0000
+Subject: OVERDUE: Invoice 20060061
+Message-ID: <16b6a2ee-6b1e-42c6-aee9-f6e997abfb29@ramachandran.io>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_292775_0754749043"
+X-Attachment-Name: FACTU2020060061.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

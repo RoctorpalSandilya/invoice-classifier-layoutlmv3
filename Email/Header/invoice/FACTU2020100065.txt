@@ -1,0 +1,12 @@
+From: Stephen Johnson <stephen.johnson@amblekumer.co.uk>
+To: Olivia Cartwright <olivia.cartwright@nayar.com>
+Date: Wed, 16 Sep 2026 15:09:01 +0000
+Subject: FW: Invoice 20100065
+Message-ID: <548a8352-d7a8-4855-910e-0d29d10df11b@amblekumer.co.uk>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_236234_0982089866"
+X-Attachment-Name: FACTU2020100065.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

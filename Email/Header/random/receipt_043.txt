@@ -1,0 +1,11 @@
+From: Jonathan Taylor <jonathan.taylor@evans.com>
+To: Anya Boase <anya.boase@thakur.com>
+Date: Mon, 24 Aug 2026 16:22:18 +0000
+Subject: Taxi receipt for last week's client visit
+Message-ID: <5df8b576-a868-4f00-893d-8d6d73cbb3ef@evans.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_272305_7886200996"
+X-Attachment-Name: receipt_043.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Joe Barnes <joe.barnes@sawyermiller.co.uk>
+To: Aadhya Bali <aadhya.bali@allen.io>
+Date: Thu, 01 Oct 2026 03:28:46 +0200
+Subject: Second notice – invoice INV-20020071 past due
+Message-ID: <ba0087f2-08ee-4e90-9342-f1cf4132a8ed@sawyermiller.co.uk>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_179158_8198293629"
+X-Attachment-Name: FACTU2020020071.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

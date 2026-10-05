@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: FACTU2018040046
+Account: ACC-594537
+Amount: £9,706.27
+Due date: 22 Oct 2026
+
+The invoice is attached to this email in image format. You can also view and pay it online at https://billing.mall-patel.biz/invoices/FACTU2018040046.
+
+This is an automated message; please do not reply to this email.
+
+Bailey-Thomas Billing Team

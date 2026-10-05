@@ -1,0 +1,11 @@
+From: Joel Smith <joel.smith@moran.com>
+To: Ubika Yadav <ubika.yadav@brownwilson.net>
+Date: Fri, 12 Jun 2026 03:24:06 +0530
+Subject: Urgent: unpaid invoice INV-18090042
+Message-ID: <afd69cc8-fc2c-4b60-adc7-23818a23b7af@moran.com>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_774836_4256643401"
+X-Attachment-Name: FACTU2018090042.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

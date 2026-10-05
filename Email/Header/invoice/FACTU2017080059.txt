@@ -1,0 +1,11 @@
+From: David Richardson <david.richardson@morris.net>
+To: Callum Lynch <callum.lynch@davisknapp.com>
+Date: Sat, 04 Jul 2026 07:03:24 -0800
+Subject: Tax Invoice FACTU2017080059
+Message-ID: <3821f733-7994-4e2e-961c-c38f8a57a673@morris.net>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_281595_2349950353"
+X-Attachment-Name: FACTU2017080059.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

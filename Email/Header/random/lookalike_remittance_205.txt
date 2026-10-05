@@ -1,0 +1,11 @@
+From: Rayaan Deshmukh <rayaan.deshmukh@roberts.co.uk>
+To: Matthew Lewis <matthew.lewis@sahota.net>
+Date: Fri, 09 Jan 2026 04:46:21 +0530
+Subject: Remittance advice – payment PAY69521295
+Message-ID: <6d853049-398a-42ed-a428-5f4ead08c85f@roberts.co.uk>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_142530_0038065162"
+X-Attachment-Name: lookalike_remittance_205.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

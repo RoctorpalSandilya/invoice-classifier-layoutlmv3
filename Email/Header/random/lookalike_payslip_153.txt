@@ -1,0 +1,11 @@
+From: Payroll <payroll@bishop.com>
+To: Jennifer Flores <jennifer.flores@oommen.org>
+Date: Sun, 22 Mar 2026 13:18:22 +0530
+Subject: Pay statement Mar 2026
+Message-ID: <dae0dd30-5515-4956-b0b1-e181ee06211a@bishop.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_708399_8835821963"
+X-Attachment-Name: lookalike_payslip_153.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Champak Chahal <champak.chahal@zacharia.in>
+To: Bhanumati Natt <bhanumati.natt@cooper.net>
+Date: Mon, 08 Jun 2026 18:17:01 +0100
+Subject: Receipt for team dinner
+Message-ID: <ed397f76-d2a0-4772-8207-ee9a4954d5d5@zacharia.in>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_343662_9161236335"
+X-Attachment-Name: receipt_172.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

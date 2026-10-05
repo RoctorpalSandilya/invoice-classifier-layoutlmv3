@@ -1,0 +1,11 @@
+From: Rachael Davies <rachael.davies@mcdowellowens.in>
+To: Harita Bose <harita.bose@willis-rogers.biz>
+Date: Thu, 26 Mar 2026 00:50:10 +0530
+Subject: Timesheet attached
+Message-ID: <98ee70c0-fb87-4e43-b208-b824ebe295c2@mcdowellowens.in>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_141915_8996252050"
+X-Attachment-Name: lookalike_timesheet_085.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

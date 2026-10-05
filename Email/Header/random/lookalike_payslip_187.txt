@@ -1,0 +1,11 @@
+From: Payroll <payroll@bhatti-dyal.com>
+To: Anthony Smith <anthony.smith@suarez.com>
+Date: Fri, 24 Apr 2026 14:20:48 +0100
+Subject: Payslip attached – confidential
+Message-ID: <1c971306-0c21-4234-8543-b963e64e9a33@bhatti-dyal.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_812838_6178669427"
+X-Attachment-Name: lookalike_payslip_187.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

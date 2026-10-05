@@ -1,0 +1,12 @@
+From: Kimberley Clark <kimberley.clark@thomaswood.in>
+To: Thomas McCarthy-Herbert <thomas.mccarthy-herbert@griffiths.co.uk>
+Date: Wed, 22 Apr 2026 23:26:30 -0800
+Subject: Payment reminder: Invoice FACTU2015110053
+Message-ID: <20e86619-7ed5-463c-9ba3-d61be578267c@thomaswood.in>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_806953_9774476447"
+X-Attachment-Name: FACTU2015110053.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

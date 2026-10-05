@@ -1,0 +1,12 @@
+From: Mr Dennis Bennett <mr.bennett@dobsonbrown.co.uk>
+To: Marco Martinez <marco.martinez@warren.biz>
+Date: Thu, 12 Mar 2026 17:52:12 +0530
+Subject: Taxi receipt for last week's client visit
+Message-ID: <897b2f7c-493a-4860-b010-2db3be2d9572@dobsonbrown.co.uk>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_148892_5382995729"
+X-Attachment-Name: receipt_034.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: 16040043
+Account: ACC-869393
+Amount: $8,318.22
+Due date: 23 Jun 2026
+
+The invoice is attached to this email in image format. You can also view and pay it online at https://billing.taylor-pickering.info/invoices/16040043.
+
+This is an automated message; please do not reply to this email.
+
+Madan Inc Billing Team

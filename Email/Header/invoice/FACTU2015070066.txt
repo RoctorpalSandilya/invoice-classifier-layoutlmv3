@@ -1,0 +1,11 @@
+From: Saumya Dhar <saumya.dhar@baker.com>
+To: Udant Issac <udant.issac@harpernaylor.io>
+Date: Tue, 07 Jul 2026 02:35:08 +0100
+Subject: Invoice INV-15070066 – Harper-Naylor
+Message-ID: <d3a411a7-ffee-4aaf-8d07-065ae7e8a7ac@baker.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_294726_7802727355"
+X-Attachment-Name: FACTU2015070066.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Lori Ortega <lori.ortega@wilkinson.com>
+To: Dr Janice Watson <dr.watson@williams.com>
+Date: Tue, 20 Jan 2026 08:53:09 -0500
+Subject: Your invoice INV-19010048 is attached
+Message-ID: <0ffc630d-b13d-4f5e-903b-fe67fffa7c85@wilkinson.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_303150_2738837075"
+X-Attachment-Name: FACTU2019010048.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

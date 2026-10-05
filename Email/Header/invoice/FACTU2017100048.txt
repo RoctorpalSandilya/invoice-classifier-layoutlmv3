@@ -1,0 +1,11 @@
+From: Tara Magar <tara.magar@rajan.co.uk>
+To: Tamara Arroyo <tamara.arroyo@bail.net>
+Date: Sun, 19 Jul 2026 23:11:43 -0500
+Subject: Query on invoice INV-17100048
+Message-ID: <e41e63b3-5984-49ae-88bd-450659890194@rajan.co.uk>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_003413_7874722137"
+X-Attachment-Name: FACTU2017100048.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

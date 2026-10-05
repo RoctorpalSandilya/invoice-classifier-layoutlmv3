@@ -1,0 +1,11 @@
+From: Eric Hall <eric.hall@smith.com>
+To: Zaitra Tata <zaitra.tata@upadhyay.com>
+Date: Tue, 16 Jun 2026 11:17:40 +0530
+Subject: Your invoice INV-18050068 is attached
+Message-ID: <27b68b82-0d3f-4536-b774-9d855227b43a@smith.com>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_466530_6830157738"
+X-Attachment-Name: FACTU2018050068.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

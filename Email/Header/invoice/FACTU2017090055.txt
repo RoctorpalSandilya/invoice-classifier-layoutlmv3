@@ -1,0 +1,13 @@
+From: Salvi-Acharya Billing <no-reply@cardenas-thomas.com>
+To: Dayita Gopal <dayita.gopal@nguyenrobinson.co.uk>
+Reply-To: billing@cardenas-thomas.com
+Date: Fri, 03 Jul 2026 17:23:22 -0800
+Subject: [Automated] Invoice 17090055 is now available
+Message-ID: <db429665-12f8-4264-b039-a0f9cd7b4fc3@cardenas-thomas.com>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_842447_9627311485"
+X-Attachment-Name: FACTU2017090055.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Dr Samuel Bentley <dr.bentley@naidudutt.com>
+To: Harriet Connolly <harriet.connolly@johnson.in>
+Date: Thu, 07 May 2026 11:44:46 -0500
+Subject: Invoice #17110057 – 33 days overdue
+Message-ID: <7c6db3e6-ab29-4bd6-a7ad-5ba5bc65cbeb@naidudutt.com>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_255581_4459651423"
+X-Attachment-Name: FACTU2017110057.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

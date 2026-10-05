@@ -1,0 +1,11 @@
+From: Joseph Martin <joseph.martin@bains.net>
+To: Gauri Setty <gauri.setty@james.co.uk>
+Date: Thu, 19 Mar 2026 05:01:20 -0500
+Subject: Your invoice 21080058 is attached
+Message-ID: <4b74ed1d-ec03-4b93-a388-8fe7acb5f669@bains.net>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_150158_3376249282"
+X-Attachment-Name: FACTU2021080058.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

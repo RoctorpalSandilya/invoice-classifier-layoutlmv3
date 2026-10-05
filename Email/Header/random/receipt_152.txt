@@ -1,0 +1,11 @@
+From: Sabrina Craig <sabrina.craig@wilsonwright.io>
+To: Yutika Purohit <yutika.purohit@miller-burton.biz>
+Date: Tue, 07 Apr 2026 20:43:44 -0500
+Subject: Lunch receipt
+Message-ID: <c0782bc2-6981-4817-8a20-32463c56f9ea@wilsonwright.io>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_604861_8293117691"
+X-Attachment-Name: receipt_152.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

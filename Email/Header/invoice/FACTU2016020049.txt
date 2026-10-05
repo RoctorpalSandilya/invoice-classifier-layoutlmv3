@@ -1,0 +1,11 @@
+From: Lisa Harris <lisa.harris@parrysheppard.io>
+To: Bimala Puri <bimala.puri@richardsleon.co.uk>
+Date: Wed, 06 May 2026 11:59:57 +0100
+Subject: Invoice 16020049 – 40 days overdue
+Message-ID: <a89071a1-a14b-410e-ba2d-ba8148e10641@parrysheppard.io>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_303883_1391200993"
+X-Attachment-Name: FACTU2016020049.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

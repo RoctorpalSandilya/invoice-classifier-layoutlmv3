@@ -1,0 +1,11 @@
+From: Neelima Gulati <neelima.gulati@davisrussell.in>
+To: Jacob Gaines <jacob.gaines@scott.io>
+Date: Wed, 01 Jul 2026 04:46:41 +0530
+Subject: Invoice 15120062 from Davis-Russell
+Message-ID: <415a7345-c539-4c4e-a8e7-08d8384d575d@davisrussell.in>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_336594_7094530589"
+X-Attachment-Name: FACTU2015120062.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

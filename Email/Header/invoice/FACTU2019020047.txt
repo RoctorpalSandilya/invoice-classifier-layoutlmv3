@@ -1,0 +1,11 @@
+From: Sandra Evans <sandra.evans@gray.net>
+To: Bimala Barman <bimala.barman@nadkarni.com>
+Date: Fri, 31 Jul 2026 00:24:16 +0200
+Subject: Query on invoice FACTU2019020047
+Message-ID: <0d6f4f29-d55a-4e0c-8131-9c311276fda7@gray.net>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_138881_7948938672"
+X-Attachment-Name: FACTU2019020047.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

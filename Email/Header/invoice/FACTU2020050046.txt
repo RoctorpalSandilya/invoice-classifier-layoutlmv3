@@ -1,0 +1,11 @@
+From: Abhiram Dani <abhiram.dani@gordongardner.com>
+To: Randy Roy <randy.roy@robinsonburton.com>
+Date: Mon, 02 Mar 2026 01:40:10 +0530
+Subject: Your invoice FACTU2020050046 is attached
+Message-ID: <cdfe826c-ff7f-4d21-adba-87d61f7ae15a@gordongardner.com>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_833178_3609267197"
+X-Attachment-Name: FACTU2020050046.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

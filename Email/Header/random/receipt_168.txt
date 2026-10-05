@@ -1,0 +1,12 @@
+From: Kathryn Holmes <kathryn.holmes@halderpatel.co.uk>
+To: Natalie Gordon <natalie.gordon@velasquez.com>
+Date: Sun, 15 Mar 2026 03:23:18 +0200
+Subject: Fwd: your receipt
+Message-ID: <17453d47-ca36-40e4-938f-5e544fada9d7@halderpatel.co.uk>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_057326_7720292405"
+X-Attachment-Name: receipt_168.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

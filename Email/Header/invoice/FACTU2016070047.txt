@@ -1,0 +1,11 @@
+From: Julia Watson <julia.watson@arnoldweaver.com>
+To: Howard Stanley <howard.stanley@summers.com>
+Date: Fri, 24 Jul 2026 13:56:40 +0530
+Subject: Second notice – invoice #16070047 past due
+Message-ID: <5f2433d0-1bc5-4d93-99e2-58fe8ebe25f4@arnoldweaver.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_286769_8815660511"
+X-Attachment-Name: FACTU2016070047.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

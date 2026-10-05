@@ -1,0 +1,12 @@
+From: Rachel Obrien <rachel.obrien@andersonmorris.in>
+To: Richard Mayer <richard.mayer@ward.com>
+Date: Wed, 13 May 2026 20:52:03 +0000
+Subject: Purchase order for your review
+Message-ID: <e6f8567d-f9e1-4eb5-a448-98e0e4029e06@andersonmorris.in>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_942744_8412787512"
+X-Attachment-Name: lookalike_purchase_order_074.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

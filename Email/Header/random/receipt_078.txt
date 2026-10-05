@@ -1,0 +1,11 @@
+From: Vaishnavi Apte <vaishnavi.apte@chandapatla.in>
+To: Rishi Mall <rishi.mall@kuruvilla.biz>
+Date: Sat, 17 Jan 2026 06:33:15 -0800
+Subject: Receipt for expense claim
+Message-ID: <4b74c29d-88c3-4f95-bf54-3b6c2ccb5b3d@chandapatla.in>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_065451_8668074885"
+X-Attachment-Name: receipt_078.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Anthony Deol <anthony.deol@lall.net>
+To: Dr Ruth Myers <dr.myers@lane.co.uk>
+Date: Fri, 23 Jan 2026 21:35:40 +0530
+Subject: Your invoice FACTU2017070048 is attached
+Message-ID: <11c30c1c-ecc6-4246-96ef-8dfff70e67a1@lall.net>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_652992_8449729461"
+X-Attachment-Name: FACTU2017070048.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

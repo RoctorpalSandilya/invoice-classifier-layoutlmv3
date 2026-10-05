@@ -1,0 +1,12 @@
+From: Patrick Dennis <patrick.dennis@panditwable.io>
+To: Yash Bali <yash.bali@adamssullivan.net>
+Date: Thu, 23 Jul 2026 23:00:51 +0530
+Subject: Invoice INV-16050049 from Pandit-Wable
+Message-ID: <3b5eff04-5568-4468-a5d7-815d1bd7de2a@panditwable.io>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_532187_0520830501"
+X-Attachment-Name: FACTU2016050049.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

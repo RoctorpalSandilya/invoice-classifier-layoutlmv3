@@ -1,0 +1,12 @@
+From: Dalbir Dugal <dalbir.dugal@shawsharp.com>
+To: Carlos Kelly <carlos.kelly@carr.in>
+Date: Mon, 18 May 2026 00:22:20 +0200
+Subject: Your invoice INV-16010054 is attached
+Message-ID: <7272b25a-3678-4b31-954c-ff5b8c60a668@shawsharp.com>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_995526_3238533373"
+X-Attachment-Name: FACTU2016010054.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

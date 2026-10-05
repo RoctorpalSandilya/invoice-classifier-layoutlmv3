@@ -1,0 +1,12 @@
+From: Alan Gordon <alan.gordon@phillips.io>
+To: Michael Prakash <michael.prakash@myers.io>
+Date: Mon, 16 Feb 2026 11:51:23 +0530
+Subject: Payment reminder: Invoice 16060048
+Message-ID: <7f6b7187-f02c-4584-bfdb-d218b0482480@phillips.io>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_719198_6595355105"
+X-Attachment-Name: FACTU2016060048.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

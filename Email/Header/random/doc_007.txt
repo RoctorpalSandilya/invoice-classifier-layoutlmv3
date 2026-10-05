@@ -1,0 +1,12 @@
+From: Mr Adam Stevens <mr.stevens@williams.co.uk>
+To: Mr Ryan John <mr.john@kamdar.com>
+Date: Sun, 02 Aug 2026 04:15:38 -0500
+Subject: Please see attached
+Message-ID: <541bcadf-fc00-4517-8edc-9379307c03cb@williams.co.uk>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_675275_7034075539"
+X-Attachment-Name: doc_007.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

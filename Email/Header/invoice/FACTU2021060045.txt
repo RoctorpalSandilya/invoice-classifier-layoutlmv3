@@ -1,0 +1,12 @@
+From: Robert Park <robert.park@roman.com>
+To: Denise Burke <denise.burke@vasquezavila.in>
+Date: Fri, 06 Mar 2026 23:07:33 +0200
+Subject: Question about attached invoice INV-21060045
+Message-ID: <01833538-e23e-4060-9202-ae36b099098b@roman.com>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_260981_7117798716"
+X-Attachment-Name: FACTU2021060045.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

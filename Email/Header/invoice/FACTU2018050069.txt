@@ -1,0 +1,11 @@
+From: Gerard Barnes <gerard.barnes@sanegolla.com>
+To: Alan Hays <alan.hays@parsons.net>
+Date: Thu, 01 Jan 2026 18:46:38 +0200
+Subject: Invoice #18050069 – Parsons Ltd
+Message-ID: <a3c152ec-1441-4490-9e4c-8b4d7e4cb9f3@sanegolla.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_261921_9804272424"
+X-Attachment-Name: FACTU2018050069.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

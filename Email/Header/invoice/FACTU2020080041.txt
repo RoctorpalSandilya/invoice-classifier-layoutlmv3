@@ -1,0 +1,13 @@
+From: Yohannan, Contractor and Natt Billing <no-reply@arora.org>
+To: Craig Smith <craig.smith@santiago.com>
+Reply-To: billing@arora.org
+Date: Thu, 04 Jun 2026 15:19:10 +0200
+Subject: New invoice INV-20080041 generated
+Message-ID: <64c89283-b446-4af3-bff3-ed9bae50c22f@arora.org>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_578250_4143505065"
+X-Attachment-Name: FACTU2020080041.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

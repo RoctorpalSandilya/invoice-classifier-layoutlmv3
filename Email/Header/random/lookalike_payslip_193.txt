@@ -1,0 +1,11 @@
+From: Payroll <payroll@fitzgerald-roberts.org>
+To: Aarnav Mahajan <aarnav.mahajan@anderson.org>
+Date: Wed, 22 Jul 2026 01:36:46 +0100
+Subject: Payslip attached – confidential
+Message-ID: <5bac4b23-197c-412b-9dc5-89c7370aebc2@fitzgerald-roberts.org>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_550723_0647500887"
+X-Attachment-Name: lookalike_payslip_193.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

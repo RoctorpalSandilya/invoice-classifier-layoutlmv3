@@ -1,0 +1,12 @@
+From: Hopkins, Kelly and Connor Billing <no-reply@morris.info>
+To: Alan Ahmed-Smith <alan.ahmed-smith@wrightgarrison.io>
+Reply-To: billing@morris.info
+Date: Tue, 17 Feb 2026 21:07:16 +0200
+Subject: [Automated] Invoice FACTU2017110063 is now available
+Message-ID: <0b36ab60-39b6-41fc-aff6-dd62566c238e@morris.info>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_838719_3075613953"
+X-Attachment-Name: FACTU2017110063.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

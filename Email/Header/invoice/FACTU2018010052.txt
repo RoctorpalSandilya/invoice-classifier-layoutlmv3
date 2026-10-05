@@ -1,0 +1,13 @@
+From: Sethi, Raju and Verma Billing <no-reply@goda.com>
+To: Dr Toby Brown <dr.brown@holt.io>
+Reply-To: billing@goda.com
+Date: Thu, 28 May 2026 00:48:17 -0800
+Subject: Billing notification – invoice FACTU2018010052
+Message-ID: <d9f4608a-d44b-4a00-93b2-0d623c922b78@goda.com>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_294361_3466050403"
+X-Attachment-Name: FACTU2018010052.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Hayley Gibson <hayley.gibson@fox.com>
+To: Angela Butler <angela.butler@reed.com>
+Date: Mon, 09 Feb 2026 15:43:41 -0500
+Subject: Credit application form – completed
+Message-ID: <98f53a4e-6939-4fbe-a96f-0c7ff662648c@fox.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_917861_0460816648"
+X-Attachment-Name: lookalike_credit_application_011.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

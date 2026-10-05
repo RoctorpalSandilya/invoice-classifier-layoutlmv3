@@ -1,0 +1,11 @@
+From: Nisha Nagar <nisha.nagar@rowe.co.uk>
+To: Ryan Rodriguez <ryan.rodriguez@blackburnbrown.in>
+Date: Sun, 03 May 2026 17:08:12 -0800
+Subject: Invoice FACTU2015090048 – Blackburn-Brown
+Message-ID: <bf2a3b61-c588-433a-90a5-500a4c4435a3@rowe.co.uk>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_771806_9325506067"
+X-Attachment-Name: FACTU2015090048.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

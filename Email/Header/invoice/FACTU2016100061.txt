@@ -1,0 +1,12 @@
+From: Richard Walton <richard.walton@sundaram.co.uk>
+To: Michael Williams <michael.williams@flores.net>
+Date: Tue, 14 Apr 2026 18:43:05 +0000
+Subject: Invoice 16100061 from Sundaram, Cheema and Date
+Message-ID: <cd484166-062c-4d40-9be8-d068cda9e94f@sundaram.co.uk>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_007492_5049763503"
+X-Attachment-Name: FACTU2016100061.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

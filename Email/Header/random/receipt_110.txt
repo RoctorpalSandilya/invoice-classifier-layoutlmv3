@@ -1,0 +1,11 @@
+From: Kevin Sanchez <kevin.sanchez@stewartshah.co.uk>
+To: Aarini Chakrabarti <aarini.chakrabarti@todd.com>
+Date: Tue, 24 Mar 2026 08:17:26 +0100
+Subject: Reimbursement – attached receipt
+Message-ID: <f6b89b0e-61df-48fa-a98e-017045589f00@stewartshah.co.uk>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_422713_2069423598"
+X-Attachment-Name: receipt_110.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

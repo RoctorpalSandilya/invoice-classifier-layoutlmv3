@@ -1,0 +1,12 @@
+From: Danielle Nichols DDS <danielle.dds@jonesjackson.in>
+To: Deepa Kuruvilla <deepa.kuruvilla@barton.biz>
+Date: Fri, 04 Sep 2026 21:58:38 +0530
+Subject: Lunch receipt
+Message-ID: <3162a950-b274-4eac-9153-e53fb2a43ed2@jonesjackson.in>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_629384_6769356059"
+X-Attachment-Name: receipt_083.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

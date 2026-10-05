@@ -1,0 +1,12 @@
+From: Mr. James Webb <mr..webb@sridharpillai.co.uk>
+To: Cheyenne Velazquez <cheyenne.velazquez@choi.net>
+Date: Mon, 22 Jun 2026 19:52:02 +0530
+Subject: Invoice FACTU2019040050 – Choi Ltd
+Message-ID: <84d6f428-d2b3-45eb-92a6-cfeea900bbc6@sridharpillai.co.uk>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_759185_9674704745"
+X-Attachment-Name: FACTU2019040050.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

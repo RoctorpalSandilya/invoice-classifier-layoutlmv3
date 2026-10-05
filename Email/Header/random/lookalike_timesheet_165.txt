@@ -1,0 +1,11 @@
+From: Falguni Brahmbhatt <falguni.brahmbhatt@garcia.net>
+To: Allan Cox <allan.cox@anderson.com>
+Date: Mon, 06 Apr 2026 18:27:47 +0100
+Subject: Timesheet attached
+Message-ID: <eb859884-3101-4bd6-94b1-04a51df18cef@garcia.net>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_962765_3009235554"
+X-Attachment-Name: lookalike_timesheet_165.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

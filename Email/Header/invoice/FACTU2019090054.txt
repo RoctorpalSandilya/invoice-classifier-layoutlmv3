@@ -1,0 +1,11 @@
+From: Isaac Khurana <isaac.khurana@mammen.com>
+To: Travis Jimenez <travis.jimenez@raju.in>
+Date: Sun, 01 Feb 2026 13:33:43 +0100
+Subject: Friendly reminder – invoice 19090054 due 18 Mar 2026
+Message-ID: <5d71cd18-eef4-4aaa-a085-66c6b61f5f0a@mammen.com>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_055613_6606492856"
+X-Attachment-Name: FACTU2019090054.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

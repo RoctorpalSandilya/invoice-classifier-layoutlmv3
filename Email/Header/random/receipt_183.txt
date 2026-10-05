@@ -1,0 +1,11 @@
+From: Siddharth Bava <siddharth.bava@fuentes.com>
+To: Jon Sanchez <jon.sanchez@ayala.com>
+Date: Wed, 21 Jan 2026 20:52:04 +0530
+Subject: Reimbursement – attached receipt
+Message-ID: <cf3bd830-38ec-4e27-a866-a838b59093b5@fuentes.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_146257_3360215748"
+X-Attachment-Name: receipt_183.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Sarah Martinez <sarah.martinez@richards.com>
+To: Scott Bush <scott.bush@ross.in>
+Date: Fri, 02 Jan 2026 04:11:50 +0530
+Subject: Urgent: unpaid invoice INV-18020066
+Message-ID: <b2e15262-cf07-4d8f-9976-a6aa18690713@richards.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_885709_6284641094"
+X-Attachment-Name: FACTU2018020066.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,13 @@
+From: Bevan, Austin and Wright Billing <no-reply@pillay-kaul.com>
+To: Raksha Kala <raksha.kala@bennett.io>
+Reply-To: billing@pillay-kaul.com
+Date: Tue, 07 Apr 2026 13:55:10 +0200
+Subject: Billing notification – invoice #18070059
+Message-ID: <b16d3466-bf4f-453a-926a-6d4ef7ebc59b@pillay-kaul.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_819149_8627036924"
+X-Attachment-Name: FACTU2018070059.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

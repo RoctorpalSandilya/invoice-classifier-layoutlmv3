@@ -1,0 +1,11 @@
+From: Naveen Sidhu <naveen.sidhu@majumdar.net>
+To: Kabir Sridhar <kabir.sridhar@pathak.com>
+Date: Sun, 03 May 2026 01:57:33 +0100
+Subject: Query on invoice FACTU2022010050
+Message-ID: <c0291d44-145a-4e9a-9f30-2f700f6ae259@majumdar.net>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_237194_8436130059"
+X-Attachment-Name: FACTU2022010050.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

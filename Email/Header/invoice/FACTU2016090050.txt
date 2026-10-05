@@ -1,0 +1,11 @@
+From: Christian Hargreaves <christian.hargreaves@cruz.io>
+To: Liam Frost <liam.frost@paiapte.io>
+Date: Mon, 24 Aug 2026 19:38:29 +0000
+Subject: Your invoice FACTU2016090050 is attached
+Message-ID: <f461242b-1725-479c-9259-bec476bf1074@cruz.io>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_595545_5361573991"
+X-Attachment-Name: FACTU2016090050.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

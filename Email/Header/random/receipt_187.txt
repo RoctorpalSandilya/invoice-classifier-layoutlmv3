@@ -1,0 +1,11 @@
+From: Jessica Lindsey <jessica.lindsey@chamberlain.co.uk>
+To: Alex Le <alex.le@williams-jones.com>
+Date: Sun, 26 Jul 2026 22:24:47 +0100
+Subject: Reimbursement – attached receipt
+Message-ID: <26f506f6-9793-4209-818d-f416024d7c7c@chamberlain.co.uk>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_868649_1875439585"
+X-Attachment-Name: receipt_187.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

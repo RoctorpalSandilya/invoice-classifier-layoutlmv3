@@ -1,0 +1,12 @@
+From: Advaith Mall <advaith.mall@greentaylor.co.uk>
+To: Miss Linda Barlow <miss.barlow@khan-haynes.biz>
+Date: Fri, 20 Mar 2026 23:27:59 -0800
+Subject: Lunch receipt
+Message-ID: <305188c6-8885-4250-a2b2-1bd1ac6b19dd@greentaylor.co.uk>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_569963_9483932440"
+X-Attachment-Name: receipt_170.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

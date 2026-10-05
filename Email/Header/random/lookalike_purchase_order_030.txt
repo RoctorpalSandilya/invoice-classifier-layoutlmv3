@@ -1,0 +1,11 @@
+From: Cheryl Potts-Lee <cheryl.potts-lee@schmidtsanders.com>
+To: Heather Smith <heather.smith@crawford.com>
+Date: Sun, 22 Feb 2026 16:11:45 +0530
+Subject: Purchase Order PO-23497
+Message-ID: <be4e35fe-a891-4010-b619-603895abeaac@schmidtsanders.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_342655_9601605536"
+X-Attachment-Name: lookalike_purchase_order_030.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

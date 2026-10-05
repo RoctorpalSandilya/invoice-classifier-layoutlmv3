@@ -1,0 +1,11 @@
+From: Noah Ramesh <noah.ramesh@clayton.io>
+To: Ryan Jordan <ryan.jordan@salvidora.com>
+Date: Thu, 17 Sep 2026 03:39:06 +0100
+Subject: Invoice 17040047 | Due 01 Nov 2026
+Message-ID: <f092e392-6b91-42bd-ae71-844cebc00eb1@clayton.io>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_220990_2643953850"
+X-Attachment-Name: FACTU2017040047.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Union Trust Bank <statements@varty.biz>
+To: Allan Ryan-Marshall <allan.ryan-marshall@carter.com>
+Date: Mon, 12 Jan 2026 06:19:24 +0100
+Subject: Account statement – January 2026
+Message-ID: <8847a72e-bbc4-48c9-9b99-0699d49e8ebb@varty.biz>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_131267_9445848233"
+X-Attachment-Name: lookalike_bank_statement_017.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: FACTU2017060037
+Account: ACC-006114
+Amount: €6,847.65
+Due date: 19 Jun 2026
+
+The invoice is attached to this email in PDF format. You can also view and pay it online at https://billing.badami.com/invoices/FACTU2017060037.
+
+This is an automated message; please do not reply to this email.
+
+Pope-Andrews Billing Team

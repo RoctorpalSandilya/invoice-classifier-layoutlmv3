@@ -1,0 +1,12 @@
+From: Payroll <payroll@clarke.com>
+To: Kelly Roth <kelly.roth@osborne.com>
+Date: Thu, 02 Apr 2026 04:26:46 +0000
+Subject: Your payslip for February
+Message-ID: <dbb09ded-63d0-4d71-a585-876f5bc58975@clarke.com>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_295116_3780700032"
+X-Attachment-Name: lookalike_payslip_173.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

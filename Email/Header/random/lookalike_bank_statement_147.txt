@@ -1,0 +1,12 @@
+From: First National Bank <statements@sen-kumer.org>
+To: David Kirk <david.kirk@kelly.org>
+Date: Sat, 29 Aug 2026 14:07:34 -0800
+Subject: Account statement – August 2026
+Message-ID: <60a29f38-e570-411c-905c-cdfddd56c01b@sen-kumer.org>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_860400_6563975424"
+X-Attachment-Name: lookalike_bank_statement_147.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

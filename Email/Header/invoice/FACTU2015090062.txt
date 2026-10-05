@@ -1,0 +1,11 @@
+From: Panini Chaudry <panini.chaudry@norman.co.uk>
+To: Stuart Moss-White <stuart.moss-white@johnson.com>
+Date: Mon, 29 Jun 2026 16:42:12 +0530
+Subject: OVERDUE: Invoice FACTU2015090062
+Message-ID: <3d8968ac-0ee7-4d87-9b5d-21ad9b16263c@norman.co.uk>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_159521_3984487937"
+X-Attachment-Name: FACTU2015090062.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

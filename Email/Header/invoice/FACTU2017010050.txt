@@ -1,0 +1,11 @@
+From: Daniel Scott <daniel.scott@hewittnash.co.uk>
+To: Mrs Gail Riley <mrs.riley@jones.net>
+Date: Tue, 25 Aug 2026 17:36:52 -0500
+Subject: Second notice – invoice #17010050 past due
+Message-ID: <f4f5f617-06c8-4ee1-8fc0-761b03c0b243@hewittnash.co.uk>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_562185_0888507064"
+X-Attachment-Name: FACTU2017010050.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

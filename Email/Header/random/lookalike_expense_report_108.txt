@@ -1,0 +1,12 @@
+From: Dalaja Dixit <dalaja.dixit@surbalasubramanian.com>
+To: Chavvi Rajagopalan <chavvi.rajagopalan@lord.info>
+Date: Fri, 26 Jun 2026 08:31:38 -0500
+Subject: Expense claim submitted
+Message-ID: <81e0ad3d-35e6-4932-9fcd-1087fd3fbda9@surbalasubramanian.com>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_444990_6394801446"
+X-Attachment-Name: lookalike_expense_report_108.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

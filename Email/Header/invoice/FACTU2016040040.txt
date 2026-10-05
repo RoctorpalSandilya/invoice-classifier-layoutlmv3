@@ -1,0 +1,11 @@
+From: Colin Bibi <colin.bibi@francisbowman.io>
+To: Martin Jones <martin.jones@hawkins.co.uk>
+Date: Fri, 11 Sep 2026 21:58:39 +0530
+Subject: Invoice #16040040 – amount does not match PO
+Message-ID: <063bd8a2-cf4f-42dc-ab84-0b2fbb59dfc7@francisbowman.io>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_973356_6967257268"
+X-Attachment-Name: FACTU2016040040.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Liam Parmer <liam.parmer@smithrios.net>
+To: Laura Wright-Doyle <laura.wright-doyle@hardyadams.com>
+Date: Fri, 28 Aug 2026 21:02:07 +0530
+Subject: Your invoice FACTU2019050040 is attached
+Message-ID: <5b53021b-38f3-4a03-adaf-8fb0c066fadd@smithrios.net>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_554833_0891688249"
+X-Attachment-Name: FACTU2019050040.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Marissa Gonzalez <marissa.gonzalez@richardson.co.uk>
+To: Darsh Andra <darsh.andra@khatrigupta.com>
+Date: Sat, 11 Apr 2026 18:53:29 +0000
+Subject: Re-sending invoice FACTU2015020056
+Message-ID: <9facee45-d271-48ee-8f26-9e1f7282e11f@richardson.co.uk>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_764625_2954826591"
+X-Attachment-Name: FACTU2015020056.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

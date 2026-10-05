@@ -1,0 +1,11 @@
+From: Ubika Ganesh <ubika.ganesh@pal.com>
+To: Jeremy Parsons <jeremy.parsons@wade.io>
+Date: Sun, 22 Feb 2026 04:07:40 +0100
+Subject: Payment reminder: Invoice INV-19100044
+Message-ID: <5ea4171e-3931-448d-aa42-3c5d0258643e@pal.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_635725_7751435668"
+X-Attachment-Name: FACTU2019100044.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Forum Sankar <forum.sankar@frazierhayes.in>
+To: Upma Sachar <upma.sachar@terry.com>
+Date: Sat, 19 Sep 2026 01:12:24 +0530
+Subject: Remittance for your invoices
+Message-ID: <ff360387-8169-4294-9991-07cc73ddc917@frazierhayes.in>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_810192_7787044302"
+X-Attachment-Name: lookalike_remittance_195.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

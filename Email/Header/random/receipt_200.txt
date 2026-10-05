@@ -1,0 +1,12 @@
+From: Stewart Johnson <stewart.johnson@dua.com>
+To: Gabrielle Gonzalez <gabrielle.gonzalez@bains.org>
+Date: Mon, 06 Apr 2026 15:38:21 -0800
+Subject: Here's that receipt you asked for
+Message-ID: <ee1e02db-dc92-487e-bcd2-6d8fcafd8025@dua.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_112568_8238863446"
+X-Attachment-Name: receipt_200.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Mr Callum Parkin <mr.parkin@woods.com>
+To: Matthew Woods <matthew.woods@gill-harrington.biz>
+Date: Mon, 05 Jan 2026 10:17:37 +0000
+Subject: Your order has shipped
+Message-ID: <689261ba-ffac-497a-9181-08d00a2d79ea@woods.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_985853_2243198311"
+X-Attachment-Name: lookalike_delivery_note_021.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Saumya Tripathi <saumya.tripathi@murphy.net>
+To: Ms Sian Barnes <ms.barnes@oliver.com>
+Date: Fri, 07 Aug 2026 11:40:27 +0530
+Subject: Receipt for expense claim
+Message-ID: <b9454b81-9b06-4311-b92c-eb15988d52d4@murphy.net>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_560165_1663197893"
+X-Attachment-Name: receipt_201.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

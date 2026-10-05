@@ -1,0 +1,11 @@
+From: Lauren Jackson <lauren.jackson@tandon.in>
+To: Jake Terry <jake.terry@bishop.co.uk>
+Date: Wed, 07 Jan 2026 09:09:59 +0200
+Subject: Payment reminder: Invoice #19080055
+Message-ID: <ca944e4e-5b6b-4cab-b47a-a4b9fefb5713@tandon.in>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_288248_5318817208"
+X-Attachment-Name: FACTU2019080055.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

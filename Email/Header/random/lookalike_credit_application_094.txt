@@ -1,0 +1,11 @@
+From: Bina Pillay <bina.pillay@dash.io>
+To: Adam Knight <adam.knight@marshall.com>
+Date: Tue, 10 Feb 2026 22:23:19 +0100
+Subject: Trade account application
+Message-ID: <78318f9b-062e-41b7-911b-5bb624aeb0fb@dash.io>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_203473_0605880602"
+X-Attachment-Name: lookalike_credit_application_094.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

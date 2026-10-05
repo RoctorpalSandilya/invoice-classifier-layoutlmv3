@@ -1,0 +1,11 @@
+From: Dayamai Butala <dayamai.butala@white.com>
+To: Falan Rastogi <falan.rastogi@ryan.net>
+Date: Wed, 24 Jun 2026 20:40:26 -0800
+Subject: Second notice – invoice INV-20060052 past due
+Message-ID: <defde624-ac07-4692-8f78-19d0265586a3@white.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_968706_7085216389"
+X-Attachment-Name: FACTU2020060052.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

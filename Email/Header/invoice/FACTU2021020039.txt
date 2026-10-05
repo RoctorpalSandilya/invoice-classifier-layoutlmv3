@@ -1,0 +1,11 @@
+From: Jill Robinson <jill.robinson@korpalgaba.in>
+To: Kashvi Brahmbhatt <kashvi.brahmbhatt@morales.io>
+Date: Mon, 09 Feb 2026 00:11:56 +0200
+Subject: Tax Invoice FACTU2021020039
+Message-ID: <81f20707-742a-42c9-8692-cb5c56a1fc12@korpalgaba.in>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_491296_9995544244"
+X-Attachment-Name: FACTU2021020039.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

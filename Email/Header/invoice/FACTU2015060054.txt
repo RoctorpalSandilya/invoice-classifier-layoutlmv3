@@ -1,0 +1,12 @@
+From: Jacob Davis <jacob.davis@fosterbond.in>
+To: Ethan Shah <ethan.shah@bhargavayohannan.com>
+Date: Thu, 16 Jul 2026 09:46:30 +0200
+Subject: Foster-Bond: Invoice 15060054 for September services
+Message-ID: <246bf3a8-7ba1-4e92-ab36-d0dce2c3be60@fosterbond.in>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_221192_3572904052"
+X-Attachment-Name: FACTU2015060054.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

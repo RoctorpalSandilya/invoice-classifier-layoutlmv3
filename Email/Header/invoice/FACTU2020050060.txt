@@ -1,0 +1,11 @@
+From: Mrs Rachel Jackson <mrs.jackson@dawson.io>
+To: Nikita Chakrabarti <nikita.chakrabarti@hughesdavis.net>
+Date: Thu, 09 Apr 2026 10:05:10 +0200
+Subject: Tax Invoice 20050060
+Message-ID: <7b889082-d7b3-43d1-9713-8f22c17778bd@dawson.io>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_226500_3513639821"
+X-Attachment-Name: FACTU2020050060.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

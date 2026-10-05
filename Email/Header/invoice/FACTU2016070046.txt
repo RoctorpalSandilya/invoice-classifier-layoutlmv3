@@ -1,0 +1,11 @@
+From: Liam Ramanathan <liam.ramanathan@harris.io>
+To: Douglas Reeves <douglas.reeves@johnston.com>
+Date: Mon, 19 Jan 2026 12:42:14 +0000
+Subject: Invoice 16070046 – Johnston, Lewis and Booth
+Message-ID: <44f5b742-3880-46e0-8025-442f888af9c8@harris.io>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_113503_4194369946"
+X-Attachment-Name: FACTU2016070046.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

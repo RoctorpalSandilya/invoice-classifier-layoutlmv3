@@ -1,0 +1,13 @@
+From: Boase LLC Billing <no-reply@sinclair.org>
+To: Nimrat Batta <nimrat.batta@wheeler.net>
+Reply-To: billing@sinclair.org
+Date: Thu, 14 May 2026 08:49:43 +0530
+Subject: New invoice #18010044 generated
+Message-ID: <90b05b38-b61b-4541-a480-a12e8850275b@sinclair.org>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_270134_0733553713"
+X-Attachment-Name: FACTU2018010044.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

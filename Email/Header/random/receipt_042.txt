@@ -1,0 +1,12 @@
+From: Daniel Virk <daniel.virk@lee.io>
+To: Jonathan Perkins <jonathan.perkins@king.com>
+Date: Tue, 03 Feb 2026 19:22:11 +0100
+Subject: Reimbursement – attached receipt
+Message-ID: <6a6be635-7acc-406a-9c67-214850be6522@lee.io>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_464992_6436782898"
+X-Attachment-Name: receipt_042.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Chatura Chandra <chatura.chandra@sainigoel.com>
+To: Caleb Som <caleb.som@karan.com>
+Date: Fri, 10 Apr 2026 21:45:16 +0530
+Subject: Saini-Goel: Invoice 16100077 for October services
+Message-ID: <10b6355e-2e75-47f4-8b04-a984ba019d0d@sainigoel.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_929705_1849413905"
+X-Attachment-Name: FACTU2016100077.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

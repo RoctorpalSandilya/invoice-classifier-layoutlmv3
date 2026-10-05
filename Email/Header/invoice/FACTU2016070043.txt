@@ -1,0 +1,12 @@
+From: Urvashi Bansal <urvashi.bansal@hudson.in>
+To: Stacey Miller <stacey.miller@franklin.net>
+Date: Fri, 27 Feb 2026 15:49:55 -0800
+Subject: Your invoice FACTU2016070043 is attached
+Message-ID: <3d6c45f1-8f19-4fa0-8741-7485a317bbf7@hudson.in>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_451054_4691655525"
+X-Attachment-Name: FACTU2016070043.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

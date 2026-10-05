@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: 18110040
+Account: ACC-264353
+Amount: ₹12,392.44
+Due date: 18 Mar 2026
+
+The invoice is attached to this email in image format. You can also view and pay it online at https://billing.kirby.com/invoices/18110040.
+
+This is an automated message; please do not reply to this email.
+
+Thomas Ltd Billing Team

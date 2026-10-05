@@ -1,0 +1,11 @@
+From: Bryan Johnson DDS <bryan.dds@hari.co.uk>
+To: Stacey Short <stacey.short@smith-rees.com>
+Date: Wed, 09 Sep 2026 07:01:50 -0800
+Subject: Timesheet attached
+Message-ID: <3ef10bf9-24ba-4c3b-8193-9a7695d33229@hari.co.uk>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_737507_2889040125"
+X-Attachment-Name: lookalike_timesheet_196.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

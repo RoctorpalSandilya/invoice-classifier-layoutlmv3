@@ -1,0 +1,11 @@
+From: Ekta Mannan <ekta.mannan@collins.co.uk>
+To: Jessica Brown <jessica.brown@garza.com>
+Date: Sat, 29 Aug 2026 12:35:33 +0530
+Subject: FYI – attached file
+Message-ID: <be621399-0bbf-491d-a5e7-e0620043fe42@collins.co.uk>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_884247_0360566319"
+X-Attachment-Name: doc_024.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

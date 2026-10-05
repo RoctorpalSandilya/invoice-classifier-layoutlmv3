@@ -1,0 +1,11 @@
+From: Miss Naomi Robertson <miss.robertson@farmer.net>
+To: Miss Gina Arnold <miss.arnold@narain.co.uk>
+Date: Mon, 17 Aug 2026 22:06:00 -0800
+Subject: Invoice INV-16020051 from Farmer, George and Mcmillan
+Message-ID: <6c351059-c97c-407d-bf40-c460b6b76d9c@farmer.net>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_430438_6989869970"
+X-Attachment-Name: FACTU2016020051.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

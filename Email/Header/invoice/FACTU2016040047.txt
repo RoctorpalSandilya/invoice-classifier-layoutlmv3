@@ -1,0 +1,11 @@
+From: Jemma Edwards <jemma.edwards@apte.net>
+To: Melanie Stanley-Begum <melanie.stanley-begum@shawthomas.co.uk>
+Date: Sat, 15 Aug 2026 11:05:24 -0500
+Subject: Invoice INV-16040047 from Apte LLC
+Message-ID: <aff8a0d6-3688-4647-87f4-d3cd0c4d03ea@apte.net>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_609147_7282853355"
+X-Attachment-Name: FACTU2016040047.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

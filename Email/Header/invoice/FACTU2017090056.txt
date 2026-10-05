@@ -1,0 +1,11 @@
+From: Nathan Jaggi <nathan.jaggi@jonespowell.co.uk>
+To: Dr Craig Banks <dr.banks@robertsfreeman.co.uk>
+Date: Mon, 24 Aug 2026 16:18:28 +0000
+Subject: Invoice #17090056 from Jones-Powell
+Message-ID: <9e38ddab-ee37-4ce2-bec9-e60daff06501@jonespowell.co.uk>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_848149_2924021544"
+X-Attachment-Name: FACTU2017090056.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

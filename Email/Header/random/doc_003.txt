@@ -1,0 +1,11 @@
+From: Max Barry <max.barry@pandey.com>
+To: Brandon Williams <brandon.williams@datta.org>
+Date: Fri, 04 Sep 2026 15:34:07 -0800
+Subject: Document for review
+Message-ID: <675c3e84-1377-4147-90e8-c6513d70b6b8@pandey.com>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_607327_5093043268"
+X-Attachment-Name: doc_003.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

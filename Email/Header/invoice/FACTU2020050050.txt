@@ -1,0 +1,11 @@
+From: Dr Ashleigh Johnson <dr.johnson@parkersmith.io>
+To: Vasudha Sami <vasudha.sami@williamsscott.com>
+Date: Sun, 01 Mar 2026 12:42:46 +0200
+Subject: Invoice FACTU2020050050 – Williams-Scott
+Message-ID: <f65b74b5-e5ad-4d48-9fa6-8e1a467d3b5a@parkersmith.io>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_078005_2429401167"
+X-Attachment-Name: FACTU2020050050.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

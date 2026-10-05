@@ -1,0 +1,12 @@
+From: Francis Jackson <francis.jackson@martinez.io>
+To: Tracy Buck <tracy.buck@rice.net>
+Date: Sat, 27 Jun 2026 07:49:00 +0100
+Subject: Invoice INV-18090044 – 24 days overdue
+Message-ID: <89b1b546-3b95-4e3b-b775-80a39c28acdd@martinez.io>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_163598_8738390990"
+X-Attachment-Name: FACTU2018090044.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

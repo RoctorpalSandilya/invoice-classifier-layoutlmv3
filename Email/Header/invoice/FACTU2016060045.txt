@@ -1,0 +1,11 @@
+From: Kristen Carr <kristen.carr@mccall.com>
+To: Frederick Ravel <frederick.ravel@anandchand.net>
+Date: Sat, 22 Aug 2026 22:24:23 +0200
+Subject: FW: Invoice 16060045
+Message-ID: <558c8e84-2cb8-45b3-a4be-f2760d9390af@mccall.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_677540_6481096833"
+X-Attachment-Name: FACTU2016060045.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

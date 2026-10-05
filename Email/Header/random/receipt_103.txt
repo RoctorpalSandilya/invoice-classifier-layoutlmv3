@@ -1,0 +1,12 @@
+From: Ellie Powell <ellie.powell@nagy.com>
+To: Mr Keith Lewis <mr.lewis@goyal.net>
+Date: Thu, 10 Sep 2026 04:38:35 +0530
+Subject: Lunch receipt
+Message-ID: <e6fed721-35fc-4574-9233-67e6ecbca6a9@nagy.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_178031_1182057397"
+X-Attachment-Name: receipt_103.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

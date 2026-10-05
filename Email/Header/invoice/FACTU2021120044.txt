@@ -1,0 +1,11 @@
+From: Brenda Goodman <brenda.goodman@darabali.net>
+To: Miss Carol Hilton <miss.hilton@wardpatel.net>
+Date: Thu, 05 Feb 2026 03:05:30 -0500
+Subject: Your invoice INV-21120044 is attached
+Message-ID: <144eca48-df34-48fd-85df-d8dff0a430f6@darabali.net>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_044971_7456400775"
+X-Attachment-Name: FACTU2021120044.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

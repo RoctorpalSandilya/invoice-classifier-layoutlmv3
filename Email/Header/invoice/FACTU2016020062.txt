@@ -1,0 +1,12 @@
+From: John Miller <john.miller@pricewolf.com>
+To: Dr Leon Yates <dr.yates@parmar.com>
+Date: Wed, 17 Jun 2026 02:56:06 -0800
+Subject: Your invoice FACTU2016020062 is attached
+Message-ID: <a81d10e4-7f1b-4458-a2e9-0c313c1c48ce@pricewolf.com>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_594992_4231919143"
+X-Attachment-Name: FACTU2016020062.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

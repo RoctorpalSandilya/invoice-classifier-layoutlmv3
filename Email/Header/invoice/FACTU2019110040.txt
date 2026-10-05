@@ -1,0 +1,11 @@
+From: Gabriel Pal <gabriel.pal@lucero.com>
+To: Tammy Livingston <tammy.livingston@salvi.net>
+Date: Tue, 21 Jul 2026 00:21:01 -0500
+Subject: Invoice INV-19110040 – Salvi, Dass and Brar
+Message-ID: <6918519f-5573-44ab-9f54-e63ae01ee73f@lucero.com>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_000948_8190311905"
+X-Attachment-Name: FACTU2019110040.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

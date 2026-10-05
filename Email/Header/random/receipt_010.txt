@@ -1,0 +1,11 @@
+From: Aaron Horton <aaron.horton@kala.com>
+To: Sarthak Pall <sarthak.pall@banerjee.com>
+Date: Wed, 29 Apr 2026 05:06:32 -0800
+Subject: Lunch receipt
+Message-ID: <50d8f75a-255c-440b-a800-1e791c16baea@kala.com>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_174958_3079303045"
+X-Attachment-Name: receipt_010.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

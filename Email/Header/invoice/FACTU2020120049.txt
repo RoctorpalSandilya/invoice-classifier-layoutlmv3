@@ -1,0 +1,11 @@
+From: Amy Baldwin <amy.baldwin@williamspowell.com>
+To: Elliott Thompson <elliott.thompson@barnes.com>
+Date: Sun, 24 May 2026 05:19:08 -0800
+Subject: Friendly reminder – invoice FACTU2020120049 due 07 Jun 2026
+Message-ID: <f5d7c25d-392e-49be-8651-258e408710fe@williamspowell.com>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_858224_3661097846"
+X-Attachment-Name: FACTU2020120049.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

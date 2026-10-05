@@ -1,0 +1,12 @@
+From: Casey Marquez <casey.marquez@saran.co.uk>
+To: Gunbir Chana <gunbir.chana@smith.com>
+Date: Mon, 04 May 2026 20:45:19 -0500
+Subject: Urgent: unpaid invoice INV-16080062
+Message-ID: <1244c5a6-1a76-4f67-8a3c-5a8060395086@saran.co.uk>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_389415_5556822796"
+X-Attachment-Name: FACTU2016080062.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

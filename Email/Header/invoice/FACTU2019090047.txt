@@ -1,0 +1,11 @@
+From: Mrs Sharon McLean <mrs.mclean@palmer.net>
+To: Mrs. Jessica Frey <mrs..frey@jones.net>
+Date: Tue, 15 Sep 2026 01:34:36 +0530
+Subject: Invoice #19090047 from Palmer Group
+Message-ID: <bd5db575-4a80-4aa0-91db-ace9ec43b068@palmer.net>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_616602_9334834601"
+X-Attachment-Name: FACTU2019090047.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Suzanne Begum <suzanne.begum@lopezjones.in>
+To: Zoe Slater <zoe.slater@gardner.co.uk>
+Date: Tue, 21 Jul 2026 07:32:49 +0100
+Subject: Reminder: outstanding invoice 18050054
+Message-ID: <d3c15e76-867e-419f-855e-032197f18dc0@lopezjones.in>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_410963_4045276828"
+X-Attachment-Name: FACTU2018050054.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

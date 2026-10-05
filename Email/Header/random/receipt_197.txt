@@ -1,0 +1,11 @@
+From: Nakul Bhasin <nakul.bhasin@khannaaggarwal.co.uk>
+To: Farhan Borde <farhan.borde@lata.com>
+Date: Fri, 04 Sep 2026 22:38:26 -0500
+Subject: Taxi receipt for last week's client visit
+Message-ID: <2546b215-bd08-4de2-bd27-acd4a56a212a@khannaaggarwal.co.uk>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_261724_1880129477"
+X-Attachment-Name: receipt_197.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Payroll <payroll@singh-majumdar.com>
+To: Scott Jensen <scott.jensen@mendez.biz>
+Date: Tue, 17 Feb 2026 10:50:42 +0100
+Subject: Your payslip for April
+Message-ID: <51ca1deb-fffa-4e7e-8924-ea89b41a2efa@singh-majumdar.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_594842_1336500075"
+X-Attachment-Name: lookalike_payslip_215.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Christopher Reid <christopher.reid@gutierrez.co.uk>
+To: Edward Ibarra <edward.ibarra@hawkins.net>
+Date: Mon, 21 Sep 2026 21:38:08 +0000
+Subject: Invoice #20080050 – Hawkins LLC
+Message-ID: <3b951d7c-67c8-4e13-a581-a7d79c68770e@gutierrez.co.uk>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_741917_1528820158"
+X-Attachment-Name: FACTU2020080050.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

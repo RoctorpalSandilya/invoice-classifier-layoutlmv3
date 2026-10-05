@@ -1,0 +1,11 @@
+From: Chatura Natarajan <chatura.natarajan@dyal.com>
+To: Yadavi Oak <yadavi.oak@raju.com>
+Date: Mon, 01 Jun 2026 03:42:06 +0000
+Subject: Invoice 19070061 – Raju Ltd
+Message-ID: <f8c49b0c-df6f-4822-88eb-3225b4e08ce6@dyal.com>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_918323_8625068686"
+X-Attachment-Name: FACTU2019070061.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

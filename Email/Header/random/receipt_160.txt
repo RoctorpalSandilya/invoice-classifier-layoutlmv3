@@ -1,0 +1,12 @@
+From: Wyatt Thakur <wyatt.thakur@sule.com>
+To: Mitchell Miranda <mitchell.miranda@wheeler-oneill.biz>
+Date: Fri, 30 Jan 2026 09:20:15 +0000
+Subject: Expenses – January
+Message-ID: <983b0b0e-eb0e-4ab4-8f84-6cb425f61430@sule.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_302643_5977744223"
+X-Attachment-Name: receipt_160.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

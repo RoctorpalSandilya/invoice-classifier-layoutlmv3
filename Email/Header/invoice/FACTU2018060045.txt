@@ -1,0 +1,11 @@
+From: Suhani Dutta <suhani.dutta@smithhart.co.uk>
+To: Jonathan Oneill <jonathan.oneill@pearson.co.uk>
+Date: Thu, 01 Jan 2026 16:07:35 +0100
+Subject: Invoice #18060045 – corrected copy
+Message-ID: <84debec1-5f23-4018-b976-ede9caf3a49e@smithhart.co.uk>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_776312_6907801525"
+X-Attachment-Name: FACTU2018060045.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

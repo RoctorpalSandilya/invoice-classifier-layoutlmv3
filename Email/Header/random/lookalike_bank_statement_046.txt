@@ -1,0 +1,11 @@
+From: First National Bank <statements@rowley-harrison.com>
+To: Marc Saunders <marc.saunders@chad.info>
+Date: Mon, 16 Mar 2026 17:32:43 +0200
+Subject: e-Statement attached
+Message-ID: <b4244f3e-14c8-4028-b377-bf38d5eaa91f@rowley-harrison.com>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_817489_5643121975"
+X-Attachment-Name: lookalike_bank_statement_046.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

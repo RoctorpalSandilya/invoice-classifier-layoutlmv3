@@ -1,0 +1,12 @@
+From: Miss Ruth White <miss.white@johalsoni.net>
+To: Chad Hart <chad.hart@taylor-slater.com>
+Date: Tue, 02 Jun 2026 19:15:30 -0800
+Subject: Lunch receipt
+Message-ID: <95978f42-7877-483c-b4c1-0986e1d138a0@johalsoni.net>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_361105_8602228770"
+X-Attachment-Name: receipt_026.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

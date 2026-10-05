@@ -1,0 +1,12 @@
+From: Odika Vala <odika.vala@chhabra.in>
+To: Sathvik Mann <sathvik.mann@bose.io>
+Date: Sat, 25 Jul 2026 11:00:40 +0530
+Subject: Payment reminder: Invoice FACTU2017040057
+Message-ID: <e3dbbdb4-d5c7-4238-9c4e-9803892745bf@chhabra.in>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_315633_0909639126"
+X-Attachment-Name: FACTU2017040057.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,13 @@
+From: Hall PLC Billing <no-reply@mody-dua.com>
+To: Cheryl Payne <cheryl.payne@washington.com>
+Reply-To: billing@mody-dua.com
+Date: Sat, 25 Apr 2026 02:28:17 -0500
+Subject: New invoice FACTU2015080078 generated
+Message-ID: <0f65695c-2609-4782-9eaa-0f76529ce45f@mody-dua.com>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_673180_4518108952"
+X-Attachment-Name: FACTU2015080078.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

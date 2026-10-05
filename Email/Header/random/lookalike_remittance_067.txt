@@ -1,0 +1,11 @@
+From: Gaurangi Wali <gaurangi.wali@johnsonrees.in>
+To: Louise Simmons <louise.simmons@maharaj.com>
+Date: Sat, 17 Jan 2026 20:58:35 +0100
+Subject: Remittance for your invoices
+Message-ID: <412ed1fb-5406-42e1-be15-54147a7eb5ed@johnsonrees.in>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_691502_2549960618"
+X-Attachment-Name: lookalike_remittance_067.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

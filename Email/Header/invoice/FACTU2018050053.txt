@@ -1,0 +1,11 @@
+From: Mrs Alexandra Smith <mrs.smith@james.com>
+To: Linda Green <linda.green@salas.net>
+Date: Tue, 14 Apr 2026 07:11:23 +0530
+Subject: Query on invoice INV-18050053
+Message-ID: <bc1ddd04-01cf-49de-8d2f-e4065eaedfc4@james.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_130831_1959623746"
+X-Attachment-Name: FACTU2018050053.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

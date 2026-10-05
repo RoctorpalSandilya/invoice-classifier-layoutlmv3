@@ -1,0 +1,12 @@
+From: Chaudry-Karan Billing <no-reply@rodriguez.net>
+To: Zayan Chad <zayan.chad@huynh.io>
+Reply-To: billing@rodriguez.net
+Date: Tue, 08 Sep 2026 15:38:14 +0100
+Subject: Billing notification – invoice FACTU2015080057
+Message-ID: <6e146bd8-d693-4596-8000-f96bb3e5ef9a@rodriguez.net>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_301218_3298440567"
+X-Attachment-Name: FACTU2015080057.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

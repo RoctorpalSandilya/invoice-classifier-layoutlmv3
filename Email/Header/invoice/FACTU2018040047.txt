@@ -1,0 +1,12 @@
+From: Xiti Atwal <xiti.atwal@perez.co.uk>
+To: Tony Marsh-Mills <tony.marsh-mills@baxter.com>
+Date: Mon, 20 Apr 2026 14:59:06 +0100
+Subject: Your invoice 18040047 is attached
+Message-ID: <58915a1e-3985-4419-a586-891f0d7b57e6@perez.co.uk>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_913960_6387991913"
+X-Attachment-Name: FACTU2018040047.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Brian Boyer <brian.boyer@saunders.com>
+To: Christopher Adams <christopher.adams@ramakrishnan.io>
+Date: Sat, 07 Mar 2026 01:58:16 +0530
+Subject: Second notice – invoice 15080071 past due
+Message-ID: <bf799dcb-15ec-4a8b-bb6d-20a0488af0ce@saunders.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_901242_0921591066"
+X-Attachment-Name: FACTU2015080071.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

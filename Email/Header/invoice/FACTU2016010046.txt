@@ -1,0 +1,11 @@
+From: Joshua Morris <joshua.morris@wilsonodonnell.co.uk>
+To: Mr. Mark Barrera <mr..barrera@herreraschmidt.io>
+Date: Wed, 23 Sep 2026 15:15:50 -0500
+Subject: Invoice INV-16010046 – 5 days overdue
+Message-ID: <a0b21cec-2ec3-470c-9455-5121f56d36e5@wilsonodonnell.co.uk>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_785653_3577490247"
+X-Attachment-Name: FACTU2016010046.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Madhavi Dutta <madhavi.dutta@lala.net>
+To: Gaurav Gaba <gaurav.gaba@johnsonleon.co.uk>
+Date: Mon, 14 Sep 2026 07:12:17 +0000
+Subject: Second notice – invoice 15050055 past due
+Message-ID: <a83ab922-ed36-4999-b0c4-102d9329164f@lala.net>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_140191_3545201206"
+X-Attachment-Name: FACTU2015050055.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

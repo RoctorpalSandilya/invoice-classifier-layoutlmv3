@@ -1,0 +1,11 @@
+From: Susan Page <susan.page@willis.in>
+To: Kieran Wilson <kieran.wilson@bakshi.com>
+Date: Tue, 23 Jun 2026 15:51:07 +0530
+Subject: Your invoice #17080057 is attached
+Message-ID: <ed455a58-e238-4fda-8533-49581899c215@willis.in>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_339556_7435722371"
+X-Attachment-Name: FACTU2017080057.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

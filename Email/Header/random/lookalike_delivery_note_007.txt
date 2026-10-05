@@ -1,0 +1,12 @@
+From: Hemani Karpe <hemani.karpe@date.in>
+To: Yashodhara Edwin <yashodhara.edwin@stewart.com>
+Date: Sat, 18 Apr 2026 14:34:59 +0100
+Subject: Packing list for order SO-25849
+Message-ID: <8a8bda40-ffdd-44e5-b37c-a77a9a4d3e22@date.in>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_527070_7540377391"
+X-Attachment-Name: lookalike_delivery_note_007.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Brian King <brian.king@brownnorton.in>
+To: Samarth Sethi <samarth.sethi@hunt.com>
+Date: Wed, 29 Apr 2026 23:28:53 +0100
+Subject: Brown-Norton: Invoice 21080056 for October services
+Message-ID: <b55daf7f-4ec6-495f-a910-21d12719096c@brownnorton.in>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_517286_6392718545"
+X-Attachment-Name: FACTU2021080056.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

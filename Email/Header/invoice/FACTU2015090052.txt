@@ -1,0 +1,12 @@
+From: Megan Foster <megan.foster@vazquez.io>
+To: Aarna Acharya <aarna.acharya@vazquez.co.uk>
+Cc: Brett Wood <brett.wood@vazquez.co.uk>
+Date: Thu, 05 Feb 2026 05:30:34 -0800
+Subject: Invoice INV-15090052 for approval
+Message-ID: <b1c063e7-da5e-4c37-ba31-a839eaa0be20@vazquez.io>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_171879_3638008017"
+X-Attachment-Name: FACTU2015090052.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

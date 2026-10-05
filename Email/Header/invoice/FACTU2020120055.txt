@@ -1,0 +1,11 @@
+From: Jonathan Sweeney <jonathan.sweeney@howard.com>
+To: Prisha Golla <prisha.golla@gardner.com>
+Date: Tue, 28 Apr 2026 01:03:39 +0200
+Subject: Question about attached invoice 20120055
+Message-ID: <9c2b1671-97d7-49ad-8456-ac100a20ceec@howard.com>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_542141_2467730022"
+X-Attachment-Name: FACTU2020120055.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

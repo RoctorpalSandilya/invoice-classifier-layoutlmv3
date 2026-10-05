@@ -1,0 +1,12 @@
+From: Andrew Terry <andrew.terry@ranaram.io>
+To: Elliot Thompson <elliot.thompson@alvarado-yates.com>
+Date: Sun, 01 Mar 2026 01:22:18 -0800
+Subject: Reimbursement – attached receipt
+Message-ID: <bf5a87f4-6fc0-4906-a199-b81d4ae22916@ranaram.io>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_595842_0589084252"
+X-Attachment-Name: receipt_114.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

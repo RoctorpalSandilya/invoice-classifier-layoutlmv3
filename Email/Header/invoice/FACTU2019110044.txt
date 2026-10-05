@@ -1,0 +1,12 @@
+From: Timothy Coffey <timothy.coffey@chandler.in>
+To: Eleanor Wood <eleanor.wood@patel.co.uk>
+Date: Wed, 09 Sep 2026 01:00:09 +0000
+Subject: Invoice INV-19110044 – Patel and Sons
+Message-ID: <483e9ef9-7c2d-413e-b975-82f685091ca5@chandler.in>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_705291_8692720119"
+X-Attachment-Name: FACTU2019110044.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

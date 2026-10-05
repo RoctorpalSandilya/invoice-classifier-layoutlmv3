@@ -1,0 +1,11 @@
+From: Vivaan Halder <vivaan.halder@wright.co.uk>
+To: Wishi Bawa <wishi.bawa@penapowell.com>
+Date: Sun, 20 Sep 2026 19:29:25 +0000
+Subject: Your invoice 16120046 is attached
+Message-ID: <9feea4e3-6781-40c5-8404-ee0db5d570c6@wright.co.uk>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_371046_7197413378"
+X-Attachment-Name: FACTU2016120046.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

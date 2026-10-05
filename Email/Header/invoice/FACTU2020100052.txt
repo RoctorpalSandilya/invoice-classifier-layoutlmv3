@@ -1,0 +1,12 @@
+From: Ucchal Nori <ucchal.nori@venkataraman.io>
+To: Manya Zacharia <manya.zacharia@ramesh.com>
+Date: Sat, 07 Feb 2026 23:31:15 +0530
+Subject: Venkataraman Group: Invoice INV-20100052 for August services
+Message-ID: <9fab7656-e28e-4a00-b069-1a9af787de08@venkataraman.io>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_210031_1532023770"
+X-Attachment-Name: FACTU2020100052.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,13 @@
+From: Meyer-Lyons Billing <no-reply@jordan-bartlett.com>
+To: Ethan Miller <ethan.miller@norris.in>
+Reply-To: billing@jordan-bartlett.com
+Date: Thu, 25 Jun 2026 06:51:53 +0200
+Subject: Your Meyer-Lyons invoice FACTU2020040054
+Message-ID: <725ce8f5-0cd9-4e90-ac3a-598202e00dd1@jordan-bartlett.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_846478_0970484944"
+X-Attachment-Name: FACTU2020040054.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

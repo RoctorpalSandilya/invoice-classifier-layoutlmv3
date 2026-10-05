@@ -1,0 +1,12 @@
+From: Avi Gole <avi.gole@goyal.io>
+To: Sanaya Tiwari <sanaya.tiwari@kala.co.uk>
+Date: Thu, 02 Apr 2026 16:19:28 -0800
+Subject: RE: Invoice FACTU2018020068
+Message-ID: <dba1a4c3-cc3d-4b6f-8524-c365d05379b4@goyal.io>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_336154_6584628964"
+X-Attachment-Name: FACTU2018020068.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

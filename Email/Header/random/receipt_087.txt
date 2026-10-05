@@ -1,0 +1,11 @@
+From: Shelby Thomas <shelby.thomas@benmunshi.io>
+To: Henry Lopez <henry.lopez@bell.com>
+Date: Sat, 26 Sep 2026 06:27:01 +0530
+Subject: Taxi receipt for last week's client visit
+Message-ID: <881fbd4c-bc94-426a-a44a-f20e83710558@benmunshi.io>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_751783_0554912035"
+X-Attachment-Name: receipt_087.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

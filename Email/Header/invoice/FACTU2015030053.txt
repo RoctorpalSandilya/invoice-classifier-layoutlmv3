@@ -1,0 +1,12 @@
+From: Nicole Gardner <nicole.gardner@khoslapatil.com>
+To: Darika Raj <darika.raj@harper.io>
+Date: Tue, 18 Aug 2026 20:53:22 -0800
+Subject: Tax Invoice FACTU2015030053
+Message-ID: <1a3ebb01-999f-471e-bf5f-9647f596aab2@khoslapatil.com>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_569964_7766191858"
+X-Attachment-Name: FACTU2015030053.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

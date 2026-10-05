@@ -1,0 +1,12 @@
+From: Evans-Sullivan Billing <no-reply@barad.com>
+To: Anthony Connolly <anthony.connolly@cooper.com>
+Reply-To: billing@barad.com
+Date: Mon, 08 Jun 2026 10:36:35 -0500
+Subject: Your Evans-Sullivan invoice 20040056
+Message-ID: <a725f958-9f01-474c-bbbb-0f2409cf8b51@barad.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_864289_8288101653"
+X-Attachment-Name: FACTU2020040056.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

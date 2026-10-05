@@ -1,0 +1,12 @@
+From: Hollie Slater-Phillips <hollie.slater-phillips@brown.com>
+To: Sudiksha Nath <sudiksha.nath@goswami.com>
+Date: Sat, 14 Feb 2026 18:25:59 +0200
+Subject: Query on invoice INV-20030051
+Message-ID: <ec52ed83-6660-4632-8dac-fea066725170@brown.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_580401_8384222018"
+X-Attachment-Name: FACTU2020030051.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

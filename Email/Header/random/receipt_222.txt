@@ -1,0 +1,12 @@
+From: Dr Tom Lees <dr.lees@dube.in>
+To: Bhavini Din <bhavini.din@warrior.com>
+Date: Thu, 26 Mar 2026 10:03:29 +0100
+Subject: Lunch receipt
+Message-ID: <0587fd1b-0268-4c49-a9af-f4f7ebad9838@dube.in>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_546927_8895631118"
+X-Attachment-Name: receipt_222.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

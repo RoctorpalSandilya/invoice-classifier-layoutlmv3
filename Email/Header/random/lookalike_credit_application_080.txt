@@ -1,0 +1,11 @@
+From: Wriddhish Datta <wriddhish.datta@andersonadams.io>
+To: Lisa Luna <lisa.luna@dugar.info>
+Date: Mon, 03 Aug 2026 21:44:24 +0530
+Subject: New customer account form
+Message-ID: <cd0b7720-bc90-49eb-882d-b67614320558@andersonadams.io>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_448958_4181162593"
+X-Attachment-Name: lookalike_credit_application_080.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

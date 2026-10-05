@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: INV-21110053
+Account: ACC-142994
+Amount: €1,995.64
+Due date: 13 Sep 2026
+
+The invoice is attached to this email in PDF format. You can also view and pay it online at https://billing.lees.com/invoices/INV-21110053.
+
+This is an automated message; please do not reply to this email.
+
+Mcguire LLC Billing Team

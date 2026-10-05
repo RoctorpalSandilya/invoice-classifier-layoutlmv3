@@ -1,0 +1,12 @@
+From: Payroll <payroll@jensen-fox.com>
+To: David Byrd <david.byrd@smith.net>
+Date: Fri, 16 Jan 2026 19:37:01 +0200
+Subject: Payslip attached – confidential
+Message-ID: <4b4a56e5-768d-4930-a9b7-96df23e9fbce@jensen-fox.com>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_182536_0851383038"
+X-Attachment-Name: lookalike_payslip_073.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

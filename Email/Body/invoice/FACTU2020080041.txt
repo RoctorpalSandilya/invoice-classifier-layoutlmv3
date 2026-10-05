@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: INV-20080041
+Account: ACC-812531
+Amount: £21,838.92
+Due date: 18 Jun 2026
+
+The invoice is attached to this email in image format. You can also view and pay it online at https://billing.krishnamurthy-suri.com/invoices/INV-20080041.
+
+This is an automated message; please do not reply to this email.
+
+Yohannan, Contractor and Natt Billing Team

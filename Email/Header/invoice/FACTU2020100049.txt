@@ -1,0 +1,12 @@
+From: Harrison Jani <harrison.jani@wallace.com>
+To: Kathryn Mclaughlin <kathryn.mclaughlin@sharaf.com>
+Date: Wed, 12 Aug 2026 21:14:23 +0200
+Subject: Your invoice 20100049 is attached
+Message-ID: <21c2f135-3d9c-40a9-a1fa-c93faf6188b7@wallace.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_745319_2097819039"
+X-Attachment-Name: FACTU2020100049.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

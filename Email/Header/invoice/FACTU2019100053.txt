@@ -1,0 +1,12 @@
+From: Anthony Gomez <anthony.gomez@wright.net>
+To: Derek Vaughan <derek.vaughan@sanghvi.com>
+Date: Sun, 10 May 2026 02:20:19 +0200
+Subject: Second notice – invoice 19100053 past due
+Message-ID: <30c15349-9fac-49b5-8520-cbdc8cad7ef6@wright.net>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_147157_4866043847"
+X-Attachment-Name: FACTU2019100053.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

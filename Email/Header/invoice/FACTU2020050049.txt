@@ -1,0 +1,11 @@
+From: Mr George Hawkins <mr.hawkins@turnergreen.com>
+To: Darren Ali <darren.ali@cummings.com>
+Date: Wed, 25 Mar 2026 18:27:59 -0500
+Subject: Invoice INV-20050049 | Due 24 May 2026
+Message-ID: <9cc61d6a-b63f-4c62-92c5-5590e69ec088@turnergreen.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_989159_7610902176"
+X-Attachment-Name: FACTU2020050049.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

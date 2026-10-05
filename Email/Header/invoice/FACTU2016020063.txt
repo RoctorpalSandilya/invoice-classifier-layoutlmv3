@@ -1,0 +1,11 @@
+From: Eric Butler <eric.butler@james.com>
+To: Priya Ratti <priya.ratti@hughes.in>
+Date: Sat, 20 Jun 2026 19:51:21 +0100
+Subject: Invoice 16020063 – amount does not match PO
+Message-ID: <784417a3-8a2e-4545-ab6f-6fc8f5f1fef0@james.com>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_598690_5836318194"
+X-Attachment-Name: FACTU2016020063.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

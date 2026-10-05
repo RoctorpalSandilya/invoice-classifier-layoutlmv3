@@ -1,0 +1,12 @@
+From: Jonathan De <jonathan.de@krishnan.com>
+To: Tyler Jimenez <tyler.jimenez@ingram.com>
+Date: Sat, 03 Jan 2026 15:40:44 +0200
+Subject: Timesheet w/e 03 Jan
+Message-ID: <fb62c818-dc98-4d80-b172-0cf3cb3c25bb@krishnan.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_373266_5031355116"
+X-Attachment-Name: lookalike_timesheet_003.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

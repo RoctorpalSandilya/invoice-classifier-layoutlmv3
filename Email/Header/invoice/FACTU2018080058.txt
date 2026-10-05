@@ -1,0 +1,11 @@
+From: Antony Thomson <antony.thomson@aguirre.com>
+To: Dr Melanie Andrews <dr.andrews@jones.net>
+Date: Fri, 27 Mar 2026 15:14:58 +0200
+Subject: Tax Invoice #18080058
+Message-ID: <6d609ce9-ba81-4148-bf70-03949fda81ab@aguirre.com>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_003211_2926215974"
+X-Attachment-Name: FACTU2018080058.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

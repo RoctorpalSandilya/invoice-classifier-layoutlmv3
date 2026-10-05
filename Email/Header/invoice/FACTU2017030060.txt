@@ -1,0 +1,13 @@
+From: O'Brien and Sons Billing <no-reply@rattan-chand.com>
+To: Benjamin Mitter <benjamin.mitter@leeharris.co.uk>
+Reply-To: billing@rattan-chand.com
+Date: Mon, 23 Mar 2026 03:22:14 +0530
+Subject: Your O'Brien and Sons invoice 17030060
+Message-ID: <99ee4a57-9c6f-40b3-b099-a4b05454cdcd@rattan-chand.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_998869_2299431314"
+X-Attachment-Name: FACTU2017030060.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

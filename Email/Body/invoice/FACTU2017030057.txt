@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: 17030057
+Account: ACC-074688
+Amount: €5,202.68
+Due date: 04 Sep 2026
+
+The invoice is attached to this email in image format. You can also view and pay it online at https://billing.smith-bibi.com/invoices/17030057.
+
+This is an automated message; please do not reply to this email.
+
+Whitehead-Ramirez Billing Team

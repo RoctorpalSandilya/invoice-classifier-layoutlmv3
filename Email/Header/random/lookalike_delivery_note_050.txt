@@ -1,0 +1,12 @@
+From: Deborah Evans <deborah.evans@cooke.net>
+To: Ikshita Naidu <ikshita.naidu@pathak-chowdhury.org>
+Date: Sun, 15 Mar 2026 23:21:17 -0500
+Subject: Despatch confirmation
+Message-ID: <12c72596-e106-41c1-bfaf-f28de759a424@cooke.net>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_787639_6233808785"
+X-Attachment-Name: lookalike_delivery_note_050.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

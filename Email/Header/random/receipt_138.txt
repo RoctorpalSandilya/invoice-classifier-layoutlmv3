@@ -1,0 +1,12 @@
+From: Yachana Nazareth <yachana.nazareth@acevedosmith.net>
+To: Donald Jordan <donald.jordan@ford-johnson.com>
+Date: Tue, 22 Sep 2026 16:08:37 +0530
+Subject: Taxi receipt for last week's client visit
+Message-ID: <2605aa51-45a2-43f7-8792-e1c189b158c7@acevedosmith.net>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_801861_3334465786"
+X-Attachment-Name: receipt_138.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

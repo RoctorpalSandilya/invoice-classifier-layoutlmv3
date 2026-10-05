@@ -1,0 +1,13 @@
+From: Smith Group Billing <no-reply@ghose.biz>
+To: Ashley Horn <ashley.horn@scott.com>
+Reply-To: billing@ghose.biz
+Date: Wed, 25 Feb 2026 21:47:28 -0500
+Subject: [Automated] Invoice 15050047 is now available
+Message-ID: <a49ed517-8b0e-47bb-b759-40bfe97e97fc@ghose.biz>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_664134_8165738298"
+X-Attachment-Name: FACTU2015050047.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

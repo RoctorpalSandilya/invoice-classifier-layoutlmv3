@@ -1,0 +1,11 @@
+From: Jodie Lord <jodie.lord@gregory.co.uk>
+To: Janice Morris <janice.morris@chandler-nash.com>
+Date: Tue, 06 Jan 2026 11:13:16 +0530
+Subject: Reimbursement – attached receipt
+Message-ID: <b2325eee-dfa5-40f1-a0cc-34a5339c2d59@gregory.co.uk>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_930264_0680233666"
+X-Attachment-Name: receipt_006.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

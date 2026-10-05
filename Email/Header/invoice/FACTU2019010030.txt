@@ -1,0 +1,11 @@
+From: Benjamin Jones <benjamin.jones@mckayhiggins.io>
+To: Joan Reed-Lewis <joan.reed-lewis@dave.co.uk>
+Date: Sat, 18 Jul 2026 15:31:25 -0800
+Subject: Mckay-Higgins: Invoice FACTU2019010030 for February services
+Message-ID: <ef9fb072-c509-4967-a99c-b79bb5d7aa06@mckayhiggins.io>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_050945_2624544941"
+X-Attachment-Name: FACTU2019010030.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

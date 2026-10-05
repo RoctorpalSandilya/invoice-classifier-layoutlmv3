@@ -1,0 +1,11 @@
+From: Steven Nunez <steven.nunez@moss.com>
+To: Sam Payne <sam.payne@powellsmith.io>
+Date: Sat, 17 Jan 2026 04:07:05 +0200
+Subject: Invoice INV-19040051 – 8 days overdue
+Message-ID: <d9f2c2f4-6edb-4b15-91d6-cdadae2ad9f3@moss.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_391790_0461436303"
+X-Attachment-Name: FACTU2019040051.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

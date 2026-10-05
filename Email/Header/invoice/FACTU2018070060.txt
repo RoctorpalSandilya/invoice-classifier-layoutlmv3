@@ -1,0 +1,12 @@
+From: David Chambers <david.chambers@prasadsingh.net>
+To: Ms Kayleigh Hooper <ms.hooper@kale.com>
+Date: Mon, 12 Jan 2026 03:24:40 +0200
+Subject: Reminder: outstanding invoice INV-18070060
+Message-ID: <f2e46c1e-6a93-4054-8b26-5c91d0f51ec6@prasadsingh.net>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_198555_0048433613"
+X-Attachment-Name: FACTU2018070060.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Mitchell Armstrong <mitchell.armstrong@marsh.io>
+To: Karan Kala <karan.kala@varughese.com>
+Date: Sat, 11 Apr 2026 05:42:30 +0000
+Subject: Tax Invoice FACTU2017090047
+Message-ID: <7059a1b7-aa79-48c7-bb6b-bbda0f1f774e@marsh.io>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_754944_3434461889"
+X-Attachment-Name: FACTU2017090047.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

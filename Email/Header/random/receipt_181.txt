@@ -1,0 +1,11 @@
+From: Stephanie Kelly-Bailey <stephanie.kelly-bailey@kannansood.net>
+To: Orinder Bhakta <orinder.bhakta@smith.com>
+Date: Sun, 23 Aug 2026 15:34:18 -0800
+Subject: Taxi receipt for last week's client visit
+Message-ID: <4c1d978a-78c5-4e19-b815-1248e733d136@kannansood.net>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_047311_3393313175"
+X-Attachment-Name: receipt_181.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

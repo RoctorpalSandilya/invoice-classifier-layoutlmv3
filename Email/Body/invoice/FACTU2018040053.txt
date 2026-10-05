@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: #18040053
+Account: ACC-971670
+Amount: ₹15,434.44
+Due date: 19 Apr 2026
+
+The invoice is attached to this email in image format. You can also view and pay it online at https://billing.higgins.biz/invoices/18040053.
+
+This is an automated message; please do not reply to this email.
+
+Burke, Marshall and Hayes Billing Team

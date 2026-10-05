@@ -1,0 +1,11 @@
+From: Angela Woods <angela.woods@phillips.com>
+To: Warinder Handa <warinder.handa@stewart.co.uk>
+Date: Thu, 10 Sep 2026 11:30:14 -0500
+Subject: Invoice #15030055 from Phillips Ltd
+Message-ID: <fa257a76-3a9f-4b2c-8412-dba89703b6b0@phillips.com>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_234217_1781800994"
+X-Attachment-Name: FACTU2015030055.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

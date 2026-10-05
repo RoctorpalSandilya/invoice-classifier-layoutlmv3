@@ -1,0 +1,13 @@
+From: Elliott, Harris and Evans Billing <no-reply@minhas.info>
+To: Kirsten Lutz <kirsten.lutz@schultz.com>
+Reply-To: billing@minhas.info
+Date: Sun, 07 Jun 2026 18:24:26 -0800
+Subject: [Automated] Invoice FACTU2017100045 is now available
+Message-ID: <c32ba0bf-a6df-45f4-bfd9-c0dafe2c8795@minhas.info>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_439110_1224918027"
+X-Attachment-Name: FACTU2017100045.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

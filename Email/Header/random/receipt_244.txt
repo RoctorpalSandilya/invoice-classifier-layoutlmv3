@@ -1,0 +1,12 @@
+From: Emma O'Connor <emma.o'connor@shan.com>
+To: Bhavna Gade <bhavna.gade@garcia.biz>
+Date: Thu, 16 Jul 2026 19:08:27 -0800
+Subject: Receipt for expense claim
+Message-ID: <956c3099-1b5c-4604-a59a-5a983cdada4f@shan.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_539869_3153710467"
+X-Attachment-Name: receipt_244.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

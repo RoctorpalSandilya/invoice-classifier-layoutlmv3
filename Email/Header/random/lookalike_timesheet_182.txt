@@ -1,0 +1,11 @@
+From: Barbara Kelly <barbara.kelly@walsh.io>
+To: Annette Jarvis <annette.jarvis@palla.com>
+Date: Sun, 12 Jul 2026 16:52:08 +0000
+Subject: Timesheet attached
+Message-ID: <ed7b0383-b3e7-4d8f-b764-c382396478d7@walsh.io>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_233387_2924950042"
+X-Attachment-Name: lookalike_timesheet_182.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Nisha Seshadri <nisha.seshadri@mannanraghavan.in>
+To: Dean Hughes-Rogers <dean.hughes-rogers@kakar.com>
+Date: Wed, 08 Apr 2026 03:22:14 +0530
+Subject: Invoice INV-21030038 from Mannan-Raghavan
+Message-ID: <982186e2-46a7-490a-8f9c-fd470960cbc8@mannanraghavan.in>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_868780_1607501273"
+X-Attachment-Name: FACTU2021030038.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

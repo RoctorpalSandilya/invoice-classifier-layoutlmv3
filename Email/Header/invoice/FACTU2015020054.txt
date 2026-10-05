@@ -1,0 +1,12 @@
+From: Ishwar Chokshi <ishwar.chokshi@ramachandran.com>
+To: Aahana Sawhney <aahana.sawhney@dobson.com>
+Date: Thu, 16 Jul 2026 00:42:58 -0800
+Subject: Payment reminder: Invoice FACTU2015020054
+Message-ID: <7eda7522-db0d-4869-ab4b-9f2cf85680d1@ramachandran.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_990676_4869458474"
+X-Attachment-Name: FACTU2015020054.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

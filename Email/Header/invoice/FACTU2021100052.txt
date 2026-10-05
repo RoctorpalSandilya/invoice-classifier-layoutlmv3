@@ -1,0 +1,12 @@
+From: Leigh Roberts <leigh.roberts@rogers.net>
+To: Arthur Lawrence-Bowen <arthur.lawrence-bowen@rogers.com>
+Cc: Damyanti Chaudry <damyanti.chaudry@rogers.com>
+Date: Fri, 10 Jul 2026 22:26:10 +0100
+Subject: Invoice 21100052 for approval
+Message-ID: <543fab23-1e9d-42f9-97d3-4ace82e5af10@rogers.net>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_137998_3747926704"
+X-Attachment-Name: FACTU2021100052.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

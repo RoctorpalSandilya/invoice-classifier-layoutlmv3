@@ -1,0 +1,12 @@
+From: Peter Ganesh <peter.ganesh@phelpscooper.in>
+To: Kerry Green <kerry.green@kelly.net>
+Date: Sat, 08 Aug 2026 08:31:41 +0100
+Subject: Invoice FACTU2016120061 from Phelps-Cooper
+Message-ID: <e088a0b5-893b-453f-8420-861eb73e96a2@phelpscooper.in>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_042318_2364949733"
+X-Attachment-Name: FACTU2016120061.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

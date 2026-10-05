@@ -1,0 +1,13 @@
+From: Shaurya Bali <shaurya.bali@lawrence.io>
+To: Jennifer Collins <jennifer.collins@lawrence.co.uk>
+Cc: Indali Magar <indali.magar@lawrence.co.uk>
+Date: Wed, 04 Feb 2026 00:31:57 -0500
+Subject: AP: new vendor invoice FACTU2017090046
+Message-ID: <ae488f59-240b-4063-8a88-c9c95985f095@lawrence.io>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_029244_1417563695"
+X-Attachment-Name: FACTU2017090046.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

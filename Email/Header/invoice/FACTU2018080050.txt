@@ -1,0 +1,11 @@
+From: Christopher Thomas <christopher.thomas@baldwin.com>
+To: Shaurya Bera <shaurya.bera@fleming.com>
+Date: Thu, 22 Jan 2026 20:21:09 +0200
+Subject: Tax Invoice INV-18080050
+Message-ID: <48931eaf-43df-482d-bd28-bd14c095de38@baldwin.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_607298_3317605271"
+X-Attachment-Name: FACTU2018080050.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

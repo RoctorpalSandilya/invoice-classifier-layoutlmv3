@@ -1,0 +1,11 @@
+From: Dr Jason James <dr.james@rana.com>
+To: Amanda Thompson <amanda.thompson@patel.net>
+Date: Mon, 07 Sep 2026 19:31:05 +0530
+Subject: Invoice 20120041 – corrected copy
+Message-ID: <1ede8048-c034-4907-ab60-e4cfb33a66a1@rana.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_920139_0534567971"
+X-Attachment-Name: FACTU2020120041.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

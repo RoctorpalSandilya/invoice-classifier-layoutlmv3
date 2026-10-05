@@ -1,0 +1,11 @@
+From: Susan Flynn <susan.flynn@younghale.io>
+To: Devansh Patel <devansh.patel@carlson-pace.info>
+Date: Tue, 04 Aug 2026 01:44:03 +0100
+Subject: Expense claim submitted
+Message-ID: <537d0ae7-fcf8-45d2-8f62-01b4562ed28e@younghale.io>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_173841_8434661298"
+X-Attachment-Name: lookalike_expense_report_155.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

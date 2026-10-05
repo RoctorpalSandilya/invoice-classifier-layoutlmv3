@@ -1,0 +1,11 @@
+From: Dr Diane Baker <dr.baker@allen.io>
+To: Wridesh Wali <wridesh.wali@sanghvi.co.uk>
+Date: Sat, 21 Mar 2026 12:25:57 +0200
+Subject: Question about attached invoice INV-17060044
+Message-ID: <97d3dc57-6ae1-4e5a-a68a-8d7129b68d08@allen.io>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_895154_6674590381"
+X-Attachment-Name: FACTU2017060044.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

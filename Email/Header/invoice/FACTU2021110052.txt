@@ -1,0 +1,11 @@
+From: Akshay Babu <akshay.babu@barton.in>
+To: Carla Hughes <carla.hughes@khanna.co.uk>
+Date: Sat, 28 Mar 2026 17:03:11 +0000
+Subject: Payment reminder: Invoice #21110052
+Message-ID: <99f47207-ad32-449f-baa4-ac61e8096574@barton.in>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_507369_3689863086"
+X-Attachment-Name: FACTU2021110052.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

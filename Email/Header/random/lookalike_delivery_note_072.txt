@@ -1,0 +1,11 @@
+From: Janani Suresh <janani.suresh@chambers.in>
+To: Girindra Mangat <girindra.mangat@anne.com>
+Date: Fri, 02 Jan 2026 01:23:13 +0000
+Subject: Packing list for order SO-00832
+Message-ID: <b11ee3d8-ccd8-4507-923d-f4e0aaf24bb8@chambers.in>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_220338_7552570271"
+X-Attachment-Name: lookalike_delivery_note_072.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

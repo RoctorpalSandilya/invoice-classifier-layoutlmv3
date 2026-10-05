@@ -1,0 +1,12 @@
+From: Gopal Muni <gopal.muni@anand.com>
+To: Justin Thomas Jr. <justin.jr.@dale.com>
+Date: Fri, 15 May 2026 18:20:58 +0530
+Subject: Query on invoice FACTU2020060063
+Message-ID: <47792137-fd04-4213-b0b7-79c8cd1fc930@anand.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_223110_6824963136"
+X-Attachment-Name: FACTU2020060063.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

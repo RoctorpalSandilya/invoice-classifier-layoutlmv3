@@ -1,0 +1,12 @@
+From: Aadi Bava <aadi.bava@green.in>
+To: David Aguilar MD <david.md@rout.co.uk>
+Date: Mon, 07 Sep 2026 19:47:47 +0200
+Subject: Invoice 15090058 from Green, Haynes and Edwards
+Message-ID: <8ddc70be-a0d0-457b-bff0-49938d027073@green.in>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_435168_0969842175"
+X-Attachment-Name: FACTU2015090058.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

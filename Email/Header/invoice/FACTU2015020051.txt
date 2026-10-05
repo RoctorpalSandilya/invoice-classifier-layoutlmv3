@@ -1,0 +1,12 @@
+From: Jeremy Cox <jeremy.cox@kellypatel.net>
+To: Sylvia O'Brien <sylvia.o'brien@baria.co.uk>
+Date: Tue, 06 Jan 2026 23:42:10 -0800
+Subject: Invoice 15020051 | Due 07 Mar 2026
+Message-ID: <2f5031f8-b8fe-40a6-b4f2-bae567def005@kellypatel.net>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_547105_9034453692"
+X-Attachment-Name: FACTU2015020051.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

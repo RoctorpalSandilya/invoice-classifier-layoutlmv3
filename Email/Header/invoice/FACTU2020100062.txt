@@ -1,0 +1,13 @@
+From: Baker-Ellis Billing <no-reply@chandra.com>
+To: Bryan Barnett-Gallagher <bryan.barnett-gallagher@choudhuryseshadri.com>
+Reply-To: billing@chandra.com
+Date: Mon, 29 Jun 2026 11:05:58 -0500
+Subject: Your Baker-Ellis invoice INV-20100062
+Message-ID: <a10bf5a9-62d4-4816-b19e-a0ed93176456@chandra.com>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_134603_3779775175"
+X-Attachment-Name: FACTU2020100062.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

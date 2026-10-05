@@ -1,0 +1,11 @@
+From: Northgate Bank <statements@dhar.info>
+To: Mr. Christopher Duran <mr..duran@bose.net>
+Date: Sun, 01 Mar 2026 12:31:03 +0000
+Subject: Statement of account
+Message-ID: <a5f8eb7c-8736-4826-9a84-9d8e4c6470e9@dhar.info>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_898651_9999140744"
+X-Attachment-Name: lookalike_bank_statement_181.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

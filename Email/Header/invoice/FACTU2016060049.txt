@@ -1,0 +1,11 @@
+From: Xavier Bava <xavier.bava@campbellshaffer.com>
+To: Owen Rajagopal <owen.rajagopal@smithreed.co.uk>
+Date: Tue, 10 Feb 2026 09:48:23 -0500
+Subject: Invoice 16060049 | Due 11 Apr 2026
+Message-ID: <1336f584-d873-4486-bdfd-6a6a01e21d5b@campbellshaffer.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_782392_8423665789"
+X-Attachment-Name: FACTU2016060049.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Ayush Upadhyay <ayush.upadhyay@johnson.co.uk>
+To: Beth Preston-Roberts <beth.preston-roberts@nathdhingra.com>
+Date: Sun, 27 Sep 2026 13:32:17 +0200
+Subject: Invoice 16100062 from Johnson, Jones and Begum
+Message-ID: <c1151603-0a6c-4fce-b68e-0a9d17d0d633@johnson.co.uk>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_654219_5686889614"
+X-Attachment-Name: FACTU2016100062.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

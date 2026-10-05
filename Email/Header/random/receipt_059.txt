@@ -1,0 +1,11 @@
+From: Bernard Roberts-Cook <bernard.roberts-cook@bajaj.in>
+To: Geoffrey Johnson <geoffrey.johnson@jones.com>
+Date: Sun, 14 Jun 2026 13:15:33 -0500
+Subject: Here's that receipt you asked for
+Message-ID: <2812e2a9-99d8-4c1e-ad24-44a210746106@bajaj.in>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_838240_5135998734"
+X-Attachment-Name: receipt_059.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

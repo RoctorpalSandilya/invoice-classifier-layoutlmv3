@@ -1,0 +1,11 @@
+From: Mary Aguilar <mary.aguilar@tella.net>
+To: Charvi Gupta <charvi.gupta@shelton.com>
+Date: Tue, 18 Aug 2026 16:59:55 +0000
+Subject: Lunch receipt
+Message-ID: <7cad2a8e-9884-494d-bcf0-048d73e00a2a@tella.net>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_788904_6462711804"
+X-Attachment-Name: receipt_007.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

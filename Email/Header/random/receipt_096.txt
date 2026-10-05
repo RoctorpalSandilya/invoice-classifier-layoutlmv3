@@ -1,0 +1,11 @@
+From: Jagat Sura <jagat.sura@green.com>
+To: Siddharth Deep <siddharth.deep@holland.biz>
+Date: Mon, 08 Jun 2026 19:33:23 +0000
+Subject: Expenses – November
+Message-ID: <b76ce224-7991-4183-a6f8-f6b6a0449be3@green.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_894621_9024143048"
+X-Attachment-Name: receipt_096.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

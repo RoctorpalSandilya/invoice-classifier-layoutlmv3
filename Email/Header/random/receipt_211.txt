@@ -1,0 +1,11 @@
+From: Hemani Padmanabhan <hemani.padmanabhan@bhavsar.co.uk>
+To: Jaime Martinez <jaime.martinez@nixon.com>
+Date: Wed, 28 Jan 2026 19:06:57 +0000
+Subject: Taxi receipt for last week's client visit
+Message-ID: <ad274526-05e3-4ccc-bb74-fc880b871e60@bhavsar.co.uk>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_766946_1998711239"
+X-Attachment-Name: receipt_211.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

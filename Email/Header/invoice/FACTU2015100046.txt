@@ -1,0 +1,11 @@
+From: Joel Scott <joel.scott@miller.co.uk>
+To: Catherine Mason <catherine.mason@torres.com>
+Date: Wed, 08 Jul 2026 06:53:27 -0500
+Subject: Copy of invoice 15100046 as requested
+Message-ID: <d7c290ae-58c5-457a-b298-6b432abf243c@miller.co.uk>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_680423_4314956585"
+X-Attachment-Name: FACTU2015100046.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

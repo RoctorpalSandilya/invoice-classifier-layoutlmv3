@@ -1,0 +1,12 @@
+From: Mrs. Sarah Ochoa <mrs..ochoa@bradshawsmith.com>
+To: Kenneth Jarvis <kenneth.jarvis@kay.com>
+Date: Mon, 27 Jul 2026 13:53:45 +0200
+Subject: Invoice INV-20060051 – Kay Ltd
+Message-ID: <bff151cf-8667-4a20-b546-b2beed81f1fd@bradshawsmith.com>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_475300_0809538571"
+X-Attachment-Name: FACTU2020060051.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

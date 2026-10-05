@@ -1,0 +1,12 @@
+From: Ijaya Sankaran <ijaya.sankaran@farrellleach.in>
+To: Jennifer Adams <jennifer.adams@clark.co.uk>
+Date: Fri, 02 Jan 2026 13:59:58 +0000
+Subject: Tax Invoice FACTU2019120049
+Message-ID: <e40929a7-c687-44c2-a681-5e1c543e3573@farrellleach.in>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_164828_4147940369"
+X-Attachment-Name: FACTU2019120049.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

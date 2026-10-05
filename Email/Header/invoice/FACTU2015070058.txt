@@ -1,0 +1,12 @@
+From: Chandran Soman <chandran.soman@tak.com>
+To: Travis Martin <travis.martin@tak.net>
+Cc: Maanas Suresh <maanas.suresh@tak.net>
+Date: Thu, 13 Aug 2026 21:00:57 +0530
+Subject: Invoice 15070058 for approval
+Message-ID: <80548f92-ac1b-49e5-8d7e-7dd045fd828b@tak.com>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_256687_8629408333"
+X-Attachment-Name: FACTU2015070058.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

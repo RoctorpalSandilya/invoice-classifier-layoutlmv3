@@ -1,0 +1,12 @@
+From: Debbie Romero <debbie.romero@nelson.com>
+To: Sarah Patel <sarah.patel@thompson.com>
+Date: Wed, 15 Jul 2026 01:28:52 +0100
+Subject: Slides from the session
+Message-ID: <8e923376-bc3d-4f15-90c3-cd5e6c91ae9d@nelson.com>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_161179_2143286295"
+X-Attachment-Name: doc_015.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

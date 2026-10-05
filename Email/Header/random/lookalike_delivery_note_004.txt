@@ -1,0 +1,11 @@
+From: Clive Williams <clive.williams@hopkins.com>
+To: Chad Greene <chad.greene@may.com>
+Date: Sun, 19 Apr 2026 14:03:29 -0800
+Subject: Delivery note – shipment DN-935067
+Message-ID: <b6908a67-8a80-42b4-ab0d-708237d773f6@hopkins.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_996857_5327113245"
+X-Attachment-Name: lookalike_delivery_note_004.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

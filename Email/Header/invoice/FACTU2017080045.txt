@@ -1,0 +1,11 @@
+From: Timothy Skinner <timothy.skinner@ranganathan.net>
+To: Ashley Perez <ashley.perez@perkins.net>
+Date: Wed, 17 Jun 2026 14:34:56 +0000
+Subject: Invoice INV-17080045 – Perkins Ltd
+Message-ID: <d951c617-f08d-4817-a655-f026766fb3ce@ranganathan.net>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_942545_9414068310"
+X-Attachment-Name: FACTU2017080045.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

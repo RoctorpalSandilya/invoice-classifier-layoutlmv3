@@ -1,0 +1,11 @@
+From: Jairaj Edwin <jairaj.edwin@derattan.co.uk>
+To: Jacqueline King <jacqueline.king@davis.com>
+Date: Tue, 24 Feb 2026 12:20:28 +0000
+Subject: Invoice INV-20050047 from De-Rattan
+Message-ID: <8e71708c-c10b-4125-b8e6-892135c49e71@derattan.co.uk>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_916070_5046380700"
+X-Attachment-Name: FACTU2020050047.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Kevin Khalsa <kevin.khalsa@smith.com>
+To: Shane Kent <shane.kent@evans.in>
+Date: Sat, 28 Feb 2026 12:24:55 +0000
+Subject: Invoice #20120040 | Due 29 Apr 2026
+Message-ID: <64fdbe83-d5e9-4207-9899-98b8e3003eac@smith.com>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_097676_0718187427"
+X-Attachment-Name: FACTU2020120040.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

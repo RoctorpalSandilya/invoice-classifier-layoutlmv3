@@ -1,0 +1,12 @@
+From: Merchant-Agate Billing <no-reply@mercado-jones.com>
+To: Miss Debra Rogers <miss.rogers@davislang.net>
+Reply-To: billing@mercado-jones.com
+Date: Fri, 07 Aug 2026 12:14:31 +0100
+Subject: Your Merchant-Agate invoice FACTU2021010052
+Message-ID: <3edcf08e-0371-484e-9473-81988bd675a1@mercado-jones.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_369014_7787329997"
+X-Attachment-Name: FACTU2021010052.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

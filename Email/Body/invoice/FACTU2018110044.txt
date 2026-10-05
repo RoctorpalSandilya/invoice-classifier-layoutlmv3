@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: #18110044
+Account: ACC-539882
+Amount: $15,873.37
+Due date: 13 Aug 2026
+
+The invoice is attached to this email in image format. You can also view and pay it online at https://billing.smith-swift.co.uk/invoices/18110044.
+
+This is an automated message; please do not reply to this email.
+
+Morris Group Billing Team

@@ -1,0 +1,12 @@
+From: Stephanie Scott <stephanie.scott@skinnermitchell.com>
+To: Scott Munoz <scott.munoz@brewerkemp.com>
+Date: Tue, 07 Jul 2026 23:16:15 +0530
+Subject: Invoice 18110051 | Due 21 Aug 2026
+Message-ID: <3068ed57-5ce7-4404-a6ab-9cd289b7f0af@skinnermitchell.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_918817_3819377257"
+X-Attachment-Name: FACTU2018110051.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

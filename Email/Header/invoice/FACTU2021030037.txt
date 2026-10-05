@@ -1,0 +1,12 @@
+From: Ryan Zacharia <ryan.zacharia@rogerscontreras.io>
+To: Brenda Hernandez <brenda.hernandez@rogerscontreras.io>
+Cc: Dr Barbara Pearson <dr.pearson@rogerscontreras.io>
+Date: Tue, 11 Aug 2026 00:19:35 -0800
+Subject: Please approve: Acevedo-Murphy invoice #21030037
+Message-ID: <86d8f57a-2b17-45bf-aa38-7c23b4cfb6a7@rogerscontreras.io>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_614596_4119597175"
+X-Attachment-Name: FACTU2021030037.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Kelli Henderson <kelli.henderson@whitehouse.in>
+To: Jessica Humphrey <jessica.humphrey@allen.in>
+Date: Mon, 16 Feb 2026 21:36:35 +0530
+Subject: Your invoice FACTU2018040054 is attached
+Message-ID: <25ad8f7a-458a-470c-b826-11195a23cd05@whitehouse.in>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_729438_4389801747"
+X-Attachment-Name: FACTU2018040054.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

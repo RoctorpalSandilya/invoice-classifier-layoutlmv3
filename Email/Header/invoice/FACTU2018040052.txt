@@ -1,0 +1,11 @@
+From: Warda Solanki <warda.solanki@phillips.com>
+To: Gabriel Narasimhan <gabriel.narasimhan@flores.in>
+Date: Fri, 13 Feb 2026 21:08:30 +0200
+Subject: Tax Invoice INV-18040052
+Message-ID: <69c39129-74bb-48fd-b502-668cc8d7fa6c@phillips.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_567054_1344576938"
+X-Attachment-Name: FACTU2018040052.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

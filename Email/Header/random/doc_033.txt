@@ -1,0 +1,12 @@
+From: Chakrika Lad <chakrika.lad@graham.com>
+To: Anita Bali <anita.bali@stuart-fritz.com>
+Date: Wed, 25 Mar 2026 15:53:50 -0800
+Subject: FYI – attached file
+Message-ID: <1d306d74-b259-47ab-a529-fb1d209c34c7@graham.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_303834_4070523039"
+X-Attachment-Name: doc_033.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

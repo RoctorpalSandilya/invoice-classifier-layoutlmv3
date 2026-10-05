@@ -1,0 +1,11 @@
+From: Lauren Alexander <lauren.alexander@stevenson.io>
+To: Gary Bryant <gary.bryant@pickering.in>
+Date: Thu, 01 Jan 2026 22:40:20 -0800
+Subject: Query on invoice 19010049
+Message-ID: <cc350c25-775f-45a3-8253-5823fa327027@stevenson.io>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_520082_9852208393"
+X-Attachment-Name: FACTU2019010049.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

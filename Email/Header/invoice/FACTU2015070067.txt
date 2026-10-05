@@ -1,0 +1,11 @@
+From: Dr Lewis Young <dr.young@wallace.in>
+To: Cheryl Fisher-Scott <cheryl.fisher-scott@flemingharris.net>
+Date: Thu, 16 Jul 2026 10:21:58 +0530
+Subject: Invoice #15070067 from Wallace Group
+Message-ID: <a7716bbe-144c-491f-8238-b0ac1eb4942d@wallace.in>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_121191_7824999800"
+X-Attachment-Name: FACTU2015070067.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

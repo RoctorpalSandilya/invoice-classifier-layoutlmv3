@@ -1,0 +1,11 @@
+From: Devika Shroff <devika.shroff@gulati.net>
+To: Chanchal Sawhney <chanchal.sawhney@sherman.com>
+Date: Sat, 18 Jul 2026 01:27:23 +0530
+Subject: Invoice FACTU2019040057 | Due 01 Sep 2026
+Message-ID: <bb28043c-dc08-4649-84aa-b11859b4c1a6@gulati.net>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_199913_0119972113"
+X-Attachment-Name: FACTU2019040057.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

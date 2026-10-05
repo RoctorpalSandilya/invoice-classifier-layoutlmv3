@@ -1,0 +1,11 @@
+From: Max Chatterjee <max.chatterjee@randolph.com>
+To: Roberto Bridges <roberto.bridges@kane.io>
+Date: Thu, 03 Sep 2026 16:42:54 +0530
+Subject: Query on invoice 18010045
+Message-ID: <92566d77-d5d8-401e-86d2-1a0947695334@randolph.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_009913_1582304427"
+X-Attachment-Name: FACTU2018010045.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

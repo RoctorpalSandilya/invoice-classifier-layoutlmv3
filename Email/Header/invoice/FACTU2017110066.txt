@@ -1,0 +1,11 @@
+From: Fitan Gara <fitan.gara@harris.com>
+To: Bhavini Trivedi <bhavini.trivedi@sahni.co.uk>
+Date: Mon, 14 Sep 2026 19:14:24 +0530
+Subject: Tax Invoice #17110066
+Message-ID: <81af02d0-698f-4d74-a525-f918fc3e9c37@harris.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_118392_9124646745"
+X-Attachment-Name: FACTU2017110066.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

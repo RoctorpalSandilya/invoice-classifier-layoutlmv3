@@ -1,0 +1,12 @@
+From: Kyle Fletcher <kyle.fletcher@glassbailey.in>
+To: Dr Kimberley Parker <dr.parker@humphries.com>
+Date: Mon, 08 Jun 2026 22:54:38 -0500
+Subject: Here's that receipt you asked for
+Message-ID: <9debf4e5-a5c5-4e59-be6a-3ec35cd2a991@glassbailey.in>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_095310_5939287635"
+X-Attachment-Name: receipt_230.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

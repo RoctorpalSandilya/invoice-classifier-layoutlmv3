@@ -1,0 +1,11 @@
+From: Michaela Baker <michaela.baker@green.net>
+To: Denise Walls <denise.walls@francis.co.uk>
+Date: Mon, 12 Jan 2026 04:58:47 +0000
+Subject: Your invoice FACTU2021090036 is attached
+Message-ID: <4fa6876c-d7c5-42e8-b9b5-31f26cab1e06@green.net>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_581856_4558301162"
+X-Attachment-Name: FACTU2021090036.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

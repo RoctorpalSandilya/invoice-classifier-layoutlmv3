@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: INV-15020050
+Account: ACC-583171
+Amount: €17,199.39
+Due date: 19 May 2026
+
+The invoice is attached to this email in image format. You can also view and pay it online at https://billing.gill.net/invoices/INV-15020050.
+
+This is an automated message; please do not reply to this email.
+
+Anderson and Sons Billing Team

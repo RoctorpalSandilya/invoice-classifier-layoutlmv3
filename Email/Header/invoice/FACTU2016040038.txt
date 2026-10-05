@@ -1,0 +1,12 @@
+From: Bawa PLC Billing <no-reply@talwar-goyal.com>
+To: Kimberley Davies <kimberley.davies@uppal.com>
+Reply-To: billing@talwar-goyal.com
+Date: Sun, 26 Jul 2026 10:32:52 +0530
+Subject: Billing notification – invoice 16040038
+Message-ID: <a398c25d-d18c-40cd-849f-13cc14c5e920@talwar-goyal.com>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_252857_8717031676"
+X-Attachment-Name: FACTU2016040038.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

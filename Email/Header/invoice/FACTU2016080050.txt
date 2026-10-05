@@ -1,0 +1,12 @@
+From: William Kar <william.kar@abbott.net>
+To: Karen Murray <karen.murray@deol.com>
+Date: Fri, 20 Mar 2026 02:39:48 +0000
+Subject: Invoice 16080050 | Due 04 May 2026
+Message-ID: <76c85723-4078-45b6-afee-cc994c7b7e0d@abbott.net>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_509699_9221226990"
+X-Attachment-Name: FACTU2016080050.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

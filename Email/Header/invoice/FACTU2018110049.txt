@@ -1,0 +1,11 @@
+From: Anthony Morales <anthony.morales@dubey.com>
+To: David Cook <david.cook@robertswilliams.in>
+Date: Sat, 24 Jan 2026 07:50:41 +0000
+Subject: Invoice FACTU2018110049 – 26 days overdue
+Message-ID: <0154c50a-9b4d-49ed-ac5d-d5183aaf47d4@dubey.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_134097_3580472437"
+X-Attachment-Name: FACTU2018110049.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

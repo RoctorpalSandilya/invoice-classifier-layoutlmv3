@@ -1,0 +1,11 @@
+From: Alan Boyle <alan.boyle@millerkhan.com>
+To: Marvin Austin <marvin.austin@davisclark.net>
+Date: Thu, 16 Jul 2026 12:19:16 +0530
+Subject: Your invoice FACTU2019100056 is attached
+Message-ID: <5b74747e-69af-43d3-8137-79f28662e8c7@millerkhan.com>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_797098_6975882596"
+X-Attachment-Name: FACTU2019100056.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

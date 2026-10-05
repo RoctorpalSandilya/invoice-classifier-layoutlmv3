@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: #17100047
+Account: ACC-942491
+Amount: ₹18,508.67
+Due date: 13 Feb 2026
+
+The invoice is attached to this email in PDF format. You can also view and pay it online at https://billing.bhatt.com/invoices/17100047.
+
+This is an automated message; please do not reply to this email.
+
+Holt, Stephens and Allen Billing Team

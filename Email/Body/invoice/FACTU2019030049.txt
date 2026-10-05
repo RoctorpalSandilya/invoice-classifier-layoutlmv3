@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: #19030049
+Account: ACC-487491
+Amount: $16,633.46
+Due date: 15 Oct 2026
+
+The invoice is attached to this email in image format. You can also view and pay it online at https://billing.patla.com/invoices/19030049.
+
+This is an automated message; please do not reply to this email.
+
+Khan-Walker Billing Team

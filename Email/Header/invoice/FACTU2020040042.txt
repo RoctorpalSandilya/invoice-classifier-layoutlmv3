@@ -1,0 +1,12 @@
+From: Ranbir Kumar <ranbir.kumar@shermanrodgers.in>
+To: Miss Kelly Jones <miss.jones@whitehead.in>
+Date: Fri, 06 Mar 2026 15:07:20 +0200
+Subject: Invoice FACTU2020040042 – 59 days overdue
+Message-ID: <cae06e52-f111-494b-99d9-25abb3317b64@shermanrodgers.in>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_525781_8479261562"
+X-Attachment-Name: FACTU2020040042.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

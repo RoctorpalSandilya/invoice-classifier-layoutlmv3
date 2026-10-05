@@ -1,0 +1,11 @@
+From: Falan Pradhan <falan.pradhan@stewart.net>
+To: Christopher Hamilton <christopher.hamilton@tata.com>
+Date: Fri, 14 Aug 2026 20:36:04 +0200
+Subject: Taxi receipt for last week's client visit
+Message-ID: <4926f399-008a-4328-8a7b-3f38bfdac61b@stewart.net>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_614330_2688543943"
+X-Attachment-Name: receipt_140.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

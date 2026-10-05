@@ -1,0 +1,11 @@
+From: Megha Batra <megha.batra@patterson.in>
+To: Hayley Gutierrez <hayley.gutierrez@hurst-dobson.co.uk>
+Date: Fri, 13 Feb 2026 06:34:12 -0500
+Subject: Expenses – August
+Message-ID: <48ace71b-96a9-4b60-8b9c-099170a518ee@patterson.in>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_718285_2670908018"
+X-Attachment-Name: receipt_020.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

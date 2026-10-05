@@ -1,0 +1,12 @@
+From: Radha Borra <radha.borra@briggs.com>
+To: Daniel McLean <daniel.mclean@phillips.com>
+Date: Thu, 03 Sep 2026 10:25:20 +0000
+Subject: Here's that receipt you asked for
+Message-ID: <9e97c7b3-8312-40ab-8375-31d4aedabd5b@briggs.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_931085_0915250802"
+X-Attachment-Name: receipt_038.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

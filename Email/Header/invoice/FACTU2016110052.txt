@@ -1,0 +1,12 @@
+From: Troy Fisher <troy.fisher@morales.com>
+To: Diya Wali <diya.wali@morales.in>
+Cc: Gordon Bolton-Jones <gordon.bolton-jones@morales.in>
+Date: Sat, 04 Apr 2026 06:49:26 -0800
+Subject: AP: new vendor invoice FACTU2016110052
+Message-ID: <323917dd-9c2f-450f-8ae3-01420edb819e@morales.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_717616_3738097185"
+X-Attachment-Name: FACTU2016110052.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Anjali Bir <anjali.bir@nelson.co.uk>
+To: Bhavani Mitra <bhavani.mitra@campos.com>
+Date: Sat, 18 Jul 2026 12:31:36 -0800
+Subject: Receipt for expense claim
+Message-ID: <36693653-aae0-4540-957d-dfe47c4d255f@nelson.co.uk>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_056483_6188018543"
+X-Attachment-Name: receipt_214.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

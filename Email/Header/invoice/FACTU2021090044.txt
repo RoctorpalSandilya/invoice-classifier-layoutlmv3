@@ -1,0 +1,11 @@
+From: Bonnie Tran <bonnie.tran@chakrabarti.co.uk>
+To: Stacey Burton <stacey.burton@singhal.co.uk>
+Date: Sat, 04 Apr 2026 15:48:06 +0100
+Subject: Invoice INV-21090044 from Chakrabarti, Das and Chand
+Message-ID: <c5954475-e698-4a8b-b244-79963b6f9904@chakrabarti.co.uk>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_190886_6366061936"
+X-Attachment-Name: FACTU2021090044.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

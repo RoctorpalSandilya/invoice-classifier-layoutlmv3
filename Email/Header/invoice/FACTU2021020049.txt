@@ -1,0 +1,12 @@
+From: Anusha Keer <anusha.keer@petersonrobertson.com>
+To: James Jones <james.jones@loyal.co.uk>
+Date: Fri, 10 Jul 2026 07:32:06 -0500
+Subject: Tax Invoice FACTU2021020049
+Message-ID: <5d70c681-4f99-4210-966a-4476350d4c75@petersonrobertson.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_624541_9400995059"
+X-Attachment-Name: FACTU2021020049.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

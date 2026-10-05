@@ -1,0 +1,11 @@
+From: Bethan Richards <bethan.richards@johnsonreed.in>
+To: Tracey Scott <tracey.scott@wilsonwhite.com>
+Date: Sun, 26 Jul 2026 16:53:37 +0530
+Subject: Your invoice FACTU2015050044 is attached
+Message-ID: <4f6dc135-ded5-465a-9c3e-320ab7bc8eee@johnsonreed.in>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_321465_9647281158"
+X-Attachment-Name: FACTU2015050044.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Jeffrey Friedman <jeffrey.friedman@wood.co.uk>
+To: Janice Berry <janice.berry@chhabrakala.io>
+Date: Sat, 10 Jan 2026 17:10:58 -0500
+Subject: Invoice FACTU2020060064 from Wood, Jackson and Morris
+Message-ID: <cc01fb36-950f-42dd-8a9a-f9f1db573364@wood.co.uk>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_571881_7909089651"
+X-Attachment-Name: FACTU2020060064.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

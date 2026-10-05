@@ -1,0 +1,11 @@
+From: Dominic Johnson <dominic.johnson@franklin.in>
+To: Sarah Kim <sarah.kim@deshpandekurian.io>
+Date: Fri, 14 Aug 2026 09:43:25 +0200
+Subject: Invoice #18040055 – Deshpande-Kurian
+Message-ID: <0179f806-b895-4c2d-8367-691f812693e7@franklin.in>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_872669_3373704969"
+X-Attachment-Name: FACTU2018040055.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

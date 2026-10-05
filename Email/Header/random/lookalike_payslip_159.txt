@@ -1,0 +1,12 @@
+From: Payroll <payroll@chokshi-goswami.com>
+To: Jessica Horton <jessica.horton@babu.com>
+Date: Thu, 04 Jun 2026 05:23:38 -0800
+Subject: Pay statement Jun 2026
+Message-ID: <c80d584e-e8c3-4d3a-9cb7-7e9cefed4fbf@chokshi-goswami.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_557045_7138605679"
+X-Attachment-Name: lookalike_payslip_159.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

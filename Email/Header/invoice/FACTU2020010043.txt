@@ -1,0 +1,12 @@
+From: Ochoa PLC Billing <no-reply@henderson.biz>
+To: Joe Naylor <joe.naylor@devi.com>
+Reply-To: billing@henderson.biz
+Date: Sat, 18 Apr 2026 21:08:44 +0000
+Subject: [Automated] Invoice INV-20010043 is now available
+Message-ID: <2e132bfa-e66b-4783-8d87-2211e4f6acf7@henderson.biz>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_075851_2679202099"
+X-Attachment-Name: FACTU2020010043.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

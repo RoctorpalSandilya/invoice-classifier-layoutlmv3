@@ -1,0 +1,12 @@
+From: Mr Aaron Kirk <mr.kirk@campbellhiggins.co.uk>
+To: Amelia Watson <amelia.watson@russo-brown.com>
+Date: Thu, 12 Feb 2026 18:54:55 -0800
+Subject: New PO from Campbell-Higgins
+Message-ID: <772cbaef-c945-4463-9e02-922845408c6e@campbellhiggins.co.uk>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_132657_7730386753"
+X-Attachment-Name: lookalike_purchase_order_168.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

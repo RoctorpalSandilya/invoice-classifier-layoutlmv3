@@ -1,0 +1,11 @@
+From: Crystal Patel <crystal.patel@marsdensaunders.com>
+To: Amara Borra <amara.borra@panditsangha.io>
+Date: Sun, 02 Aug 2026 19:48:35 +0200
+Subject: Tax Invoice #15110046
+Message-ID: <aa3bccc5-a4c4-4b9c-b6e9-b4506fea5e07@marsdensaunders.com>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_140595_8809257202"
+X-Attachment-Name: FACTU2015110046.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

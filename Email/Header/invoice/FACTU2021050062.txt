@@ -1,0 +1,12 @@
+From: Nidhi Subramanian <nidhi.subramanian@mccarthy.io>
+To: Michael Ray <michael.ray@biswasrao.io>
+Date: Fri, 29 May 2026 15:06:25 +0100
+Subject: Your invoice #21050062 is attached
+Message-ID: <b4bd3fd1-64bc-44ba-abc4-0982b7868dd7@mccarthy.io>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_120207_7671240820"
+X-Attachment-Name: FACTU2021050062.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

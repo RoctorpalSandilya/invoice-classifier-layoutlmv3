@@ -1,0 +1,11 @@
+From: Tamanna Gole <tamanna.gole@blairthomas.net>
+To: Benjamin Pandey <benjamin.pandey@garcia.co.uk>
+Date: Sat, 08 Aug 2026 06:50:58 +0200
+Subject: Invoice INV-17110064 – 52 days overdue
+Message-ID: <e1e21242-5a49-457d-946c-348744c03d8a@blairthomas.net>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_523626_9588607849"
+X-Attachment-Name: FACTU2017110064.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

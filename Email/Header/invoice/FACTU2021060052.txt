@@ -1,0 +1,11 @@
+From: John Mckee <john.mckee@thompson.in>
+To: Kieran Coleman-Bailey <kieran.coleman-bailey@huntwilson.net>
+Date: Sun, 27 Sep 2026 21:57:52 +0100
+Subject: Your invoice INV-21060052 is attached
+Message-ID: <09aa0cb2-0a73-4376-b748-6ff9f02529ba@thompson.in>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_252061_2342319765"
+X-Attachment-Name: FACTU2021060052.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Siddharth Dey <siddharth.dey@ganesan.com>
+To: Nandini Butala <nandini.butala@carpenter.com>
+Date: Thu, 15 Jan 2026 08:40:25 +0530
+Subject: Query on invoice FACTU2021040035
+Message-ID: <b8f5ef25-7836-4a74-b293-8490c378447c@ganesan.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_532206_1171852884"
+X-Attachment-Name: FACTU2021040035.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

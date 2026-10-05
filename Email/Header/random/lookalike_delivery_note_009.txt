@@ -1,0 +1,11 @@
+From: Dr Allan Thompson <dr.thompson@cabrera.net>
+To: Beth Thompson-Phillips <beth.thompson-phillips@lane.biz>
+Date: Thu, 26 Feb 2026 19:51:00 +0200
+Subject: Delivery note – shipment DN-085716
+Message-ID: <9bfcd15b-c883-46ba-a089-b22c4cb2fb30@cabrera.net>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_400851_7359468008"
+X-Attachment-Name: lookalike_delivery_note_009.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

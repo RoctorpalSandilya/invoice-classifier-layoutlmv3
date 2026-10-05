@@ -1,0 +1,12 @@
+From: Emma Brown <emma.brown@balan.co.uk>
+To: Megan Roberts <megan.roberts@narayanan.co.uk>
+Date: Sat, 22 Aug 2026 07:14:49 -0500
+Subject: Question about attached invoice INV-21060046
+Message-ID: <5a4d4290-6576-44cf-9f7b-5eeaafa9b5d5@balan.co.uk>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_965520_5653459250"
+X-Attachment-Name: FACTU2021060046.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Kenneth Rhodes <kenneth.rhodes@bal.io>
+To: Nicholas Peters <nicholas.peters@vyasbabu.net>
+Date: Fri, 21 Aug 2026 13:43:28 +0530
+Subject: Question about attached invoice FACTU2018030058
+Message-ID: <12d02fc9-2e2b-48b7-9097-3c7c6af69be5@bal.io>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_666633_7571656630"
+X-Attachment-Name: FACTU2018030058.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

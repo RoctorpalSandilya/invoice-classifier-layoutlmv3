@@ -1,0 +1,12 @@
+From: Sanchez-Nguyen Billing <no-reply@underwood-williams.info>
+To: Ariel Green <ariel.green@handa.com>
+Reply-To: billing@underwood-williams.info
+Date: Wed, 20 May 2026 06:37:05 +0200
+Subject: Billing notification – invoice 21010051
+Message-ID: <b0ff8fc6-2a33-42c2-85e1-ea7544f985b5@underwood-williams.info>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_262519_4330768461"
+X-Attachment-Name: FACTU2021010051.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Jack Andra <jack.andra@allenjenkins.in>
+To: Anusha Patil <anusha.patil@allenjenkins.io>
+Cc: Kim King <kim.king@allenjenkins.io>
+Date: Thu, 09 Jul 2026 18:51:56 +0000
+Subject: [Action required] Invoice FACTU2015120065 – Lane, Bell and Clark
+Message-ID: <37a90199-3616-49b0-bfc8-1f7378b65002@allenjenkins.in>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_338681_4441596935"
+X-Attachment-Name: FACTU2015120065.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

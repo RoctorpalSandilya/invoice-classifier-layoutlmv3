@@ -1,0 +1,11 @@
+From: Anna Davis <anna.davis@agateprashad.co.uk>
+To: Stephanie Hughes <stephanie.hughes@jones.net>
+Date: Tue, 01 Sep 2026 17:20:18 +0000
+Subject: Re-sending invoice INV-17020051
+Message-ID: <66f50aac-430d-4953-bd12-e142fbd09ffc@agateprashad.co.uk>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_516207_2515807367"
+X-Attachment-Name: FACTU2017020051.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

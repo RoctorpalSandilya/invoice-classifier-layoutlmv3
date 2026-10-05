@@ -1,0 +1,11 @@
+From: Nidra Muni <nidra.muni@krishnamurthykumer.io>
+To: Shannon O'Connor <shannon.o'connor@edwards.com>
+Date: Sun, 23 Aug 2026 15:01:02 -0800
+Subject: Please see attached
+Message-ID: <9aaddf15-82a3-4349-9fae-f2f278cab458@krishnamurthykumer.io>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_453726_0922855296"
+X-Attachment-Name: doc_021.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

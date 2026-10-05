@@ -1,0 +1,11 @@
+From: Leanne Weston <leanne.weston@ahmed.co.uk>
+To: Tammy Coleman MD <tammy.md@agarwal.com>
+Date: Tue, 31 Mar 2026 00:20:30 -0500
+Subject: Tax Invoice FACTU2016060042
+Message-ID: <3d130fe9-251b-49cf-96f9-1da21c7dbed6@ahmed.co.uk>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_075586_0995296917"
+X-Attachment-Name: FACTU2016060042.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: 15050047
+Account: ACC-321624
+Amount: ₹11,836.30
+Due date: 27 Mar 2026
+
+The invoice is attached to this email in image format. You can also view and pay it online at https://billing.balakrishnan.info/invoices/15050047.
+
+This is an automated message; please do not reply to this email.
+
+Smith Group Billing Team

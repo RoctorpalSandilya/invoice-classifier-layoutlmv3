@@ -1,0 +1,12 @@
+From: Dustin Mcdonald <dustin.mcdonald@daniels.com>
+To: Lila Dhingra <lila.dhingra@daniels.co.uk>
+Cc: Nandini Butala <nandini.butala@daniels.co.uk>
+Date: Mon, 13 Apr 2026 19:47:12 -0500
+Subject: Invoice FACTU2017020053 for approval
+Message-ID: <38451567-3d5a-45ea-88d2-1768714df3d5@daniels.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_381058_3641128516"
+X-Attachment-Name: FACTU2017020053.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

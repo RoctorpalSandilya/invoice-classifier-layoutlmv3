@@ -1,0 +1,11 @@
+From: Aradhana Dara <aradhana.dara@ahmed.io>
+To: Om Saha <om.saha@johnson.com>
+Date: Fri, 27 Feb 2026 16:41:37 +0100
+Subject: Taxi receipt for last week's client visit
+Message-ID: <1974e6e8-9950-460c-856e-abfd52405b20@ahmed.io>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_585480_8311768459"
+X-Attachment-Name: receipt_151.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

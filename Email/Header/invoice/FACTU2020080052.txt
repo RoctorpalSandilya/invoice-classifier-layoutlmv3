@@ -1,0 +1,13 @@
+From: Stevens, Mitchell and Thomas Billing <no-reply@evans.com>
+To: Dr Toby Pollard <dr.pollard@smith.com>
+Reply-To: billing@evans.com
+Date: Tue, 13 Jan 2026 17:54:17 +0100
+Subject: Your Stevens, Mitchell and Thomas invoice INV-20080052
+Message-ID: <d2a6aeaf-3023-40f9-9844-3dc3c08f32cb@evans.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_764651_6135971431"
+X-Attachment-Name: FACTU2020080052.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

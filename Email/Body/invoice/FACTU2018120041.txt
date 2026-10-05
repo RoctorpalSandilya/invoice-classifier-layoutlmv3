@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: INV-18120041
+Account: ACC-880104
+Amount: £11,791.62
+Due date: 30 Jun 2026
+
+The invoice is attached to this email in image format. You can also view and pay it online at https://billing.pearson.org/invoices/INV-18120041.
+
+This is an automated message; please do not reply to this email.
+
+Saxena, Kanda and Dugal Billing Team

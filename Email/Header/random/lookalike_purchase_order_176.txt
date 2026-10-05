@@ -1,0 +1,12 @@
+From: John Owen <john.owen@puri.net>
+To: Vedhika Mohan <vedhika.mohan@thomas.info>
+Date: Sun, 16 Aug 2026 19:38:01 +0200
+Subject: Purchase order for your review
+Message-ID: <d95bcb67-f03b-4868-ba45-7afb09e30159@puri.net>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_113451_0386585517"
+X-Attachment-Name: lookalike_purchase_order_176.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Sherri Morales <sherri.morales@avila.in>
+To: Vedika Goswami <vedika.goswami@khanjoyce.net>
+Date: Sun, 10 May 2026 21:42:23 +0530
+Subject: Reminder: outstanding invoice #16010056
+Message-ID: <26cfac6e-c4c9-4453-8400-91c263cad1e3@avila.in>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_089733_5980074255"
+X-Attachment-Name: FACTU2016010056.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

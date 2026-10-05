@@ -1,0 +1,12 @@
+From: Chaaya Edwin <chaaya.edwin@morris.com>
+To: Nitesh Issac <nitesh.issac@adams.net>
+Date: Sat, 30 May 2026 12:24:42 +0000
+Subject: Payment made – €1,504.15
+Message-ID: <f0ed3bc1-bc7a-40d8-a478-cad639d806a2@morris.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_235822_1538431940"
+X-Attachment-Name: lookalike_remittance_019.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Dr Deborah Lambert <dr.lambert@mullins.io>
+To: Gabriel Tailor <gabriel.tailor@wilkinsonmatthews.com>
+Date: Sun, 26 Jul 2026 20:23:08 -0800
+Subject: Payment reminder: Invoice INV-20100048
+Message-ID: <4688491c-d71a-4c0d-99b5-87a9ec6ffd5b@mullins.io>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_984292_0865695298"
+X-Attachment-Name: FACTU2020100048.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Mary Shelton <mary.shelton@mand.io>
+To: Dalbir Sule <dalbir.sule@brown.io>
+Date: Thu, 16 Apr 2026 09:20:03 +0530
+Subject: Mand Inc: Invoice FACTU2021040041 for January services
+Message-ID: <1ebaa41c-7d79-4cad-9908-962e7e875bf3@mand.io>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_099090_8612270536"
+X-Attachment-Name: FACTU2021040041.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

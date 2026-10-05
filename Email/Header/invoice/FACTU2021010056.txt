@@ -1,0 +1,12 @@
+From: Megan Bryant <megan.bryant@marshallbrooks.io>
+To: Ricardo Aguirre <ricardo.aguirre@hart.com>
+Date: Wed, 20 May 2026 22:37:00 -0500
+Subject: Your invoice FACTU2021010056 is attached
+Message-ID: <02eb7b06-2341-4a1b-94fa-f878db215822@marshallbrooks.io>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_381613_0231035764"
+X-Attachment-Name: FACTU2021010056.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

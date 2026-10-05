@@ -1,0 +1,12 @@
+From: Daniel Brooks <daniel.brooks@mitchell.net>
+To: Timothy Wallace-Bishop <timothy.wallace-bishop@bailmajumdar.net>
+Date: Tue, 28 Jul 2026 14:24:48 -0500
+Subject: Payment reminder: Invoice INV-15100043
+Message-ID: <7185bb38-638b-4ba5-b379-db289033befd@mitchell.net>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_588885_2388619115"
+X-Attachment-Name: FACTU2015100043.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

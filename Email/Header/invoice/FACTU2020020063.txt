@@ -1,0 +1,11 @@
+From: Jasmine Vasquez <jasmine.vasquez@doshi.com>
+To: Sanya Devi <sanya.devi@ray.io>
+Date: Tue, 03 Feb 2026 06:40:36 +0530
+Subject: Doshi and Sons: Invoice #20020063 for January services
+Message-ID: <27f98f9e-09d4-4ca9-9623-255c3940e2b4@doshi.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_813779_8635434991"
+X-Attachment-Name: FACTU2020020063.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

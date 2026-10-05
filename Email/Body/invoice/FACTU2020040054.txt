@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: FACTU2020040054
+Account: ACC-336476
+Amount: $24,823.20
+Due date: 09 Jul 2026
+
+The invoice is attached to this email in image format. You can also view and pay it online at https://billing.williams-bryant.org/invoices/FACTU2020040054.
+
+This is an automated message; please do not reply to this email.
+
+Meyer-Lyons Billing Team

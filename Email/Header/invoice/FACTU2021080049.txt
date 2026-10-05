@@ -1,0 +1,13 @@
+From: Naksh Hayer <naksh.hayer@wrightgraham.io>
+To: Vamakshi Swaminathan <vamakshi.swaminathan@wrightgraham.com>
+Cc: Joseph Wells <joseph.wells@wrightgraham.com>
+Date: Thu, 08 Jan 2026 16:44:10 -0500
+Subject: Invoice INV-21080049 for approval
+Message-ID: <663cbc2d-adc2-47fa-9d9e-720991b2d01f@wrightgraham.io>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_663116_8815170894"
+X-Attachment-Name: FACTU2021080049.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

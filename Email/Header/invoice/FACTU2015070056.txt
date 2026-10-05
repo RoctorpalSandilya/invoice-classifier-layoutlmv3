@@ -1,0 +1,11 @@
+From: Antony Murray <antony.murray@pall.net>
+To: Pavani Kapur <pavani.kapur@davismitchell.io>
+Date: Fri, 24 Jul 2026 04:53:57 +0100
+Subject: Question about attached invoice FACTU2015070056
+Message-ID: <c3ec767b-71ae-4500-83e1-7a775759c3fd@pall.net>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_213365_7140775171"
+X-Attachment-Name: FACTU2015070056.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

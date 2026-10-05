@@ -1,0 +1,11 @@
+From: Brandon Flynn <brandon.flynn@rodriguez.in>
+To: Louise Rowe-Simpson <louise.rowe-simpson@turnersanchez.com>
+Date: Fri, 02 Oct 2026 00:00:36 -0800
+Subject: Invoice #15080066 from Rodriguez, Turner and Richardson
+Message-ID: <51bffda1-aa99-4420-af5b-5dd925ce5dd7@rodriguez.in>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_926973_4845553081"
+X-Attachment-Name: FACTU2015080066.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

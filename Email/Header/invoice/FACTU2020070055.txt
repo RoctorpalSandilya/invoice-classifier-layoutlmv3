@@ -1,0 +1,11 @@
+From: Jody Lewis <jody.lewis@rowe.in>
+To: John Stewart <john.stewart@sanders.net>
+Date: Fri, 28 Aug 2026 07:30:08 -0500
+Subject: Your invoice 20070055 is attached
+Message-ID: <a8acd8bb-05cd-4b34-bb5c-9de805a995b1@rowe.in>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_757189_6395666312"
+X-Attachment-Name: FACTU2020070055.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

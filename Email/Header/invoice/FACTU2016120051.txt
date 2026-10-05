@@ -1,0 +1,12 @@
+From: Dennis Williams-Mason <dennis.williams-mason@hernandez.co.uk>
+To: Jamie Paul <jamie.paul@ward.net>
+Date: Sat, 08 Aug 2026 19:48:43 -0800
+Subject: Invoice 16120051 – Ward LLC
+Message-ID: <dc3e75c4-2a68-4147-af4d-fd6989f8cefa@hernandez.co.uk>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_791319_7509129326"
+X-Attachment-Name: FACTU2016120051.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

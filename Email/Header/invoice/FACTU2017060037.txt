@@ -1,0 +1,12 @@
+From: Pope-Andrews Billing <no-reply@fox-wright.com>
+To: Conor Walsh-Tomlinson <conor.walsh-tomlinson@gopal.in>
+Reply-To: billing@fox-wright.com
+Date: Mon, 20 Apr 2026 18:18:56 -0800
+Subject: New invoice FACTU2017060037 generated
+Message-ID: <6592d207-c9cc-4f03-999a-324778ae9013@fox-wright.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_363272_7252818742"
+X-Attachment-Name: FACTU2017060037.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

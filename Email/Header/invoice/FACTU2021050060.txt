@@ -1,0 +1,12 @@
+From: Jones-Davidson Billing <no-reply@hora-lanka.net>
+To: Gerald Williams-James <gerald.williams-james@ramachandran.in>
+Reply-To: billing@hora-lanka.net
+Date: Sat, 10 Jan 2026 22:11:06 -0500
+Subject: Your Jones-Davidson invoice FACTU2021050060
+Message-ID: <69c69fdc-7e39-4509-b638-b73b32caed21@hora-lanka.net>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_672646_8924055806"
+X-Attachment-Name: FACTU2021050060.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

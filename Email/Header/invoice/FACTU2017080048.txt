@@ -1,0 +1,12 @@
+From: Janet Jones <janet.jones@adamsjohnson.io>
+To: Maya Vyas <maya.vyas@grewal.in>
+Date: Sat, 13 Jun 2026 17:14:26 +0100
+Subject: Your invoice #17080048 is attached
+Message-ID: <9f4c4d29-888c-4115-b32f-cc06c4931a9b@adamsjohnson.io>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_685481_0953892712"
+X-Attachment-Name: FACTU2017080048.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

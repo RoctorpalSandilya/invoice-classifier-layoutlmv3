@@ -1,0 +1,12 @@
+From: Nicholas Robinson <nicholas.robinson@gardner.net>
+To: Billy Wallace <billy.wallace@gardner.net>
+Cc: Mr Tom Shah <mr.shah@gardner.net>
+Date: Wed, 01 Apr 2026 08:13:30 -0800
+Subject: AP: new vendor invoice 19040052
+Message-ID: <fe6f429c-567d-49ea-86f2-34e6d179d56e@gardner.net>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_120209_7117350375"
+X-Attachment-Name: FACTU2019040052.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

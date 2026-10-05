@@ -1,0 +1,12 @@
+From: Priya Divan <priya.divan@dara.com>
+To: Danny Foster <danny.foster@bell.org>
+Date: Mon, 17 Aug 2026 04:45:20 +0530
+Subject: Remittance for your invoices
+Message-ID: <13798751-3e64-4d68-a7ec-c9d0b86178b7@dara.com>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_776398_2087938918"
+X-Attachment-Name: lookalike_remittance_183.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

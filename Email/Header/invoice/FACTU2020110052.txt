@@ -1,0 +1,11 @@
+From: Jacob Bradley <jacob.bradley@pandya.net>
+To: Annette Briggs <annette.briggs@anderson.com>
+Date: Wed, 19 Aug 2026 14:46:04 -0800
+Subject: Invoice 20110052 – Anderson and Sons
+Message-ID: <72281f5b-e422-4bdf-923b-269148981063@pandya.net>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_970313_6948954037"
+X-Attachment-Name: FACTU2020110052.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

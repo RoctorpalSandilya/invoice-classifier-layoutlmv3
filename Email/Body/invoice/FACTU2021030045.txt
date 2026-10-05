@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: 21030045
+Account: ACC-034494
+Amount: ₹13,301.01
+Due date: 16 Sep 2026
+
+The invoice is attached to this email in image format. You can also view and pay it online at https://billing.jimenez.com/invoices/21030045.
+
+This is an automated message; please do not reply to this email.
+
+Pall, Babu and Mohanty Billing Team

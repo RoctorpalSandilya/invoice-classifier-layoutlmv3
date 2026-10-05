@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: 16040046
+Account: ACC-541312
+Amount: ₹1,721.42
+Due date: 21 Jul 2026
+
+The invoice is attached to this email in image format. You can also view and pay it online at https://billing.allen.biz/invoices/16040046.
+
+This is an automated message; please do not reply to this email.
+
+Pai LLC Billing Team

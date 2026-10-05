@@ -1,0 +1,11 @@
+From: Patricia Brown <patricia.brown@grewal.com>
+To: Steven Clayton <steven.clayton@luna.com>
+Date: Mon, 22 Jun 2026 09:22:04 +0530
+Subject: Reimbursement – attached receipt
+Message-ID: <f5ecc140-67a8-49e7-89a4-7043a6e19abe@grewal.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_928309_4701226794"
+X-Attachment-Name: receipt_208.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

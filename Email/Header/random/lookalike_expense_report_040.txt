@@ -1,0 +1,11 @@
+From: Brian Pollard <brian.pollard@robinsongardner.net>
+To: Karen Moore <karen.moore@green.biz>
+Date: Mon, 15 Jun 2026 12:28:26 +0000
+Subject: Expense claim submitted
+Message-ID: <afaaf947-8bf3-43db-a2e1-09a9947020a4@robinsongardner.net>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_079909_9094155901"
+X-Attachment-Name: lookalike_expense_report_040.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

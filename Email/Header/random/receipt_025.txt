@@ -1,0 +1,12 @@
+From: Mr Guy Fletcher <mr.fletcher@blair.com>
+To: Randy Hernandez <randy.hernandez@hughes-henry.com>
+Date: Wed, 16 Sep 2026 00:07:01 -0500
+Subject: Lunch receipt
+Message-ID: <f417c6a4-b7b2-490f-a0fa-877d2fe34623@blair.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_761973_4636151755"
+X-Attachment-Name: receipt_025.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

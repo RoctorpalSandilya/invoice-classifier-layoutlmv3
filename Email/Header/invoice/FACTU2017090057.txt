@@ -1,0 +1,12 @@
+From: Krishna Sharaf <krishna.sharaf@harvey.com>
+To: Dr Abbie Lowe <dr.lowe@solanki.co.uk>
+Date: Mon, 01 Jun 2026 01:00:49 -0800
+Subject: Invoice 17090057 from Harvey Group
+Message-ID: <799403e9-06ec-4f19-a0a0-2bc112b0073e@harvey.com>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_752474_7593931938"
+X-Attachment-Name: FACTU2017090057.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

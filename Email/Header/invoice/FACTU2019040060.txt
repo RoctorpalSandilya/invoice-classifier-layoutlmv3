@@ -1,0 +1,11 @@
+From: Zinal Parmar <zinal.parmar@johnson.co.uk>
+To: Jennifer Smith <jennifer.smith@doshi.net>
+Date: Tue, 08 Sep 2026 04:13:59 +0100
+Subject: Friendly reminder – invoice INV-19040060 due 23 Oct 2026
+Message-ID: <1cd1f750-24fe-43f4-8d75-6cdb8f64c8a2@johnson.co.uk>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_450724_3329504817"
+X-Attachment-Name: FACTU2019040060.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

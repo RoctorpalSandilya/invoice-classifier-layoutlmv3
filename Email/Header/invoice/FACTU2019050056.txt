@@ -1,0 +1,11 @@
+From: Bhanumati Kalita <bhanumati.kalita@samrapatla.io>
+To: Onkar Khatri <onkar.khatri@shah.com>
+Date: Sun, 12 Jul 2026 15:29:11 +0200
+Subject: Invoice 19050056 – Shah LLC
+Message-ID: <f48f7f53-5db2-418e-b7ed-21c807f2d3f0@samrapatla.io>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_451804_5678662068"
+X-Attachment-Name: FACTU2019050056.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

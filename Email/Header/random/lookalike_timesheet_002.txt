@@ -1,0 +1,12 @@
+From: Mohammed Hall <mohammed.hall@larson.io>
+To: Roger Wallis <roger.wallis@radhakrishnan.com>
+Date: Mon, 27 Jul 2026 15:28:31 +0100
+Subject: Weekly timesheet for approval
+Message-ID: <0e0aac3c-6083-4593-ae9e-ef5830e72b09@larson.io>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_150658_5354188588"
+X-Attachment-Name: lookalike_timesheet_002.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

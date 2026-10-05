@@ -1,0 +1,11 @@
+From: Luis Ponce <luis.ponce@mandakrish.co.uk>
+To: Yoshita Walla <yoshita.walla@narayanandeshmukh.co.uk>
+Date: Sat, 07 Mar 2026 00:14:32 -0500
+Subject: Manda-Krish: Invoice INV-21100059 for April services
+Message-ID: <fc5357d2-f1e3-40a1-8f7f-2e7322cdd1f5@mandakrish.co.uk>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_270398_9150091256"
+X-Attachment-Name: FACTU2021100059.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

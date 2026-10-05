@@ -1,0 +1,11 @@
+From: Michelle Clark <michelle.clark@murphy.co.uk>
+To: Elizabeth Walker <elizabeth.walker@apte-murthy.com>
+Date: Mon, 29 Jun 2026 07:04:32 +0530
+Subject: Remittance for your invoices
+Message-ID: <306f6a04-7ec6-4be2-8660-20ee49aec9e4@murphy.co.uk>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_610899_0879352179"
+X-Attachment-Name: lookalike_remittance_128.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

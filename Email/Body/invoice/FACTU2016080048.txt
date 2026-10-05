@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: #16080048
+Account: ACC-830048
+Amount: $10,526.81
+Due date: 19 Sep 2026
+
+The invoice is attached to this email in image format. You can also view and pay it online at https://billing.williams.biz/invoices/16080048.
+
+This is an automated message; please do not reply to this email.
+
+Krish-Varkey Billing Team

@@ -1,0 +1,11 @@
+From: Howard Hobbs <howard.hobbs@gonzalessloan.io>
+To: Antonio Brady <antonio.brady@choudhary.com>
+Date: Tue, 06 Jan 2026 22:15:26 +0530
+Subject: Fwd: your receipt
+Message-ID: <e86b9575-ac18-435c-bc41-24b5e27e6ee4@gonzalessloan.io>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_444910_9591632769"
+X-Attachment-Name: receipt_123.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

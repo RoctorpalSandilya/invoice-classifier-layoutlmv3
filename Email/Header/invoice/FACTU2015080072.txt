@@ -1,0 +1,11 @@
+From: Veronica Skinner <veronica.skinner@soto.io>
+To: Keya Kapoor <keya.kapoor@roberts.co.uk>
+Date: Wed, 15 Apr 2026 01:55:15 +0530
+Subject: Your invoice INV-15080072 is attached
+Message-ID: <c58c7693-589f-49f4-9ef2-2c9de0d86330@soto.io>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_497988_3273454815"
+X-Attachment-Name: FACTU2015080072.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

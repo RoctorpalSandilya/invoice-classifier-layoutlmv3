@@ -1,0 +1,12 @@
+From: Edward Mccarthy <edward.mccarthy@robinsonferguson.io>
+To: Dr Derek French <dr.french@mcdonaldburke.co.uk>
+Date: Thu, 22 Jan 2026 14:31:40 +0530
+Subject: Re-sending invoice #15110055
+Message-ID: <bda35820-227c-43c6-ba6f-842aa7508b6a@robinsonferguson.io>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_835436_0128030383"
+X-Attachment-Name: FACTU2015110055.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

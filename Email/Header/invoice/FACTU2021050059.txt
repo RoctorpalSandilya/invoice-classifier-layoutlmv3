@@ -1,0 +1,11 @@
+From: Cameron Roberts <cameron.roberts@grewal.io>
+To: Meghana Bedi <meghana.bedi@watson.net>
+Date: Tue, 30 Jun 2026 01:18:52 +0530
+Subject: Invoice #21050059 | Due 14 Aug 2026
+Message-ID: <0a087825-c258-45f2-bcd2-dadd8323b9bb@grewal.io>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_340110_5419794741"
+X-Attachment-Name: FACTU2021050059.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

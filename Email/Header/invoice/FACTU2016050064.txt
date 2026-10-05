@@ -1,0 +1,12 @@
+From: Vedika Karnik <vedika.karnik@armstrong.io>
+To: Damien Willis <damien.willis@armstrong.net>
+Cc: Warda Sahni <warda.sahni@armstrong.net>
+Date: Mon, 26 Jan 2026 19:05:32 -0500
+Subject: Invoice INV-16050064 for approval
+Message-ID: <0b004897-cdb2-43a6-8b8f-7c4a44e751bf@armstrong.io>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_138532_2356447301"
+X-Attachment-Name: FACTU2016050064.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

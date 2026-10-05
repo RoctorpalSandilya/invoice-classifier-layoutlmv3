@@ -1,0 +1,11 @@
+From: Carrie Reed <carrie.reed@jackson.net>
+To: Jacqueline Ahmed <jacqueline.ahmed@pope.com>
+Date: Sun, 26 Apr 2026 06:42:16 +0100
+Subject: Tax Invoice #16020048
+Message-ID: <57d2d0c8-0c03-43dd-af5c-2ee0ea9aa055@jackson.net>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_689112_4513069984"
+X-Attachment-Name: FACTU2016020048.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

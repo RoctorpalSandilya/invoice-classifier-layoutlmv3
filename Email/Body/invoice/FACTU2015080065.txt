@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: #15080065
+Account: ACC-382984
+Amount: $163.36
+Due date: 20 Nov 2026
+
+The invoice is attached to this email in PDF format. You can also view and pay it online at https://billing.jones.org/invoices/15080065.
+
+This is an automated message; please do not reply to this email.
+
+Dhaliwal, Seth and Kunda Billing Team

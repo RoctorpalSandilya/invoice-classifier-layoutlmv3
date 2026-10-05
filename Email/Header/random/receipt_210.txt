@@ -1,0 +1,11 @@
+From: Marian Wilkinson <marian.wilkinson@dasgupta.com>
+To: Bryan Calderon <bryan.calderon@york.net>
+Date: Fri, 10 Apr 2026 21:06:00 +0530
+Subject: Receipt from Green, Mckenzie and Khan
+Message-ID: <41a8c07e-d2f9-4a0d-83bf-963c7b12cc76@dasgupta.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_309509_5650159879"
+X-Attachment-Name: receipt_210.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

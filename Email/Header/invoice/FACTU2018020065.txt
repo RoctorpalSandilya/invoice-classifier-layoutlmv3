@@ -1,0 +1,12 @@
+From: Godfrey PLC Billing <no-reply@marshall.org>
+To: Matthew Balan <matthew.balan@wilson.com>
+Reply-To: billing@marshall.org
+Date: Wed, 01 Jul 2026 19:50:56 +0000
+Subject: Billing notification – invoice FACTU2018020065
+Message-ID: <47e9677a-3629-4dec-aa40-2e0b425bc63b@marshall.org>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_940324_2364971504"
+X-Attachment-Name: FACTU2018020065.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

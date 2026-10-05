@@ -1,0 +1,11 @@
+From: Glenn Wheeler <glenn.wheeler@kar.com>
+To: Barbara Boyle <barbara.boyle@torres.co.uk>
+Date: Tue, 27 Jan 2026 19:33:47 -0500
+Subject: Tax Invoice INV-19120052
+Message-ID: <bcd08ea0-0681-4502-86af-b788d18f75e8@kar.com>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_732726_2339279179"
+X-Attachment-Name: FACTU2019120052.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

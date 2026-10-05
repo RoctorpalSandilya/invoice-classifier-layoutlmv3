@@ -1,0 +1,12 @@
+From: Meadows and Sons Billing <no-reply@harris-jones.org>
+To: Dr Karl Farrell <dr.farrell@ramaswamy.in>
+Reply-To: billing@harris-jones.org
+Date: Sat, 11 Apr 2026 04:35:00 +0200
+Subject: Billing notification – invoice #21090045
+Message-ID: <839a0826-0153-4ef9-8b70-19cfc6cd2102@harris-jones.org>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_771513_7914247453"
+X-Attachment-Name: FACTU2021090045.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

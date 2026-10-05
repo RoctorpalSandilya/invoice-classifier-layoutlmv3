@@ -1,0 +1,11 @@
+From: Zinal Babu <zinal.babu@yodermiller.com>
+To: Cynthia Harris <cynthia.harris@daviessmith.io>
+Date: Mon, 18 May 2026 17:00:09 +0100
+Subject: Invoice 21060049 | Due 17 Jun 2026
+Message-ID: <67e8b942-0115-426d-8317-852b2f59c95c@yodermiller.com>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_619276_1772025756"
+X-Attachment-Name: FACTU2021060049.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Daniel Banks <daniel.banks@lewis.io>
+To: Lavanya Arora <lavanya.arora@hart.in>
+Date: Sun, 26 Apr 2026 06:37:07 +0200
+Subject: Invoice #19080044 from Lewis Group
+Message-ID: <ae0a92ae-30eb-4346-97f7-6059a7366672@lewis.io>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_305320_2898227448"
+X-Attachment-Name: FACTU2019080044.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

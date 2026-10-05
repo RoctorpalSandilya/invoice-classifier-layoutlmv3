@@ -1,0 +1,12 @@
+From: Davis and Sons Billing <no-reply@paul.net>
+To: Mr Matthew Stevenson <mr.stevenson@watts.com>
+Reply-To: billing@paul.net
+Date: Sat, 21 Feb 2026 04:46:31 +0100
+Subject: Your Davis and Sons invoice INV-19020055
+Message-ID: <3a50f210-7d1e-443d-bba9-f52b608b033f@paul.net>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_324823_9206886702"
+X-Attachment-Name: FACTU2019020055.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

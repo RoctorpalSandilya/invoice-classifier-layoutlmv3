@@ -1,0 +1,12 @@
+From: Azad Sunder <azad.sunder@hayes.com>
+To: Qabil Khanna <qabil.khanna@turnbulltaylor.com>
+Date: Sun, 19 Jul 2026 07:55:40 +0530
+Subject: FW: Invoice #19100055
+Message-ID: <f5f0b2f2-e0c0-43a7-8218-fdeb80bfb160@hayes.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_711475_2238925417"
+X-Attachment-Name: FACTU2019100055.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

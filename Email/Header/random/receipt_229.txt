@@ -1,0 +1,11 @@
+From: Jonathan Raghavan <jonathan.raghavan@jayaraman.co.uk>
+To: Heather Mccarty <heather.mccarty@owen.com>
+Date: Tue, 22 Sep 2026 07:30:07 +0000
+Subject: Taxi receipt for last week's client visit
+Message-ID: <6ba11121-9e13-4f0f-a8b4-5559717ed513@jayaraman.co.uk>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_356149_4563557934"
+X-Attachment-Name: receipt_229.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

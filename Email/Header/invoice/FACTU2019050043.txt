@@ -1,0 +1,11 @@
+From: Bruce Jones <bruce.jones@mills.net>
+To: Clifford Evans <clifford.evans@richards.in>
+Date: Wed, 22 Jul 2026 21:39:12 -0500
+Subject: Invoice INV-19050043 – amount does not match PO
+Message-ID: <cbe19e58-5f78-4603-a850-3c645283459b@mills.net>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_218605_8660533605"
+X-Attachment-Name: FACTU2019050043.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

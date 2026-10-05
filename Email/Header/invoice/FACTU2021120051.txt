@@ -1,0 +1,12 @@
+From: Williams LLC Billing <no-reply@morgan-griffiths.com>
+To: Dr Cameron Hodgson <dr.hodgson@jordanmccarthy.com>
+Reply-To: billing@morgan-griffiths.com
+Date: Sat, 26 Sep 2026 23:57:46 -0800
+Subject: Billing notification – invoice 21120051
+Message-ID: <087bbe7d-4b8c-4911-aa71-22ac70af2289@morgan-griffiths.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_478088_9480025704"
+X-Attachment-Name: FACTU2021120051.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

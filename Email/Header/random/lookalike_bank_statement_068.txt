@@ -1,0 +1,12 @@
+From: Northgate Bank <statements@boyd.org>
+To: Ms Patricia May <ms.may@bala.com>
+Date: Sun, 30 Aug 2026 18:20:36 +0100
+Subject: Statement of account
+Message-ID: <4c580a59-abe8-45c2-8180-9b54e6e4a8a0@boyd.org>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_474828_7157735024"
+X-Attachment-Name: lookalike_bank_statement_068.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Wishi Hora <wishi.hora@verma.in>
+To: Omisha Dewan <omisha.dewan@roselopez.com>
+Date: Mon, 16 Mar 2026 21:56:34 +0530
+Subject: Invoice FACTU2015050056 from Verma PLC
+Message-ID: <08273490-e9bf-42aa-b5a0-220f28399f14@verma.in>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_144060_2298910513"
+X-Attachment-Name: FACTU2015050056.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Lee Franklin <lee.franklin@tara.io>
+To: Ross Wood <ross.wood@arellano.net>
+Date: Thu, 29 Jan 2026 04:04:59 -0800
+Subject: Tara, Lal and Banik: Invoice FACTU2015040045 for February services
+Message-ID: <7f32eceb-28e9-4630-bf86-1827413cdff5@tara.io>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_970567_5302792278"
+X-Attachment-Name: FACTU2015040045.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

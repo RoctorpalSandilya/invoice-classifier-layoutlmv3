@@ -1,0 +1,11 @@
+From: Emily Spencer-Thornton <emily.spencer-thornton@ortega.com>
+To: Dakshesh Misra <dakshesh.misra@rajan.net>
+Date: Fri, 17 Jul 2026 02:58:58 +0200
+Subject: Friendly reminder – invoice INV-21120054 due 16 Aug 2026
+Message-ID: <6c645d88-c620-4e1b-b54f-97fd5326a813@ortega.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_903757_4232777587"
+X-Attachment-Name: FACTU2021120054.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

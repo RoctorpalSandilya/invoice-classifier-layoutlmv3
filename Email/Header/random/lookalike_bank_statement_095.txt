@@ -1,0 +1,11 @@
+From: Union Trust Bank <statements@bhat.com>
+To: Samantha Hansen <samantha.hansen@mohan-palla.com>
+Date: Wed, 22 Jul 2026 02:43:17 +0100
+Subject: Account statement – July 2026
+Message-ID: <2290a250-79c9-46c6-842e-7b72f07976b6@bhat.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_855678_8176843169"
+X-Attachment-Name: lookalike_bank_statement_095.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

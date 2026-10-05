@@ -1,0 +1,12 @@
+From: Joe Kay-Giles <joe.kay-giles@berrybrown.com>
+To: Diana Johns <diana.johns@palan.com>
+Date: Sat, 20 Jun 2026 05:28:09 -0800
+Subject: Payment reminder: Invoice INV-19070063
+Message-ID: <e5af9cdb-083e-468e-992e-8db659619b4b@berrybrown.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_777265_7824868422"
+X-Attachment-Name: FACTU2019070063.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

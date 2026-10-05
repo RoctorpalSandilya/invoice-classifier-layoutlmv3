@@ -1,0 +1,12 @@
+From: First National Bank <statements@fisher.com>
+To: Andrew Banks <andrew.banks@sheth.com>
+Date: Sat, 02 May 2026 14:24:31 +0530
+Subject: Your monthly statement is ready
+Message-ID: <95b1399f-aef5-4956-8b7f-dfffb33bf03d@fisher.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_155211_2685923039"
+X-Attachment-Name: lookalike_bank_statement_198.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

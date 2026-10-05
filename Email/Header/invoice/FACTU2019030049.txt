@@ -1,0 +1,12 @@
+From: Khan-Walker Billing <no-reply@barnes-larsen.com>
+To: Holly Larson <holly.larson@armstrongmorgan.in>
+Reply-To: billing@barnes-larsen.com
+Date: Sun, 16 Aug 2026 18:01:19 -0500
+Subject: [Automated] Invoice #19030049 is now available
+Message-ID: <8d82e1b6-571e-490a-a015-539110187beb@barnes-larsen.com>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_715356_6313075745"
+X-Attachment-Name: FACTU2019030049.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

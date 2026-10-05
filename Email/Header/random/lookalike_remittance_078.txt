@@ -1,0 +1,12 @@
+From: Bhanumati Prasad <bhanumati.prasad@hussainburton.com>
+To: June Thomas <june.thomas@wallace.com>
+Date: Wed, 15 Apr 2026 12:14:48 +0200
+Subject: Payment made – £192.31
+Message-ID: <96137b46-c69f-4301-bee3-138e18edc1c8@hussainburton.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_135246_9981155569"
+X-Attachment-Name: lookalike_remittance_078.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

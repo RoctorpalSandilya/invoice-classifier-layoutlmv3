@@ -1,0 +1,11 @@
+From: Dr Justin Jarvis <dr.jarvis@coxrose.co.uk>
+To: John Morrow <john.morrow@baldwinhudson.co.uk>
+Date: Wed, 15 Apr 2026 17:55:49 +0000
+Subject: Your invoice INV-19010038 is attached
+Message-ID: <c294bfca-676a-4bc1-b422-0ccad71a73ab@coxrose.co.uk>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_159476_7090512060"
+X-Attachment-Name: FACTU2019010038.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

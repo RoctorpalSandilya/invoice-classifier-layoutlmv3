@@ -1,0 +1,12 @@
+From: Virk Inc Billing <no-reply@douglas.com>
+To: Sharon Woods <sharon.woods@wilson.io>
+Reply-To: billing@douglas.com
+Date: Thu, 02 Jul 2026 06:38:42 +0000
+Subject: Your Virk Inc invoice INV-20090062
+Message-ID: <1a5eb1da-2bb5-4223-b79c-f20a9452a3d8@douglas.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_479528_5695779971"
+X-Attachment-Name: FACTU2020090062.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

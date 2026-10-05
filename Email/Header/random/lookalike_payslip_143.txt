@@ -1,0 +1,11 @@
+From: Payroll <payroll@padmanabhan-shankar.com>
+To: Nicholas Hines <nicholas.hines@nori.net>
+Date: Tue, 04 Aug 2026 21:54:10 +0200
+Subject: Payslip attached – confidential
+Message-ID: <e202a479-c03b-4ed6-b703-33ec9ec8cec1@padmanabhan-shankar.com>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_924464_4827994738"
+X-Attachment-Name: lookalike_payslip_143.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

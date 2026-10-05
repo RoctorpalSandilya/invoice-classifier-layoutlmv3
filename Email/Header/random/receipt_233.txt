@@ -1,0 +1,11 @@
+From: Bishakha Tella <bishakha.tella@hill.com>
+To: Oni Jhaveri <oni.jhaveri@pandit.org>
+Date: Mon, 13 Jul 2026 21:38:29 -0800
+Subject: Receipt for expense claim
+Message-ID: <4e09c32e-0598-468d-b1bd-70dcb0442593@hill.com>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_039297_4097596266"
+X-Attachment-Name: receipt_233.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

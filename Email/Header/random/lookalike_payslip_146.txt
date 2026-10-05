@@ -1,0 +1,11 @@
+From: Payroll <payroll@coleman.biz>
+To: Liam Gardiner <liam.gardiner@allen.org>
+Date: Fri, 15 May 2026 10:05:36 +0200
+Subject: Monthly salary slip
+Message-ID: <1141bee6-8c11-4f1f-a8a4-cc2816ca00d3@coleman.biz>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_961934_4338954088"
+X-Attachment-Name: lookalike_payslip_146.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

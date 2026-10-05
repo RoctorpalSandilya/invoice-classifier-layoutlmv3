@@ -1,0 +1,12 @@
+From: Melissa Stevens <melissa.stevens@varkeyravel.com>
+To: Laura Frederick <laura.frederick@pearcejones.io>
+Date: Wed, 23 Sep 2026 03:41:17 +0530
+Subject: Tax Invoice INV-20010052
+Message-ID: <6a1c904c-8f9d-44ea-9902-84934f7f7576@varkeyravel.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_910657_0647332137"
+X-Attachment-Name: FACTU2020010052.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Jagvi Sachar <jagvi.sachar@rosswalter.net>
+To: David Bansal <david.bansal@sharp.net>
+Date: Tue, 13 Jan 2026 01:28:26 -0500
+Subject: RE: Invoice FACTU2020010042
+Message-ID: <b2534869-6b72-46ba-80ea-d48d017d7c79@rosswalter.net>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_032395_7992905090"
+X-Attachment-Name: FACTU2020010042.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

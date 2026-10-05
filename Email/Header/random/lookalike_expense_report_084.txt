@@ -1,0 +1,11 @@
+From: Zashil Chatterjee <zashil.chatterjee@gardner.net>
+To: Gregory Spencer <gregory.spencer@stevens.com>
+Date: Mon, 16 Feb 2026 00:07:31 -0500
+Subject: Expense report EXP-9301 for approval
+Message-ID: <806ef153-3b14-49d1-8c64-7a15ff24f9d8@gardner.net>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_895082_5473634292"
+X-Attachment-Name: lookalike_expense_report_084.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

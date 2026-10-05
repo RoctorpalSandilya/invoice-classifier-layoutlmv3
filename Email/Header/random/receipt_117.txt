@@ -1,0 +1,12 @@
+From: Warda Gupta <warda.gupta@mishra.com>
+To: Abigail Curry <abigail.curry@richard-fry.com>
+Date: Mon, 24 Aug 2026 15:22:54 +0000
+Subject: Receipt for team dinner
+Message-ID: <b373d0aa-00e0-4dd2-9f46-2146284c111d@mishra.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_514603_7433495399"
+X-Attachment-Name: receipt_117.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

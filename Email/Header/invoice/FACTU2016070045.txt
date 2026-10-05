@@ -1,0 +1,12 @@
+From: Roberts PLC Billing <no-reply@clayton-martinez.com>
+To: Tamanna Talwar <tamanna.talwar@huntlamb.io>
+Reply-To: billing@clayton-martinez.com
+Date: Sat, 26 Sep 2026 12:46:38 +0200
+Subject: [Automated] Invoice FACTU2016070045 is now available
+Message-ID: <b83ac003-4224-4df4-962d-7f1b1be80132@clayton-martinez.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_375181_5936356650"
+X-Attachment-Name: FACTU2016070045.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Krish Apte <krish.apte@auroranarayanan.com>
+To: Nicholas Blankenship <nicholas.blankenship@mitchellturner.net>
+Date: Sun, 02 Aug 2026 16:43:17 -0500
+Subject: Your invoice FACTU2015090063 is attached
+Message-ID: <0ccd33be-f133-4c56-8e63-8fd26f3ed5fe@auroranarayanan.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_857704_7414506194"
+X-Attachment-Name: FACTU2015090063.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

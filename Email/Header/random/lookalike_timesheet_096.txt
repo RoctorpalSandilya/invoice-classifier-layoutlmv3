@@ -1,0 +1,11 @@
+From: Leonard Wood <leonard.wood@lawrence.com>
+To: Kai Vig <kai.vig@kennedy.info>
+Date: Tue, 13 Jan 2026 17:59:27 -0500
+Subject: Timesheet attached
+Message-ID: <59847070-384a-4e41-8206-52378eb40c74@lawrence.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_738093_2951670271"
+X-Attachment-Name: lookalike_timesheet_096.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

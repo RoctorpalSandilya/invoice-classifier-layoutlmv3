@@ -1,0 +1,11 @@
+From: Abbie Archer <abbie.archer@davis.in>
+To: Lori Cortez <lori.cortez@mann.org>
+Date: Sat, 20 Jun 2026 20:36:35 +0200
+Subject: Timesheet attached
+Message-ID: <86efc094-dd41-43f5-93a3-32cf6c845c9a@davis.in>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_779808_2109389672"
+X-Attachment-Name: lookalike_timesheet_023.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

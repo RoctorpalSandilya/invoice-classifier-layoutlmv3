@@ -1,0 +1,11 @@
+From: Joanna Powell <joanna.powell@graham.net>
+To: Krishna Bath <krishna.bath@bradley.net>
+Date: Wed, 01 Jul 2026 16:49:29 +0530
+Subject: Invoice #16050055 from Graham LLC
+Message-ID: <f42cc761-b95f-434c-95c1-f7fe0aab0768@graham.net>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_201613_6901211722"
+X-Attachment-Name: FACTU2016050055.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

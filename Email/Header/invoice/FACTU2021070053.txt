@@ -1,0 +1,12 @@
+From: Stacey Reeves <stacey.reeves@mander.com>
+To: Cynthia Walton <cynthia.walton@wilkinsonwarren.com>
+Date: Sun, 04 Jan 2026 23:30:08 -0800
+Subject: Invoice #21070053 – 15 days overdue
+Message-ID: <44ece4ad-d691-4622-bae1-cdb0e355ebdc@mander.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_790027_1875014936"
+X-Attachment-Name: FACTU2021070053.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

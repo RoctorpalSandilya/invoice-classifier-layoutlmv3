@@ -1,0 +1,12 @@
+From: Louis Green <louis.green@shafferwatson.in>
+To: Matthew Krishnamurthy <matthew.krishnamurthy@thompson.com>
+Date: Sun, 12 Jul 2026 08:54:31 +0100
+Subject: Expenses – June
+Message-ID: <c898fd3f-23b4-4a12-b2db-b18645e0af8d@shafferwatson.in>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_318523_0760907268"
+X-Attachment-Name: receipt_225.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

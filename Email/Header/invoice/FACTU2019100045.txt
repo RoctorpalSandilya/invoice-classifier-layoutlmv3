@@ -1,0 +1,11 @@
+From: Amy Payne <amy.payne@sandalbalakrishnan.net>
+To: Hemang Narang <hemang.narang@ramos.in>
+Date: Tue, 01 Sep 2026 04:02:14 -0500
+Subject: Tax Invoice INV-19100045
+Message-ID: <b58c3829-f397-4837-b8c9-0186a4edcb81@sandalbalakrishnan.net>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_048285_9529485875"
+X-Attachment-Name: FACTU2019100045.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

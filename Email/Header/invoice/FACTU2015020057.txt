@@ -1,0 +1,12 @@
+From: Daniel Bates <daniel.bates@fergusonbarlow.com>
+To: Kathleen Duran <kathleen.duran@sundaram.in>
+Date: Mon, 20 Apr 2026 20:57:38 +0200
+Subject: Invoice #15020057 from Ferguson-Barlow
+Message-ID: <27a0170a-8a62-4c58-a3e7-281ccc0d9ea1@fergusonbarlow.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_922174_0380829406"
+X-Attachment-Name: FACTU2015020057.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

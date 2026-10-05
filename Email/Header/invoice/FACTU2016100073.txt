@@ -1,0 +1,13 @@
+From: Harvey-Dixon Billing <no-reply@williamson.com>
+To: Raagini Pal <raagini.pal@gonzalezvalenzuela.com>
+Reply-To: billing@williamson.com
+Date: Fri, 08 May 2026 03:14:51 +0530
+Subject: New invoice 16100073 generated
+Message-ID: <a2bb6b53-a144-46a0-b1b9-5a0d7f935fbe@williamson.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_276292_1639813428"
+X-Attachment-Name: FACTU2016100073.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

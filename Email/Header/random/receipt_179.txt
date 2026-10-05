@@ -1,0 +1,11 @@
+From: Sarah Bowen <sarah.bowen@burgesswalker.io>
+To: Qadim Kumar <qadim.kumar@davies-kelly.net>
+Date: Sun, 17 May 2026 13:31:18 +0100
+Subject: Receipt for expense claim
+Message-ID: <09185759-4be7-41d2-9b75-afb55538e334@burgesswalker.io>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_108944_4449825688"
+X-Attachment-Name: receipt_179.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

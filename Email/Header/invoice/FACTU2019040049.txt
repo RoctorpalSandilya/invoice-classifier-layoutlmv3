@@ -1,0 +1,11 @@
+From: Dr Wendy Pearce <dr.pearce@whitehead.net>
+To: Hema Bedi <hema.bedi@owenlee.in>
+Date: Sat, 05 Sep 2026 17:35:30 -0500
+Subject: Invoice #19040049 | Due 05 Oct 2026
+Message-ID: <3468d20a-1242-48e7-a607-465f5085ad8b@whitehead.net>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_796995_6352734310"
+X-Attachment-Name: FACTU2019040049.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

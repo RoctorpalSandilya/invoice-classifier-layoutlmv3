@@ -1,0 +1,11 @@
+From: Regina Campbell <regina.campbell@taylormiller.io>
+To: Henry Potter <henry.potter@wilson.net>
+Date: Thu, 30 Jul 2026 12:46:16 +0000
+Subject: Receipt for expense claim
+Message-ID: <ed81f30a-cf46-4801-90bb-f156f85cf81e@taylormiller.io>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_675375_2382737123"
+X-Attachment-Name: receipt_002.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

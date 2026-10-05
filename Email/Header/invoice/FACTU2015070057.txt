@@ -1,0 +1,11 @@
+From: Courtney Stevens <courtney.stevens@bell.net>
+To: Francesca Davies <francesca.davies@singh.in>
+Date: Tue, 03 Feb 2026 23:17:31 +0000
+Subject: Invoice #15070057 from Bell PLC
+Message-ID: <60b16c62-cbe0-47b6-bdce-f83294e12d44@bell.net>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_490044_2130790050"
+X-Attachment-Name: FACTU2015070057.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

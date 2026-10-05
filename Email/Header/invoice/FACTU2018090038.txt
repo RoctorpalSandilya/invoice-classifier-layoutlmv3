@@ -1,0 +1,12 @@
+From: Sandra Newton <sandra.newton@solomonreilly.net>
+To: Ishita Mutti <ishita.mutti@solomonreilly.co.uk>
+Cc: Philip Bishop <philip.bishop@solomonreilly.co.uk>
+Date: Wed, 21 Jan 2026 06:01:32 +0100
+Subject: Invoice 18090038 for approval
+Message-ID: <4780bf03-ccbe-408b-a25d-ffe24084d1c5@solomonreilly.net>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_561873_6203300009"
+X-Attachment-Name: FACTU2018090038.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

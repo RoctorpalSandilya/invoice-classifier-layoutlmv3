@@ -1,0 +1,12 @@
+From: Monica Brown <monica.brown@kale.co.uk>
+To: Peter Sahni <peter.sahni@lambbegum.io>
+Date: Tue, 13 Jan 2026 03:00:32 +0100
+Subject: Tax Invoice FACTU2017110049
+Message-ID: <ec11a298-d68e-4ad2-9517-e0e0e3e997cc@kale.co.uk>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_624140_5928951863"
+X-Attachment-Name: FACTU2017110049.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

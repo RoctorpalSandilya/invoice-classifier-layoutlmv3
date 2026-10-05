@@ -1,0 +1,12 @@
+From: Ryan Carter <ryan.carter@sachar.co.uk>
+To: Guneet Kohli <guneet.kohli@gallagher.com>
+Date: Sat, 09 May 2026 21:16:28 +0200
+Subject: Invoice #16050052 – Gallagher, Johnson and Rogers
+Message-ID: <ed154ee3-42fb-428a-bab9-bcbb20481022@sachar.co.uk>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_124671_8389378243"
+X-Attachment-Name: FACTU2016050052.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

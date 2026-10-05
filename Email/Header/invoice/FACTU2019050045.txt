@@ -1,0 +1,11 @@
+From: Sara Pritchard-Gardner <sara.pritchard-gardner@mcguire.com>
+To: Katy Barnes <katy.barnes@kohli.co.uk>
+Date: Mon, 12 Jan 2026 12:32:21 +0530
+Subject: Your invoice INV-19050045 is attached
+Message-ID: <5c47a002-0794-455b-8b2b-52116587dd4b@mcguire.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_482361_6759794386"
+X-Attachment-Name: FACTU2019050045.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Union Trust Bank <statements@ball.co.uk>
+To: Pushti Taneja <pushti.taneja@varghese.com>
+Date: Wed, 11 Mar 2026 23:26:26 -0800
+Subject: Account statement – March 2026
+Message-ID: <6eb9c790-841e-48f6-ac12-2cda70ad13f0@ball.co.uk>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_108118_1528850009"
+X-Attachment-Name: lookalike_bank_statement_157.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

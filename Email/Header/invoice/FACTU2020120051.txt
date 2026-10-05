@@ -1,0 +1,12 @@
+From: Robert Williams <robert.williams@nelsonarmstrong.io>
+To: Zoe Barry <zoe.barry@cooper.com>
+Date: Wed, 01 Jul 2026 18:21:24 +0530
+Subject: Invoice INV-20120051 – corrected copy
+Message-ID: <7f0283c4-76b4-4155-b952-0b95baa780f3@nelsonarmstrong.io>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_349102_0686592296"
+X-Attachment-Name: FACTU2020120051.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Kala Mitra <kala.mitra@brown.com>
+To: Aimee Brown <aimee.brown@mukhopadhyay.com>
+Date: Wed, 20 May 2026 20:38:01 +0530
+Subject: Here's that receipt you asked for
+Message-ID: <3530bfbc-0d10-4fe9-9f0d-1cd1c4cff532@brown.com>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_885608_0795536024"
+X-Attachment-Name: receipt_125.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

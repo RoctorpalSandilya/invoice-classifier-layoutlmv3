@@ -1,0 +1,11 @@
+From: Fiona Morley <fiona.morley@dass.co.uk>
+To: Harshil Sibal <harshil.sibal@jordanwilliams.co.uk>
+Date: Tue, 13 Jan 2026 18:16:49 +0000
+Subject: Invoice FACTU2021020050 from Dass Group
+Message-ID: <c0ddcdd2-5176-4796-9cf1-b7724b13165c@dass.co.uk>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_797654_0118822042"
+X-Attachment-Name: FACTU2021020050.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

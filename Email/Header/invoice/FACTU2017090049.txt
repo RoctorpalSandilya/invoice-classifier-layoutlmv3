@@ -1,0 +1,12 @@
+From: Jessica Nixon <jessica.nixon@smithchapman.co.uk>
+To: Erin Murphy <erin.murphy@smithchapman.co.uk>
+Cc: Cameron Ryan-Read <cameron.ryan-read@smithchapman.co.uk>
+Date: Sun, 05 Apr 2026 04:58:09 +0530
+Subject: Invoice INV-17090049 for approval
+Message-ID: <5509bb21-e63f-4245-b75e-2fad4a854ebd@smithchapman.co.uk>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_938890_7043597759"
+X-Attachment-Name: FACTU2017090049.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

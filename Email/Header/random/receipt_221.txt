@@ -1,0 +1,11 @@
+From: Upasna Kala <upasna.kala@nelson.com>
+To: Norman Faulkner <norman.faulkner@skinner.com>
+Date: Thu, 01 Jan 2026 09:24:50 +0000
+Subject: Lunch receipt
+Message-ID: <17428662-ba26-46dd-8121-57f5d375f660@nelson.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_421211_0609743470"
+X-Attachment-Name: receipt_221.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

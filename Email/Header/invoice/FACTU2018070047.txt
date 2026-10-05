@@ -1,0 +1,12 @@
+From: Praneel Golla <praneel.golla@baker.co.uk>
+To: Andrew Tandon <andrew.tandon@bhagatgokhale.in>
+Date: Sun, 12 Apr 2026 20:53:32 +0530
+Subject: Invoice #18070047 from Baker, Williams and Jones
+Message-ID: <9a769a3f-49f7-4fd7-afd1-f5fdbe80d445@baker.co.uk>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_865403_5943137462"
+X-Attachment-Name: FACTU2018070047.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

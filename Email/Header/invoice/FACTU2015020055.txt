@@ -1,0 +1,11 @@
+From: Michael Brown <michael.brown@minhasbala.co.uk>
+To: Joe Parker-Scott <joe.parker-scott@willis.com>
+Date: Thu, 29 Jan 2026 13:06:34 -0500
+Subject: Invoice 15020055 – 6 days overdue
+Message-ID: <99de7a2f-749f-465f-aabe-c276aafaebfe@minhasbala.co.uk>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_965824_2371848954"
+X-Attachment-Name: FACTU2015020055.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

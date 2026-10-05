@@ -1,0 +1,11 @@
+From: Jeanne Kennedy <jeanne.kennedy@nunez.io>
+To: Aimee Smith-Dunn <aimee.smith-dunn@hansbawa.co.uk>
+Date: Mon, 05 Jan 2026 08:31:34 +0530
+Subject: Payment reminder: Invoice FACTU2016050053
+Message-ID: <c77c6aa7-8f18-4d20-819d-41de6b21511a@nunez.io>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_592398_0110695480"
+X-Attachment-Name: FACTU2016050053.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

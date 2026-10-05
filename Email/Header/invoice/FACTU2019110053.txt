@@ -1,0 +1,11 @@
+From: Annette Green <annette.green@flores.io>
+To: Aadi Din <aadi.din@turner.com>
+Date: Thu, 16 Jul 2026 23:15:20 -0800
+Subject: Invoice INV-19110053 – Turner, Bailey and Morris
+Message-ID: <c6e2bd95-3495-4a5e-ac12-aff72a98850c@flores.io>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_900593_3363649994"
+X-Attachment-Name: FACTU2019110053.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

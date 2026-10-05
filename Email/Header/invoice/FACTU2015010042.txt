@@ -1,0 +1,12 @@
+From: Hema Sathe <hema.sathe@knowles.io>
+To: Maureen Gibbons <maureen.gibbons@wilkinsblackburn.co.uk>
+Date: Thu, 19 Mar 2026 02:12:28 +0100
+Subject: Knowles, Jones and Wheeler: Invoice INV-15010042 for April services
+Message-ID: <5aadd0d2-9211-48d8-87f4-39f3b568d623@knowles.io>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_902673_0432017185"
+X-Attachment-Name: FACTU2015010042.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Taylor Jones <taylor.jones@sood.io>
+To: Aarav Yohannan <aarav.yohannan@oliverhart.co.uk>
+Date: Tue, 11 Aug 2026 16:23:25 +0100
+Subject: Re-sending invoice #16060060
+Message-ID: <e83cedfc-7b63-4923-a9c9-5f313fc4bc0b@sood.io>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_410664_1606201491"
+X-Attachment-Name: FACTU2016060060.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: 17090055
+Account: ACC-970802
+Amount: $24,615.76
+Due date: 01 Sep 2026
+
+The invoice is attached to this email in image format. You can also view and pay it online at https://billing.everett.com/invoices/17090055.
+
+This is an automated message; please do not reply to this email.
+
+Salvi-Acharya Billing Team

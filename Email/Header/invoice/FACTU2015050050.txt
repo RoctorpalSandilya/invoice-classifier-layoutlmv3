@@ -1,0 +1,12 @@
+From: Barry Mann <barry.mann@wilsonblake.in>
+To: Christian Ahmed <christian.ahmed@davis.io>
+Date: Tue, 11 Aug 2026 05:20:50 +0200
+Subject: FW: Invoice INV-15050050
+Message-ID: <fbd3326e-a01b-490b-adfd-283a55e085cb@wilsonblake.in>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_217267_6175115811"
+X-Attachment-Name: FACTU2015050050.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

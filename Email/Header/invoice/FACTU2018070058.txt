@@ -1,0 +1,13 @@
+From: Arya-Banerjee Billing <no-reply@evans.org>
+To: Cynthia Weaver <cynthia.weaver@parekh.co.uk>
+Reply-To: billing@evans.org
+Date: Wed, 02 Sep 2026 14:38:03 +0100
+Subject: Billing notification – invoice 18070058
+Message-ID: <cd5e8998-afb3-473c-8fda-61263c1140b6@evans.org>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_185203_7986586470"
+X-Attachment-Name: FACTU2018070058.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

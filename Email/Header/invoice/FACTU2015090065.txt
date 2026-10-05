@@ -1,0 +1,11 @@
+From: Selena Rogers <selena.rogers@hurley.co.uk>
+To: Lori Wagner <lori.wagner@gould.co.uk>
+Date: Fri, 22 May 2026 20:01:10 +0530
+Subject: Invoice 15090065 – Gould, Moran and Vega
+Message-ID: <66c087e0-c004-42ea-bd35-ea1b93e3ac28@hurley.co.uk>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_848646_6410936066"
+X-Attachment-Name: FACTU2015090065.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

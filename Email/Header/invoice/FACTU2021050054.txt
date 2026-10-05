@@ -1,0 +1,12 @@
+From: Wendy Buck <wendy.buck@fordjohnston.in>
+To: Carol Ray <carol.ray@bird.in>
+Date: Wed, 03 Jun 2026 02:06:22 -0800
+Subject: RE: Invoice FACTU2021050054
+Message-ID: <94594120-5cff-4135-addd-cf287902e535@fordjohnston.in>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_716933_8033927128"
+X-Attachment-Name: FACTU2021050054.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

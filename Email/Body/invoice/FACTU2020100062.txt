@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: INV-20100062
+Account: ACC-782048
+Amount: £10,718.26
+Due date: 13 Aug 2026
+
+The invoice is attached to this email in image format. You can also view and pay it online at https://billing.lawrence-lewis.com/invoices/INV-20100062.
+
+This is an automated message; please do not reply to this email.
+
+Baker-Ellis Billing Team

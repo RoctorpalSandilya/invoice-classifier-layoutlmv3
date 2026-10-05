@@ -1,0 +1,12 @@
+From: Mathew Green-Bibi <mathew.green-bibi@keer.io>
+To: Robert Anderson <robert.anderson@shan.in>
+Date: Sat, 13 Jun 2026 17:46:21 +0000
+Subject: Reminder: outstanding invoice INV-17100058
+Message-ID: <800bd4d4-d339-41d3-abf0-e90a35f9bdcd@keer.io>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_337019_6950418342"
+X-Attachment-Name: FACTU2017100058.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

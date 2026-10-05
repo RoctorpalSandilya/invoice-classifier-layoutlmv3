@@ -1,0 +1,12 @@
+From: Jeremy Barker <jeremy.barker@holden.com>
+To: Derek Richards <derek.richards@smith.com>
+Date: Thu, 02 Apr 2026 05:23:32 +0200
+Subject: FW: Invoice INV-21030043
+Message-ID: <f142fc9d-55f7-4be0-a2c0-e31f9c638512@holden.com>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_033217_5437612662"
+X-Attachment-Name: FACTU2021030043.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

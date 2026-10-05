@@ -1,0 +1,12 @@
+From: John Bailey <john.bailey@rege.com>
+To: Diane Turner <diane.turner@thompsonskinner.net>
+Date: Sat, 01 Aug 2026 07:36:01 +0530
+Subject: Your invoice 17110065 is attached
+Message-ID: <1c68d642-b29c-4937-a5dc-bb546e9e5271@rege.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_711910_2215840900"
+X-Attachment-Name: FACTU2017110065.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

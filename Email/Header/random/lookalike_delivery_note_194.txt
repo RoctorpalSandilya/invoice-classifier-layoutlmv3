@@ -1,0 +1,12 @@
+From: Abdul Stephenson <abdul.stephenson@ballard.com>
+To: Jacqueline Evans <jacqueline.evans@lewis.net>
+Date: Fri, 02 Oct 2026 18:53:34 +0200
+Subject: Your order has shipped
+Message-ID: <a9c90427-1e76-40ab-9401-9ce885d72e69@ballard.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_546147_7424232366"
+X-Attachment-Name: lookalike_delivery_note_194.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

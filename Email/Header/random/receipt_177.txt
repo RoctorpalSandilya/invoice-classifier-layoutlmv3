@@ -1,0 +1,12 @@
+From: Noah Vaidya <noah.vaidya@benmagar.net>
+To: Samantha Ross <samantha.ross@lee-leonard.com>
+Date: Sun, 15 Feb 2026 16:53:23 -0500
+Subject: Expenses – July
+Message-ID: <019c4058-8732-4d0e-a21e-1e3e723473e0@benmagar.net>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_541093_5172318696"
+X-Attachment-Name: receipt_177.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

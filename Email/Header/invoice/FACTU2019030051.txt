@@ -1,0 +1,12 @@
+From: James Schmidt <james.schmidt@smith.com>
+To: Marc Ashton <marc.ashton@sandovalcox.in>
+Date: Sun, 09 Aug 2026 19:07:40 +0200
+Subject: RE: Invoice FACTU2019030051
+Message-ID: <d6dc0f32-881a-413b-9990-279b72a54027@smith.com>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_754169_1548268264"
+X-Attachment-Name: FACTU2019030051.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

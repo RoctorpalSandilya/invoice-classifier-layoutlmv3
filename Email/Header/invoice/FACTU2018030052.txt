@@ -1,0 +1,12 @@
+From: Jerry Clark <jerry.clark@ray.com>
+To: Kevin Hernandez <kevin.hernandez@burke.in>
+Date: Wed, 16 Sep 2026 11:49:28 +0100
+Subject: Friendly reminder – invoice FACTU2018030052 due 31 Oct 2026
+Message-ID: <ec9e69a7-891b-4fe5-93b3-1e6a36d6a905@ray.com>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_092445_5629014743"
+X-Attachment-Name: FACTU2018030052.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

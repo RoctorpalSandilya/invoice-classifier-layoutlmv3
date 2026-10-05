@@ -1,0 +1,11 @@
+From: Roy Anderson-Mitchell <roy.anderson-mitchell@salvibajwa.in>
+To: Joshua Smith <joshua.smith@doyle.io>
+Date: Sun, 05 Apr 2026 02:50:13 +0100
+Subject: Salvi-Bajwa: Invoice INV-15030054 for December services
+Message-ID: <70d6586a-1008-4c56-ac09-08b25323c0cc@salvibajwa.in>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_862593_0407545727"
+X-Attachment-Name: FACTU2015030054.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

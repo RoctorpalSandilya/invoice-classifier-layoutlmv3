@@ -1,0 +1,12 @@
+From: Aarush Chatterjee <aarush.chatterjee@mani.net>
+To: Ross Watson <ross.watson@merchant.com>
+Date: Thu, 24 Sep 2026 23:16:55 +0200
+Subject: Delivery note – shipment DN-651031
+Message-ID: <e010f49c-4af0-4485-97bf-a68e30a0a735@mani.net>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_273414_5978853150"
+X-Attachment-Name: lookalike_delivery_note_056.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

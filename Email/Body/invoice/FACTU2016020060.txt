@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: 16020060
+Account: ACC-778163
+Amount: £15,344.11
+Due date: 22 Sep 2026
+
+The invoice is attached to this email in image format. You can also view and pay it online at https://billing.price-trujillo.org/invoices/16020060.
+
+This is an automated message; please do not reply to this email.
+
+Pham-Floyd Billing Team

@@ -1,0 +1,11 @@
+From: Lisa Anderson <lisa.anderson@crawfordnewman.com>
+To: Niharika Khalsa <niharika.khalsa@connolly.com>
+Date: Tue, 26 May 2026 09:17:49 +0530
+Subject: OVERDUE: Invoice INV-15060056
+Message-ID: <19c3c6f1-919d-49c8-90bc-12da626d36c3@crawfordnewman.com>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_496128_1847311573"
+X-Attachment-Name: FACTU2015060056.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

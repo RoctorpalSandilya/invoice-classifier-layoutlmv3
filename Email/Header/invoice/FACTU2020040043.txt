@@ -1,0 +1,11 @@
+From: Sarthak Bera <sarthak.bera@craig.com>
+To: Aaron Gay <aaron.gay@jones.in>
+Date: Sat, 20 Jun 2026 02:41:55 +0000
+Subject: Invoice 20040043 – amount does not match PO
+Message-ID: <769862ef-6ead-4df8-8c87-1e8b1a19c22a@craig.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_400760_5936531736"
+X-Attachment-Name: FACTU2020040043.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

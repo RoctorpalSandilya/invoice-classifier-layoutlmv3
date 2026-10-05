@@ -1,0 +1,12 @@
+From: Dr Clive Taylor <dr.taylor@mannehora.net>
+To: Ladli Dara <ladli.dara@norris.com>
+Date: Wed, 22 Apr 2026 20:59:15 +0530
+Subject: Receipt for expense claim
+Message-ID: <d4fe56b0-0a06-49d1-866f-feb6efbdfc7d@mannehora.net>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_423942_1159019973"
+X-Attachment-Name: receipt_142.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

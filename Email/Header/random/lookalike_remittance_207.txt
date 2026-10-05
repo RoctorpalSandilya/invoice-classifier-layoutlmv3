@@ -1,0 +1,11 @@
+From: Margaret Bates <margaret.bates@smith.in>
+To: Graham Pugh <graham.pugh@stout.com>
+Date: Thu, 16 Apr 2026 11:01:37 +0100
+Subject: Remittance advice – payment PAY80295154
+Message-ID: <a743629c-34af-44a0-a0ca-6b97d5bcea8d@smith.in>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_371996_8868493618"
+X-Attachment-Name: lookalike_remittance_207.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Erika Allen <erika.allen@crawford.com>
+To: Nakul Kamdar <nakul.kamdar@bentley-clark.com>
+Date: Sun, 19 Apr 2026 08:54:28 +0530
+Subject: Receipt for team dinner
+Message-ID: <013c385d-b67d-4086-9c72-244a2cfef172@crawford.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_743178_3701965787"
+X-Attachment-Name: receipt_243.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

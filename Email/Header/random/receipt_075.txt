@@ -1,0 +1,11 @@
+From: Melissa Walsh-Reynolds <melissa.walsh-reynolds@james.co.uk>
+To: Yvette Powell <yvette.powell@mellor.com>
+Date: Wed, 20 May 2026 17:15:25 +0000
+Subject: Here's that receipt you asked for
+Message-ID: <fc21539d-5a26-4cf1-b226-964f7cbf5328@james.co.uk>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_215985_5507627841"
+X-Attachment-Name: receipt_075.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

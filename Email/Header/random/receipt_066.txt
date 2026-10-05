@@ -1,0 +1,11 @@
+From: Gareth Bell <gareth.bell@freemanmills.com>
+To: Kyle Smith <kyle.smith@frost-jackson.biz>
+Date: Tue, 10 Feb 2026 23:44:34 -0800
+Subject: Here's that receipt you asked for
+Message-ID: <0c14fa06-9a63-4dea-b3b9-4976026c93a5@freemanmills.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_834106_2832743627"
+X-Attachment-Name: receipt_066.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

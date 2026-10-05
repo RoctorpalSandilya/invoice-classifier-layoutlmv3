@@ -1,0 +1,11 @@
+From: Debra Reed <debra.reed@foster.co.uk>
+To: Daniel Hall <daniel.hall@wood.net>
+Date: Sun, 05 Jul 2026 17:04:40 +0100
+Subject: New PO from Foster Ltd
+Message-ID: <2835281b-e05c-495f-b123-c72d2d54a8e4@foster.co.uk>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_321672_7658787913"
+X-Attachment-Name: lookalike_purchase_order_059.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

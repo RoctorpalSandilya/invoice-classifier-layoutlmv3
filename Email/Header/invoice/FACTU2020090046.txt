@@ -1,0 +1,12 @@
+From: Dayamai Balan <dayamai.balan@boydlyons.co.uk>
+To: Mr Mohammed Chadwick <mr.chadwick@lokebumb.net>
+Date: Tue, 21 Jul 2026 04:48:06 -0500
+Subject: Invoice INV-20090046 – amount does not match PO
+Message-ID: <39f82870-884f-4339-9f23-813abeba2adb@boydlyons.co.uk>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_763529_1836815438"
+X-Attachment-Name: FACTU2020090046.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

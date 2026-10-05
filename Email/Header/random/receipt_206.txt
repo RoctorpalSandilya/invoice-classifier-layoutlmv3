@@ -1,0 +1,12 @@
+From: Sarah Cowan <sarah.cowan@kapadia.com>
+To: Ekani Mammen <ekani.mammen@tucker.com>
+Date: Mon, 16 Mar 2026 12:05:50 +0200
+Subject: Reimbursement – attached receipt
+Message-ID: <f3938ef8-7af3-4faa-bf74-5595ed316b47@kapadia.com>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_225178_3589863978"
+X-Attachment-Name: receipt_206.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Santiago-Mathis Billing <no-reply@johnson.com>
+To: Dr Leigh Coleman <dr.coleman@sloanking.com>
+Reply-To: billing@johnson.com
+Date: Sun, 24 May 2026 17:50:17 -0800
+Subject: New invoice 22010041 generated
+Message-ID: <ba0c76ed-09a4-4d8f-9330-c7b5036ea699@johnson.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_006000_9720113927"
+X-Attachment-Name: FACTU2022010041.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

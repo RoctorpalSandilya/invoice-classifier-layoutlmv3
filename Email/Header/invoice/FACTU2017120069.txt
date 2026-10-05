@@ -1,0 +1,12 @@
+From: Mitesh Rau <mitesh.rau@koshygarde.co.uk>
+To: Melanie Montgomery <melanie.montgomery@wright.com>
+Date: Fri, 30 Jan 2026 08:39:47 +0000
+Subject: Invoice 17120069 – 51 days overdue
+Message-ID: <fa5ec639-4600-4d3b-a865-2fb5b6912c44@koshygarde.co.uk>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_158409_4249453281"
+X-Attachment-Name: FACTU2017120069.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Samantha Johnson <samantha.johnson@mander.com>
+To: Anya Bawa <anya.bawa@sathemistry.com>
+Date: Sun, 05 Apr 2026 13:42:48 +0100
+Subject: Re-sending invoice 19030048
+Message-ID: <830abc94-3035-41f8-a6ba-b1bbc166e2ca@mander.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_857040_6853644113"
+X-Attachment-Name: FACTU2019030048.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

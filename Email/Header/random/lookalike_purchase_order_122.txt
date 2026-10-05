@@ -1,0 +1,11 @@
+From: Lee Stanley <lee.stanley@herreraali.com>
+To: Wakeeta Nath <wakeeta.nath@thomas.info>
+Date: Wed, 29 Apr 2026 06:45:33 -0800
+Subject: Purchase order for your review
+Message-ID: <92beb8e6-8c61-40ee-a8d2-90b092136bb3@herreraali.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_055233_1722582570"
+X-Attachment-Name: lookalike_purchase_order_122.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Brooke Miranda <brooke.miranda@hortonwhitehouse.net>
+To: Connor Parsons <connor.parsons@bond.co.uk>
+Date: Sun, 19 Jul 2026 09:39:36 -0500
+Subject: Invoice FACTU2015030051 – 30 days overdue
+Message-ID: <f93c6dd3-73c9-45e7-9fc0-3d1ee20b315a@hortonwhitehouse.net>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_239888_1842592104"
+X-Attachment-Name: FACTU2015030051.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

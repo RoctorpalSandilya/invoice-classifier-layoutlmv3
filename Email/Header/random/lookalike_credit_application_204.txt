@@ -1,0 +1,12 @@
+From: Reyansh Bala <reyansh.bala@sane.co.uk>
+To: Janet Adams <janet.adams@payne.com>
+Date: Mon, 02 Feb 2026 05:48:38 +0100
+Subject: Credit application form – completed
+Message-ID: <42dba568-fe1c-4aa8-a1cf-309c67e563f0@sane.co.uk>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_020120_9926406687"
+X-Attachment-Name: lookalike_credit_application_204.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

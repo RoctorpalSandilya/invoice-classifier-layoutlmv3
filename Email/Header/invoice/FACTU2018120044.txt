@@ -1,0 +1,13 @@
+From: Petersen, Richard and Klein Billing <no-reply@bennett.info>
+To: Tanay Barman <tanay.barman@jonesskinner.com>
+Reply-To: billing@bennett.info
+Date: Sat, 21 Feb 2026 01:57:02 +0000
+Subject: Billing notification – invoice INV-18120044
+Message-ID: <ec910299-8c00-4bea-9edb-52f1b8974ea5@bennett.info>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_519492_5131590185"
+X-Attachment-Name: FACTU2018120044.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

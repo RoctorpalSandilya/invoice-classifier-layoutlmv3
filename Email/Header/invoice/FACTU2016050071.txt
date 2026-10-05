@@ -1,0 +1,11 @@
+From: Lisa Stein <lisa.stein@griffin.io>
+To: John Harris <john.harris@wrightphelps.net>
+Date: Sun, 27 Sep 2026 19:47:17 +0100
+Subject: Query on invoice INV-16050071
+Message-ID: <2f55b086-3fcd-4e1d-8acf-2f4953d5dba1@griffin.io>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_607741_7212292489"
+X-Attachment-Name: FACTU2016050071.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

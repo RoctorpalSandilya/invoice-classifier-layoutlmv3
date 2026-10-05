@@ -1,0 +1,11 @@
+From: Kevin Smith <kevin.smith@carpenter.co.uk>
+To: Gagan Bhardwaj <gagan.bhardwaj@gibson.com>
+Date: Sun, 02 Aug 2026 03:34:21 +0100
+Subject: Lunch receipt
+Message-ID: <eb1770f5-c6ab-4ed7-bd61-fad7bc8b0287@carpenter.co.uk>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_953719_2986872684"
+X-Attachment-Name: receipt_054.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

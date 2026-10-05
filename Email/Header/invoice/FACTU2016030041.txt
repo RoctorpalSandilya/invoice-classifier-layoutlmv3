@@ -1,0 +1,12 @@
+From: Dr Kathleen Naylor <dr.naylor@baral.io>
+To: Isaac Kota <isaac.kota@khan.com>
+Date: Sun, 01 Mar 2026 14:47:12 +0100
+Subject: Re-sending invoice INV-16030041
+Message-ID: <1d5882eb-a61e-4902-84e7-873b8140f59f@baral.io>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_143301_9709291972"
+X-Attachment-Name: FACTU2016030041.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

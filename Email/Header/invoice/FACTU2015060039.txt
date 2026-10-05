@@ -1,0 +1,12 @@
+From: Morris Group Billing <no-reply@reddy.com>
+To: Vanya Krishnamurthy <vanya.krishnamurthy@aguilarnicholson.co.uk>
+Reply-To: billing@reddy.com
+Date: Thu, 01 Oct 2026 21:05:55 +0200
+Subject: Your Morris Group invoice 15060039
+Message-ID: <ce57e407-e7fa-4dab-8a05-3e317cc0f40b@reddy.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_219077_8879045601"
+X-Attachment-Name: FACTU2015060039.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

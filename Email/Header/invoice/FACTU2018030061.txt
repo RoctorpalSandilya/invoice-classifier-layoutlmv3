@@ -1,0 +1,11 @@
+From: Tammy Fowler <tammy.fowler@wali.io>
+To: Michael Oconnor <michael.oconnor@kala.in>
+Date: Tue, 17 Feb 2026 21:14:48 +0100
+Subject: OVERDUE: Invoice INV-18030061
+Message-ID: <d5100c87-4410-4ce2-9525-3c9901da96a6@wali.io>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_817299_0134960354"
+X-Attachment-Name: FACTU2018030061.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

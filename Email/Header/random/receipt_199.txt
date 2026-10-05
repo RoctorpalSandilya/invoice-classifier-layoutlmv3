@@ -1,0 +1,12 @@
+From: Travis Orozco <travis.orozco@freeman.co.uk>
+To: James Smith <james.smith@barker.net>
+Date: Thu, 29 Jan 2026 08:37:35 +0000
+Subject: Lunch receipt
+Message-ID: <8adeb0f3-fd33-4d43-97ff-f915f6bfef5d@freeman.co.uk>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_883764_0841910345"
+X-Attachment-Name: receipt_199.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

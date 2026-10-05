@@ -1,0 +1,12 @@
+From: Fitan Sarraf <fitan.sarraf@garcia.io>
+To: Douglas Tyler <douglas.tyler@atkins-scott.com>
+Date: Thu, 21 May 2026 15:57:26 +0200
+Subject: Receipt from Barlow and Sons
+Message-ID: <5f3eceb9-2be3-4b9e-9807-2628b1f9c711@garcia.io>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_150278_1971844580"
+X-Attachment-Name: receipt_217.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Mary Gonzalez <mary.gonzalez@bhatia.io>
+To: Michele Herrera <michele.herrera@deep.com>
+Date: Fri, 17 Apr 2026 09:12:08 +0100
+Subject: Receipt from Pandey LLC
+Message-ID: <d3790776-4b2b-4bea-be8a-7d06036cdff7@bhatia.io>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_877132_0423136973"
+X-Attachment-Name: receipt_196.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

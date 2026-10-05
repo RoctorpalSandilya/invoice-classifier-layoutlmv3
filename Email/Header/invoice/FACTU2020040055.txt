@@ -1,0 +1,11 @@
+From: David Lee <david.lee@mohanty.co.uk>
+To: Netra Narasimhan <netra.narasimhan@houghton.in>
+Date: Tue, 04 Aug 2026 20:47:21 +0000
+Subject: Question about attached invoice 20040055
+Message-ID: <bd73ebb7-00d6-44ea-a1cd-de81c3ceb3e1@mohanty.co.uk>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_795196_6609335742"
+X-Attachment-Name: FACTU2020040055.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

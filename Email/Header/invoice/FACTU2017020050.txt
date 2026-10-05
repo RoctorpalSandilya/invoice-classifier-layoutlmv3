@@ -1,0 +1,12 @@
+From: Perry-Jackson Billing <no-reply@dube.org>
+To: Unnati Dubey <unnati.dubey@kingwilson.io>
+Reply-To: billing@dube.org
+Date: Fri, 02 Jan 2026 09:39:03 -0800
+Subject: [Automated] Invoice INV-17020050 is now available
+Message-ID: <7ec56513-5049-429d-b466-cc124c22240f@dube.org>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_434679_1526009132"
+X-Attachment-Name: FACTU2017020050.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Neha Dhawan <neha.dhawan@simmonslee.com>
+To: Karen Jackson <karen.jackson@davies.net>
+Date: Tue, 19 May 2026 22:35:43 -0500
+Subject: Remittance advice – payment PAY85398382
+Message-ID: <88963e23-5d0d-4f88-a4f0-310385dc62e2@simmonslee.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_351288_4435640707"
+X-Attachment-Name: lookalike_remittance_087.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

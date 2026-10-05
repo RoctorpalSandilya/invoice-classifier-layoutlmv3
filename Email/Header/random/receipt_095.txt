@@ -1,0 +1,11 @@
+From: Teresa Kline <teresa.kline@buckley.io>
+To: Jalsa Raman <jalsa.raman@holland.biz>
+Date: Fri, 13 Feb 2026 13:12:41 +0200
+Subject: Reimbursement – attached receipt
+Message-ID: <f29ea435-404b-43db-bab7-6a43c0f2907f@buckley.io>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_953655_5787953902"
+X-Attachment-Name: receipt_095.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

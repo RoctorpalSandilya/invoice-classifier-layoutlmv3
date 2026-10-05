@@ -1,0 +1,12 @@
+From: Harry Robinson <harry.robinson@robinson.com>
+To: Advika Mukhopadhyay <advika.mukhopadhyay@smith.com>
+Date: Sun, 27 Sep 2026 02:02:13 -0500
+Subject: Reimbursement – attached receipt
+Message-ID: <9f38c12a-fd80-4382-a7b8-e5606cc6dd9f@robinson.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_715757_6057395828"
+X-Attachment-Name: receipt_027.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

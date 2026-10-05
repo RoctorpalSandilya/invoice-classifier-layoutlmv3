@@ -1,0 +1,11 @@
+From: Chandran Nagar <chandran.nagar@krishnan.in>
+To: Ms Caroline Hawkins <ms.hawkins@behl.co.uk>
+Date: Fri, 25 Sep 2026 21:38:44 +0200
+Subject: Invoice FACTU2016080058 | Due 09 Oct 2026
+Message-ID: <9efe1120-ee5f-4936-813b-cc1e3a481b5d@krishnan.in>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_546097_2387997859"
+X-Attachment-Name: FACTU2016080058.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Dar-Khalsa Billing <no-reply@choudhary.org>
+To: Atharv Sule <atharv.sule@sunder.in>
+Reply-To: billing@choudhary.org
+Date: Wed, 11 Feb 2026 23:38:10 +0100
+Subject: Your Dar-Khalsa invoice #16120050
+Message-ID: <a8e7b02e-57c1-4acd-a8ef-a155eb2fa5f5@choudhary.org>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_445715_9742688737"
+X-Attachment-Name: FACTU2016120050.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: INV-17020050
+Account: ACC-422753
+Amount: €6,340.95
+Due date: 16 Jan 2026
+
+The invoice is attached to this email in PDF format. You can also view and pay it online at https://billing.valentine.com/invoices/INV-17020050.
+
+This is an automated message; please do not reply to this email.
+
+Perry-Jackson Billing Team

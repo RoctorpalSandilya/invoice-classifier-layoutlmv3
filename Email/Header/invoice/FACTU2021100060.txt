@@ -1,0 +1,11 @@
+From: Christy Jones <christy.jones@farrell.io>
+To: Mr Henry Faulkner <mr.faulkner@davis.com>
+Date: Tue, 20 Jan 2026 13:05:40 +0530
+Subject: Invoice INV-21100060 – 36 days overdue
+Message-ID: <a2e22195-51b1-4d4e-add9-48a4fedf040e@farrell.io>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_779960_7000675822"
+X-Attachment-Name: FACTU2021100060.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

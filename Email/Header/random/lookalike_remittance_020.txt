@@ -1,0 +1,11 @@
+From: Arunima Din <arunima.din@mani.com>
+To: Annette O'Connor <annette.o'connor@watts.com>
+Date: Sat, 18 Jul 2026 15:31:25 -0800
+Subject: Payment made – €1,879.23
+Message-ID: <aa5a7531-8ca2-4eb6-9cb5-653552ecd7f1@mani.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_345265_6803851049"
+X-Attachment-Name: lookalike_remittance_020.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

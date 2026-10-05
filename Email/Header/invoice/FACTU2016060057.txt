@@ -1,0 +1,12 @@
+From: Timothy Taylor <timothy.taylor@mannan.com>
+To: Nidhi Date <nidhi.date@fleming.in>
+Date: Wed, 21 Jan 2026 17:49:24 -0800
+Subject: OVERDUE: Invoice INV-16060057
+Message-ID: <6abb561e-df18-45b4-8f60-8d3edbef9b95@mannan.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_866055_4665580587"
+X-Attachment-Name: FACTU2016060057.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

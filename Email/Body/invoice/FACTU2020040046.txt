@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: INV-20040046
+Account: ACC-077489
+Amount: £22,696.90
+Due date: 04 Nov 2026
+
+The invoice is attached to this email in PDF format. You can also view and pay it online at https://billing.massey.com/invoices/INV-20040046.
+
+This is an automated message; please do not reply to this email.
+
+Heath Group Billing Team

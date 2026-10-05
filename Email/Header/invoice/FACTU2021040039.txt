@@ -1,0 +1,11 @@
+From: Garry Gregory <garry.gregory@hodgson.net>
+To: Joshua Torres <joshua.torres@purohit.in>
+Date: Wed, 22 Jul 2026 01:54:00 -0800
+Subject: Invoice 21040039 | Due 05 Sep 2026
+Message-ID: <dd91d4db-7fea-496a-9ed5-930270ce2cb6@hodgson.net>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_032100_3685096234"
+X-Attachment-Name: FACTU2021040039.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

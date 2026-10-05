@@ -1,0 +1,11 @@
+From: Tracy Smith <tracy.smith@bradley.com>
+To: Sara Lopez <sara.lopez@hughes.com>
+Date: Mon, 21 Sep 2026 16:24:19 -0500
+Subject: Payment made – ₹196.95
+Message-ID: <d0692f59-6b6a-4536-9640-a37a0b721fb5@bradley.com>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_015206_0175386994"
+X-Attachment-Name: lookalike_remittance_025.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

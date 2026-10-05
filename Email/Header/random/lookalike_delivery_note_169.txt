@@ -1,0 +1,12 @@
+From: Marcus Clarke-Lynch <marcus.clarke-lynch@anderson.io>
+To: William Dillon <william.dillon@kerr.co.uk>
+Date: Fri, 02 Oct 2026 19:53:01 +0100
+Subject: Delivery note – shipment DN-395350
+Message-ID: <61bef20a-1c79-414b-9192-78dda3228c9a@anderson.io>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_463155_1547024441"
+X-Attachment-Name: lookalike_delivery_note_169.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

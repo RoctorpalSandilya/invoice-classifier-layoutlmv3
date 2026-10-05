@@ -1,0 +1,11 @@
+From: Praneel Kara <praneel.kara@gonzalez.in>
+To: Dr Mathew Harrison <dr.harrison@sodhi.net>
+Date: Tue, 14 Jul 2026 08:12:55 +0530
+Subject: Reminder: outstanding invoice INV-15010043
+Message-ID: <fb019964-63e5-405b-a665-559b3e06d750@gonzalez.in>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_485405_8107586470"
+X-Attachment-Name: FACTU2015010043.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

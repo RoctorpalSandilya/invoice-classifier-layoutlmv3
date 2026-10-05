@@ -1,0 +1,12 @@
+From: Payroll <payroll@white-harper.org>
+To: Abdul Pratt-Hooper <abdul.pratt-hooper@sankaran.com>
+Date: Tue, 08 Sep 2026 05:32:25 +0100
+Subject: Your payslip for August
+Message-ID: <808def05-6f5b-4a62-8911-6c32cd8fe1ea@white-harper.org>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_983745_9057006167"
+X-Attachment-Name: lookalike_payslip_151.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Laban Raghavan <laban.raghavan@tak.in>
+To: Kai Varughese <kai.varughese@love.com>
+Date: Thu, 09 Apr 2026 06:21:35 +0530
+Subject: Your invoice FACTU2020110057 is attached
+Message-ID: <475e194c-3b82-4b1c-94ff-b3ae33066a1a@tak.in>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_014213_5626761847"
+X-Attachment-Name: FACTU2020110057.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

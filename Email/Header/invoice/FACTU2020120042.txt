@@ -1,0 +1,11 @@
+From: Anthony Perry <anthony.perry@turner.com>
+To: Pushti Kibe <pushti.kibe@davies.net>
+Date: Fri, 15 May 2026 15:21:40 +0000
+Subject: Your invoice FACTU2020120042 is attached
+Message-ID: <83cf9951-cb0d-4d5f-bccd-aba158705c31@turner.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_723609_4620314934"
+X-Attachment-Name: FACTU2020120042.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

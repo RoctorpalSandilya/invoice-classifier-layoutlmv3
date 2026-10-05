@@ -1,0 +1,13 @@
+From: Perry and Sons Billing <no-reply@bir.com>
+To: Richard Gray <richard.gray@evans.io>
+Reply-To: billing@bir.com
+Date: Fri, 07 Aug 2026 08:28:25 -0800
+Subject: [Automated] Invoice INV-15050063 is now available
+Message-ID: <22e27717-ee44-48cf-a378-5f465787a902@bir.com>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_503323_7551421250"
+X-Attachment-Name: FACTU2015050063.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

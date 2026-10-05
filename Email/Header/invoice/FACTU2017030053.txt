@@ -1,0 +1,11 @@
+From: Timothy Hopkins <timothy.hopkins@leblanchobbs.net>
+To: Chaaya Bassi <chaaya.bassi@brown.net>
+Date: Thu, 26 Mar 2026 21:22:12 +0200
+Subject: Re-sending invoice 17030053
+Message-ID: <c0cc0639-cc3b-4799-9e72-2d1eefacd6c4@leblanchobbs.net>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_154505_5470621709"
+X-Attachment-Name: FACTU2017030053.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

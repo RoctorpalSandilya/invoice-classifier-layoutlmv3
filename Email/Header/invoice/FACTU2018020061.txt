@@ -1,0 +1,13 @@
+From: Eric Atkinson <eric.atkinson@shethdada.com>
+To: Mary Savage <mary.savage@shethdada.in>
+Cc: Vrinda Kurian <vrinda.kurian@shethdada.in>
+Date: Mon, 10 Aug 2026 11:07:32 +0530
+Subject: Invoice 18020061 for approval
+Message-ID: <608a85df-81ea-4978-8e02-1fab99588c1f@shethdada.com>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_759988_6542236228"
+X-Attachment-Name: FACTU2018020061.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

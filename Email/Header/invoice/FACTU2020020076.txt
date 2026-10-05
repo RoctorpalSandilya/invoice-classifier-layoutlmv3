@@ -1,0 +1,11 @@
+From: Amanda Anderson <amanda.anderson@karpe.in>
+To: Catherine Pearson <catherine.pearson@petersen.com>
+Date: Sun, 24 May 2026 01:16:54 -0500
+Subject: Your invoice INV-20020076 is attached
+Message-ID: <585dcb56-2374-4e91-9da4-10c758cd1997@karpe.in>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_957679_5262208764"
+X-Attachment-Name: FACTU2020020076.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

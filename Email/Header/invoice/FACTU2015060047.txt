@@ -1,0 +1,13 @@
+From: Harrison PLC Billing <no-reply@walia.com>
+To: Dr Jeremy Pollard <dr.pollard@gardnerbeard.net>
+Reply-To: billing@walia.com
+Date: Mon, 22 Jun 2026 10:34:59 +0100
+Subject: New invoice FACTU2015060047 generated
+Message-ID: <f1b2b793-be9a-493c-9f0e-7718b113ccca@walia.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_168839_3113858688"
+X-Attachment-Name: FACTU2015060047.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

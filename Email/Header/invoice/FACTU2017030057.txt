@@ -1,0 +1,13 @@
+From: Whitehead-Ramirez Billing <no-reply@kelly.info>
+To: Richard Blair <richard.blair@kadakia.in>
+Reply-To: billing@kelly.info
+Date: Wed, 05 Aug 2026 22:56:21 -0500
+Subject: New invoice 17030057 generated
+Message-ID: <8a3e98f8-5821-4db7-bc7d-629911495c2e@kelly.info>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_883078_7558900817"
+X-Attachment-Name: FACTU2017030057.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Lewis Brown <lewis.brown@forsterrogers.net>
+To: Patricia James <patricia.james@kelly.com>
+Date: Tue, 04 Aug 2026 04:09:50 +0100
+Subject: Reminder: outstanding invoice #15070049
+Message-ID: <80fff3f9-18e6-43df-a7fd-aaee8ea57a4f@forsterrogers.net>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_269245_9441707251"
+X-Attachment-Name: FACTU2015070049.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

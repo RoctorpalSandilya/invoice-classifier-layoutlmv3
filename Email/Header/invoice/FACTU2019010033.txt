@@ -1,0 +1,11 @@
+From: Diya Sha <diya.sha@ghoshnagi.com>
+To: Matthew Jackson <matthew.jackson@smith.co.uk>
+Date: Sat, 25 Jul 2026 20:04:14 +0200
+Subject: Invoice 19010033 | Due 23 Sep 2026
+Message-ID: <1d5a2caa-a5df-4e4b-b757-93ca8be0ba99@ghoshnagi.com>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_260312_6514368473"
+X-Attachment-Name: FACTU2019010033.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

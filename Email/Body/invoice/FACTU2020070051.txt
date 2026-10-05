@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: FACTU2020070051
+Account: ACC-592397
+Amount: $17,391.63
+Due date: 20 Apr 2026
+
+The invoice is attached to this email in PDF format. You can also view and pay it online at https://billing.robinson-sullivan.biz/invoices/FACTU2020070051.
+
+This is an automated message; please do not reply to this email.
+
+Sidhu and Sons Billing Team

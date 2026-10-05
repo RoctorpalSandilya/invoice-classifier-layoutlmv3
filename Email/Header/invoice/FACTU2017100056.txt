@@ -1,0 +1,11 @@
+From: Debbie Atkinson <debbie.atkinson@georgewallace.co.uk>
+To: Kritika Gopal <kritika.gopal@burns.com>
+Date: Wed, 30 Sep 2026 06:35:49 +0000
+Subject: Invoice 17100056 | Due 29 Nov 2026
+Message-ID: <294c5509-752f-4d48-901f-81fbbcb7544f@georgewallace.co.uk>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_695377_2892251435"
+X-Attachment-Name: FACTU2017100056.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

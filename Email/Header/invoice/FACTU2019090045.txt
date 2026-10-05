@@ -1,0 +1,11 @@
+From: Charan Pall <charan.pall@rees.io>
+To: Xalak Jhaveri <xalak.jhaveri@nagar.in>
+Date: Sat, 25 Apr 2026 10:44:18 +0100
+Subject: Payment reminder: Invoice FACTU2019090045
+Message-ID: <fb896615-e5e5-4e36-97bd-626317a10a29@rees.io>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_329645_6078209397"
+X-Attachment-Name: FACTU2019090045.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

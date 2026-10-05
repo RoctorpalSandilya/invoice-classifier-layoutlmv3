@@ -1,0 +1,13 @@
+From: Dr Amanda Boyle <dr.boyle@harmon.in>
+To: Cody Wilson <cody.wilson@harmon.co.uk>
+Cc: Sheila Ahmed-Knight <sheila.ahmed-knight@harmon.co.uk>
+Date: Mon, 15 Jun 2026 10:39:57 +0100
+Subject: AP: new vendor invoice 18090041
+Message-ID: <2f07e8b4-4759-4d09-ae19-d5852330652a@harmon.in>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_399206_8779856663"
+X-Attachment-Name: FACTU2018090041.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

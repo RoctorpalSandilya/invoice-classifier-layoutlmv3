@@ -1,0 +1,12 @@
+From: Mr Jake Chapman <mr.chapman@bhatia.co.uk>
+To: Chavvi Parmar <chavvi.parmar@bhatia.com>
+Cc: Wakeeta Patla <wakeeta.patla@bhatia.com>
+Date: Sat, 16 May 2026 05:26:35 +0100
+Subject: Please approve: Woods, Hill and Wilson invoice INV-21050063
+Message-ID: <7d7f899e-93ae-43b3-a1d4-9d6b0c06bcb4@bhatia.co.uk>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_573606_0726844548"
+X-Attachment-Name: FACTU2021050063.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Vritti Bal <vritti.bal@smith.co.uk>
+To: Kevin Prabhakar <kevin.prabhakar@ali.co.uk>
+Date: Sun, 10 May 2026 08:14:55 -0500
+Subject: Invoice INV-21070036 from Smith, Hall and Jones
+Message-ID: <a1a94735-1b8c-404b-ac44-bdad51cf18ac@smith.co.uk>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_776886_8020718290"
+X-Attachment-Name: FACTU2021070036.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,13 @@
+From: Alice Smith <alice.smith@wilson.co.uk>
+To: Abigail Wilson <abigail.wilson@wilson.com>
+Cc: Azad Om <azad.om@wilson.com>
+Date: Fri, 05 Jun 2026 18:22:08 -0800
+Subject: [Action required] Invoice INV-19010035 – Rhodes, Johnston and Elliott
+Message-ID: <32d195a5-e045-4ad8-b6c3-fd659da5a089@wilson.co.uk>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_095977_1754103423"
+X-Attachment-Name: FACTU2019010035.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Jill Haynes <jill.haynes@guha.io>
+To: Arthur Brock <arthur.brock@monroe.co.uk>
+Date: Fri, 06 Feb 2026 09:46:13 +0100
+Subject: Tax Invoice #19090056
+Message-ID: <1021dd54-1cf7-4b84-a78b-03c2f67d0bc3@guha.io>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_691481_7363405136"
+X-Attachment-Name: FACTU2019090056.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Ekaja Sharma <ekaja.sharma@clementstaylor.com>
+To: Rita Jones <rita.jones@marsh.biz>
+Date: Tue, 04 Aug 2026 21:46:19 +0000
+Subject: Reimbursement – attached receipt
+Message-ID: <d5376e51-927c-45ad-a23d-53d6eda1e3aa@clementstaylor.com>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_200469_8083236714"
+X-Attachment-Name: receipt_017.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

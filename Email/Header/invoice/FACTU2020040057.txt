@@ -1,0 +1,13 @@
+From: Barnes-Hill Billing <no-reply@north.com>
+To: Kevin Parkinson <kevin.parkinson@surakaul.io>
+Reply-To: billing@north.com
+Date: Sat, 25 Apr 2026 17:14:44 +0000
+Subject: New invoice #20040057 generated
+Message-ID: <efc31e4e-c434-4542-943b-24d641c4f31d@north.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_050968_4243119080"
+X-Attachment-Name: FACTU2020040057.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

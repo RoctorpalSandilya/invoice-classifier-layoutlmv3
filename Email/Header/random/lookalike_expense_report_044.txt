@@ -1,0 +1,11 @@
+From: Alka Varughese <alka.varughese@sullivanhill.in>
+To: Gerald Turnbull <gerald.turnbull@dora-khanna.com>
+Date: Tue, 21 Jul 2026 04:51:19 +0530
+Subject: Expense report EXP-9462 for approval
+Message-ID: <c15efaf4-0699-4621-b871-7e22a3769829@sullivanhill.in>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_626334_4979661913"
+X-Attachment-Name: lookalike_expense_report_044.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

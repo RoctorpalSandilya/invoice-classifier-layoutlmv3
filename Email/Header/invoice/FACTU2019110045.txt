@@ -1,0 +1,11 @@
+From: Alyssa Morris <alyssa.morris@hudson.com>
+To: Darsh Mital <darsh.mital@james.co.uk>
+Date: Thu, 21 May 2026 19:46:09 +0200
+Subject: Urgent: unpaid invoice INV-19110045
+Message-ID: <39f31f81-777a-4571-b6d5-ab3188cadf22@hudson.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_614014_3154265166"
+X-Attachment-Name: FACTU2019110045.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

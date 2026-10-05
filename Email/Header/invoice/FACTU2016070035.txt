@@ -1,0 +1,12 @@
+From: Isaac Gole <isaac.gole@french.in>
+To: Chameli Sahota <chameli.sahota@mistrywalker.io>
+Date: Sat, 21 Mar 2026 09:48:07 +0100
+Subject: Tax Invoice #16070035
+Message-ID: <789af4cb-b12e-446c-86c3-a72baf674dc3@french.in>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_795135_1509237048"
+X-Attachment-Name: FACTU2016070035.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

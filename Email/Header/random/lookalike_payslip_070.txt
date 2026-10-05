@@ -1,0 +1,11 @@
+From: Payroll <payroll@munshi-choudhry.com>
+To: Jeffrey Allen <jeffrey.allen@lal.com>
+Date: Sun, 10 May 2026 22:08:07 +0530
+Subject: Pay statement May 2026
+Message-ID: <386b2a33-8480-4c32-b037-610639bdea1a@munshi-choudhry.com>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_077851_5815204305"
+X-Attachment-Name: lookalike_payslip_070.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

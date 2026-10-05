@@ -1,0 +1,11 @@
+From: Guy Williams <guy.williams@kadesaraf.com>
+To: Ricardo Miller <ricardo.miller@prasad.in>
+Date: Mon, 17 Aug 2026 05:38:03 -0800
+Subject: Tax Invoice FACTU2020100058
+Message-ID: <794c7218-d0a8-4c1d-b9a4-79ea4995e0a3@kadesaraf.com>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_831777_8671461605"
+X-Attachment-Name: FACTU2020100058.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

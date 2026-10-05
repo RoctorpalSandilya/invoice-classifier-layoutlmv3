@@ -1,0 +1,13 @@
+From: Glenn Garrett <glenn.garrett@paynebrown.net>
+To: James Erickson <james.erickson@paynebrown.io>
+Cc: Mrs Bethan Wood <mrs.wood@paynebrown.io>
+Date: Tue, 21 Apr 2026 22:53:35 +0530
+Subject: Invoice FACTU2019020051 for approval
+Message-ID: <1ccbb992-c0f2-4da4-8efa-7962c92f9aa3@paynebrown.net>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_389336_2155280531"
+X-Attachment-Name: FACTU2019020051.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

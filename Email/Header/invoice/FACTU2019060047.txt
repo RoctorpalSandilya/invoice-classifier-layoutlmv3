@@ -1,0 +1,13 @@
+From: James Turner <james.turner@martinezosborn.com>
+To: Ekantika Sood <ekantika.sood@martinezosborn.in>
+Cc: Oni Loke <oni.loke@martinezosborn.in>
+Date: Sat, 09 May 2026 01:57:11 +0530
+Subject: AP: new vendor invoice 19060047
+Message-ID: <71b3bea9-60da-44ab-91b6-ac35f0ef525e@martinezosborn.com>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_606038_5093165191"
+X-Attachment-Name: FACTU2019060047.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

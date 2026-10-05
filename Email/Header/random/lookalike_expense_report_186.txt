@@ -1,0 +1,11 @@
+From: Yashawini Samra <yashawini.samra@scottsmith.in>
+To: Guneet Babu <guneet.babu@nguyen-blair.com>
+Date: Thu, 08 Jan 2026 08:40:33 +0100
+Subject: June expenses
+Message-ID: <4f5c037f-62ee-4923-88bf-97bfd6e67a78@scottsmith.in>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_344039_6044329726"
+X-Attachment-Name: lookalike_expense_report_186.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Catherine Novak <catherine.novak@krishnamurthy.co.uk>
+To: Amrita Barman <amrita.barman@gulati.com>
+Date: Fri, 23 Jan 2026 12:20:33 -0500
+Subject: Tax Invoice 15050068
+Message-ID: <353c89a4-1b09-4e11-9e7b-28cd77f3af5f@krishnamurthy.co.uk>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_795154_0389663401"
+X-Attachment-Name: FACTU2015050068.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

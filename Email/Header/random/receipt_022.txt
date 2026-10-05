@@ -1,0 +1,11 @@
+From: Natalie Smith <natalie.smith@waliabedi.com>
+To: Jade Wheeler <jade.wheeler@madan-chawla.com>
+Date: Fri, 11 Sep 2026 14:58:16 -0500
+Subject: Lunch receipt
+Message-ID: <8de523f2-01e5-4bc5-ae90-f2a2427876c8@waliabedi.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_200320_2575212453"
+X-Attachment-Name: receipt_022.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

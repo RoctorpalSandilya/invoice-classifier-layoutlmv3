@@ -1,0 +1,12 @@
+From: Mr Edward Woods <mr.woods@kumermand.com>
+To: Ganga Mahal <ganga.mahal@keer.com>
+Date: Sat, 28 Mar 2026 16:49:55 -0800
+Subject: Here's that receipt you asked for
+Message-ID: <9c2aaced-b83b-4678-ab0c-8d0c39245886@kumermand.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_681591_1520278797"
+X-Attachment-Name: receipt_234.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

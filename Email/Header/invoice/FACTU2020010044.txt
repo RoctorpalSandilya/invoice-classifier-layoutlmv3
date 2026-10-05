@@ -1,0 +1,12 @@
+From: Patricia Connor <patricia.connor@korpal.in>
+To: Ucchal Kashyap <ucchal.kashyap@lewis.io>
+Date: Mon, 07 Sep 2026 17:01:36 +0000
+Subject: Invoice INV-20010044 from Korpal Ltd
+Message-ID: <37336931-a9ae-43da-b55d-96a4c2ff63cc@korpal.in>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_921267_3217223013"
+X-Attachment-Name: FACTU2020010044.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

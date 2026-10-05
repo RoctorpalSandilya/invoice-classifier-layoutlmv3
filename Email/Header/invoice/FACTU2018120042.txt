@@ -1,0 +1,12 @@
+From: Miss Carole Byrne <miss.byrne@bensharaf.io>
+To: Leah Ellis <leah.ellis@bavasom.com>
+Date: Fri, 18 Sep 2026 19:01:06 -0500
+Subject: Your invoice FACTU2018120042 is attached
+Message-ID: <ba377c54-b780-429c-949b-500228bf7a72@bensharaf.io>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_434322_3329031412"
+X-Attachment-Name: FACTU2018120042.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

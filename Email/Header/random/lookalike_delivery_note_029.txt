@@ -1,0 +1,12 @@
+From: Lauren Lawrence <lauren.lawrence@henderson.io>
+To: Peter Connor-Coates <peter.connor-coates@tiwari.com>
+Date: Wed, 15 Jul 2026 06:31:40 -0500
+Subject: Despatch confirmation
+Message-ID: <e712d4cc-a993-4289-96ac-fa9c74769f55@henderson.io>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_572488_8861089688"
+X-Attachment-Name: lookalike_delivery_note_029.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

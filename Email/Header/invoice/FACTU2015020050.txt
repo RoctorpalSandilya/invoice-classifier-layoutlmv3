@@ -1,0 +1,12 @@
+From: Anderson and Sons Billing <no-reply@parmar.net>
+To: Glenn Roberts <glenn.roberts@davis.io>
+Reply-To: billing@parmar.net
+Date: Fri, 20 Mar 2026 00:50:28 +0000
+Subject: [Automated] Invoice INV-15020050 is now available
+Message-ID: <2f3dc554-3087-4bf9-a584-9de27b34f6d9@parmar.net>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_322419_0271156768"
+X-Attachment-Name: FACTU2015020050.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

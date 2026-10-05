@@ -1,0 +1,11 @@
+From: Mr Bradley Taylor <mr.taylor@swift.com>
+To: Timothy Robinson <timothy.robinson@johnson.co.uk>
+Date: Fri, 14 Aug 2026 23:04:10 +0200
+Subject: Invoice #17050056 – 52 days overdue
+Message-ID: <a88f5de0-4c81-4f51-bc0e-6c45a8687e0c@swift.com>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_497950_5793592373"
+X-Attachment-Name: FACTU2017050056.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

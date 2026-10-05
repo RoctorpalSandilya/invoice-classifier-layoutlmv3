@@ -1,0 +1,11 @@
+From: Michael Miller <michael.miller@finch.in>
+To: Anita Stanton <anita.stanton@joyce.io>
+Date: Sat, 07 Mar 2026 05:50:57 -0800
+Subject: Finch, Wilson and Coates: Invoice #20060047 for August services
+Message-ID: <164bb35d-3af8-4bed-9e97-b5eeaddfd025@finch.in>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_601836_9340264428"
+X-Attachment-Name: FACTU2020060047.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

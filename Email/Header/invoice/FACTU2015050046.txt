@@ -1,0 +1,12 @@
+From: Charles Jones <charles.jones@lawrence.in>
+To: Tristan Bail <tristan.bail@schultz.in>
+Date: Thu, 18 Jun 2026 07:17:49 +0200
+Subject: Your invoice FACTU2015050046 is attached
+Message-ID: <892fbb8f-69b6-4256-99e2-05251be066e3@lawrence.in>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_811489_1193218844"
+X-Attachment-Name: FACTU2015050046.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

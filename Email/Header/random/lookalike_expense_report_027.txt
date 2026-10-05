@@ -1,0 +1,11 @@
+From: Finn Kamdar <finn.kamdar@rhodes.io>
+To: Dominic Mall <dominic.mall@sarma-konda.com>
+Date: Tue, 10 Mar 2026 16:12:49 +0530
+Subject: Expense claim submitted
+Message-ID: <65bad1a2-4c04-4703-b0ea-f2ef65351dea@rhodes.io>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_245604_9770960178"
+X-Attachment-Name: lookalike_expense_report_027.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

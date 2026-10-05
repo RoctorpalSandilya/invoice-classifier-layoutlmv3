@@ -1,0 +1,12 @@
+From: Payroll <payroll@dawson.com>
+To: James Moreno <james.moreno@kaul-rama.com>
+Date: Fri, 24 Apr 2026 22:04:25 -0500
+Subject: Payslip attached – confidential
+Message-ID: <7ea37b86-de92-4c4d-8e57-29b3152e0836@dawson.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_657632_2710296893"
+X-Attachment-Name: lookalike_payslip_045.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

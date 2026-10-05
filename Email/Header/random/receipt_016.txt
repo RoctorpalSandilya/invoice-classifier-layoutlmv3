@@ -1,0 +1,12 @@
+From: Angela Hill <angela.hill@carpenter.in>
+To: Mrs. Jodi Wilson <mrs..wilson@harris.net>
+Date: Thu, 30 Jul 2026 22:08:58 -0500
+Subject: Receipt for expense claim
+Message-ID: <0f366a69-8bc3-4198-8e0f-09e451bc0157@carpenter.in>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_421296_4670462752"
+X-Attachment-Name: receipt_016.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

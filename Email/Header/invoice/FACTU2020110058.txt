@@ -1,0 +1,11 @@
+From: Ekiya Panchal <ekiya.panchal@thompson.com>
+To: Lauren Clayton-Williams <lauren.clayton-williams@harrisrich.in>
+Date: Thu, 28 May 2026 03:30:46 -0800
+Subject: Re-sending invoice INV-20110058
+Message-ID: <0b197f1f-b9f2-4a88-8041-f4d7144fe78c@thompson.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_863995_9280842179"
+X-Attachment-Name: FACTU2020110058.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

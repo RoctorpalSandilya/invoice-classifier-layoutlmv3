@@ -1,0 +1,12 @@
+From: Dr Francis Owen <dr.owen@davila.in>
+To: Carol Daniels-Robinson <carol.daniels-robinson@davila.com>
+Cc: Margaret Wood <margaret.wood@davila.com>
+Date: Sun, 28 Jun 2026 09:46:31 +0200
+Subject: Invoice #17070045 for approval
+Message-ID: <50757e14-d1b0-4032-a5a4-6dc4bfd7d1d0@davila.in>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_567014_8548060571"
+X-Attachment-Name: FACTU2017070045.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

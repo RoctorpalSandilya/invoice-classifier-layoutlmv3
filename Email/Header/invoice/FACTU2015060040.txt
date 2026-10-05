@@ -1,0 +1,11 @@
+From: Joshua Johnson <joshua.johnson@gardnerjackson.co.uk>
+To: Dr Sharon Pearson <dr.pearson@palmer.com>
+Date: Wed, 26 Aug 2026 09:50:31 -0800
+Subject: Invoice INV-15060040 from Gardner-Jackson
+Message-ID: <eadc222a-711d-4686-8713-ba3d504f5d27@gardnerjackson.co.uk>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_498538_3995257622"
+X-Attachment-Name: FACTU2015060040.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

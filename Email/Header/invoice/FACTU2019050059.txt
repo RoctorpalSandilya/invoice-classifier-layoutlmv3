@@ -1,0 +1,12 @@
+From: Richard Rose <richard.rose@jones.io>
+To: Hannah Owens <hannah.owens@ward.net>
+Date: Fri, 17 Apr 2026 22:38:43 +0530
+Subject: Invoice #19050059 from Jones PLC
+Message-ID: <4eb7e518-5094-4b67-ae58-968072eb0b13@jones.io>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_245802_1446674553"
+X-Attachment-Name: FACTU2019050059.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

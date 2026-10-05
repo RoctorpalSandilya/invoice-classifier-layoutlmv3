@@ -1,0 +1,12 @@
+From: Tarak Raju <tarak.raju@ghose.co.uk>
+To: Tamanna Bawa <tamanna.bawa@sahota.com>
+Date: Fri, 10 Apr 2026 11:32:56 -0500
+Subject: Invoice 18100066 from Ghose Ltd
+Message-ID: <e65ac106-8c92-4d86-8ba0-2b9f108dfab3@ghose.co.uk>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_365459_4253737986"
+X-Attachment-Name: FACTU2018100066.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Jeet Bassi <jeet.bassi@foster.com>
+To: Onveer Bir <onveer.bir@clark.com>
+Date: Thu, 16 Apr 2026 14:05:34 -0500
+Subject: Invoice INV-19050046 – 47 days overdue
+Message-ID: <90089662-a356-46b3-a1ce-5d5b9749fab4@foster.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_641109_6424828842"
+X-Attachment-Name: FACTU2019050046.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

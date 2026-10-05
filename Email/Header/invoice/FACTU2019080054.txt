@@ -1,0 +1,12 @@
+From: Sarthak Bhatia <sarthak.bhatia@borahnayak.com>
+To: Daniel Hinton <daniel.hinton@rowland.com>
+Date: Sun, 26 Apr 2026 17:30:43 +0200
+Subject: Borah-Nayak: Invoice FACTU2019080054 for April services
+Message-ID: <cb9ce69f-2c9c-418c-ae24-ca48a7711a7a@borahnayak.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_331544_4896255165"
+X-Attachment-Name: FACTU2019080054.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

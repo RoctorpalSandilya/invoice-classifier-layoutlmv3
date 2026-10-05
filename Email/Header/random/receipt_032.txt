@@ -1,0 +1,12 @@
+From: Wriddhish Chada <wriddhish.chada@davis.io>
+To: Jeevika Seth <jeevika.seth@owens.net>
+Date: Sat, 24 Jan 2026 12:31:34 +0100
+Subject: Here's that receipt you asked for
+Message-ID: <85a3a542-def7-4064-a687-7a23cf498afa@davis.io>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_965420_1146407844"
+X-Attachment-Name: receipt_032.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,13 @@
+From: Heath Group Billing <no-reply@butler.biz>
+To: Kirsty Robinson <kirsty.robinson@lal.io>
+Reply-To: billing@butler.biz
+Date: Sun, 20 Sep 2026 10:40:00 +0100
+Subject: Billing notification – invoice INV-20040046
+Message-ID: <75da22fa-ff97-4f47-a0d3-147881f9902f@butler.biz>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_070737_2985621147"
+X-Attachment-Name: FACTU2020040046.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Jean Smith <jean.smith@williams.net>
+To: Jennifer Sims <jennifer.sims@bose.net>
+Date: Mon, 29 Jun 2026 09:25:55 -0500
+Subject: Payment reminder: Invoice 20090061
+Message-ID: <eed7d012-2ebb-4d25-9fe8-67ccdbae0f8d@williams.net>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_680693_3273331155"
+X-Attachment-Name: FACTU2020090061.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

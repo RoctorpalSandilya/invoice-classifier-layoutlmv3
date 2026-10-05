@@ -1,0 +1,12 @@
+From: Steve Ingram <steve.ingram@longlee.io>
+To: Dominic Parsa <dominic.parsa@watson.biz>
+Date: Mon, 15 Jun 2026 05:21:42 -0800
+Subject: Receipt for expense claim
+Message-ID: <2d2d166e-862f-486d-b64a-10c4d9089310@longlee.io>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_159501_3211938690"
+X-Attachment-Name: receipt_058.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

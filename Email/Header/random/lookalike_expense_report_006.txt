@@ -1,0 +1,11 @@
+From: Mrs Joan Mitchell <mrs.mitchell@reed.io>
+To: Kathleen Gonzalez <kathleen.gonzalez@lopez.com>
+Date: Sun, 12 Jul 2026 12:40:31 +0530
+Subject: October expenses
+Message-ID: <c6369dea-229e-4f7a-b125-29bf88f07933@reed.io>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_060588_3226123845"
+X-Attachment-Name: lookalike_expense_report_006.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

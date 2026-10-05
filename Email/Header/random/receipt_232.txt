@@ -1,0 +1,12 @@
+From: Martha Zhang <martha.zhang@lewis.net>
+To: Martha Vega <martha.vega@bailey-thomas.org>
+Date: Thu, 28 May 2026 11:52:10 -0500
+Subject: Taxi receipt for last week's client visit
+Message-ID: <3ba6312c-8143-48ef-bf6c-b265eeaa8f15@lewis.net>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_645302_2622448160"
+X-Attachment-Name: receipt_232.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

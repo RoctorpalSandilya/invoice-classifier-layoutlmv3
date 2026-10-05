@@ -1,0 +1,12 @@
+From: George Parekh <george.parekh@whiteheadnorris.in>
+To: Anthony Cardenas <anthony.cardenas@kaurdoshi.com>
+Date: Mon, 12 Jan 2026 09:58:54 -0800
+Subject: Whitehead-Norris: Invoice 15080055 for September services
+Message-ID: <ec966325-6a1e-44d8-9c21-db70b88bb3de@whiteheadnorris.in>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_733277_4390193025"
+X-Attachment-Name: FACTU2015080055.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

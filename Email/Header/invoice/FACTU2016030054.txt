@@ -1,0 +1,11 @@
+From: Paul Williamson-Cook <paul.williamson-cook@oliverwarner.com>
+To: Rhonda Blair <rhonda.blair@shukla.com>
+Date: Wed, 17 Jun 2026 18:42:48 +0100
+Subject: Invoice FACTU2016030054 – amount does not match PO
+Message-ID: <ef42d33c-7f23-4ce8-8bd1-3cb1d2f54e39@oliverwarner.com>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_193012_1130036328"
+X-Attachment-Name: FACTU2016030054.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

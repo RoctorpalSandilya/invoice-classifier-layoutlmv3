@@ -1,0 +1,13 @@
+From: Nathan Richards <nathan.richards@nagarajankadakia.co.uk>
+To: Stephen Cardenas <stephen.cardenas@nagarajankadakia.net>
+Cc: Dr Louis Day <dr.day@nagarajankadakia.net>
+Date: Fri, 25 Sep 2026 09:16:36 -0500
+Subject: Invoice FACTU2015070064 for approval
+Message-ID: <c6cc1212-fb5b-44ce-bdfc-b419c069ef16@nagarajankadakia.co.uk>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_707209_5964431302"
+X-Attachment-Name: FACTU2015070064.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

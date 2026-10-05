@@ -1,0 +1,12 @@
+From: Renee Glenn <renee.glenn@sainiraval.io>
+To: Ubika Pant <ubika.pant@boyd.com>
+Date: Mon, 03 Aug 2026 07:10:48 +0100
+Subject: Your invoice 19060049 is attached
+Message-ID: <4eb651e7-61ad-4c6a-9b27-c0c62896a671@sainiraval.io>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_749443_0940998797"
+X-Attachment-Name: FACTU2019060049.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

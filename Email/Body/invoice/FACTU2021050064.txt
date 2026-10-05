@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: INV-21050064
+Account: ACC-155851
+Amount: €18,269.36
+Due date: 04 Jul 2026
+
+The invoice is attached to this email in image format. You can also view and pay it online at https://billing.palmer.com/invoices/INV-21050064.
+
+This is an automated message; please do not reply to this email.
+
+Powell Inc Billing Team

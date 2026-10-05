@@ -1,0 +1,12 @@
+From: Christopher Smith <christopher.smith@clayton.com>
+To: Derek White <derek.white@sanghvi.com>
+Date: Fri, 18 Sep 2026 21:23:55 -0500
+Subject: Invoice FACTU2020120053 from Clayton Inc
+Message-ID: <6b092d51-d7eb-4c17-9601-2bf7e6deceb2@clayton.com>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_962415_3924702221"
+X-Attachment-Name: FACTU2020120053.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

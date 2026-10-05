@@ -1,0 +1,12 @@
+From: Edhitha Krishnan <edhitha.krishnan@walkerbanks.com>
+To: Alexander Coleman <alexander.coleman@weston.io>
+Date: Thu, 30 Apr 2026 02:08:11 +0200
+Subject: Invoice FACTU2015110057 | Due 14 Jun 2026
+Message-ID: <1191e8c6-4341-43ca-a113-2c3faf08832b@walkerbanks.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_881695_7729053783"
+X-Attachment-Name: FACTU2015110057.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

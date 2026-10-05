@@ -1,0 +1,11 @@
+From: Varenya Bail <varenya.bail@johnson.com>
+To: Pamela Cordova MD <pamela.md@chaudry.net>
+Date: Mon, 13 Jul 2026 14:43:26 +0530
+Subject: Trade account application
+Message-ID: <c56c16fd-ec74-4ca2-a904-0709e04a99e5@johnson.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_105733_6099331530"
+X-Attachment-Name: lookalike_credit_application_057.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Leon Hughes <leon.hughes@simon.in>
+To: Frederick Freeman <frederick.freeman@goeldeep.net>
+Date: Thu, 21 May 2026 22:18:15 +0200
+Subject: Urgent: unpaid invoice #19010034
+Message-ID: <46e52564-eb01-4ed9-9baf-9a1147dc2cb2@simon.in>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_798252_2082419467"
+X-Attachment-Name: FACTU2019010034.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

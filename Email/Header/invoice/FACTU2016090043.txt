@@ -1,0 +1,11 @@
+From: Lakshit Tata <lakshit.tata@strong.net>
+To: Dr Beth Evans <dr.evans@mata.com>
+Date: Sun, 15 Mar 2026 06:22:24 +0200
+Subject: Invoice 16090043 – Mata, Munoz and Barnett
+Message-ID: <91e0360c-d27c-46fa-966b-1d3ec0cdd700@strong.net>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_997766_6982249092"
+X-Attachment-Name: FACTU2016090043.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

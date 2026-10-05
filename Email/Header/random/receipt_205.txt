@@ -1,0 +1,12 @@
+From: Ross Bowen-Alexander <ross.bowen-alexander@richardsonblack.in>
+To: Chatura Chaudhari <chatura.chaudhari@williams.net>
+Date: Sun, 27 Sep 2026 21:46:48 +0200
+Subject: Lunch receipt
+Message-ID: <00cd8276-5fc8-4f54-9922-e2dee3531730@richardsonblack.in>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_506903_3035215874"
+X-Attachment-Name: receipt_205.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

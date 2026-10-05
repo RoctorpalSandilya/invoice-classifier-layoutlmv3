@@ -1,0 +1,11 @@
+From: Yashawini Koshy <yashawini.koshy@ellis.com>
+To: Andrea Owen-Collins <andrea.owen-collins@walsh-mendoza.com>
+Date: Thu, 09 Jul 2026 00:51:14 +0100
+Subject: Taxi receipt for last week's client visit
+Message-ID: <5d4e228c-a6f2-4e55-8298-b2a6d7398644@ellis.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_514413_6822750756"
+X-Attachment-Name: receipt_190.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

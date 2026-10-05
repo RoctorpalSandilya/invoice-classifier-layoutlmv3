@@ -1,0 +1,12 @@
+From: Sarah Velazquez <sarah.velazquez@dugalborra.co.uk>
+To: Elliott Green <elliott.green@velezgarcia.io>
+Date: Sun, 23 Aug 2026 07:58:44 -0500
+Subject: Invoice FACTU2016040049 from Dugal-Borra
+Message-ID: <3e59d07c-136a-497a-ae38-8be26963a33f@dugalborra.co.uk>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_795216_3005472507"
+X-Attachment-Name: FACTU2016040049.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

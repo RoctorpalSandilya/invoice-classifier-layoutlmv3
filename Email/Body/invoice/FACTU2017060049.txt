@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: 17060049
+Account: ACC-519495
+Amount: $11,673.12
+Due date: 30 Apr 2026
+
+The invoice is attached to this email in PDF format. You can also view and pay it online at https://billing.perez.org/invoices/17060049.
+
+This is an automated message; please do not reply to this email.
+
+Apte, Sheth and Sant Billing Team

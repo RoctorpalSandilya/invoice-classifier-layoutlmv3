@@ -1,0 +1,12 @@
+From: Cameron Owen <cameron.owen@rattan.com>
+To: Yasti Bala <yasti.bala@harperstewart.io>
+Date: Sun, 05 Jul 2026 12:33:25 +0530
+Subject: Invoice FACTU2021010059 – corrected copy
+Message-ID: <d831c475-f555-4bc4-9877-1fe53a52a73e@rattan.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_288933_4114455896"
+X-Attachment-Name: FACTU2021010059.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

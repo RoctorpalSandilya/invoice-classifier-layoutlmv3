@@ -1,0 +1,11 @@
+From: Melissa Lowery <melissa.lowery@hernandez.io>
+To: Mrs Amber Jones <mrs.jones@harrington.com>
+Date: Fri, 02 Jan 2026 08:04:27 +0200
+Subject: Hernandez, Anderson and Williams: Invoice INV-21060048 for June services
+Message-ID: <9726486a-8e2a-4a1a-9d9e-e099a51b0fc8@hernandez.io>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_814895_7376588745"
+X-Attachment-Name: FACTU2021060048.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

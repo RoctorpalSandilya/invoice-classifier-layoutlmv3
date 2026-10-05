@@ -1,0 +1,11 @@
+From: Bina Manda <bina.manda@walkerfraser.com>
+To: Miss Victoria Russell <miss.russell@summers.io>
+Date: Sat, 27 Jun 2026 23:21:43 -0500
+Subject: Invoice #19050044 – Summers LLC
+Message-ID: <9413068b-9af9-485e-a37b-e856c1dc2f03@walkerfraser.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_098131_7452782800"
+X-Attachment-Name: FACTU2019050044.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

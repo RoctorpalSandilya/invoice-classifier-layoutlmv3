@@ -1,0 +1,11 @@
+From: Emily Mcguire <emily.mcguire@smith.in>
+To: Laksh Babu <laksh.babu@wilkinsellis.com>
+Date: Thu, 21 May 2026 03:14:24 -0500
+Subject: Tax Invoice #19050054
+Message-ID: <874d3b4a-348f-46e0-967f-727be2a2ba55@smith.in>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_918183_8882536779"
+X-Attachment-Name: FACTU2019050054.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

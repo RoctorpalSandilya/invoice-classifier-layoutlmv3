@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: 16030049
+Account: ACC-383530
+Amount: ₹19,075.92
+Due date: 07 May 2026
+
+The invoice is attached to this email in PDF format. You can also view and pay it online at https://billing.apte-johal.org/invoices/16030049.
+
+This is an automated message; please do not reply to this email.
+
+Evans, Roberts and Hodgson Billing Team

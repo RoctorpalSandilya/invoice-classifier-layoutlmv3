@@ -1,0 +1,12 @@
+From: Thomson-Mitchell Billing <no-reply@pena.biz>
+To: Frado Yohannan <frado.yohannan@bennett.io>
+Reply-To: billing@pena.biz
+Date: Wed, 20 May 2026 06:14:25 +0530
+Subject: New invoice INV-16080052 generated
+Message-ID: <e47f5341-e956-402d-84f6-61a509f6bf9b@pena.biz>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_256468_9108027039"
+X-Attachment-Name: FACTU2016080052.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

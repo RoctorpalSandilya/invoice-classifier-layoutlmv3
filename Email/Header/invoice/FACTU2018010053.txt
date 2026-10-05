@@ -1,0 +1,12 @@
+From: Brian Harrington <brian.harrington@weberadams.io>
+To: Jacob Williams <jacob.williams@vance.com>
+Date: Mon, 06 Jul 2026 06:52:16 +0200
+Subject: Invoice #18010053 | Due 04 Sep 2026
+Message-ID: <278d43d7-ba43-460e-bdb0-d4545379d24b@weberadams.io>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_447491_7535199954"
+X-Attachment-Name: FACTU2018010053.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Joe Jones <joe.jones@tak.co.uk>
+To: Manbir Loyal <manbir.loyal@manibasu.io>
+Date: Sat, 06 Jun 2026 07:04:29 -0500
+Subject: Friendly reminder – invoice FACTU2021020051 due 06 Jul 2026
+Message-ID: <63aeb850-4c97-4332-8f97-15f106381eb5@tak.co.uk>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_242927_3871808416"
+X-Attachment-Name: FACTU2021020051.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

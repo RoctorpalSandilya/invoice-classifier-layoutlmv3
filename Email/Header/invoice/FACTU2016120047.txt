@@ -1,0 +1,11 @@
+From: Nidhi Borra <nidhi.borra@kennedy.com>
+To: Scott Olson <scott.olson@ramirez.com>
+Date: Fri, 12 Jun 2026 21:38:28 -0800
+Subject: Payment reminder: Invoice FACTU2016120047
+Message-ID: <3eec4a9c-ce48-4092-9c5f-63ea4932d1a9@kennedy.com>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_197653_5906493534"
+X-Attachment-Name: FACTU2016120047.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

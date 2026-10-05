@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: INV-19020048
+Account: ACC-409130
+Amount: £18,801.43
+Due date: 04 Jun 2026
+
+The invoice is attached to this email in PDF format. You can also view and pay it online at https://billing.lord.net/invoices/INV-19020048.
+
+This is an automated message; please do not reply to this email.
+
+Bryant, Foster and Shelton Billing Team

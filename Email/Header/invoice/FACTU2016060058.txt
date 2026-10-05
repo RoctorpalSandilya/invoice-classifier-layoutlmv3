@@ -1,0 +1,11 @@
+From: Michelle Jackson-Pearson <michelle.jackson-pearson@mossmorris.in>
+To: Cristina Barrett <cristina.barrett@boothhodgson.com>
+Date: Thu, 12 Feb 2026 06:59:46 +0200
+Subject: Your invoice 16060058 is attached
+Message-ID: <ad13b0ce-a68a-4d58-858f-397d296f5c54@mossmorris.in>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_748426_9646469603"
+X-Attachment-Name: FACTU2016060058.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

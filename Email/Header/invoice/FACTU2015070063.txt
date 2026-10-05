@@ -1,0 +1,12 @@
+From: Mr Leslie Johnson <mr.johnson@chambers.com>
+To: Charvi Kara <charvi.kara@chambers.net>
+Cc: Marian Atkins <marian.atkins@chambers.net>
+Date: Sun, 14 Jun 2026 06:16:36 +0530
+Subject: Invoice #15070063 for approval
+Message-ID: <d3726502-2866-49c4-9df5-3debc676341f@chambers.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_197972_6584076104"
+X-Attachment-Name: FACTU2015070063.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

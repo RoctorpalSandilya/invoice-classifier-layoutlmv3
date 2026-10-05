@@ -1,0 +1,11 @@
+From: Kevin Perez <kevin.perez@nair.com>
+To: Michael Webb <michael.webb@narang.net>
+Date: Tue, 21 Jul 2026 22:00:18 +0200
+Subject: Friendly reminder – invoice 16070042 due 20 Aug 2026
+Message-ID: <27457395-d10b-45bb-98a2-1eeead0be8c6@nair.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_699509_7696481738"
+X-Attachment-Name: FACTU2016070042.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

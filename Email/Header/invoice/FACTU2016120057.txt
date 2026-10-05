@@ -1,0 +1,13 @@
+From: Benjamin Lucas <benjamin.lucas@edwardslee.co.uk>
+To: Sabrina Kerr <sabrina.kerr@edwardslee.co.uk>
+Cc: Daniel Kelley <daniel.kelley@edwardslee.co.uk>
+Date: Thu, 23 Apr 2026 21:41:55 -0800
+Subject: Invoice INV-16120057 for approval
+Message-ID: <bcf21977-73cf-4ff4-aa1d-5b72c625aba5@edwardslee.co.uk>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_273166_3201713190"
+X-Attachment-Name: FACTU2016120057.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Jean Simpson-Butler <jean.simpson-butler@dalia.co.uk>
+To: Charles Moreno <charles.moreno@jainnadig.co.uk>
+Date: Fri, 03 Jul 2026 02:47:32 -0800
+Subject: Invoice 21050058 – Jain-Nadig
+Message-ID: <a20233ca-baf1-446d-a1dc-6536c88b9739@dalia.co.uk>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_213340_6361950126"
+X-Attachment-Name: FACTU2021050058.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Brandon Solis <brandon.solis@shere.net>
+To: Hollie Barnett <hollie.barnett@clark-white.net>
+Date: Mon, 20 Jul 2026 10:29:55 +0000
+Subject: Lunch receipt
+Message-ID: <ba43bae3-da57-47ab-aeeb-7367ab7a018c@shere.net>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_046971_8766863197"
+X-Attachment-Name: receipt_052.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

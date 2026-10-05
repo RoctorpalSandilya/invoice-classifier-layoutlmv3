@@ -1,0 +1,11 @@
+From: Tracey Gray <tracey.gray@sarna.com>
+To: Austin Long <austin.long@jennings.com>
+Date: Sat, 28 Feb 2026 01:53:37 +0200
+Subject: Expenses – October
+Message-ID: <6e5f6303-9e5d-4f32-92ec-d207a3219004@sarna.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_200412_4361699569"
+X-Attachment-Name: receipt_169.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

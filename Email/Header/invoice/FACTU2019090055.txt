@@ -1,0 +1,11 @@
+From: Gabriel Chandran <gabriel.chandran@trandavis.com>
+To: Tiffany Johns <tiffany.johns@bainssama.io>
+Date: Mon, 06 Jul 2026 21:31:39 -0500
+Subject: Tax Invoice 19090055
+Message-ID: <bc37252e-d53e-4299-82cf-99ceb02df58e@trandavis.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_271516_8458207271"
+X-Attachment-Name: FACTU2019090055.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

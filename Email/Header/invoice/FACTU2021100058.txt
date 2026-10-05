@@ -1,0 +1,11 @@
+From: Derrick Ramsey <derrick.ramsey@lamb.com>
+To: Alison Smith <alison.smith@torres.io>
+Date: Thu, 23 Jul 2026 02:47:49 +0530
+Subject: Payment reminder: Invoice 21100058
+Message-ID: <bc5c8a44-870f-4b72-bf8e-1835f0a240dc@lamb.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_948290_3625984258"
+X-Attachment-Name: FACTU2021100058.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

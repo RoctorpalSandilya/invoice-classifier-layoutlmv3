@@ -1,0 +1,11 @@
+From: Amy White <amy.white@cummingsarnold.io>
+To: Wyatt Baria <wyatt.baria@andersen.com>
+Date: Sun, 31 May 2026 13:10:54 -0800
+Subject: New PO from Cummings-Arnold
+Message-ID: <14e8e765-7694-4cc2-b091-782fc6831e98@cummingsarnold.io>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_993699_6286448870"
+X-Attachment-Name: lookalike_purchase_order_058.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Oneill-Friedman Billing <no-reply@hill-kent.com>
+To: Melinda Carlson <melinda.carlson@pandit.in>
+Reply-To: billing@hill-kent.com
+Date: Wed, 09 Sep 2026 00:16:02 +0200
+Subject: New invoice FACTU2021030039 generated
+Message-ID: <5045e3a2-b2d5-427e-b732-1e5a43ec579a@hill-kent.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_268947_6909217554"
+X-Attachment-Name: FACTU2021030039.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Wazir Talwar <wazir.talwar@houstonjackson.io>
+To: Howard Pickering <howard.pickering@babu.net>
+Date: Sat, 28 Mar 2026 08:10:45 +0200
+Subject: Taxi receipt for last week's client visit
+Message-ID: <a178d904-bd2c-4eac-967b-b2889882caf5@houstonjackson.io>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_133163_1175276491"
+X-Attachment-Name: receipt_008.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

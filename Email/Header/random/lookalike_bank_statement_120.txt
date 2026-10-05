@@ -1,0 +1,11 @@
+From: Meridian Bank <statements@burrows.biz>
+To: Tiffany Jones <tiffany.jones@baria.com>
+Date: Mon, 23 Mar 2026 15:53:40 +0530
+Subject: Statement of account
+Message-ID: <05a5592f-e251-4540-872e-e8ac88de5c17@burrows.biz>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_293586_1889027887"
+X-Attachment-Name: lookalike_bank_statement_120.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

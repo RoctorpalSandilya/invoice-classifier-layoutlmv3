@@ -1,0 +1,12 @@
+From: Joan Warner <joan.warner@ratti.io>
+To: Anmol Khosla <anmol.khosla@farrell.co.uk>
+Date: Fri, 24 Apr 2026 03:20:17 +0100
+Subject: Tax Invoice INV-17010042
+Message-ID: <f0a05267-eef9-4bc2-9bc8-88c3a1254e3f@ratti.io>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_914905_2493022396"
+X-Attachment-Name: FACTU2017010042.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

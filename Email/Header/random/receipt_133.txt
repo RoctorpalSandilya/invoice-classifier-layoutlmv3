@@ -1,0 +1,12 @@
+From: John Richardson <john.richardson@ingram.in>
+To: Shirley Jackson-Thomas <shirley.jackson-thomas@sundaram-dugar.info>
+Date: Tue, 15 Sep 2026 02:06:49 +0200
+Subject: Taxi receipt for last week's client visit
+Message-ID: <52e74b6a-a9b9-4285-a253-cb511cbe8bbc@ingram.in>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_891476_8745140347"
+X-Attachment-Name: receipt_133.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Diya Sabharwal <diya.sabharwal@jones.io>
+To: Caroline Kirby <caroline.kirby@osborne.com>
+Date: Thu, 16 Jul 2026 07:21:02 -0800
+Subject: Here's that receipt you asked for
+Message-ID: <e6597946-5743-41ad-bdc2-2caf6d0e99b2@jones.io>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_388543_6342639948"
+X-Attachment-Name: receipt_084.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

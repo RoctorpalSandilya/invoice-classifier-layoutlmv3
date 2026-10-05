@@ -1,0 +1,12 @@
+From: Karen Cook <karen.cook@roberts.io>
+To: Elizabeth Abbott <elizabeth.abbott@kunda.in>
+Date: Wed, 01 Jul 2026 18:03:13 +0200
+Subject: Payment reminder: Invoice FACTU2018100052
+Message-ID: <c7feef90-7d87-48cf-8702-e1e3de6a3472@roberts.io>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_497853_0982446987"
+X-Attachment-Name: FACTU2018100052.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

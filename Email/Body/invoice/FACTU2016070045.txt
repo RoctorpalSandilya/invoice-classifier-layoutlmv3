@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: FACTU2016070045
+Account: ACC-984065
+Amount: ₹23,241.48
+Due date: 25 Nov 2026
+
+The invoice is attached to this email in PDF format. You can also view and pay it online at https://billing.williams-morgan.com/invoices/FACTU2016070045.
+
+This is an automated message; please do not reply to this email.
+
+Roberts PLC Billing Team

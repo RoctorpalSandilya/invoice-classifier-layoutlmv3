@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: FACTU2021050060
+Account: ACC-557373
+Amount: ₹526.08
+Due date: 11 Mar 2026
+
+The invoice is attached to this email in image format. You can also view and pay it online at https://billing.davis.info/invoices/FACTU2021050060.
+
+This is an automated message; please do not reply to this email.
+
+Jones-Davidson Billing Team

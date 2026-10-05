@@ -1,0 +1,12 @@
+From: Idika Sathe <idika.sathe@buch.co.uk>
+To: Dr Gordon Collier <dr.collier@ward-mitchell.com>
+Date: Wed, 03 Jun 2026 15:51:29 +0000
+Subject: Taxi receipt for last week's client visit
+Message-ID: <fde449bd-6bb5-4466-ae93-f24b337fa591@buch.co.uk>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_107523_5098588691"
+X-Attachment-Name: receipt_068.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

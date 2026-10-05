@@ -1,0 +1,13 @@
+From: Eta Basak <eta.basak@deshpandemurty.io>
+To: Melissa Powell <melissa.powell@deshpandemurty.net>
+Cc: Renee Anderson <renee.anderson@deshpandemurty.net>
+Date: Tue, 28 Jul 2026 04:09:44 +0000
+Subject: AP: new vendor invoice 21010060
+Message-ID: <ff162a05-ce88-490b-a7d2-7decf46ac2d9@deshpandemurty.io>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_353304_4408586746"
+X-Attachment-Name: FACTU2021010060.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

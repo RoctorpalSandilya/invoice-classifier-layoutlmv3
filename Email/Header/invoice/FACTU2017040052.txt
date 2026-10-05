@@ -1,0 +1,11 @@
+From: Carolyn Randall <carolyn.randall@moore.io>
+To: Gail Cook <gail.cook@varghesetiwari.com>
+Date: Wed, 05 Aug 2026 14:41:42 +0000
+Subject: Re-sending invoice INV-17040052
+Message-ID: <4568f9cf-3e4b-4bd6-a098-ac82e5b39ed0@moore.io>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_875520_9373554176"
+X-Attachment-Name: FACTU2017040052.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Mohammad James <mohammad.james@baxter.net>
+To: Charles Ryan <charles.ryan@goyal.in>
+Date: Fri, 04 Sep 2026 09:31:42 +0200
+Subject: Invoice #15010036 | Due 04 Oct 2026
+Message-ID: <c20ba2c2-50b6-41fc-8105-cca7b53302fc@baxter.net>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_840191_6146100330"
+X-Attachment-Name: FACTU2015010036.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

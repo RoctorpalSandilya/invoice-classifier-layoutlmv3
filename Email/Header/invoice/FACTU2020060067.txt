@@ -1,0 +1,13 @@
+From: Menon Group Billing <no-reply@wood-davies.com>
+To: Alison Bailey <alison.bailey@doddclark.com>
+Reply-To: billing@wood-davies.com
+Date: Thu, 14 May 2026 15:42:57 +0530
+Subject: Billing notification – invoice 20060067
+Message-ID: <ddd710ce-d3b7-45c6-a924-679c0a48c600@wood-davies.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_168289_5624454894"
+X-Attachment-Name: FACTU2020060067.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

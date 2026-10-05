@@ -1,0 +1,11 @@
+From: John White <john.white@greencox.io>
+To: Maanas Dash <maanas.dash@janimody.com>
+Date: Wed, 11 Feb 2026 02:22:56 +0100
+Subject: Invoice FACTU2015090061 – Jani-Mody
+Message-ID: <f1bc4c66-9613-4186-9fc2-5ede44e9dbe5@greencox.io>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_746186_3074262815"
+X-Attachment-Name: FACTU2015090061.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

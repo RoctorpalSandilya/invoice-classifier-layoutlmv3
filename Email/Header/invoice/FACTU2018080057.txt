@@ -1,0 +1,12 @@
+From: Mark Richardson <mark.richardson@lane.net>
+To: Robert White <robert.white@hill.co.uk>
+Date: Tue, 23 Jun 2026 20:56:59 +0200
+Subject: Invoice #18080057 | Due 22 Aug 2026
+Message-ID: <6fc62c31-be8e-41f4-a636-12bae615c419@lane.net>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_693908_9942519732"
+X-Attachment-Name: FACTU2018080057.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

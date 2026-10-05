@@ -1,0 +1,11 @@
+From: Casey Bates <casey.bates@bakernicholls.io>
+To: Justin Stevens <justin.stevens@warrior.info>
+Date: Sun, 23 Aug 2026 04:51:33 +0200
+Subject: Credit application form – completed
+Message-ID: <fba6c546-84d6-4678-afe5-29a38e926253@bakernicholls.io>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_512981_6904650810"
+X-Attachment-Name: lookalike_credit_application_090.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

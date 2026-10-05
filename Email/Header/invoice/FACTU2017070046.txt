@@ -1,0 +1,12 @@
+From: Chakradhar Prabhakar <chakradhar.prabhakar@white.co.uk>
+To: Mahika Sahota <mahika.sahota@white.com>
+Cc: Nirja Mahajan <nirja.mahajan@white.com>
+Date: Tue, 24 Feb 2026 14:42:06 +0530
+Subject: Please approve: Sullivan and Sons invoice INV-17070046
+Message-ID: <097a12a7-7e01-4118-abc5-398236a9e06f@white.co.uk>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_254187_5693014721"
+X-Attachment-Name: FACTU2017070046.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

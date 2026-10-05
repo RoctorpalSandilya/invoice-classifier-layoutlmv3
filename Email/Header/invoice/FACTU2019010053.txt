@@ -1,0 +1,11 @@
+From: Kristen Johnson <kristen.johnson@coleman.net>
+To: Sarah Daniels <sarah.daniels@moss.co.uk>
+Date: Tue, 06 Jan 2026 13:43:11 +0530
+Subject: Payment reminder: Invoice INV-19010053
+Message-ID: <b27a34c3-abe0-4615-8a64-99647e8ce691@coleman.net>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_813876_9038778120"
+X-Attachment-Name: FACTU2019010053.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

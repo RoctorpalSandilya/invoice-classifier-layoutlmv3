@@ -1,0 +1,12 @@
+From: Erin Rodriguez <erin.rodriguez@barrythorpe.com>
+To: Jesse Mckinney <jesse.mckinney@more.net>
+Date: Tue, 21 Jul 2026 19:16:58 +0530
+Subject: Please see attached
+Message-ID: <5be4f581-db8d-4d0f-979d-5f57c4a9e2b8@barrythorpe.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_993178_3141646590"
+X-Attachment-Name: doc_016.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

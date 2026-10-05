@@ -1,0 +1,12 @@
+From: Ramos, Smith and Martin Billing <no-reply@thomas.com>
+To: Sathvik Goyal <sathvik.goyal@willis.in>
+Reply-To: billing@thomas.com
+Date: Mon, 01 Jun 2026 06:47:02 +0530
+Subject: New invoice 19010039 generated
+Message-ID: <92d78531-669e-4042-9769-d5ba7a2b37f9@thomas.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_513065_7052887890"
+X-Attachment-Name: FACTU2019010039.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

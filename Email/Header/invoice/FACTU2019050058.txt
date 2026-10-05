@@ -1,0 +1,13 @@
+From: Wali-Dubey Billing <no-reply@merchant.net>
+To: Mr Eric Roberts <mr.roberts@canturiddle.com>
+Reply-To: billing@merchant.net
+Date: Wed, 22 Jul 2026 09:35:42 -0800
+Subject: [Automated] Invoice INV-19050058 is now available
+Message-ID: <9882cf61-79d6-4625-992d-ef12ca8a93d6@merchant.net>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_826433_7163548858"
+X-Attachment-Name: FACTU2019050058.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

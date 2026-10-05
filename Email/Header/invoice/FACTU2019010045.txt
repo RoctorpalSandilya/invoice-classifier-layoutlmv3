@@ -1,0 +1,12 @@
+From: Aadhya Natt <aadhya.natt@pace.in>
+To: Nachiket Kurian <nachiket.kurian@bakshi.io>
+Date: Fri, 20 Feb 2026 17:49:35 -0800
+Subject: Re-sending invoice FACTU2019010045
+Message-ID: <78344a2b-87d5-4521-acff-e977a189d1ed@pace.in>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_835186_4090648987"
+X-Attachment-Name: FACTU2019010045.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

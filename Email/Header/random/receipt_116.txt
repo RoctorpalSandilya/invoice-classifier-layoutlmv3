@@ -1,0 +1,12 @@
+From: Corey Marshall <corey.marshall@bakshi.io>
+To: Cameron Wright-Bradshaw <cameron.wright-bradshaw@turner.com>
+Date: Thu, 20 Aug 2026 10:57:15 -0800
+Subject: Here's that receipt you asked for
+Message-ID: <f1505afa-672b-4271-9149-4f7661bd6c51@bakshi.io>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_251978_7494735493"
+X-Attachment-Name: receipt_116.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

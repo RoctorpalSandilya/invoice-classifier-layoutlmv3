@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: #17110062
+Account: ACC-282719
+Amount: €11,888.75
+Due date: 20 Feb 2026
+
+The invoice is attached to this email in image format. You can also view and pay it online at https://billing.anderson-dixon.com/invoices/17110062.
+
+This is an automated message; please do not reply to this email.
+
+Davis-Luna Billing Team

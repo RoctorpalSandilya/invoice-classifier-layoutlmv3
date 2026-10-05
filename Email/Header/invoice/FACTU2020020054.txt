@@ -1,0 +1,12 @@
+From: Dr Jay Jones <dr.jones@brarbarman.net>
+To: Michelle Lloyd <michelle.lloyd@moore.in>
+Date: Thu, 02 Jul 2026 09:33:53 +0100
+Subject: Invoice INV-20020054 | Due 16 Jul 2026
+Message-ID: <59dc3239-e4d0-4aa5-b7c6-a9236f530144@brarbarman.net>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_792863_5386782900"
+X-Attachment-Name: FACTU2020020054.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

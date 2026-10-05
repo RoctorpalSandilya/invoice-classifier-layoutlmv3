@@ -1,0 +1,11 @@
+From: Diya Srivastava <diya.srivastava@claytonwilliams.io>
+To: Mary Adams <mary.adams@shanker.net>
+Date: Sat, 02 May 2026 21:02:15 +0000
+Subject: Lunch receipt
+Message-ID: <44d53c77-8a78-4a6a-8614-9a2ce42616d1@claytonwilliams.io>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_320219_9411039046"
+X-Attachment-Name: receipt_136.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

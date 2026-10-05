@@ -1,0 +1,12 @@
+From: George Tak <george.tak@robinson.com>
+To: Jake Sullivan-Russell <jake.sullivan-russell@bahl.in>
+Date: Thu, 05 Mar 2026 01:56:42 +0100
+Subject: Invoice FACTU2018110050 – corrected copy
+Message-ID: <7ad853c8-a1dd-47b6-b64e-c6dbc43e22e0@robinson.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_136853_2596071354"
+X-Attachment-Name: FACTU2018110050.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

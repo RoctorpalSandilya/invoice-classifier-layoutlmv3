@@ -1,0 +1,11 @@
+From: Upadhriti Lad <upadhriti.lad@devi.io>
+To: Tiffany Riley <tiffany.riley@din.biz>
+Date: Wed, 16 Sep 2026 09:52:29 +0100
+Subject: Payment advice
+Message-ID: <ab134f2b-d264-45b1-8502-df13ab0a91fb@devi.io>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_607788_0218090534"
+X-Attachment-Name: lookalike_remittance_024.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

@@ -1,0 +1,13 @@
+From: Morris Group Billing <no-reply@muni-devan.net>
+To: Bethan Green <bethan.green@bhatnagar.net>
+Reply-To: billing@muni-devan.net
+Date: Thu, 30 Jul 2026 15:02:51 -0800
+Subject: Billing notification – invoice #18110044
+Message-ID: <8a3f8a41-5c8a-4421-9fe9-b80d24343639@muni-devan.net>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_729787_2497231738"
+X-Attachment-Name: FACTU2018110044.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

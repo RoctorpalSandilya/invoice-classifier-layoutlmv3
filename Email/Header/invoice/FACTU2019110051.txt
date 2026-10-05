@@ -1,0 +1,11 @@
+From: Hardik Tandon <hardik.tandon@kuruvilla.in>
+To: Krista Davis <krista.davis@chaudry.co.uk>
+Date: Fri, 10 Jul 2026 11:18:56 +0100
+Subject: Tax Invoice FACTU2019110051
+Message-ID: <b94d1ed1-1f79-45f1-bbe7-19e93424e051@kuruvilla.in>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_912166_8031253575"
+X-Attachment-Name: FACTU2019110051.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

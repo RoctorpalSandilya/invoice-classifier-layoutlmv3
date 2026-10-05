@@ -1,0 +1,12 @@
+From: Antony Miles <antony.miles@jones.com>
+To: Daksh Walia <daksh.walia@blackwell.co.uk>
+Date: Fri, 17 Apr 2026 20:36:53 +0200
+Subject: Tax Invoice 16020058
+Message-ID: <736a111e-c9f6-4cfc-9112-a5f76c7e9d2f@jones.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_803263_2975640379"
+X-Attachment-Name: FACTU2016020058.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

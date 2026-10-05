@@ -1,0 +1,11 @@
+From: Janya Varghese <janya.varghese@long.com>
+To: Steven Gonzalez <steven.gonzalez@preston.co.uk>
+Date: Wed, 11 Feb 2026 20:58:31 +0000
+Subject: Invoice FACTU2016050066 from Long Ltd
+Message-ID: <98af0c79-be9c-408b-b2fd-ff345cbd2dba@long.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_833703_9960173565"
+X-Attachment-Name: FACTU2016050066.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

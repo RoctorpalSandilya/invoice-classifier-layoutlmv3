@@ -1,0 +1,12 @@
+From: Northgate Bank <statements@porter-mercado.net>
+To: Dr Helen Atkinson <dr.atkinson@hughes-moore.info>
+Date: Sun, 23 Aug 2026 16:39:33 +0530
+Subject: Account statement – August 2026
+Message-ID: <c11bc673-7096-4567-9955-7b798af66099@porter-mercado.net>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_997437_9006220552"
+X-Attachment-Name: lookalike_bank_statement_166.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

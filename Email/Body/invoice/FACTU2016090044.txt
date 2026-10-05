@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: FACTU2016090044
+Account: ACC-927398
+Amount: €22,783.74
+Due date: 20 Jul 2026
+
+The invoice is attached to this email in PDF format. You can also view and pay it online at https://billing.whitehead.com/invoices/FACTU2016090044.
+
+This is an automated message; please do not reply to this email.
+
+Prabhakar, Ratta and Sastry Billing Team

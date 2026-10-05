@@ -1,0 +1,12 @@
+From: Ati Jhaveri <ati.jhaveri@jonesholden.net>
+To: Chasmum Nagarajan <chasmum.nagarajan@vincent.com>
+Date: Wed, 15 Apr 2026 02:43:11 +0200
+Subject: Here's that receipt you asked for
+Message-ID: <6e99f317-7e12-45bf-ab2d-c3ae5110ffcb@jonesholden.net>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_715760_4149332103"
+X-Attachment-Name: receipt_092.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

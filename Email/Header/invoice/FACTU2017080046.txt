@@ -1,0 +1,12 @@
+From: Guy Long-Jones <guy.long-jones@obrien.in>
+To: Daniel Reynolds <daniel.reynolds@jordan.com>
+Date: Mon, 18 May 2026 01:22:52 -0800
+Subject: Query on invoice INV-17080046
+Message-ID: <dbb21ba3-a7e2-498d-a6b2-8587d31b6535@obrien.in>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_569911_6805111399"
+X-Attachment-Name: FACTU2017080046.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

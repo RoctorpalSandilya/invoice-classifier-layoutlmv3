@@ -1,0 +1,11 @@
+From: Jeffrey Green <jeffrey.green@vasquezlee.net>
+To: Ishanvi Sahni <ishanvi.sahni@barman.biz>
+Date: Mon, 23 Mar 2026 23:58:12 +0530
+Subject: Timesheet attached
+Message-ID: <92e188f0-8795-43f7-9df4-f64a942e25b4@vasquezlee.net>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_772749_8117271992"
+X-Attachment-Name: lookalike_timesheet_083.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

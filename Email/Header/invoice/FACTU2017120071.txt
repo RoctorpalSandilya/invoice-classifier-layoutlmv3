@@ -1,0 +1,12 @@
+From: Arjun Chana <arjun.chana@hartley.in>
+To: Nandini Sawhney <nandini.sawhney@bennett.com>
+Date: Sat, 11 Jul 2026 07:17:38 -0800
+Subject: Hartley PLC: Invoice FACTU2017120071 for April services
+Message-ID: <dfe80d33-387d-40fe-b9b3-0f137dcff902@hartley.in>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_392668_6363651960"
+X-Attachment-Name: FACTU2017120071.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

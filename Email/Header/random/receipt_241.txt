@@ -1,0 +1,12 @@
+From: Ojasvi Barad <ojasvi.barad@darabhasin.in>
+To: Tom Smith <tom.smith@collins.org>
+Date: Fri, 23 Jan 2026 23:18:17 -0800
+Subject: Receipt from Buch-Sarraf
+Message-ID: <f90fd753-889f-4b7d-91ba-702af1edf65f@darabhasin.in>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_301031_0859150786"
+X-Attachment-Name: receipt_241.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

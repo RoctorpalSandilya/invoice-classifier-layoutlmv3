@@ -1,0 +1,12 @@
+From: Bailey-Thomas Billing <no-reply@harris.com>
+To: Kelly Richardson <kelly.richardson@chopra.co.uk>
+Reply-To: billing@harris.com
+Date: Tue, 22 Sep 2026 10:07:51 +0200
+Subject: Billing notification – invoice FACTU2018040046
+Message-ID: <ae9ca750-13de-4766-81c0-3a873eda762b@harris.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_912169_0509702449"
+X-Attachment-Name: FACTU2018040046.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Lipika Singhal <lipika.singhal@metcalfepatel.com>
+To: Stanley Jones <stanley.jones@valdez.co.uk>
+Date: Tue, 15 Sep 2026 09:05:10 +0530
+Subject: Invoice INV-18120048 – 46 days overdue
+Message-ID: <7d51a9d0-7e21-46e1-b894-6d87c2098aa7@metcalfepatel.com>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_880378_3535290188"
+X-Attachment-Name: FACTU2018120048.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

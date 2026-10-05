@@ -1,0 +1,11 @@
+From: Chanakya Pandey <chanakya.pandey@rhodesbell.com>
+To: Harsh Varma <harsh.varma@davieswilliams.co.uk>
+Date: Mon, 02 Feb 2026 09:06:33 +0000
+Subject: Invoice FACTU2019090046 – Davies-Williams
+Message-ID: <1d030331-beb3-4df5-80c6-60a313169de2@rhodesbell.com>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_051377_3905133915"
+X-Attachment-Name: FACTU2019090046.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

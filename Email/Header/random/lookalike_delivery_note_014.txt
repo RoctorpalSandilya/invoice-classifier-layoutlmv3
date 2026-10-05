@@ -1,0 +1,12 @@
+From: Arthur Williams <arthur.williams@ghoseray.io>
+To: Aditya Ahluwalia <aditya.ahluwalia@loke-biswas.com>
+Date: Sun, 09 Aug 2026 23:28:41 +0000
+Subject: Despatch confirmation
+Message-ID: <15a6f431-f8c4-4433-8825-e564dd33c1bd@ghoseray.io>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_055579_9079987385"
+X-Attachment-Name: lookalike_delivery_note_014.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Chameli Comar <chameli.comar@shuklalal.net>
+To: Jordan Evans <jordan.evans@rios.io>
+Date: Tue, 26 May 2026 18:57:17 +0100
+Subject: Question about attached invoice #16100074
+Message-ID: <40821af2-7b05-4398-88c3-8d7868b4ef75@shuklalal.net>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_837768_0209844758"
+X-Attachment-Name: FACTU2016100074.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

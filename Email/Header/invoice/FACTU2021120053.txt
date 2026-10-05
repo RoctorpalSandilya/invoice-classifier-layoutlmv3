@@ -1,0 +1,11 @@
+From: Dominic Lewis <dominic.lewis@west.in>
+To: Ati Mitter <ati.mitter@miller.com>
+Date: Thu, 01 Jan 2026 01:58:40 +0100
+Subject: Reminder: outstanding invoice #21120053
+Message-ID: <aad875e3-cd84-44ab-9226-49c61bdae58d@west.in>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_115738_4149858099"
+X-Attachment-Name: FACTU2021120053.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

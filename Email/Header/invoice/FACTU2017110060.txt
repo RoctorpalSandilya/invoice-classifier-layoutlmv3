@@ -1,0 +1,11 @@
+From: Declan Rees <declan.rees@dada.io>
+To: Billy Ward <billy.ward@harveygarcia.net>
+Date: Thu, 27 Aug 2026 21:28:02 +0530
+Subject: Invoice 17110060 – 29 days overdue
+Message-ID: <0ebd7745-d4d7-49f6-8e43-c0ce1a016ce0@dada.io>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_489100_0304727146"
+X-Attachment-Name: FACTU2017110060.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

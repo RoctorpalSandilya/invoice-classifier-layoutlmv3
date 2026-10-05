@@ -1,0 +1,11 @@
+From: Parth Issac <parth.issac@wilsonsalazar.com>
+To: Patricia Jones <patricia.jones@hayward.com>
+Date: Fri, 10 Apr 2026 19:12:28 +0000
+Subject: Your order has shipped
+Message-ID: <0a91212c-d21b-4361-8cd9-db76c0b62fe7@wilsonsalazar.com>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_453163_5534629140"
+X-Attachment-Name: lookalike_delivery_note_119.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

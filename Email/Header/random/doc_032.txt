@@ -1,0 +1,11 @@
+From: Antonio Sanders <antonio.sanders@bandi.co.uk>
+To: Wazir Bakshi <wazir.bakshi@hopkins-ortiz.biz>
+Date: Fri, 29 May 2026 17:30:36 +0000
+Subject: Updated draft
+Message-ID: <5225eca4-42c7-41ed-9ec2-ff3ea83b8f55@bandi.co.uk>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_890994_6083480705"
+X-Attachment-Name: doc_032.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

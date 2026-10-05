@@ -1,0 +1,12 @@
+From: First National Bank <statements@rama-narasimhan.net>
+To: Melinda Castro <melinda.castro@roberts-kennedy.org>
+Date: Tue, 13 Jan 2026 09:38:46 -0800
+Subject: Statement of account
+Message-ID: <a8e2323e-1a2d-4a38-a246-826f2858965d@rama-narasimhan.net>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_362392_2124296348"
+X-Attachment-Name: lookalike_bank_statement_197.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

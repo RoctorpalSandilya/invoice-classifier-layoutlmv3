@@ -1,0 +1,12 @@
+From: Nimrat Dey <nimrat.dey@riley.com>
+To: Laurie Young <laurie.young@riley.io>
+Cc: Thomas Blanchard <thomas.blanchard@riley.io>
+Date: Mon, 09 Feb 2026 05:40:08 +0100
+Subject: Invoice FACTU2018020063 for approval
+Message-ID: <71d63c57-3275-4dc2-95cd-2db07a0c13bc@riley.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_579566_8593427160"
+X-Attachment-Name: FACTU2018020063.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

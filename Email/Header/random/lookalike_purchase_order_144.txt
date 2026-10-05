@@ -1,0 +1,12 @@
+From: Michael Hart <michael.hart@lewis.io>
+To: Hitesh Butala <hitesh.butala@li.net>
+Date: Fri, 08 May 2026 14:02:48 -0500
+Subject: PO 20384 – please confirm
+Message-ID: <b5e3368e-5590-4efb-86da-cbb1a2a0db9b@lewis.io>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_569912_4274848004"
+X-Attachment-Name: lookalike_purchase_order_144.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

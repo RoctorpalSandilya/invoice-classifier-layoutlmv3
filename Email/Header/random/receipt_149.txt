@@ -1,0 +1,12 @@
+From: Lorraine Flynn <lorraine.flynn@rameshkhatri.com>
+To: Crystal Curry <crystal.curry@rastogi.info>
+Date: Sat, 31 Jan 2026 16:22:26 +0530
+Subject: Taxi receipt for last week's client visit
+Message-ID: <5519d887-c485-4f3a-844d-58e6c1beed51@rameshkhatri.com>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_925780_4912176812"
+X-Attachment-Name: receipt_149.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

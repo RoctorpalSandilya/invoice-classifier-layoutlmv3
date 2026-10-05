@@ -1,0 +1,12 @@
+From: Jagat Batta <jagat.batta@smith.net>
+To: Ms Marilyn Dyer <ms.dyer@poole.com>
+Date: Mon, 21 Sep 2026 19:27:50 +0200
+Subject: Delivery note – shipment DN-889796
+Message-ID: <c7fe5752-5d3c-4426-a830-403cefacdea8@smith.net>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_532287_8684765773"
+X-Attachment-Name: lookalike_delivery_note_175.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

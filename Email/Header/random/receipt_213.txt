@@ -1,0 +1,12 @@
+From: Austin Stewart <austin.stewart@padmanabhansharaf.in>
+To: Zehaan Som <zehaan.som@jones-scott.biz>
+Date: Thu, 30 Jul 2026 11:50:21 +0200
+Subject: Taxi receipt for last week's client visit
+Message-ID: <72617239-c3ab-4d2a-b4af-3d248656b9d6@padmanabhansharaf.in>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_834481_2422006921"
+X-Attachment-Name: receipt_213.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

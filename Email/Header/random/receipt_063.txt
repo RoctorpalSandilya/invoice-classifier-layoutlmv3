@@ -1,0 +1,12 @@
+From: Joshua Crawford <joshua.crawford@cook.com>
+To: David Chavez <david.chavez@kari.biz>
+Date: Fri, 20 Mar 2026 20:03:41 +0100
+Subject: Here's that receipt you asked for
+Message-ID: <38464407-4989-4e42-b3b9-91a54a16fe67@cook.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_560701_7840121173"
+X-Attachment-Name: receipt_063.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

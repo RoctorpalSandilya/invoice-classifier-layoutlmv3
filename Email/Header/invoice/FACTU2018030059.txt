@@ -1,0 +1,11 @@
+From: Chaitaly Seshadri <chaitaly.seshadri@reed.in>
+To: Cynthia Owens <cynthia.owens@vohraissac.net>
+Date: Tue, 07 Jul 2026 02:56:20 +0200
+Subject: Your invoice 18030059 is attached
+Message-ID: <ae4803a9-52dd-4b48-8007-55a22f8c743a@reed.in>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_044731_4180547676"
+X-Attachment-Name: FACTU2018030059.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

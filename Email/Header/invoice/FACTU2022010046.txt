@@ -1,0 +1,11 @@
+From: Balendra Kalla <balendra.kalla@osullivan.net>
+To: Jeremiah Park <jeremiah.park@choudhrybala.net>
+Date: Tue, 18 Aug 2026 19:44:55 +0100
+Subject: Invoice INV-22010046 from O'Sullivan Inc
+Message-ID: <520d36a5-4dd9-4b6f-90d4-9901e89ae779@osullivan.net>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_816119_1365895681"
+X-Attachment-Name: FACTU2022010046.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

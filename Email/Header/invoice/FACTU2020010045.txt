@@ -1,0 +1,12 @@
+From: Maureen Howard <maureen.howard@hayrevenkatesh.com>
+To: Robert Schaefer <robert.schaefer@bailey.co.uk>
+Date: Fri, 15 May 2026 02:40:21 +0530
+Subject: Invoice INV-20010045 – Bailey Inc
+Message-ID: <743de4ad-d12d-4953-bdb5-b2df1cb5942c@hayrevenkatesh.com>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_979291_5872101515"
+X-Attachment-Name: FACTU2020010045.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

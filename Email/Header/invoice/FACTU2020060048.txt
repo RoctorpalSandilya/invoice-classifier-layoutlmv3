@@ -1,0 +1,12 @@
+From: Ms Fiona Anderson <ms.anderson@taylor.net>
+To: John Pena <john.pena@jameshancock.in>
+Date: Wed, 09 Sep 2026 17:40:51 -0500
+Subject: Question about attached invoice 20060048
+Message-ID: <bd6027f2-1bd5-413b-9509-53cddcb20929@taylor.net>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_596290_0976816862"
+X-Attachment-Name: FACTU2020060048.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

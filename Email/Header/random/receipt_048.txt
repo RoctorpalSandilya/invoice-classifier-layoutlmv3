@@ -1,0 +1,12 @@
+From: Zashil Basak <zashil.basak@scott.com>
+To: Sandra Hardy <sandra.hardy@smith.com>
+Date: Wed, 29 Jul 2026 07:24:13 +0000
+Subject: Receipt from Hall and Sons
+Message-ID: <9437afd8-3bc0-4f7b-b504-8bd64214e2f4@scott.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_265411_9368703474"
+X-Attachment-Name: receipt_048.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

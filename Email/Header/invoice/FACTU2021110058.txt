@@ -1,0 +1,11 @@
+From: Brijesh Sachdeva <brijesh.sachdeva@mall.com>
+To: Timothy Weber <timothy.weber@kota.co.uk>
+Date: Sun, 03 May 2026 02:47:58 +0530
+Subject: Your invoice INV-21110058 is attached
+Message-ID: <f91d89db-44a1-4fb1-b1ba-ebbbafb1c9ce@mall.com>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_091555_6020335241"
+X-Attachment-Name: FACTU2021110058.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

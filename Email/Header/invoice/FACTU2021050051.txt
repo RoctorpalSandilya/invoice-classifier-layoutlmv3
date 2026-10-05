@@ -1,0 +1,11 @@
+From: Emma Day <emma.day@kohli.com>
+To: Steven Merritt <steven.merritt@bava.in>
+Date: Tue, 08 Sep 2026 00:17:26 -0500
+Subject: Invoice INV-21050051 – corrected copy
+Message-ID: <3bdd260f-381b-48de-951d-fe7b49a4dc92@kohli.com>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_808919_6798923576"
+X-Attachment-Name: FACTU2021050051.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

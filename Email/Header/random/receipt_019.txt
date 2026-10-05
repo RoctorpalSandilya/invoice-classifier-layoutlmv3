@@ -1,0 +1,12 @@
+From: Dr Garry Singh <dr.singh@kaul.com>
+To: Jasmine Robinson <jasmine.robinson@garza.biz>
+Date: Fri, 22 May 2026 06:22:02 +0530
+Subject: Expenses – July
+Message-ID: <67b23a09-31fd-4416-ab42-e0a6b53a3c28@kaul.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_586342_8626778029"
+X-Attachment-Name: receipt_019.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

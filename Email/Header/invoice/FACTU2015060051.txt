@@ -1,0 +1,13 @@
+From: Balakrishnan and Sons Billing <no-reply@rodriguez-gonzalez.net>
+To: Isaiah Karpe <isaiah.karpe@dhillonchadha.co.uk>
+Reply-To: billing@rodriguez-gonzalez.net
+Date: Wed, 11 Mar 2026 21:11:52 -0800
+Subject: Billing notification – invoice INV-15060051
+Message-ID: <3180ef71-0731-414a-9d74-e716fcd6d498@rodriguez-gonzalez.net>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_069648_4226510444"
+X-Attachment-Name: FACTU2015060051.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

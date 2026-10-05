@@ -1,0 +1,12 @@
+From: Hazel Davison <hazel.davison@gola.in>
+To: Miss Suzanne Watts <miss.watts@wallace.co.uk>
+Date: Sun, 14 Jun 2026 16:22:51 +0530
+Subject: Your invoice INV-21110048 is attached
+Message-ID: <b1a6139d-1547-48d1-ba09-199480dc1f36@gola.in>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_151376_0489931338"
+X-Attachment-Name: FACTU2021110048.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

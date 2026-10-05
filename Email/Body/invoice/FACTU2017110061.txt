@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: 17110061
+Account: ACC-468069
+Amount: £4,142.29
+Due date: 04 Jul 2026
+
+The invoice is attached to this email in image format. You can also view and pay it online at https://billing.higgins-cartwright.org/invoices/17110061.
+
+This is an automated message; please do not reply to this email.
+
+Magar-Chandran Billing Team

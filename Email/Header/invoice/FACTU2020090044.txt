@@ -1,0 +1,11 @@
+From: Ikbal Sarma <ikbal.sarma@nazareth.in>
+To: Hugh White <hugh.white@anderson.com>
+Date: Sat, 11 Apr 2026 11:01:12 -0500
+Subject: Invoice 20090044 | Due 25 Apr 2026
+Message-ID: <c1577f58-4f65-4a34-bf14-0cf4f049410b@nazareth.in>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_235467_9911918971"
+X-Attachment-Name: FACTU2020090044.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: #21090045
+Account: ACC-242114
+Amount: $4,038.41
+Due date: 11 May 2026
+
+The invoice is attached to this email in PDF format. You can also view and pay it online at https://billing.perry.com/invoices/21090045.
+
+This is an automated message; please do not reply to this email.
+
+Meadows and Sons Billing Team

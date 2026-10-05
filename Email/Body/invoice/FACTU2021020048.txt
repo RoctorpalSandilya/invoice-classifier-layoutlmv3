@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: 21020048
+Account: ACC-608550
+Amount: £23,063.78
+Due date: 25 Sep 2026
+
+The invoice is attached to this email in image format. You can also view and pay it online at https://billing.jennings.info/invoices/21020048.
+
+This is an automated message; please do not reply to this email.
+
+Munshi-Choudhry Billing Team

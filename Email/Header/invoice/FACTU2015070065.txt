@@ -1,0 +1,13 @@
+From: Snyder Group Billing <no-reply@martinez.com>
+To: Eleanor John <eleanor.john@frenchshaw.com>
+Reply-To: billing@martinez.com
+Date: Tue, 20 Jan 2026 12:53:50 -0500
+Subject: [Automated] Invoice #15070065 is now available
+Message-ID: <0ad3e774-aebf-4e0e-8b98-94ea2ba9b6c8@martinez.com>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_515036_3931584027"
+X-Attachment-Name: FACTU2015070065.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

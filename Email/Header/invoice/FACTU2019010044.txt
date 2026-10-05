@@ -1,0 +1,13 @@
+From: Walls-Cordova Billing <no-reply@james.org>
+To: Amaira Batra <amaira.batra@kimhamilton.com>
+Reply-To: billing@james.org
+Date: Wed, 27 May 2026 17:50:02 +0530
+Subject: Billing notification – invoice 19010044
+Message-ID: <1820131d-4230-43ab-900f-6c1125aa600b@james.org>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_866341_5369412437"
+X-Attachment-Name: FACTU2019010044.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

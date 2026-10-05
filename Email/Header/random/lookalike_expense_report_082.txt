@@ -1,0 +1,12 @@
+From: Marissa Anderson <marissa.anderson@hydegraham.com>
+To: Sean Lawson Jr. <sean.jr.@wable-morar.biz>
+Date: Thu, 03 Sep 2026 04:48:23 +0100
+Subject: Expense report EXP-4236 for approval
+Message-ID: <2ad0b376-fd0a-4a8d-8052-d576fac81834@hydegraham.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_474449_3171858650"
+X-Attachment-Name: lookalike_expense_report_082.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

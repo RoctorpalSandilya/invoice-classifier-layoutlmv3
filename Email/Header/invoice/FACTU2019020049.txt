@@ -1,0 +1,12 @@
+From: Sheila Boone <sheila.boone@banik.net>
+To: Bhanumati Chakraborty <bhanumati.chakraborty@holt.net>
+Date: Sun, 04 Jan 2026 20:06:25 +0200
+Subject: Invoice 19020049 from Banik Ltd
+Message-ID: <4db80a47-0184-4dce-99ba-fedd07117f4e@banik.net>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_385080_1417959063"
+X-Attachment-Name: FACTU2019020049.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

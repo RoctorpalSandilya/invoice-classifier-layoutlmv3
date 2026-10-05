@@ -1,0 +1,11 @@
+From: Mary Hill <mary.hill@tyler.com>
+To: Wayne Baker <wayne.baker@phillips-jones.net>
+Date: Thu, 27 Aug 2026 00:21:31 +0100
+Subject: Weekly timesheet for approval
+Message-ID: <ff0c8894-50b9-4177-9c06-b8fa4d90dab4@tyler.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_848887_2546743864"
+X-Attachment-Name: lookalike_timesheet_069.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

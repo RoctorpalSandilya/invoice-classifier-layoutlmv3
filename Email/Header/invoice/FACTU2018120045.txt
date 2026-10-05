@@ -1,0 +1,12 @@
+From: Webb-Mason Billing <no-reply@sanford.com>
+To: Leon Morris <leon.morris@bhandari.net>
+Reply-To: billing@sanford.com
+Date: Sat, 01 Aug 2026 20:39:47 +0200
+Subject: [Automated] Invoice 18120045 is now available
+Message-ID: <21856cdf-b2ad-44a1-901c-950323deede1@sanford.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_822598_7200525440"
+X-Attachment-Name: FACTU2018120045.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

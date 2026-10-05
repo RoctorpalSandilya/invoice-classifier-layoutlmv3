@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: FACTU2021010052
+Account: ACC-283396
+Amount: £20,496.47
+Due date: 06 Oct 2026
+
+The invoice is attached to this email in image format. You can also view and pay it online at https://billing.nadkarni-iyer.com/invoices/FACTU2021010052.
+
+This is an automated message; please do not reply to this email.
+
+Merchant-Agate Billing Team

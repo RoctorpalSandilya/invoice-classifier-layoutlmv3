@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: #16120050
+Account: ACC-255928
+Amount: €4,317.65
+Due date: 12 Apr 2026
+
+The invoice is attached to this email in PDF format. You can also view and pay it online at https://billing.ali.com/invoices/16120050.
+
+This is an automated message; please do not reply to this email.
+
+Dar-Khalsa Billing Team

@@ -1,0 +1,11 @@
+From: Payroll <payroll@booth-smith.com>
+To: Aradhana Bhargava <aradhana.bhargava@hutchinson-blake.com>
+Date: Sat, 30 May 2026 20:29:17 +0100
+Subject: Your payslip for June
+Message-ID: <d014ef8f-3afb-4411-a0e9-d8849cf7c5be@booth-smith.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_253336_8231134688"
+X-Attachment-Name: lookalike_payslip_121.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

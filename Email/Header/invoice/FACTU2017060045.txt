@@ -1,0 +1,12 @@
+From: Logan Johnson <logan.johnson@grewalsur.com>
+To: Robin Boyer <robin.boyer@mullinsrice.co.uk>
+Date: Sun, 12 Jul 2026 23:37:18 -0500
+Subject: Invoice #17060045 – 27 days overdue
+Message-ID: <f4e9e354-93d2-4e50-83c1-a37f75b4b24d@grewalsur.com>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_325853_7779614756"
+X-Attachment-Name: FACTU2017060045.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

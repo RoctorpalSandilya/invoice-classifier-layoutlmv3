@@ -1,0 +1,12 @@
+From: Tammy Burns <tammy.burns@dashbhalla.com>
+To: Chasmum Balan <chasmum.balan@ingram.in>
+Date: Thu, 09 Jul 2026 03:25:30 +0100
+Subject: Invoice 19030056 from Dash-Bhalla
+Message-ID: <2d9d6e0e-10e5-4b26-bc33-177230679d6e@dashbhalla.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_680913_9408290213"
+X-Attachment-Name: FACTU2019030056.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

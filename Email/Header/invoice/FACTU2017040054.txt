@@ -1,0 +1,12 @@
+From: Naveen Sahota <naveen.sahota@hartwalton.in>
+To: Susan Clarke <susan.clarke@dasgupta.com>
+Date: Tue, 14 Jul 2026 04:16:48 +0530
+Subject: Payment reminder: Invoice INV-17040054
+Message-ID: <9d868bc6-143e-40fd-a92d-0b9a1a1b494a@hartwalton.in>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_991152_3137828530"
+X-Attachment-Name: FACTU2017040054.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

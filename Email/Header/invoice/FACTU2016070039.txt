@@ -1,0 +1,11 @@
+From: Darrell Jones <darrell.jones@mason.net>
+To: Dr Melissa Lewis <dr.lewis@dominguez.io>
+Date: Thu, 23 Jul 2026 02:17:34 -0500
+Subject: Invoice INV-16070039 from Mason Inc
+Message-ID: <4d415cc9-54ca-40fa-a89e-840cbe5824fd@mason.net>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_798209_9594626892"
+X-Attachment-Name: FACTU2016070039.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

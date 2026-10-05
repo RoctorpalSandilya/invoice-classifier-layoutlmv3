@@ -1,0 +1,12 @@
+From: Elizabeth Hurst <elizabeth.hurst@ananddeshpande.net>
+To: David Evans <david.evans@jonessmith.in>
+Date: Sat, 21 Mar 2026 03:22:37 -0500
+Subject: Invoice #21110055 | Due 20 Apr 2026
+Message-ID: <a1dfd791-75f1-4a6d-971f-873521c19582@ananddeshpande.net>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_478761_3508027509"
+X-Attachment-Name: FACTU2021110055.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

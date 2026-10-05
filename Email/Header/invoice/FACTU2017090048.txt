@@ -1,0 +1,12 @@
+From: Gauri Suresh <gauri.suresh@bakshi.com>
+To: Derek Bishop <derek.bishop@bumbdave.com>
+Date: Wed, 15 Jul 2026 00:17:13 -0500
+Subject: Invoice FACTU2017090048 from Bakshi LLC
+Message-ID: <bc13d07c-d930-439d-848b-9d6309c0374c@bakshi.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_271939_2620648575"
+X-Attachment-Name: FACTU2017090048.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

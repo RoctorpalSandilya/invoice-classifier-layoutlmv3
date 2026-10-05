@@ -1,0 +1,11 @@
+From: Tanya Clark <tanya.clark@griffin.in>
+To: Bethany Butler-Wright <bethany.butler-wright@ellis.in>
+Date: Sat, 03 Jan 2026 18:25:33 +0000
+Subject: Your invoice 17070032 is attached
+Message-ID: <73803b69-bc5e-4b91-bd60-04e60aba76f8@griffin.in>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_004366_7736994814"
+X-Attachment-Name: FACTU2017070032.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

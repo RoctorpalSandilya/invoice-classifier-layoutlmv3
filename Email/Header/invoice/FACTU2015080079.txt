@@ -1,0 +1,11 @@
+From: Charles Iyengar <charles.iyengar@long.in>
+To: Misty Davis <misty.davis@lopez.io>
+Date: Sat, 24 Jan 2026 21:09:27 +0530
+Subject: Your invoice FACTU2015080079 is attached
+Message-ID: <1d5d86bb-2058-4c41-935c-4307e363444f@long.in>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_387011_9621881047"
+X-Attachment-Name: FACTU2015080079.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

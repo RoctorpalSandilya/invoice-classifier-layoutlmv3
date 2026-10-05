@@ -1,0 +1,12 @@
+From: Miss Christine Brown <miss.brown@hoopersandoval.com>
+To: Vasatika Bhavsar <vasatika.bhavsar@dey.com>
+Date: Fri, 01 May 2026 19:19:04 +0000
+Subject: Invoice FACTU2015010041 from Hooper-Sandoval
+Message-ID: <5484b3db-ba6b-477c-aa8f-1dd4e13a0996@hoopersandoval.com>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_977781_8804917031"
+X-Attachment-Name: FACTU2015010041.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

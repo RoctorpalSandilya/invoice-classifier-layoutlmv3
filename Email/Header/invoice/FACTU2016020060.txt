@@ -1,0 +1,12 @@
+From: Pham-Floyd Billing <no-reply@jimenez.info>
+To: Tasha Rodriguez <tasha.rodriguez@houghton.io>
+Reply-To: billing@jimenez.info
+Date: Sun, 23 Aug 2026 03:57:14 -0500
+Subject: [Automated] Invoice 16020060 is now available
+Message-ID: <d6e6d8f4-121e-43ee-b36b-2faad8a066ba@jimenez.info>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_715357_0164350767"
+X-Attachment-Name: FACTU2016020060.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

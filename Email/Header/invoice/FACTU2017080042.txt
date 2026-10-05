@@ -1,0 +1,11 @@
+From: Hiral Natarajan <hiral.natarajan@patel.io>
+To: Tyler Irwin <tyler.irwin@james.net>
+Date: Fri, 26 Jun 2026 18:17:07 +0000
+Subject: Tax Invoice FACTU2017080042
+Message-ID: <c3877c4b-eb10-4784-855d-39664a0e14c0@patel.io>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_613329_1115115924"
+X-Attachment-Name: FACTU2017080042.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

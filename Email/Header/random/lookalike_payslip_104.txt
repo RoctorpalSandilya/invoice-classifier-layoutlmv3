@@ -1,0 +1,12 @@
+From: Payroll <payroll@subramaniam-padmanabhan.biz>
+To: Benjamin Spencer <benjamin.spencer@chapman-gordon.org>
+Date: Fri, 04 Sep 2026 23:33:20 +0530
+Subject: Payslip attached – confidential
+Message-ID: <3e5a74f3-1624-4d7c-a06a-182b10d48669@subramaniam-padmanabhan.biz>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_023532_4405158531"
+X-Attachment-Name: lookalike_payslip_104.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

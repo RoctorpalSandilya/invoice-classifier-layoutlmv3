@@ -1,0 +1,11 @@
+From: Daniel Lutz <daniel.lutz@kaurstewart.in>
+To: Josephine Robertson <josephine.robertson@mckinney.io>
+Date: Tue, 20 Jan 2026 08:55:55 +0530
+Subject: Kaur-Stewart: Invoice #20110051 for October services
+Message-ID: <9ff125ae-6e34-4e21-b095-f1b13093679f@kaurstewart.in>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_159726_7503041963"
+X-Attachment-Name: FACTU2020110051.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

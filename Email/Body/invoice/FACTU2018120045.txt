@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: 18120045
+Account: ACC-671449
+Amount: £8,553.71
+Due date: 30 Sep 2026
+
+The invoice is attached to this email in image format. You can also view and pay it online at https://billing.campbell-wallace.com/invoices/18120045.
+
+This is an automated message; please do not reply to this email.
+
+Webb-Mason Billing Team

@@ -1,0 +1,11 @@
+From: Gary Dixon <gary.dixon@madancomar.io>
+To: Samuel Tate <samuel.tate@garnershaw.io>
+Date: Tue, 11 Aug 2026 05:05:09 +0530
+Subject: Tax Invoice INV-16030046
+Message-ID: <525ff140-0c33-4455-bc48-5818c8ccbb00@madancomar.io>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_520643_5068289330"
+X-Attachment-Name: FACTU2016030046.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Faraj Lala <faraj.lala@hernandez.co.uk>
+To: Jeffery Collins <jeffery.collins@hernandez.com>
+Cc: Kamala Pandya <kamala.pandya@hernandez.com>
+Date: Thu, 04 Jun 2026 05:09:28 +0100
+Subject: Invoice 20050059 for approval
+Message-ID: <a5efd2fc-75a5-4ed3-a72b-a1c927890398@hernandez.co.uk>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_119540_0658540641"
+X-Attachment-Name: FACTU2020050059.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

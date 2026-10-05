@@ -1,0 +1,12 @@
+From: Banjeet Gera <banjeet.gera@agrawal.com>
+To: James Smith <james.smith@powell.com>
+Date: Sun, 14 Jun 2026 10:07:50 +0100
+Subject: Purchase Order PO-97346
+Message-ID: <601b883a-ca65-4a9a-917f-8ba559e8bca3@agrawal.com>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_707772_5838729517"
+X-Attachment-Name: lookalike_purchase_order_012.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

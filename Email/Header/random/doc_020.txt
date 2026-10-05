@@ -1,0 +1,12 @@
+From: Daniel Burgess <daniel.burgess@balakrishnan.io>
+To: Mrs Suzanne Faulkner <mrs.faulkner@rose-jones.com>
+Date: Sat, 07 Mar 2026 23:20:17 +0000
+Subject: Please see attached
+Message-ID: <5d7bdd2c-d572-4e88-b255-e4fe0fab3be7@balakrishnan.io>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_152373_6636369214"
+X-Attachment-Name: doc_020.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

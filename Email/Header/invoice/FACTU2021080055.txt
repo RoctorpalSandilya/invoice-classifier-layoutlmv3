@@ -1,0 +1,11 @@
+From: Omisha Nagy <omisha.nagy@khurana.io>
+To: Tracey Burns-Martin <tracey.burns-martin@hammond.com>
+Date: Fri, 23 Jan 2026 01:38:03 +0530
+Subject: Invoice #21080055 – Hammond, Walton and Harris
+Message-ID: <f2a2e267-aa21-4fbb-9d1c-3339f1a007f1@khurana.io>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_708486_9709586544"
+X-Attachment-Name: FACTU2021080055.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

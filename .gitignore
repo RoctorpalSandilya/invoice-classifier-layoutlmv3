@@ -1,0 +1,28 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# --- Local caches (re-created automatically) ---
+.feature_cache/
+.docx_pdf_cache/
+.soffice_profile/
+
+# --- Large binaries ---
+# Pretrained base weights (478 MB) are only needed to train from scratch and would exceed the
+# free Git LFS quota alongside the trained model; download with the curl command in the README.
+models/
+# Training outputs: intermediate checkpoints (duplicates of the saved model) and smoke runs.
+# The trained model in artifacts/run_frozen_3ep/model IS committed, via Git LFS.
+artifacts/**/checkpoints/
+artifacts/smoke/
+artifacts/*.log
+
+# --- Editor / tooling ---
+.claude/
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini

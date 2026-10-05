@@ -1,0 +1,12 @@
+From: Abbie Forster-Hawkins <abbie.forster-hawkins@whiteheadmurray.com>
+To: Brian Hewitt <brian.hewitt@bora-seth.com>
+Date: Sat, 29 Aug 2026 21:20:41 +0100
+Subject: Your order has shipped
+Message-ID: <63d4c454-12de-4a23-99ea-1ede17ffc794@whiteheadmurray.com>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_858217_2131597334"
+X-Attachment-Name: lookalike_delivery_note_113.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

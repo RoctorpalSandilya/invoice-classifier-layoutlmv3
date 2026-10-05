@@ -1,0 +1,11 @@
+From: Damini Tella <damini.tella@sachdev.co.uk>
+To: Michael Carroll <michael.carroll@joneswilson.in>
+Date: Fri, 10 Jul 2026 09:11:32 +0100
+Subject: Invoice 15050054 – 45 days overdue
+Message-ID: <ec870d8f-fefd-4d19-a63d-f8b32b1c7ace@sachdev.co.uk>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_551494_1350284444"
+X-Attachment-Name: FACTU2015050054.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

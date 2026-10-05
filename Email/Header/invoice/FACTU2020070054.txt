@@ -1,0 +1,12 @@
+From: Amanda Morgan <amanda.morgan@howardpowell.io>
+To: Harinakshi Kade <harinakshi.kade@wood.in>
+Date: Tue, 03 Mar 2026 05:37:03 -0800
+Subject: Howard-Powell: Invoice INV-20070054 for August services
+Message-ID: <b11cedc8-b81b-40b3-b9a3-79cb5b802549@howardpowell.io>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_753929_8836641572"
+X-Attachment-Name: FACTU2020070054.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Avi Baria <avi.baria@blair.co.uk>
+To: Ms Lauren Charlton <ms.charlton@singhal.net>
+Date: Fri, 20 Mar 2026 16:41:09 +0100
+Subject: Here's that receipt you asked for
+Message-ID: <148bd7aa-80ab-4895-b420-fc76339edd09@blair.co.uk>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_058290_9345378803"
+X-Attachment-Name: receipt_129.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

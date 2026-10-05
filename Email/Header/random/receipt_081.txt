@@ -1,0 +1,11 @@
+From: Charan Char <charan.char@beanortiz.io>
+To: Sophie O'Sullivan <sophie.o'sullivan@rajan.com>
+Date: Tue, 15 Sep 2026 15:30:19 -0800
+Subject: Here's that receipt you asked for
+Message-ID: <5f5559f5-df42-4c7a-a6a9-f2c071782a49@beanortiz.io>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_299888_4546818735"
+X-Attachment-Name: receipt_081.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

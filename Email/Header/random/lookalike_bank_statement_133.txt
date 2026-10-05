@@ -1,0 +1,11 @@
+From: Meridian Bank <statements@castro.org>
+To: Pamela Johnson <pamela.johnson@dugal-parikh.com>
+Date: Wed, 18 Feb 2026 15:40:31 +0100
+Subject: e-Statement attached
+Message-ID: <dfd33d6d-fe4d-4b7d-b9c4-993a83cc7680@castro.org>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_094403_0369320615"
+X-Attachment-Name: lookalike_bank_statement_133.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

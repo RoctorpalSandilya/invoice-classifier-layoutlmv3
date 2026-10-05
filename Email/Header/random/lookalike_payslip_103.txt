@@ -1,0 +1,11 @@
+From: Payroll <payroll@moss.net>
+To: Danny Reynolds <danny.reynolds@bush.biz>
+Date: Tue, 27 Jan 2026 06:55:04 -0800
+Subject: Monthly salary slip
+Message-ID: <97e00fd4-0d00-4f7d-8d09-1be60805e7a7@moss.net>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_262605_8536495365"
+X-Attachment-Name: lookalike_payslip_103.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

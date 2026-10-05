@@ -1,0 +1,11 @@
+From: Zinal Vala <zinal.vala@nayak.net>
+To: Randy Austin <randy.austin@mitchell.com>
+Date: Mon, 05 Jan 2026 15:38:37 -0500
+Subject: Receipt for expense claim
+Message-ID: <b31ced0b-e430-4609-9025-00a4956087bf@nayak.net>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_932232_3321111136"
+X-Attachment-Name: receipt_097.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

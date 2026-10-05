@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: 21010051
+Account: ACC-472354
+Amount: €1,188.12
+Due date: 03 Jun 2026
+
+The invoice is attached to this email in image format. You can also view and pay it online at https://billing.murray.com/invoices/21010051.
+
+This is an automated message; please do not reply to this email.
+
+Sanchez-Nguyen Billing Team

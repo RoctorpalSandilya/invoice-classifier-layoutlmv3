@@ -1,0 +1,11 @@
+From: Dean Jackson <dean.jackson@may.com>
+To: Michael Ramos <michael.ramos@lall.in>
+Date: Mon, 02 Mar 2026 02:31:29 +0100
+Subject: Reminder: outstanding invoice FACTU2021010058
+Message-ID: <6a843de0-899c-4b1c-a57a-bd8b20c9536e@may.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_620720_8649793009"
+X-Attachment-Name: FACTU2021010058.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

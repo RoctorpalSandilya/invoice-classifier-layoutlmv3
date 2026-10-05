@@ -1,0 +1,12 @@
+From: Melanie Davies-Barber <melanie.davies-barber@griffinramos.com>
+To: Pooja Misra <pooja.misra@mallpurohit.co.uk>
+Date: Mon, 23 Mar 2026 02:16:19 -0500
+Subject: Tax Invoice FACTU2017050054
+Message-ID: <25c53585-63bd-46be-8e64-83b9b1e0c35b@griffinramos.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_936730_3957741902"
+X-Attachment-Name: FACTU2017050054.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

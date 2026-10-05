@@ -1,0 +1,12 @@
+From: Nihal Parekh <nihal.parekh@riley.net>
+To: Gareth Taylor <gareth.taylor@madden.co.uk>
+Date: Thu, 27 Aug 2026 04:59:50 -0800
+Subject: Invoice FACTU2015080054 – Madden, Kerr and West
+Message-ID: <cbad251f-a2a3-4295-b931-b449a357a0cd@riley.net>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_398554_6674994676"
+X-Attachment-Name: FACTU2015080054.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

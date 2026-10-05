@@ -1,0 +1,13 @@
+From: Madan Inc Billing <no-reply@chapman.com>
+To: Dr Kerry Adams <dr.adams@ellis.co.uk>
+Reply-To: billing@chapman.com
+Date: Tue, 09 Jun 2026 11:00:37 +0000
+Subject: New invoice 16040043 generated
+Message-ID: <834b641e-be75-46d0-aa63-aac8411f2bf7@chapman.com>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_537804_8012053660"
+X-Attachment-Name: FACTU2016040043.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

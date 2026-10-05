@@ -1,0 +1,11 @@
+From: Aaron Jones <aaron.jones@paimuni.in>
+To: Fiona Archer <fiona.archer@dennis.info>
+Date: Tue, 09 Jun 2026 10:54:13 +0100
+Subject: Lunch receipt
+Message-ID: <e2f4ac21-303b-4ef0-b3a5-a60b540525ee@paimuni.in>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_152798_6427690642"
+X-Attachment-Name: receipt_091.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

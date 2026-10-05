@@ -1,0 +1,12 @@
+From: Jacqueline Price <jacqueline.price@walton.net>
+To: Benjamin Clark <benjamin.clark@walton.net>
+Cc: Tristan Joshi <tristan.joshi@walton.net>
+Date: Fri, 17 Jul 2026 06:31:00 -0800
+Subject: Invoice INV-16100063 for approval
+Message-ID: <67acfd41-3938-4841-b3ce-3efed8453f32@walton.net>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_859216_9490148068"
+X-Attachment-Name: FACTU2016100063.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Eleanor Kaur <eleanor.kaur@tripathi.net>
+To: Danielle Rogers <danielle.rogers@acevedo.info>
+Date: Wed, 28 Jan 2026 22:23:05 +0530
+Subject: Here's that receipt you asked for
+Message-ID: <d3441532-20f8-4260-90f2-77ab7982ea5b@tripathi.net>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_399836_4640608376"
+X-Attachment-Name: receipt_227.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Karpe and Sons Billing <no-reply@gonzalez.biz>
+To: Wendy Jackson <wendy.jackson@morgan.com>
+Reply-To: billing@gonzalez.biz
+Date: Wed, 18 Mar 2026 00:55:36 -0800
+Subject: Your Karpe and Sons invoice INV-19100051
+Message-ID: <bbdeb82e-511f-452f-b3f4-74404a61b339@gonzalez.biz>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_538036_1201027462"
+X-Attachment-Name: FACTU2019100051.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

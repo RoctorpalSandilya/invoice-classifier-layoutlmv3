@@ -1,0 +1,12 @@
+From: Abbie Dawson-Turner <abbie.dawson-turner@howard.com>
+To: Nachiket Chaudhari <nachiket.chaudhari@radhakrishnan.com>
+Date: Sat, 04 Jul 2026 20:44:14 +0000
+Subject: Purchase Order PO-51602
+Message-ID: <1133bb07-96dc-4dee-a599-2095dc19e604@howard.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_878839_8911506654"
+X-Attachment-Name: lookalike_purchase_order_055.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

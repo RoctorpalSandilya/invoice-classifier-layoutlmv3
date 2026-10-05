@@ -1,0 +1,12 @@
+From: Marion Dixon <marion.dixon@lowesantiago.com>
+To: Dorothy Malone <dorothy.malone@white.com>
+Date: Fri, 05 Jun 2026 16:53:03 +0000
+Subject: Invoice 20020070 from Lowe-Santiago
+Message-ID: <416096eb-1d61-452c-803a-a9f67e6c377d@lowesantiago.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_856223_7681123785"
+X-Attachment-Name: FACTU2020020070.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Thomas Ltd Billing <no-reply@chakraborty-chowdhury.com>
+To: Dr Sian Brown <dr.brown@cunninghammason.net>
+Reply-To: billing@chakraborty-chowdhury.com
+Date: Wed, 04 Mar 2026 05:20:26 +0100
+Subject: Your Thomas Ltd invoice 18110040
+Message-ID: <c2280b03-cb4d-4daa-b050-8b0771e1a8d5@chakraborty-chowdhury.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_424460_8185475205"
+X-Attachment-Name: FACTU2018110040.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

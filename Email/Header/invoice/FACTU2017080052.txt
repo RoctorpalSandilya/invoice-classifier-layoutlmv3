@@ -1,0 +1,11 @@
+From: Adrian Johnson <adrian.johnson@hopkinshoughton.net>
+To: Adam Berry <adam.berry@salazarhahn.co.uk>
+Date: Sun, 22 Mar 2026 09:32:01 -0800
+Subject: Hopkins-Houghton: Invoice INV-17080052 for August services
+Message-ID: <b259ed50-de1a-451f-b36b-2d5efd116f2a@hopkinshoughton.net>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_499630_6447628910"
+X-Attachment-Name: FACTU2017080052.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

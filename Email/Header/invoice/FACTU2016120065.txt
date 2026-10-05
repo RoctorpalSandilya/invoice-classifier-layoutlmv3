@@ -1,0 +1,11 @@
+From: Ayaan Solanki <ayaan.solanki@prasad.net>
+To: Jake Lee-Baker <jake.lee-baker@mejianguyen.co.uk>
+Date: Wed, 19 Aug 2026 04:22:00 -0800
+Subject: Invoice INV-16120065 | Due 18 Sep 2026
+Message-ID: <d77f910e-7772-4cc7-b658-889e7f768b5c@prasad.net>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_720508_3144995049"
+X-Attachment-Name: FACTU2016120065.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Dr. Ronald Fernandez <dr..fernandez@hubbardmoore.in>
+To: Hitesh Sengupta <hitesh.sengupta@vyas-ganesan.com>
+Date: Thu, 14 May 2026 18:39:06 -0500
+Subject: Updated draft
+Message-ID: <06637d8c-4026-4952-9974-53a4b729685e@hubbardmoore.in>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_642045_7359611407"
+X-Attachment-Name: doc_011.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

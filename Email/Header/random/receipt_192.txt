@@ -1,0 +1,12 @@
+From: Barry Slater <barry.slater@moorebrookes.com>
+To: Aryan Kapoor <aryan.kapoor@ramachandran.info>
+Date: Fri, 24 Jul 2026 09:08:14 +0530
+Subject: Receipt for expense claim
+Message-ID: <7b6195b4-1027-43f5-b9ba-d40c6b6d2cf0@moorebrookes.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_261356_8227062456"
+X-Attachment-Name: receipt_192.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

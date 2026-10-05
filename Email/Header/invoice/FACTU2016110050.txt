@@ -1,0 +1,11 @@
+From: Brooke Hunt <brooke.hunt@ramanathandhar.io>
+To: Daniel Knight <daniel.knight@bhatti.net>
+Date: Sun, 08 Mar 2026 04:42:38 +0000
+Subject: Invoice 16110050 – Bhatti LLC
+Message-ID: <1f962544-5221-4ff6-96fe-a67dd312b041@ramanathandhar.io>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_800946_6119318452"
+X-Attachment-Name: FACTU2016110050.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

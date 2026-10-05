@@ -1,0 +1,13 @@
+From: Gary Hall <gary.hall@john.com>
+To: Jessica Begum <jessica.begum@john.com>
+Cc: Leonard Adkins <leonard.adkins@john.com>
+Date: Sun, 08 Feb 2026 18:55:27 +0200
+Subject: AP: new vendor invoice 16110049
+Message-ID: <a37ce96f-5869-4989-8092-ab1796f0b1e4@john.com>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_392635_3126364198"
+X-Attachment-Name: FACTU2016110049.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

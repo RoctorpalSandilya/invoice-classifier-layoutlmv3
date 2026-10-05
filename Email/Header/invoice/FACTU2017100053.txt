@@ -1,0 +1,11 @@
+From: Kavya Tripathi <kavya.tripathi@turnbull.co.uk>
+To: Jagvi Deshmukh <jagvi.deshmukh@bellbray.com>
+Date: Sun, 09 Aug 2026 11:38:01 -0500
+Subject: Your invoice INV-17100053 is attached
+Message-ID: <cc741b5e-4b0f-4733-973f-c3ec294878e0@turnbull.co.uk>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_672161_5254531233"
+X-Attachment-Name: FACTU2017100053.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

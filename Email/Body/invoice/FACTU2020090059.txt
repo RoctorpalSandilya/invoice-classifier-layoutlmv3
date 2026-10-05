@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: 20090059
+Account: ACC-973313
+Amount: $8,746.55
+Due date: 02 Sep 2026
+
+The invoice is attached to this email in PDF format. You can also view and pay it online at https://billing.yadav.com/invoices/20090059.
+
+This is an automated message; please do not reply to this email.
+
+Dugar, Khosla and Vala Billing Team

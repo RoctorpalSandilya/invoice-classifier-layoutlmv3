@@ -1,0 +1,11 @@
+From: Alexander Dixit <alexander.dixit@hopkinsjones.in>
+To: Dr. Sarah Young <dr..young@cooper.com>
+Date: Fri, 17 Apr 2026 02:51:49 +0000
+Subject: Receipt for expense claim
+Message-ID: <b2124961-fd24-4100-99ab-818c0d99712e@hopkinsjones.in>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_123872_4510719310"
+X-Attachment-Name: receipt_018.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

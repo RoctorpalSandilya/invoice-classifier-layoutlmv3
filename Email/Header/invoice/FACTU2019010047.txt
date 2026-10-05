@@ -1,0 +1,11 @@
+From: Amol Rama <amol.rama@riveragonzalez.com>
+To: Alan Perry <alan.perry@frank.io>
+Date: Thu, 14 May 2026 18:12:22 -0800
+Subject: Tax Invoice #19010047
+Message-ID: <ea8f7337-c7e4-44af-8d64-928255488fa8@riveragonzalez.com>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_630563_4077589458"
+X-Attachment-Name: FACTU2019010047.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

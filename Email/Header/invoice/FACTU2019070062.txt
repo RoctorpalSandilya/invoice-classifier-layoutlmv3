@@ -1,0 +1,11 @@
+From: Lipika Kalla <lipika.kalla@hart.co.uk>
+To: Girish Nazareth <girish.nazareth@haney.com>
+Date: Thu, 17 Sep 2026 00:32:06 -0800
+Subject: Invoice INV-19070062 | Due 01 Oct 2026
+Message-ID: <b25cb468-aa0c-4f24-a2f9-3d6ee9dadc3b@hart.co.uk>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_391586_2144454840"
+X-Attachment-Name: FACTU2019070062.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

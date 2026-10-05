@@ -1,0 +1,11 @@
+From: Kayleigh Harris <kayleigh.harris@garde.io>
+To: Steven Marshall <steven.marshall@chaudhary-mahajan.biz>
+Date: Sun, 04 Jan 2026 16:10:19 +0200
+Subject: Expense claim submitted
+Message-ID: <f057590d-2deb-47a4-9471-079d74e13e90@garde.io>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_619869_7483852070"
+X-Attachment-Name: lookalike_expense_report_137.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

@@ -1,0 +1,13 @@
+From: Mayer, Tanner and Davis Billing <no-reply@nagarajan.net>
+To: Timothy Huang <timothy.huang@shawcooper.co.uk>
+Reply-To: billing@nagarajan.net
+Date: Sun, 16 Aug 2026 05:02:44 -0500
+Subject: [Automated] Invoice INV-18010046 is now available
+Message-ID: <1814b6e2-cb52-42e6-8dad-fb09fc5e5c20@nagarajan.net>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_790326_4689883557"
+X-Attachment-Name: FACTU2018010046.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

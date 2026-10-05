@@ -1,0 +1,12 @@
+From: Benjamin Dhillon <benjamin.dhillon@hopkins.co.uk>
+To: Elijah Malhotra <elijah.malhotra@bhatti.org>
+Date: Sun, 25 Jan 2026 03:12:19 -0500
+Subject: FYI – attached file
+Message-ID: <5e952f17-aa14-4e13-b715-c157e20f780f@hopkins.co.uk>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_455973_8972133199"
+X-Attachment-Name: doc_028.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

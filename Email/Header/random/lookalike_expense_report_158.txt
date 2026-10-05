@@ -1,0 +1,11 @@
+From: Alexander Bhatt <alexander.bhatt@datesarma.io>
+To: Joseph Howard <joseph.howard@bell.com>
+Date: Sat, 19 Sep 2026 04:43:36 +0530
+Subject: Expense report EXP-0168 for approval
+Message-ID: <cecd4be2-be8c-4fdf-aad6-f7540614eb95@datesarma.io>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_941853_3786195752"
+X-Attachment-Name: lookalike_expense_report_158.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

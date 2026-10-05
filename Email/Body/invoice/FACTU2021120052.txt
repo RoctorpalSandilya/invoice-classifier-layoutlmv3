@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: FACTU2021120052
+Account: ACC-656327
+Amount: $17,788.68
+Due date: 29 Sep 2026
+
+The invoice is attached to this email in image format. You can also view and pay it online at https://billing.pope.net/invoices/FACTU2021120052.
+
+This is an automated message; please do not reply to this email.
+
+Hayre-Gulati Billing Team

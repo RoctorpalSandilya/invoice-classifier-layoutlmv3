@@ -1,0 +1,12 @@
+From: Jagvi Nagar <jagvi.nagar@pinedamckinney.co.uk>
+To: Mrs Laura Baker <mrs.baker@buckwalls.io>
+Date: Thu, 30 Jul 2026 17:54:51 +0530
+Subject: Pineda-Mckinney: Invoice FACTU2021060043 for May services
+Message-ID: <a91a7243-6317-4ac5-91a0-8289c965fe00@pinedamckinney.co.uk>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_646726_6694031999"
+X-Attachment-Name: FACTU2021060043.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

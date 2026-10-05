@@ -1,0 +1,12 @@
+From: Andrea Hernandez <andrea.hernandez@smithmarshall.com>
+To: Anthony Thompson <anthony.thompson@smithmarshall.com>
+Cc: Gary Gregory <gary.gregory@smithmarshall.com>
+Date: Sat, 25 Jul 2026 21:52:31 +0530
+Subject: Invoice #20050061 for approval
+Message-ID: <7523decc-b513-45d1-824e-31528fbe8e41@smithmarshall.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_302447_3652906482"
+X-Attachment-Name: FACTU2020050061.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

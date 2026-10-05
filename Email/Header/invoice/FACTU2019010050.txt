@@ -1,0 +1,12 @@
+From: Veronica Martinez <veronica.martinez@todd.in>
+To: Albert Singleton <albert.singleton@muttiben.in>
+Date: Sun, 19 Apr 2026 07:43:33 -0500
+Subject: Invoice INV-19010050 – corrected copy
+Message-ID: <804d224a-e4e3-4b95-8ce8-2847e18fe5a7@todd.in>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_862872_5699542813"
+X-Attachment-Name: FACTU2019010050.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

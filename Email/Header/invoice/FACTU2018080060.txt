@@ -1,0 +1,12 @@
+From: Gabrielle Perry <gabrielle.perry@evansprice.io>
+To: Dr Bruce Smith <dr.smith@rana.io>
+Date: Sat, 01 Aug 2026 16:51:00 +0000
+Subject: Re-sending invoice FACTU2018080060
+Message-ID: <8e23cb92-632c-4e28-88a7-817c8a45db4c@evansprice.io>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_689963_0086854895"
+X-Attachment-Name: FACTU2018080060.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

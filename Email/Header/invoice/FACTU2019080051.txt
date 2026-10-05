@@ -1,0 +1,12 @@
+From: Aaron Perry <aaron.perry@cooper.co.uk>
+To: Saumya Dey <saumya.dey@hammond.in>
+Date: Tue, 24 Mar 2026 23:20:47 +0530
+Subject: Invoice 19080051 – amount does not match PO
+Message-ID: <d2556e17-d711-482f-bd8e-f487786f4a4e@cooper.co.uk>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_291494_3308921678"
+X-Attachment-Name: FACTU2019080051.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

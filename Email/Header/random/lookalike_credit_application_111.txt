@@ -1,0 +1,11 @@
+From: Bryan Harmon <bryan.harmon@barad.com>
+To: Rachel Long <rachel.long@ravel.biz>
+Date: Thu, 22 Jan 2026 04:29:43 -0800
+Subject: Credit application form – completed
+Message-ID: <12f7ab2c-bea2-4777-bd1f-ea547d6f57fa@barad.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_109487_5117247814"
+X-Attachment-Name: lookalike_credit_application_111.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

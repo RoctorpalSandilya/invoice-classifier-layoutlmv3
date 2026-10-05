@@ -1,0 +1,11 @@
+From: Robert Joyce-Smith <robert.joyce-smith@brooksferguson.com>
+To: Nicola Price <nicola.price@saha.com>
+Date: Fri, 06 Mar 2026 19:05:31 -0500
+Subject: Here's that receipt you asked for
+Message-ID: <50f299f9-ef02-46cb-b804-bf741391ad26@brooksferguson.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_705945_0715683979"
+X-Attachment-Name: receipt_069.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

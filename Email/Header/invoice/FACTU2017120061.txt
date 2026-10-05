@@ -1,0 +1,12 @@
+From: Mr Benjamin Campbell <mr.campbell@owendavies.co.uk>
+To: Terry Thornton <terry.thornton@owendavies.net>
+Cc: Dominic Thomas <dominic.thomas@owendavies.net>
+Date: Mon, 01 Jun 2026 20:45:34 +0530
+Subject: Invoice 17120061 for approval
+Message-ID: <486a6975-2027-4d9f-8411-17bc3c5adcf9@owendavies.co.uk>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_796444_5516761621"
+X-Attachment-Name: FACTU2017120061.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

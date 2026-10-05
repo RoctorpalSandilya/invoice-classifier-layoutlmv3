@@ -1,0 +1,12 @@
+From: Miss Charlotte Lyons <miss.lyons@brown.co.uk>
+To: Naomi Nicholls <naomi.nicholls@reed.info>
+Date: Mon, 05 Jan 2026 23:21:50 -0800
+Subject: Receipt for expense claim
+Message-ID: <43a455ae-1bf5-42cc-9d1a-aca5c7177ab2@brown.co.uk>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_453395_8794593200"
+X-Attachment-Name: receipt_204.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Henry Edwards <henry.edwards@iyer.in>
+To: Kevin Duran MD <kevin.md@edwardsyoung.co.uk>
+Date: Fri, 13 Mar 2026 17:10:37 +0200
+Subject: Tax Invoice INV-17050053
+Message-ID: <96babf80-a076-41d8-9538-52a101fe55b5@iyer.in>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_471509_0099086974"
+X-Attachment-Name: FACTU2017050053.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

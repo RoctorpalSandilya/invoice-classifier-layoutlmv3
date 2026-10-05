@@ -1,0 +1,11 @@
+From: Jeffrey Young <jeffrey.young@andra.com>
+To: Alexandra Shaw <alexandra.shaw@morar.com>
+Date: Fri, 15 May 2026 01:59:39 +0530
+Subject: Travel expense claim – Annemouth
+Message-ID: <27a20480-8898-4857-a27b-6002fa52a536@andra.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_123596_0274332254"
+X-Attachment-Name: lookalike_expense_report_100.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

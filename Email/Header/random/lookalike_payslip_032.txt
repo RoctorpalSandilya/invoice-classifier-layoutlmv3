@@ -1,0 +1,12 @@
+From: Payroll <payroll@cook.com>
+To: Jagdish Mody <jagdish.mody@wright-lee.info>
+Date: Sun, 22 Mar 2026 12:24:11 -0800
+Subject: Payslip attached – confidential
+Message-ID: <838b7dcd-00ad-4a9c-a303-7a75fd2e8d48@cook.com>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_390065_7235021335"
+X-Attachment-Name: lookalike_payslip_032.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Diana Franklin <diana.franklin@sandershall.com>
+To: Jeffery Romero <jeffery.romero@berry.co.uk>
+Date: Wed, 25 Feb 2026 08:05:28 +0100
+Subject: Your invoice FACTU2016090053 is attached
+Message-ID: <f90da616-a2ad-4a27-9319-1667ffe5c209@sandershall.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_071163_5032757165"
+X-Attachment-Name: FACTU2016090053.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

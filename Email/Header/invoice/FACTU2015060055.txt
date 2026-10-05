@@ -1,0 +1,11 @@
+From: Susan White <susan.white@griffiths.co.uk>
+To: Natasha Bell-Martin <natasha.bell-martin@singhalratti.co.uk>
+Date: Thu, 29 Jan 2026 13:12:13 +0100
+Subject: Reminder: outstanding invoice FACTU2015060055
+Message-ID: <2bdf5041-3fb1-4951-8894-9598dd6c000d@griffiths.co.uk>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_852943_5637118132"
+X-Attachment-Name: FACTU2015060055.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

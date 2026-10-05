@@ -1,0 +1,11 @@
+From: Marie Khan <marie.khan@atwal.in>
+To: Martin Duncan <martin.duncan@miles.com>
+Date: Mon, 22 Jun 2026 03:54:35 +0200
+Subject: Despatch confirmation
+Message-ID: <9c3ff3a7-3dac-4640-9ead-cab34c7a771e@atwal.in>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_697690_5702233889"
+X-Attachment-Name: lookalike_delivery_note_200.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

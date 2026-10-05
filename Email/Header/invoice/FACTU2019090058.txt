@@ -1,0 +1,11 @@
+From: James Cabrera <james.cabrera@rau.com>
+To: Anvi Char <anvi.char@henderson.co.uk>
+Date: Sun, 02 Aug 2026 15:09:01 +0200
+Subject: Tax Invoice 19090058
+Message-ID: <757b15c8-5578-44a4-a1c7-23900e8ed86a@rau.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_858759_0241340030"
+X-Attachment-Name: FACTU2019090058.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

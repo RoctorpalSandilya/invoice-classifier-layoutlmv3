@@ -1,0 +1,11 @@
+From: Zachary Decker <zachary.decker@calderondavis.com>
+To: James Nelson <james.nelson@chatterjee-sunder.biz>
+Date: Wed, 01 Apr 2026 17:18:35 +0200
+Subject: Receipt for team dinner
+Message-ID: <5f45a8d4-7cbb-414f-8a09-1bcbb2df7d93@calderondavis.com>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_331918_8644319844"
+X-Attachment-Name: receipt_073.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

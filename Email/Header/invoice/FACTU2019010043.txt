@@ -1,0 +1,11 @@
+From: Quincy Kalla <quincy.kalla@clark.com>
+To: Ishani Iyengar <ishani.iyengar@ryan.in>
+Date: Mon, 06 Apr 2026 00:05:57 +0000
+Subject: Copy of invoice FACTU2019010043 as requested
+Message-ID: <06edf16a-0724-4245-b6a8-f88db253635c@clark.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_954598_7992163257"
+X-Attachment-Name: FACTU2019010043.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Stephen Allen <stephen.allen@patil.co.uk>
+To: Vansha Acharya <vansha.acharya@patil.com>
+Cc: Mrs Judith Johnson <mrs.johnson@patil.com>
+Date: Thu, 06 Aug 2026 08:35:21 +0000
+Subject: Invoice 19050052 for approval
+Message-ID: <41b434f8-bae9-4386-83a6-955eca403398@patil.co.uk>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_142785_9757372305"
+X-Attachment-Name: FACTU2019050052.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

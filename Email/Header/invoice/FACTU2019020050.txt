@@ -1,0 +1,12 @@
+From: Priya Gandhi <priya.gandhi@williams.net>
+To: Nisha Nair <nisha.nair@scott.io>
+Date: Mon, 12 Jan 2026 21:19:07 +0100
+Subject: Invoice #19020050 from Williams Ltd
+Message-ID: <32eea088-e97d-47d1-93b1-f42fd139fff4@williams.net>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_629726_8746963550"
+X-Attachment-Name: FACTU2019020050.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

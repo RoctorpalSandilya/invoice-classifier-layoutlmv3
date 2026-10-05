@@ -1,0 +1,12 @@
+From: Elizabeth Gonzales <elizabeth.gonzales@tapia.net>
+To: Angela Walker <angela.walker@tapia.net>
+Cc: Miss Heather Ball <miss.ball@tapia.net>
+Date: Sat, 11 Apr 2026 08:15:03 +0000
+Subject: Invoice INV-19010054 for approval
+Message-ID: <360d0353-edf0-40b9-8a14-1a98829489c0@tapia.net>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_178661_1493160135"
+X-Attachment-Name: FACTU2019010054.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

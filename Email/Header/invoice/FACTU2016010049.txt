@@ -1,0 +1,12 @@
+From: Derek Cox-Dunn <derek.cox-dunn@phillipssmith.in>
+To: Bianca Mason <bianca.mason@dara.in>
+Date: Sun, 05 Apr 2026 04:28:54 +0000
+Subject: Tax Invoice INV-16010049
+Message-ID: <94ee4d9e-f5ce-45cb-a98b-00d427d29fff@phillipssmith.in>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_043049_3520233220"
+X-Attachment-Name: FACTU2016010049.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Holly Jenkins <holly.jenkins@hallsmith.in>
+To: Saksham Lata <saksham.lata@summers.com>
+Date: Fri, 27 Mar 2026 07:34:43 -0500
+Subject: Reimbursement – attached receipt
+Message-ID: <aff3407c-736b-4f43-b8e3-0e69f08d1029@hallsmith.in>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_562048_6475369493"
+X-Attachment-Name: receipt_220.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

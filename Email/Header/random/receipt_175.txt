@@ -1,0 +1,11 @@
+From: Tracey Begum <tracey.begum@ward.io>
+To: Mandy Taylor <mandy.taylor@mahal-mittal.com>
+Date: Sun, 11 Jan 2026 18:01:36 -0500
+Subject: Reimbursement – attached receipt
+Message-ID: <82663af0-0eea-4c56-aa65-776ee55356a9@ward.io>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_287951_0413759935"
+X-Attachment-Name: receipt_175.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

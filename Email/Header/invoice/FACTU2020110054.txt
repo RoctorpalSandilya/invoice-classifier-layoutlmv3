@@ -1,0 +1,11 @@
+From: Dr Marion Lee <dr.lee@mallpillay.co.uk>
+To: Jagvi Dhar <jagvi.dhar@chanda.net>
+Date: Sat, 29 Aug 2026 08:15:48 +0100
+Subject: Question about attached invoice INV-20110054
+Message-ID: <6666b866-aae4-4443-a449-51f4c53cae79@mallpillay.co.uk>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_485363_2651304452"
+X-Attachment-Name: FACTU2020110054.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

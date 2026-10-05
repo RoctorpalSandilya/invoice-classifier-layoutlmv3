@@ -1,0 +1,12 @@
+From: Madhav Sood <madhav.sood@morris.com>
+To: Pahal Nigam <pahal.nigam@grewalsrinivas.net>
+Date: Tue, 14 Jul 2026 07:19:36 +0000
+Subject: Tax Invoice FACTU2020070059
+Message-ID: <fef9bd53-0a1a-4051-b9a9-b0f72690deb3@morris.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_002742_7561066658"
+X-Attachment-Name: FACTU2020070059.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

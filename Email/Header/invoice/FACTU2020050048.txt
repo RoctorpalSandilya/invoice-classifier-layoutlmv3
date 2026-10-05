@@ -1,0 +1,11 @@
+From: Tami Summers <tami.summers@thorpeedwards.io>
+To: Jyoti Mallick <jyoti.mallick@krishna.com>
+Date: Wed, 22 Apr 2026 05:36:31 +0100
+Subject: Invoice 20050048 | Due 21 Jun 2026
+Message-ID: <8edf78aa-7b43-4072-8251-79cc27aec61d@thorpeedwards.io>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_673666_9072917108"
+X-Attachment-Name: FACTU2020050048.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

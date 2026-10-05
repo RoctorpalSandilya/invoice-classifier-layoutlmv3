@@ -1,0 +1,11 @@
+From: Arjun Shukla <arjun.shukla@parekh.net>
+To: Graeme Allen <graeme.allen@harrison.net>
+Date: Fri, 08 May 2026 18:16:42 +0000
+Subject: Invoice INV-20100063 from Parekh and Sons
+Message-ID: <08fc70df-0df2-4732-a76d-cdf36e65c2ab@parekh.net>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_081072_8139113254"
+X-Attachment-Name: FACTU2020100063.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Alvarado-Smith Billing <no-reply@giles.org>
+To: Michael Moore <michael.moore@narayansane.com>
+Reply-To: billing@giles.org
+Date: Tue, 13 Jan 2026 01:09:09 +0200
+Subject: [Automated] Invoice #17100060 is now available
+Message-ID: <464ededa-625c-49b2-a7d6-b8157602af71@giles.org>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_779622_0607986815"
+X-Attachment-Name: FACTU2017100060.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

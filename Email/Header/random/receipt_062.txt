@@ -1,0 +1,11 @@
+From: Sabrina Macias <sabrina.macias@wright.com>
+To: Jordan Strickland <jordan.strickland@turner.com>
+Date: Thu, 25 Jun 2026 03:27:34 +0530
+Subject: Reimbursement – attached receipt
+Message-ID: <1ba96800-3554-454b-ae52-9cbe1110106d@wright.com>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_149596_8214416411"
+X-Attachment-Name: receipt_062.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Payroll <payroll@smith.com>
+To: Timothy Gray <timothy.gray@oliver.com>
+Date: Thu, 30 Apr 2026 19:01:32 +0100
+Subject: Pay statement Apr 2026
+Message-ID: <d73fba78-7772-499d-a328-b590042e6b77@smith.com>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_062353_1734166948"
+X-Attachment-Name: lookalike_payslip_060.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Gregory Mahmood-Hayward <gregory.mahmood-hayward@sathe.com>
+To: Erin Patton <erin.patton@saha-ratti.com>
+Date: Thu, 12 Feb 2026 11:41:53 +0100
+Subject: New customer account form
+Message-ID: <96ba3e55-1798-4139-a6db-a01501a64e18@sathe.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_158040_6259516565"
+X-Attachment-Name: lookalike_credit_application_054.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

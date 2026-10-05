@@ -1,0 +1,11 @@
+From: Rohan Kara <rohan.kara@pittman.co.uk>
+To: Chloe Griffiths <chloe.griffiths@brennan.io>
+Date: Fri, 20 Mar 2026 11:41:21 -0800
+Subject: Invoice 16110041 – corrected copy
+Message-ID: <6e313adf-4652-4d48-a04f-23a06d345408@pittman.co.uk>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_904830_9762493748"
+X-Attachment-Name: FACTU2016110041.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

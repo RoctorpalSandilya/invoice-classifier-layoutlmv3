@@ -1,0 +1,12 @@
+From: Joan Harrison <joan.harrison@brown.in>
+To: David Jones <david.jones@dada.net>
+Date: Sat, 16 May 2026 07:50:18 +0100
+Subject: Invoice FACTU2020100064 – amount does not match PO
+Message-ID: <7833fbe2-8134-4014-9acf-b78d450adb9b@brown.in>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_789119_7497396167"
+X-Attachment-Name: FACTU2020100064.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: 22010041
+Account: ACC-116379
+Amount: $18,512.73
+Due date: 08 Jul 2026
+
+The invoice is attached to this email in PDF format. You can also view and pay it online at https://billing.pant.org/invoices/22010041.
+
+This is an automated message; please do not reply to this email.
+
+Santiago-Mathis Billing Team

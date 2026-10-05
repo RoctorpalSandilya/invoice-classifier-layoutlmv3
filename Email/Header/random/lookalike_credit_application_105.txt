@@ -1,0 +1,11 @@
+From: Wendy Parkinson <wendy.parkinson@jackson.io>
+To: Shivani Purohit <shivani.purohit@davis-jones.com>
+Date: Thu, 05 Mar 2026 15:06:14 +0200
+Subject: Account opening – Jackson and Sons
+Message-ID: <afa71516-1f60-4bfb-a301-67d6881ac2c8@jackson.io>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_539115_8185384802"
+X-Attachment-Name: lookalike_credit_application_105.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

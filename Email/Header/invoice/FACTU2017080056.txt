@@ -1,0 +1,11 @@
+From: Ranbir Iyer <ranbir.iyer@ford.io>
+To: Kyle Meyer <kyle.meyer@brownpotter.net>
+Date: Fri, 29 May 2026 19:20:23 +0530
+Subject: Second notice – invoice INV-17080056 past due
+Message-ID: <c1b05ee2-b4d4-4fdd-b896-007bb5091b71@ford.io>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_893057_9056993125"
+X-Attachment-Name: FACTU2017080056.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

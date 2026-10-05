@@ -1,0 +1,11 @@
+From: Billy Gibson-Harris <billy.gibson-harris@brown.net>
+To: Amanda Butler <amanda.butler@pillaibhakta.co.uk>
+Date: Wed, 04 Mar 2026 18:31:58 -0800
+Subject: Your invoice 17010043 is attached
+Message-ID: <28e5083a-b84f-4186-82bd-7fbd48945fe9@brown.net>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_446652_6010023208"
+X-Attachment-Name: FACTU2017010043.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

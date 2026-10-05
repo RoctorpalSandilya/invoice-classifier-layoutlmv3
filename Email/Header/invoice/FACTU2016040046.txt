@@ -1,0 +1,13 @@
+From: Pai LLC Billing <no-reply@golla.com>
+To: William Heath <william.heath@thomas.com>
+Reply-To: billing@golla.com
+Date: Tue, 07 Jul 2026 18:52:04 +0100
+Subject: [Automated] Invoice 16040046 is now available
+Message-ID: <ddbd1187-3c5a-4c1a-9667-9e57c2791ce7@golla.com>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_243802_7769800833"
+X-Attachment-Name: FACTU2016040046.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

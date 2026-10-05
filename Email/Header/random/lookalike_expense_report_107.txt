@@ -1,0 +1,11 @@
+From: James Moore <james.moore@moodymeza.com>
+To: Daniel Chatterjee <daniel.chatterjee@compton.com>
+Date: Mon, 07 Sep 2026 04:58:01 +0100
+Subject: Expense report EXP-7992 for approval
+Message-ID: <b7187c44-f1de-4b2b-8574-4f97ba69c8cf@moodymeza.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_529334_4497718929"
+X-Attachment-Name: lookalike_expense_report_107.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

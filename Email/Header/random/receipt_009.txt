@@ -1,0 +1,11 @@
+From: Dr Jamie Leonard <dr.leonard@basudubey.com>
+To: Mr Max Fitzgerald <mr.fitzgerald@kramer.org>
+Date: Thu, 18 Jun 2026 03:12:36 +0100
+Subject: Here's that receipt you asked for
+Message-ID: <c50fdaee-67de-4e9e-8080-955074ad3096@basudubey.com>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_780475_1352269451"
+X-Attachment-Name: receipt_009.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

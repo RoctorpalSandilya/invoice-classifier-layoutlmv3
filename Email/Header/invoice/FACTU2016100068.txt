@@ -1,0 +1,12 @@
+From: Viraj Jayaraman <viraj.jayaraman@jones.in>
+To: Dr Mohammad Berry <dr.berry@jones.com>
+Cc: Tammy Malone <tammy.malone@jones.com>
+Date: Thu, 09 Apr 2026 15:17:55 -0500
+Subject: [Action required] Invoice FACTU2016100068 – Perez, Smith and Boyd
+Message-ID: <1c95efa0-ee61-472b-8d8c-153d9b7b16b8@jones.in>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_854143_8648853957"
+X-Attachment-Name: FACTU2016100068.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: William Hamilton <william.hamilton@chadha.co.uk>
+To: Steven Valdez <steven.valdez@morris-ahmed.com>
+Date: Wed, 06 May 2026 20:30:57 -0800
+Subject: Minutes from today's meeting
+Message-ID: <31ad988e-523b-4e11-931e-e58e91730a27@chadha.co.uk>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_708075_3928295424"
+X-Attachment-Name: doc_019.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

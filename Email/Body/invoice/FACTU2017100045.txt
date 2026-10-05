@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: FACTU2017100045
+Account: ACC-352686
+Amount: €19,913.48
+Due date: 21 Jun 2026
+
+The invoice is attached to this email in image format. You can also view and pay it online at https://billing.melton.org/invoices/FACTU2017100045.
+
+This is an automated message; please do not reply to this email.
+
+Elliott, Harris and Evans Billing Team

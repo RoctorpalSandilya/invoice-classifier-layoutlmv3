@@ -1,0 +1,12 @@
+From: Lisa Roy <lisa.roy@lala.co.uk>
+To: Martyn Sullivan <martyn.sullivan@haynes-ward.com>
+Date: Mon, 10 Aug 2026 06:11:22 +0200
+Subject: Here's that receipt you asked for
+Message-ID: <49e945df-4994-43c3-a989-27ea735032a6@lala.co.uk>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_584461_2722010975"
+X-Attachment-Name: receipt_074.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

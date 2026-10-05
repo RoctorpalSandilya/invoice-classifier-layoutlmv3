@@ -1,0 +1,12 @@
+From: Saanvi Comar <saanvi.comar@lee.io>
+To: Warda Bhakta <warda.bhakta@johnson.in>
+Date: Wed, 27 May 2026 20:55:33 +0530
+Subject: Invoice INV-19100043 – 58 days overdue
+Message-ID: <c8f5d5db-4cdd-4090-adec-0d10e411fe77@lee.io>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_603312_6718195684"
+X-Attachment-Name: FACTU2019100043.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

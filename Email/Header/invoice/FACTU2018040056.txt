@@ -1,0 +1,12 @@
+From: Thomas Jones <thomas.jones@mukhopadhyay.io>
+To: Evelyn Washington <evelyn.washington@wilson.com>
+Date: Tue, 11 Aug 2026 02:42:14 +0100
+Subject: Your invoice FACTU2018040056 is attached
+Message-ID: <6b214a6e-85d8-4bb3-91f1-29e55b4cf586@mukhopadhyay.io>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_347215_6985052948"
+X-Attachment-Name: FACTU2018040056.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

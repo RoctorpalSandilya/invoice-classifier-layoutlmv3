@@ -1,0 +1,12 @@
+From: John Hubbard DDS <john.dds@hamilton.com>
+To: Mr Leonard Price <mr.price@dave.in>
+Date: Tue, 03 Feb 2026 20:24:25 +0000
+Subject: Invoice #17100049 | Due 17 Feb 2026
+Message-ID: <54992b5c-85fa-44e6-8ae7-21620c1e8df6@hamilton.com>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_177652_3246186772"
+X-Attachment-Name: FACTU2017100049.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

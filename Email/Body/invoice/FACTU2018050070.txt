@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: INV-18050070
+Account: ACC-984198
+Amount: £5,547.42
+Due date: 12 Sep 2026
+
+The invoice is attached to this email in image format. You can also view and pay it online at https://billing.rattan.com/invoices/INV-18050070.
+
+This is an automated message; please do not reply to this email.
+
+Narula, Thaker and Mishra Billing Team

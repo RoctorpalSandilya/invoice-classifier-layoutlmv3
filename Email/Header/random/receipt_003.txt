@@ -1,0 +1,12 @@
+From: Harshil Patla <harshil.patla@korpal.co.uk>
+To: Patrick Seth <patrick.seth@parkinson.com>
+Date: Tue, 14 Apr 2026 21:37:58 -0800
+Subject: Reimbursement – attached receipt
+Message-ID: <b50878ac-ecf9-42e0-a1bb-032ea9c30e50@korpal.co.uk>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_320936_9422512436"
+X-Attachment-Name: receipt_003.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

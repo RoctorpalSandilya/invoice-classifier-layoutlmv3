@@ -1,0 +1,11 @@
+From: Libni Goyal <libni.goyal@bordechokshi.com>
+To: Kritika Dar <kritika.dar@kent.net>
+Date: Tue, 24 Mar 2026 10:55:32 +0000
+Subject: Invoice 17090053 – 10 days overdue
+Message-ID: <ef66a591-9f47-4357-b2d0-41c8fb494d27@bordechokshi.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_816023_5210208559"
+X-Attachment-Name: FACTU2017090053.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

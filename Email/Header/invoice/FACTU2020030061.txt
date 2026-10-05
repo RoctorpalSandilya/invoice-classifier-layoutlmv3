@@ -1,0 +1,11 @@
+From: Denis Gould <denis.gould@johnson.co.uk>
+To: Jhalak Sampath <jhalak.sampath@richardson.com>
+Date: Sun, 21 Jun 2026 04:49:56 +0530
+Subject: Query on invoice #20030061
+Message-ID: <10e47ee0-0580-41b5-bf67-fc433ed2adcd@johnson.co.uk>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_853547_7916942191"
+X-Attachment-Name: FACTU2020030061.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

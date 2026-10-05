@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: INV-16080052
+Account: ACC-940093
+Amount: ₹10,215.60
+Due date: 04 Jul 2026
+
+The invoice is attached to this email in PDF format. You can also view and pay it online at https://billing.evans.net/invoices/INV-16080052.
+
+This is an automated message; please do not reply to this email.
+
+Thomson-Mitchell Billing Team

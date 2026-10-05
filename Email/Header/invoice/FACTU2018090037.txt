@@ -1,0 +1,11 @@
+From: Qushi Kaul <qushi.kaul@moore.in>
+To: Sai Magar <sai.magar@purohitravi.co.uk>
+Date: Mon, 22 Jun 2026 17:57:41 +0200
+Subject: Re-sending invoice INV-18090037
+Message-ID: <5131d470-a3eb-412a-9579-c6cb98f0f67d@moore.in>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_217383_7118914367"
+X-Attachment-Name: FACTU2018090037.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

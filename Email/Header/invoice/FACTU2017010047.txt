@@ -1,0 +1,12 @@
+From: Ms Donna Walton <ms.walton@pearson.net>
+To: Steven Norris <steven.norris@tellabains.net>
+Date: Wed, 29 Apr 2026 18:42:47 +0100
+Subject: Invoice INV-17010047 – corrected copy
+Message-ID: <b8d0d18a-07b4-46a7-9719-0a7d965bdfa1@pearson.net>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_701833_6651400512"
+X-Attachment-Name: FACTU2017010047.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

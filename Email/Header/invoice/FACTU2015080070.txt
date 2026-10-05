@@ -1,0 +1,12 @@
+From: Diana Sims <diana.sims@mendozamitchell.com>
+To: Peter Powell <peter.powell@mitchell.com>
+Date: Tue, 10 Feb 2026 15:55:05 -0500
+Subject: Mendoza-Mitchell: Invoice FACTU2015080070 for September services
+Message-ID: <733f6dd9-c13c-42dd-8146-0eee654b3ac8@mendozamitchell.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_724821_8971097480"
+X-Attachment-Name: FACTU2015080070.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

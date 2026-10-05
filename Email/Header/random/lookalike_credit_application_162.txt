@@ -1,0 +1,11 @@
+From: Abigail Burrows <abigail.burrows@brookes.net>
+To: Oeshi Loke <oeshi.loke@williams.biz>
+Date: Fri, 13 Feb 2026 00:22:47 +0200
+Subject: New customer account form
+Message-ID: <7ba047e4-4cdb-4973-89a7-5d7507b0314a@brookes.net>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_659365_9281091409"
+X-Attachment-Name: lookalike_credit_application_162.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

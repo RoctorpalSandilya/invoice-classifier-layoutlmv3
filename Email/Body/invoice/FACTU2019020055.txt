@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: INV-19020055
+Account: ACC-650304
+Amount: €12,536.00
+Due date: 07 Apr 2026
+
+The invoice is attached to this email in image format. You can also view and pay it online at https://billing.hora.com/invoices/INV-19020055.
+
+This is an automated message; please do not reply to this email.
+
+Davis and Sons Billing Team

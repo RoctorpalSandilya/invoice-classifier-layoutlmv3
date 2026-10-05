@@ -1,0 +1,12 @@
+From: Jack Karnik <jack.karnik@thakurchanda.in>
+To: Shivansh Deshmukh <shivansh.deshmukh@kashyap.net>
+Date: Sun, 12 Jul 2026 05:45:42 +0530
+Subject: Invoice 18100053 – Kashyap Ltd
+Message-ID: <680f46bc-8f79-42ac-9352-69128868c5cf@thakurchanda.in>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_121099_7751544609"
+X-Attachment-Name: FACTU2018100053.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

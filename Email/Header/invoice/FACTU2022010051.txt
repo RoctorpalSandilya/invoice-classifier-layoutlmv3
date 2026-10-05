@@ -1,0 +1,12 @@
+From: Shawn Brennan <shawn.brennan@powell.com>
+To: Nandini Sani <nandini.sani@powell.in>
+Cc: Anne Holmes <anne.holmes@powell.in>
+Date: Mon, 20 Apr 2026 19:59:36 +0000
+Subject: Invoice INV-22010051 for approval
+Message-ID: <38acdc00-3097-4074-b4d3-8194dfb27ebf@powell.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_451254_6286881504"
+X-Attachment-Name: FACTU2022010051.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

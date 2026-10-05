@@ -1,0 +1,11 @@
+From: Samarth Dora <samarth.dora@coffey.net>
+To: Mrs. Jennifer Green <mrs..green@walker.io>
+Date: Sat, 06 Jun 2026 11:19:47 +0000
+Subject: OVERDUE: Invoice 18050066
+Message-ID: <bec5c1b6-45f5-4a59-8983-ddf49dff714e@coffey.net>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_799289_0349345838"
+X-Attachment-Name: FACTU2018050066.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

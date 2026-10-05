@@ -1,0 +1,11 @@
+From: Jennifer Barnes <jennifer.barnes@sexton.io>
+To: Onveer Karpe <onveer.karpe@barnes.org>
+Date: Tue, 26 May 2026 12:33:53 -0500
+Subject: Reimbursement – attached receipt
+Message-ID: <e3a60d3c-cf37-4ff0-ba5f-73a16eeab55d@sexton.io>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_762784_7026528942"
+X-Attachment-Name: receipt_130.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

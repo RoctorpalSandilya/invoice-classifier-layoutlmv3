@@ -1,0 +1,11 @@
+From: Francis Barrett-Owens <francis.barrett-owens@wellsmitchell.com>
+To: Stacy Hunt <stacy.hunt@gray.com>
+Date: Tue, 28 Apr 2026 22:52:25 +0100
+Subject: Your invoice #17080054 is attached
+Message-ID: <b96f03c6-fd40-4906-af59-2123af8cedc7@wellsmitchell.com>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_136539_3686781021"
+X-Attachment-Name: FACTU2017080054.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Jane Mccann <jane.mccann@wilkinson.com>
+To: Wishi Om <wishi.om@randhawanarang.in>
+Date: Fri, 17 Jul 2026 08:04:43 +0200
+Subject: Invoice 16080059 | Due 31 Aug 2026
+Message-ID: <d63003b6-d6c2-4f35-9b79-b99224b31d79@wilkinson.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_694892_3425454650"
+X-Attachment-Name: FACTU2016080059.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

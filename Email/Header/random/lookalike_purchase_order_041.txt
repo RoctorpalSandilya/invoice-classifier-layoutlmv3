@@ -1,0 +1,11 @@
+From: Mrs Ann Fletcher <mrs.fletcher@singh.com>
+To: Holly Berry <holly.berry@baral.com>
+Date: Fri, 02 Jan 2026 13:33:50 +0530
+Subject: New PO from Singh, Nguyen and Miller
+Message-ID: <e7a59722-70f7-438f-be2c-3714cf4ce72a@singh.com>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_293408_8815551207"
+X-Attachment-Name: lookalike_purchase_order_041.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

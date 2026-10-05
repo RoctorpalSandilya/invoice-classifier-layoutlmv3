@@ -1,0 +1,12 @@
+From: Vihaan Narayan <vihaan.narayan@callahan.in>
+To: Agastya Chopra <agastya.chopra@mittal.in>
+Date: Sun, 08 Feb 2026 10:29:24 +0530
+Subject: Invoice 21120049 | Due 09 Apr 2026
+Message-ID: <4e95ffc0-c952-405c-bf3a-7975736ae3b3@callahan.in>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_529553_6632843309"
+X-Attachment-Name: FACTU2021120049.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

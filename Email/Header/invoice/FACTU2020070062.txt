@@ -1,0 +1,12 @@
+From: Arunima Rai <arunima.rai@hale.co.uk>
+To: Samuel Baker <samuel.baker@smithdavis.co.uk>
+Date: Wed, 22 Jul 2026 14:13:20 +0100
+Subject: Invoice INV-20070062 | Due 05 Aug 2026
+Message-ID: <fd532766-6376-4507-9431-db13c4414cdc@hale.co.uk>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_569250_6657521936"
+X-Attachment-Name: FACTU2020070062.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

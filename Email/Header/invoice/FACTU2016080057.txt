@@ -1,0 +1,12 @@
+From: Yvonne Davies <yvonne.davies@sharma.io>
+To: Charles Deleon <charles.deleon@english.com>
+Date: Sun, 14 Jun 2026 07:07:27 +0100
+Subject: Reminder: outstanding invoice #16080057
+Message-ID: <672eefb3-9bc5-445a-82e3-2fb60cc5ec43@sharma.io>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_545249_4763639664"
+X-Attachment-Name: FACTU2016080057.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

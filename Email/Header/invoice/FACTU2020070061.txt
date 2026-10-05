@@ -1,0 +1,12 @@
+From: Jackson-Brown Billing <no-reply@smith-white.net>
+To: Brittany Santos <brittany.santos@walkerhussain.in>
+Reply-To: billing@smith-white.net
+Date: Mon, 23 Feb 2026 04:15:08 +0530
+Subject: Billing notification – invoice 20070061
+Message-ID: <c8728caa-d8db-4b1b-be2e-ff02054f8a8f@smith-white.net>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_075532_0375409445"
+X-Attachment-Name: FACTU2020070061.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

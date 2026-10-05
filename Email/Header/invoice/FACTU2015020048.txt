@@ -1,0 +1,12 @@
+From: Stephen Bennett <stephen.bennett@cook.com>
+To: Vanessa Johnson <vanessa.johnson@choprahanda.net>
+Date: Mon, 30 Mar 2026 06:12:37 +0100
+Subject: Invoice INV-15020048 | Due 29 May 2026
+Message-ID: <344acadf-89c6-46c4-a8e3-f7939da4b378@cook.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_838389_9235259533"
+X-Attachment-Name: FACTU2015020048.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

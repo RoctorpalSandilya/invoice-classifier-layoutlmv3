@@ -1,0 +1,11 @@
+From: Michael Gay <michael.gay@heath.io>
+To: Aarnav Bhat <aarnav.bhat@deepvarty.com>
+Date: Mon, 15 Jun 2026 00:36:48 -0500
+Subject: Invoice #15120064 | Due 29 Jun 2026
+Message-ID: <da4810cc-5c84-4e21-81f3-b4a5f4af0073@heath.io>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_318507_6915977523"
+X-Attachment-Name: FACTU2015120064.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

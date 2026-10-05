@@ -1,0 +1,13 @@
+From: Diana Hendrix <diana.hendrix@khanpotts.io>
+To: Christina Davis <christina.davis@khanpotts.co.uk>
+Cc: Julie Chan <julie.chan@khanpotts.co.uk>
+Date: Thu, 12 Mar 2026 00:14:49 +0000
+Subject: Invoice INV-16010045 for approval
+Message-ID: <61bed54f-086a-41c6-9839-35144ac65f6a@khanpotts.io>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_082595_8490586341"
+X-Attachment-Name: FACTU2016010045.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

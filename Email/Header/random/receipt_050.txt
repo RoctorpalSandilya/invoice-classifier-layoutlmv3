@@ -1,0 +1,11 @@
+From: Jay Floyd <jay.floyd@batra.com>
+To: Jamie Martinez <jamie.martinez@purohit.com>
+Date: Sun, 07 Jun 2026 09:12:18 +0200
+Subject: Reimbursement – attached receipt
+Message-ID: <bdd77cba-f4d1-4942-ad76-5a693903b33a@batra.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_154178_5939217700"
+X-Attachment-Name: receipt_050.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

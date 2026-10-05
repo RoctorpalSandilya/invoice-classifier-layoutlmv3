@@ -1,0 +1,12 @@
+From: Dr Lauren Smith <dr.smith@griffiths.com>
+To: Dr Edward Archer <dr.archer@lawsonnelson.com>
+Date: Tue, 08 Sep 2026 01:58:41 +0530
+Subject: Payment reminder: Invoice INV-19120037
+Message-ID: <b665109c-e483-4c9e-b5f6-d0640caf505f@griffiths.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_078444_5673516957"
+X-Attachment-Name: FACTU2019120037.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

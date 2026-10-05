@@ -1,0 +1,11 @@
+From: Mary Ramirez <mary.ramirez@lowe.net>
+To: Ronald Simpson <ronald.simpson@wilson.biz>
+Date: Wed, 27 May 2026 09:15:56 +0530
+Subject: Receipt for expense claim
+Message-ID: <9c901977-8195-427b-966b-d726e46500f1@lowe.net>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_151887_7781201279"
+X-Attachment-Name: receipt_118.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

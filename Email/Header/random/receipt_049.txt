@@ -1,0 +1,12 @@
+From: Anusha Ganesan <anusha.ganesan@deyramakrishnan.net>
+To: Matthew Macias <matthew.macias@mahajan.com>
+Date: Sat, 14 Mar 2026 15:12:37 -0500
+Subject: Lunch receipt
+Message-ID: <ad111b56-7c7e-4d1b-9cff-f4c30f9c152a@deyramakrishnan.net>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_199100_6518928386"
+X-Attachment-Name: receipt_049.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

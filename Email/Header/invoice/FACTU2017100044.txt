@@ -1,0 +1,12 @@
+From: Seth Clark <seth.clark@anderson.com>
+To: Anya Vohra <anya.vohra@anderson.in>
+Cc: Arya Dubey <arya.dubey@anderson.in>
+Date: Sat, 25 Apr 2026 18:16:02 +0530
+Subject: Invoice FACTU2017100044 for approval
+Message-ID: <6af3392f-912c-480a-9bcd-73540259a557@anderson.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_140542_5378709276"
+X-Attachment-Name: FACTU2017100044.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

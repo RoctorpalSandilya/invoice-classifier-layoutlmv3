@@ -1,0 +1,11 @@
+From: Nilima Golla <nilima.golla@bishop.com>
+To: Aarush Saraf <aarush.saraf@dawson.io>
+Date: Sun, 14 Jun 2026 11:00:12 +0100
+Subject: Your invoice INV-19020059 is attached
+Message-ID: <f0c2ed26-be98-4894-be8b-41fb66201245@bishop.com>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_821479_5368765262"
+X-Attachment-Name: FACTU2019020059.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

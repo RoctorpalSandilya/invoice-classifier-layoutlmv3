@@ -1,0 +1,11 @@
+From: Adrian Ortiz <adrian.ortiz@robinsonsimmons.net>
+To: Michael Smith <michael.smith@soto.in>
+Date: Thu, 09 Jul 2026 01:31:19 -0500
+Subject: OVERDUE: Invoice 15010038
+Message-ID: <9c3ecb54-c5ce-4dd8-8273-85c9421e7a60@robinsonsimmons.net>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_461113_9309559729"
+X-Attachment-Name: FACTU2015010038.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

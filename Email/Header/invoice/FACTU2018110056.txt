@@ -1,0 +1,12 @@
+From: Matthew Ganguly <matthew.ganguly@mandermemon.com>
+To: Darius Price <darius.price@malhotra.co.uk>
+Date: Wed, 06 May 2026 20:51:27 +0530
+Subject: Reminder: outstanding invoice FACTU2018110056
+Message-ID: <3ca1249c-b8ef-4526-aceb-f2a2a75186db@mandermemon.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_508806_6147264866"
+X-Attachment-Name: FACTU2018110056.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

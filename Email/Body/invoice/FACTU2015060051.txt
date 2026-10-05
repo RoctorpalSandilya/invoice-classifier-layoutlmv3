@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: INV-15060051
+Account: ACC-128662
+Amount: £15,402.39
+Due date: 25 Mar 2026
+
+The invoice is attached to this email in PDF format. You can also view and pay it online at https://billing.morris.com/invoices/INV-15060051.
+
+This is an automated message; please do not reply to this email.
+
+Balakrishnan and Sons Billing Team

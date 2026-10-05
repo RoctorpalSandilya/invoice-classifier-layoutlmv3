@@ -1,0 +1,11 @@
+From: Heather Graham <heather.graham@molina.in>
+To: Larry Munoz <larry.munoz@campbell.com>
+Date: Wed, 28 Jan 2026 07:41:52 +0100
+Subject: Your invoice INV-15080073 is attached
+Message-ID: <a05fd030-5a24-4973-843b-f18b011cfdf1@molina.in>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_221688_7555031654"
+X-Attachment-Name: FACTU2015080073.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

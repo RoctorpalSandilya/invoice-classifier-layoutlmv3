@@ -1,0 +1,11 @@
+From: Terry Thompson <terry.thompson@lewis.com>
+To: Cynthia Stewart <cynthia.stewart@taksule.com>
+Date: Thu, 07 May 2026 06:53:48 -0500
+Subject: Question about attached invoice INV-20090043
+Message-ID: <5822cbaa-3b07-4739-9570-7b9c0b62885b@lewis.com>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_064663_5619291882"
+X-Attachment-Name: FACTU2020090043.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

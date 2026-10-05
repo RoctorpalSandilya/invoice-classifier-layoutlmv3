@@ -1,0 +1,11 @@
+From: Alexander Elliott <alexander.elliott@chopra.com>
+To: Raagini Bath <raagini.bath@stevenson.io>
+Date: Mon, 17 Aug 2026 14:36:14 +0200
+Subject: Urgent: unpaid invoice INV-22010049
+Message-ID: <24499590-a639-453c-b726-ba061250588d@chopra.com>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_421046_4432831858"
+X-Attachment-Name: FACTU2022010049.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Apte, Sheth and Sant Billing <no-reply@mason.com>
+To: Watika Mukherjee <watika.mukherjee@gala.com>
+Reply-To: billing@mason.com
+Date: Tue, 31 Mar 2026 01:32:08 +0000
+Subject: New invoice 17060049 generated
+Message-ID: <856b8999-ef8d-48c6-b589-98bbfe31de8e@mason.com>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_124767_5593882907"
+X-Attachment-Name: FACTU2017060049.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

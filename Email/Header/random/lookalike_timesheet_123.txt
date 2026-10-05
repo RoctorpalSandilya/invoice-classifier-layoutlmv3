@@ -1,0 +1,11 @@
+From: Matthew Wright <matthew.wright@flores.co.uk>
+To: Jesse Jordan <jesse.jordan@hayre.org>
+Date: Thu, 18 Jun 2026 00:38:12 +0200
+Subject: Timesheet w/e 18 Jun
+Message-ID: <67c93ef1-ab6e-41e0-9991-880f18c2972a@flores.co.uk>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_148389_2860047726"
+X-Attachment-Name: lookalike_timesheet_123.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

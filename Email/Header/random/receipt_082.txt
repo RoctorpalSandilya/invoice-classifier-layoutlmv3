@@ -1,0 +1,11 @@
+From: Hazel Riley-Wright <hazel.riley-wright@mitchell.in>
+To: John Moss <john.moss@james.com>
+Date: Thu, 19 Feb 2026 21:08:17 +0100
+Subject: Taxi receipt for last week's client visit
+Message-ID: <c0531a2d-0506-4014-b0c3-bba3db068780@mitchell.in>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_246658_1322297923"
+X-Attachment-Name: receipt_082.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

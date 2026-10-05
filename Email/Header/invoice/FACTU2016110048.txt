@@ -1,0 +1,11 @@
+From: Mr Duncan Ahmed <mr.ahmed@johnson.in>
+To: Evan Reynolds <evan.reynolds@graham.in>
+Date: Sat, 07 Mar 2026 11:43:37 -0800
+Subject: Invoice 16110048 – Graham Ltd
+Message-ID: <5f973c02-0d0a-4725-9169-aa5716b3a2b2@johnson.in>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_086800_4017977086"
+X-Attachment-Name: FACTU2016110048.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

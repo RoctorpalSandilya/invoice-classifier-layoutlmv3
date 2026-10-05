@@ -1,0 +1,12 @@
+From: Bhavini Ranganathan <bhavini.ranganathan@fisher.net>
+To: Lisa Johnson <lisa.johnson@brown-thompson.com>
+Date: Tue, 16 Jun 2026 23:03:17 +0000
+Subject: Travel expense claim – New Stuart
+Message-ID: <d3ee190d-4010-4e7a-aee9-1a6505bfdde6@fisher.net>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_855548_7201619298"
+X-Attachment-Name: lookalike_expense_report_130.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: David Watts <david.watts@flores.net>
+To: Ashlee Bailey <ashlee.bailey@johnson.com>
+Date: Sun, 19 Jul 2026 09:29:24 -0500
+Subject: Payment made – £908.63
+Message-ID: <c4b07761-9dce-4630-aa7b-1d95c2789274@flores.net>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_367014_4107916420"
+X-Attachment-Name: lookalike_remittance_185.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

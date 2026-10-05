@@ -1,0 +1,12 @@
+From: Marion Clark <marion.clark@balan.com>
+To: Jill Wilson <jill.wilson@cook.in>
+Date: Fri, 05 Jun 2026 06:43:08 +0530
+Subject: Balan Inc: Invoice #19100050 for April services
+Message-ID: <7bf98408-3fe4-499f-a64a-7f986b47164f@balan.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_251292_7706974408"
+X-Attachment-Name: FACTU2019100050.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

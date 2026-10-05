@@ -1,0 +1,12 @@
+From: Darius Davidson <darius.davidson@reed.in>
+To: April Sanchez <april.sanchez@herrera.com>
+Date: Fri, 27 Feb 2026 18:39:29 +0200
+Subject: Tax Invoice #15090054
+Message-ID: <1cbdbcbd-032d-4b9c-99d0-00f5d915feb3@reed.in>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_433201_4686188781"
+X-Attachment-Name: FACTU2015090054.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

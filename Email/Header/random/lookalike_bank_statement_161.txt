@@ -1,0 +1,11 @@
+From: Meridian Bank <statements@lopez-johnson.com>
+To: Leon Jones <leon.jones@sem-saha.net>
+Date: Wed, 11 Feb 2026 22:36:00 -0500
+Subject: e-Statement attached
+Message-ID: <7d5fd568-3fe6-4c22-93f5-3532dd1c8b2f@lopez-johnson.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_055844_0323781072"
+X-Attachment-Name: lookalike_bank_statement_161.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

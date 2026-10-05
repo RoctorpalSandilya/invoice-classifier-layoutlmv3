@@ -1,0 +1,12 @@
+From: Pamela Barnes-Higgins <pamela.barnes-higgins@gokhalehari.io>
+To: Thomas Evans-Palmer <thomas.evans-palmer@hortonknapp.io>
+Date: Sun, 20 Sep 2026 21:48:35 +0530
+Subject: OVERDUE: Invoice INV-20030049
+Message-ID: <8fe44394-ea2b-4f89-9b82-0473fa43ece9@gokhalehari.io>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_235016_7320607453"
+X-Attachment-Name: FACTU2020030049.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

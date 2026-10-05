@@ -1,0 +1,11 @@
+From: Rebecca Sanchez <rebecca.sanchez@gutierrezflores.net>
+To: Andrew Ray <andrew.ray@chowdhury.co.uk>
+Date: Tue, 24 Mar 2026 16:59:06 -0800
+Subject: Second notice – invoice INV-20090060 past due
+Message-ID: <66750276-7f3c-4e56-9976-e33cda917134@gutierrezflores.net>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_692399_3707466757"
+X-Attachment-Name: FACTU2020090060.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

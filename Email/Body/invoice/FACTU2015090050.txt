@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: 15090050
+Account: ACC-757799
+Amount: £6,660.54
+Due date: 14 Feb 2026
+
+The invoice is attached to this email in PDF format. You can also view and pay it online at https://billing.webster.com/invoices/15090050.
+
+This is an automated message; please do not reply to this email.
+
+Beltran LLC Billing Team

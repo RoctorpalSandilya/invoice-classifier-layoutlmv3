@@ -1,0 +1,12 @@
+From: Justin Turner <justin.turner@morgan.co.uk>
+To: Bina Hegde <bina.hegde@davis.net>
+Date: Sun, 23 Aug 2026 14:51:02 -0800
+Subject: Reminder: outstanding invoice INV-16050067
+Message-ID: <4ac9f3d1-42b4-45c0-88ba-0c884fab2794@morgan.co.uk>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_777804_0159682217"
+X-Attachment-Name: FACTU2016050067.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

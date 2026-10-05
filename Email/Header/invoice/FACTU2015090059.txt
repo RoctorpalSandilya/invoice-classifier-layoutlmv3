@@ -1,0 +1,12 @@
+From: Shari Crawford <shari.crawford@bates.net>
+To: Oviya Sachar <oviya.sachar@bradshaw.co.uk>
+Date: Wed, 15 Jul 2026 23:42:50 -0800
+Subject: Invoice INV-15090059 – 21 days overdue
+Message-ID: <90cd7091-7431-4e07-87ca-41a625c78022@bates.net>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_082666_1309018329"
+X-Attachment-Name: FACTU2015090059.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

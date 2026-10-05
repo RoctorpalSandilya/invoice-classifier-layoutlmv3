@@ -1,0 +1,11 @@
+From: Rudra Bose <rudra.bose@patel.net>
+To: Dakshesh Barad <dakshesh.barad@jenkins.net>
+Date: Wed, 15 Jul 2026 14:45:36 +0100
+Subject: Invoice #15120052 | Due 29 Jul 2026
+Message-ID: <d849f68b-a43c-4f24-aca4-0923bf1a6eb9@patel.net>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_980495_2685124003"
+X-Attachment-Name: FACTU2015120052.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Nakul Gupta <nakul.gupta@bennetttaylor.co.uk>
+To: Wendy Butler <wendy.butler@liu.com>
+Date: Thu, 23 Apr 2026 13:42:21 +0200
+Subject: OVERDUE: Invoice FACTU2021040037
+Message-ID: <eb25059c-c440-41be-b62b-78f5f8405d6a@bennetttaylor.co.uk>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_527185_1213753029"
+X-Attachment-Name: FACTU2021040037.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

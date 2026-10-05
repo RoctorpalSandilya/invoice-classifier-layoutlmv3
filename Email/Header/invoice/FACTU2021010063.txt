@@ -1,0 +1,11 @@
+From: Shirley Curtis-Bradley <shirley.curtis-bradley@mckenzieroberts.co.uk>
+To: Katherine Lewis <katherine.lewis@grayholt.co.uk>
+Date: Tue, 03 Feb 2026 16:11:15 +0530
+Subject: Tax Invoice INV-21010063
+Message-ID: <d01f74dd-32fc-4605-a323-cccbef9f0af9@mckenzieroberts.co.uk>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_787104_6092554219"
+X-Attachment-Name: FACTU2021010063.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

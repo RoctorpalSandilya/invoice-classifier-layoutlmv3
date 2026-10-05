@@ -1,0 +1,12 @@
+From: Carolyn Adams <carolyn.adams@lewisellis.com>
+To: Ms Beverley Clarke <ms.clarke@fletcher.in>
+Date: Wed, 20 May 2026 16:07:02 +0000
+Subject: Friendly reminder – invoice 15110058 due 19 Jun 2026
+Message-ID: <f838a153-7c84-4f3d-bd9f-5c7a400eae46@lewisellis.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_065320_1630764651"
+X-Attachment-Name: FACTU2015110058.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: James Jackson <james.jackson@lucero.com>
+To: Harrison Joshi <harrison.joshi@goda.org>
+Date: Mon, 20 Jul 2026 22:48:15 +0530
+Subject: Receipt for team dinner
+Message-ID: <b5f3b619-137a-42e1-9035-235158861417@lucero.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_175613_3789694436"
+X-Attachment-Name: receipt_120.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

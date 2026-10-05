@@ -1,0 +1,13 @@
+From: Magar-Chandran Billing <no-reply@sundaram-dugar.biz>
+To: Elliott Byrne <elliott.byrne@smith.net>
+Reply-To: billing@sundaram-dugar.biz
+Date: Thu, 04 Jun 2026 00:53:01 +0200
+Subject: New invoice 17110061 generated
+Message-ID: <1823234b-f80d-4431-bb34-62ab319dcaab@sundaram-dugar.biz>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_857488_5811940258"
+X-Attachment-Name: FACTU2017110061.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Diamond Torres <diamond.torres@borra.in>
+To: John King <john.king@murray.com>
+Date: Tue, 03 Mar 2026 09:36:37 -0800
+Subject: Invoice 16120045 – Murray and Sons
+Message-ID: <7fe3d48e-ea0f-4462-98fc-abbc74e25cf4@borra.in>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_800706_7951691546"
+X-Attachment-Name: FACTU2016120045.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

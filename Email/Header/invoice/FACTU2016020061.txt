@@ -1,0 +1,12 @@
+From: Amrita Chaudry <amrita.chaudry@reidrichardson.io>
+To: Maria Wise <maria.wise@cooper.in>
+Date: Sat, 15 Aug 2026 03:01:54 -0500
+Subject: Your invoice 16020061 is attached
+Message-ID: <42769220-7547-425c-94d8-288b2c49f1b6@reidrichardson.io>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_929664_2843291592"
+X-Attachment-Name: FACTU2016020061.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

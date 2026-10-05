@@ -1,0 +1,11 @@
+From: Dr Julia Watson <dr.watson@lowe.com>
+To: Martyn Miller <martyn.miller@reddy.in>
+Date: Tue, 10 Mar 2026 23:18:56 +0100
+Subject: Lowe Inc: Invoice FACTU2019060060 for August services
+Message-ID: <b10464b1-23c7-48db-9f8b-adef21ddf345@lowe.com>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_883598_8805046002"
+X-Attachment-Name: FACTU2019060060.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

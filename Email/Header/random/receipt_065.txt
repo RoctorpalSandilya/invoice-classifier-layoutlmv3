@@ -1,0 +1,12 @@
+From: Phillip Hunter <phillip.hunter@mclean.co.uk>
+To: Tyler Weeks <tyler.weeks@holland.net>
+Date: Sun, 02 Aug 2026 00:34:04 +0000
+Subject: Lunch receipt
+Message-ID: <4fefed53-4439-49e1-8fd6-4aadec172f6c@mclean.co.uk>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_269425_5524337939"
+X-Attachment-Name: receipt_065.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

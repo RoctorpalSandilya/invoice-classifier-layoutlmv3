@@ -1,0 +1,12 @@
+From: Craig Adams <craig.adams@martin.io>
+To: Brian Alvarez <brian.alvarez@reid.com>
+Date: Thu, 26 Mar 2026 19:03:27 +0000
+Subject: Your invoice FACTU2018100062 is attached
+Message-ID: <e00dfb3f-a9d1-4d9e-9669-2f28dd39d594@martin.io>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_853732_8932791585"
+X-Attachment-Name: FACTU2018100062.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

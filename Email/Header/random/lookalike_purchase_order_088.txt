@@ -1,0 +1,12 @@
+From: Mr Duncan Thompson <mr.thompson@cooke.co.uk>
+To: Alejandra Miller <alejandra.miller@collins-copeland.com>
+Date: Tue, 05 May 2026 04:08:59 +0530
+Subject: Purchase Order PO-67212
+Message-ID: <34cc1fb2-e03a-40b1-bedf-3e4145baffaa@cooke.co.uk>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_529609_5465353178"
+X-Attachment-Name: lookalike_purchase_order_088.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

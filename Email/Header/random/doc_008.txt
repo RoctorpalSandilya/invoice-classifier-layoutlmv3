@@ -1,0 +1,11 @@
+From: Ekavir Savant <ekavir.savant@sharpwilliamson.co.uk>
+To: Katrina Fernandez <katrina.fernandez@kant.net>
+Date: Mon, 03 Aug 2026 16:27:18 +0000
+Subject: Document for review
+Message-ID: <ef615111-3ccc-46a9-99a1-58b7a040d56a@sharpwilliamson.co.uk>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_143908_6541927039"
+X-Attachment-Name: doc_008.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Gregory Olson <gregory.olson@sekhon.com>
+To: Timothy Sinha <timothy.sinha@kelly.io>
+Date: Fri, 14 Aug 2026 20:29:08 +0100
+Subject: Urgent: unpaid invoice INV-15090047
+Message-ID: <3cf9f78f-37d3-4229-8a5c-1af0621798ff@sekhon.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_220203_0598621000"
+X-Attachment-Name: FACTU2015090047.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

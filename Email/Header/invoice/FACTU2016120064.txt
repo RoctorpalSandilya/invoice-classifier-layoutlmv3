@@ -1,0 +1,11 @@
+From: Joe Barlow <joe.barlow@behl.net>
+To: Taylor Gomez <taylor.gomez@butler.net>
+Date: Sun, 05 Jul 2026 23:12:02 +0000
+Subject: Invoice INV-16120064 | Due 19 Aug 2026
+Message-ID: <892612a7-a51b-454d-9e1f-e0c65d53134b@behl.net>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_660156_5085629184"
+X-Attachment-Name: FACTU2016120064.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

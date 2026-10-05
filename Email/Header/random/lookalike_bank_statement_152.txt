@@ -1,0 +1,12 @@
+From: Union Trust Bank <statements@buckley.com>
+To: Vamakshi Karpe <vamakshi.karpe@bates.biz>
+Date: Sun, 10 May 2026 04:19:25 +0000
+Subject: e-Statement attached
+Message-ID: <63cc7777-8bda-495a-9e7b-a1ea6d5ac9bc@buckley.com>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_557322_9882081788"
+X-Attachment-Name: lookalike_bank_statement_152.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

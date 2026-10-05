@@ -1,0 +1,12 @@
+From: First National Bank <statements@lewis-hyde.com>
+To: Darren Morley-Brady <darren.morley-brady@vora.info>
+Date: Fri, 03 Jul 2026 00:10:59 +0200
+Subject: Your monthly statement is ready
+Message-ID: <976e828c-3dc8-46fa-8b74-4ea5dd1b740d@lewis-hyde.com>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_269484_6820043117"
+X-Attachment-Name: lookalike_bank_statement_071.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

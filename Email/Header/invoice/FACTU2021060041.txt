@@ -1,0 +1,11 @@
+From: Miranda Duffy <miranda.duffy@sharp.com>
+To: Grace Todd-Barnes <grace.todd-barnes@daniel.co.uk>
+Date: Wed, 27 May 2026 13:09:20 -0800
+Subject: Copy of invoice INV-21060041 as requested
+Message-ID: <d8ae406c-7e08-4a3b-8e00-e050e02cd8dc@sharp.com>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_345067_2061636367"
+X-Attachment-Name: FACTU2021060041.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

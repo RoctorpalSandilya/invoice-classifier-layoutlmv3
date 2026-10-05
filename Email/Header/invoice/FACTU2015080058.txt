@@ -1,0 +1,11 @@
+From: Edhitha Biswas <edhitha.biswas@hughes.net>
+To: Mahika Kanda <mahika.kanda@gibbons.in>
+Date: Sat, 03 Jan 2026 14:24:45 +0100
+Subject: Invoice 15080058 – 56 days overdue
+Message-ID: <85302bc2-6cd7-46a7-8a95-64ffaf0e1785@hughes.net>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_817794_4697152916"
+X-Attachment-Name: FACTU2015080058.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

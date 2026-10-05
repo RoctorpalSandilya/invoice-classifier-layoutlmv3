@@ -1,0 +1,11 @@
+From: Dr Mathew John <dr.john@powell.io>
+To: Kevin Spencer <kevin.spencer@simmons.in>
+Date: Tue, 20 Jan 2026 08:26:10 +0200
+Subject: Invoice #20060046 from Powell, Clark and Ibarra
+Message-ID: <74a5abb0-f732-44b5-bff4-0a40bd41b9e3@powell.io>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_105139_1950080574"
+X-Attachment-Name: FACTU2020060046.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

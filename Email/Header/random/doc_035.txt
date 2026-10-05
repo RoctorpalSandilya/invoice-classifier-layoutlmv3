@@ -1,0 +1,12 @@
+From: Ms Marion Hall <ms.hall@giles.co.uk>
+To: Ms Jane Welch <ms.welch@dar.biz>
+Date: Thu, 12 Mar 2026 02:47:42 +0200
+Subject: FYI – attached file
+Message-ID: <53fa6127-e1a7-4c8b-8e68-483d37d49a72@giles.co.uk>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_319810_9852125551"
+X-Attachment-Name: doc_035.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

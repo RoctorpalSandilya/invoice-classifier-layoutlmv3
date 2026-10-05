@@ -1,0 +1,12 @@
+From: Maya Bhalla <maya.bhalla@leerobinson.io>
+To: Sathvik Brahmbhatt <sathvik.brahmbhatt@ramanathan.com>
+Date: Wed, 21 Jan 2026 03:54:09 +0200
+Subject: Timesheet w/e 21 Jan
+Message-ID: <5fdbd12f-eef2-4d91-abdc-7c84ab525025@leerobinson.io>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_154101_0585292043"
+X-Attachment-Name: lookalike_timesheet_101.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

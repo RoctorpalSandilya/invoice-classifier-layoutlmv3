@@ -1,0 +1,11 @@
+From: Vedika Chhabra <vedika.chhabra@smith.com>
+To: Dawn Poole <dawn.poole@blakethomas.co.uk>
+Date: Sun, 05 Apr 2026 20:50:05 +0100
+Subject: Tax Invoice FACTU2020090045
+Message-ID: <296e9c96-c7cc-404b-860f-0f33194ed296@smith.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_981587_1180843671"
+X-Attachment-Name: FACTU2020090045.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

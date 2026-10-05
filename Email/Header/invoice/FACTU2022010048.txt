@@ -1,0 +1,12 @@
+From: Gail Bryan <gail.bryan@harvey.io>
+To: Jyoti Nazareth <jyoti.nazareth@dewan.co.uk>
+Date: Mon, 12 Jan 2026 13:51:14 +0530
+Subject: Query on invoice INV-22010048
+Message-ID: <27d19435-6736-48af-8648-ee21aaaeac8e@harvey.io>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_517750_0997296459"
+X-Attachment-Name: FACTU2022010048.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

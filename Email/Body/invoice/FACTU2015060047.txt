@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: FACTU2015060047
+Account: ACC-460097
+Amount: ₹21,346.48
+Due date: 21 Aug 2026
+
+The invoice is attached to this email in PDF format. You can also view and pay it online at https://billing.bates.co.uk/invoices/FACTU2015060047.
+
+This is an automated message; please do not reply to this email.
+
+Harrison PLC Billing Team

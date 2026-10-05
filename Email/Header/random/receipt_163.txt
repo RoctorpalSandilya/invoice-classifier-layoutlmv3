@@ -1,0 +1,11 @@
+From: Wriddhish Taneja <wriddhish.taneja@shepard.io>
+To: Ekavir Choudhury <ekavir.choudhury@bond.com>
+Date: Sun, 06 Sep 2026 12:35:11 +0530
+Subject: Receipt for team dinner
+Message-ID: <3d6bfac7-7510-4860-b0f6-7e1ff71556ff@shepard.io>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_873163_8293379656"
+X-Attachment-Name: receipt_163.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

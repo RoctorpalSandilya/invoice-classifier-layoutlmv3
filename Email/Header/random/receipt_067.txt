@@ -1,0 +1,11 @@
+From: Marian Farrell <marian.farrell@barber.co.uk>
+To: Anna Johnston <anna.johnston@kim.com>
+Date: Sat, 07 Feb 2026 11:34:29 -0500
+Subject: Lunch receipt
+Message-ID: <d660a731-2570-4b2c-bdc9-5d8a7f61effc@barber.co.uk>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_989895_2372951037"
+X-Attachment-Name: receipt_067.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

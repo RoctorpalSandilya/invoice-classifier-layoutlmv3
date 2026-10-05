@@ -1,0 +1,11 @@
+From: Vanessa Chung <vanessa.chung@venkataramankhurana.co.uk>
+To: Ojas Bail <ojas.bail@kennedy.info>
+Date: Sat, 04 Apr 2026 04:58:38 +0200
+Subject: Purchase order for your review
+Message-ID: <9a7d4e0c-6273-4d70-b07e-40047548eaf0@venkataramankhurana.co.uk>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_766251_0431942603"
+X-Attachment-Name: lookalike_purchase_order_026.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

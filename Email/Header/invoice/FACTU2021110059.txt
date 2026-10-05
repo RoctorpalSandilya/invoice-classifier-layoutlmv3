@@ -1,0 +1,13 @@
+From: Jamie Washington <jamie.washington@coleman.io>
+To: Taylor Thomas <taylor.thomas@coleman.com>
+Cc: Avi Viswanathan <avi.viswanathan@coleman.com>
+Date: Sat, 22 Aug 2026 00:57:09 +0530
+Subject: Invoice #21110059 for approval
+Message-ID: <3a115559-f517-4a6c-b2c4-783ae6a731f3@coleman.io>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_017909_0588462312"
+X-Attachment-Name: FACTU2021110059.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

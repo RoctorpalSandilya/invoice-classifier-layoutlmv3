@@ -1,0 +1,12 @@
+From: Christopher Mand <christopher.mand@nadkarni.io>
+To: Christina Mullins <christina.mullins@nadkarni.com>
+Cc: Lisa Johnson <lisa.johnson@nadkarni.com>
+Date: Thu, 24 Sep 2026 15:37:49 -0800
+Subject: [Action required] Invoice 15120063 – Walia, Master and Magar
+Message-ID: <90e27276-9166-450f-83ce-fe052fc918a1@nadkarni.io>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_039771_0929403160"
+X-Attachment-Name: FACTU2015120063.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

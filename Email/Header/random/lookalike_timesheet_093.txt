@@ -1,0 +1,12 @@
+From: Eric Hanna <eric.hanna@doctorsami.com>
+To: Anthony Ferguson <anthony.ferguson@rose.com>
+Date: Wed, 18 Mar 2026 20:21:41 -0500
+Subject: Weekly timesheet for approval
+Message-ID: <88203a37-9b81-47c7-b720-e367c430d1e7@doctorsami.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_049817_7408495269"
+X-Attachment-Name: lookalike_timesheet_093.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

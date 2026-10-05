@@ -1,0 +1,11 @@
+From: Raghav Narula <raghav.narula@rajagopalan.com>
+To: Lindsey Glenn <lindsey.glenn@rattidave.com>
+Date: Thu, 07 May 2026 08:56:04 +0530
+Subject: Re-sending invoice FACTU2019080050
+Message-ID: <288e26b5-29cf-4057-a373-c4c7796296fa@rajagopalan.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_322761_7421497666"
+X-Attachment-Name: FACTU2019080050.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

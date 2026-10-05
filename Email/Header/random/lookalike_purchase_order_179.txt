@@ -1,0 +1,12 @@
+From: Logan Wadhwa <logan.wadhwa@bhatti.co.uk>
+To: Qasim Kohli <qasim.kohli@cruz.info>
+Date: Fri, 16 Jan 2026 06:31:05 -0800
+Subject: Purchase Order PO-76652
+Message-ID: <f6bb2658-1bfe-4d93-bf08-7e9b3e15a1ee@bhatti.co.uk>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_469020_9855452557"
+X-Attachment-Name: lookalike_purchase_order_179.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

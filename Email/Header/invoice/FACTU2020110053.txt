@@ -1,0 +1,11 @@
+From: Jay Williams <jay.williams@garajhaveri.co.uk>
+To: Vaishnavi Ram <vaishnavi.ram@pricewilson.com>
+Date: Mon, 03 Aug 2026 14:29:58 -0500
+Subject: Invoice 20110053 – 56 days overdue
+Message-ID: <e90b4dd5-91d8-4704-93c3-838419036b27@garajhaveri.co.uk>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_984428_8095958368"
+X-Attachment-Name: FACTU2020110053.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

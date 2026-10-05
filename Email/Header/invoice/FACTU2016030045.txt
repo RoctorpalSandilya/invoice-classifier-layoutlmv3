@@ -1,0 +1,11 @@
+From: Mr Callum Jackson <mr.jackson@taylordavies.in>
+To: Aarini Shroff <aarini.shroff@balay.com>
+Date: Wed, 28 Jan 2026 01:03:48 +0100
+Subject: Invoice 16030045 – Balay LLC
+Message-ID: <9e2f371a-3213-4c31-967c-b265ed26c534@taylordavies.in>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_979436_5909207353"
+X-Attachment-Name: FACTU2016030045.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

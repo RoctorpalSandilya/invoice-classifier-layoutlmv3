@@ -1,0 +1,12 @@
+From: Tracey O'Connor <tracey.o'connor@dhingra.io>
+To: Hardik Swaminathan <hardik.swaminathan@pai.net>
+Date: Thu, 09 Jul 2026 11:00:31 -0800
+Subject: Invoice INV-20120052 | Due 08 Aug 2026
+Message-ID: <f2af9c44-6227-4ef6-8691-9ca51ab08f3b@dhingra.io>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_188945_0519187225"
+X-Attachment-Name: FACTU2020120052.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Ryan Simon <ryan.simon@hernandez.net>
+To: Francesca Roberts <francesca.roberts@dugal-uppal.com>
+Date: Sat, 22 Aug 2026 03:02:33 -0500
+Subject: Delivery note – shipment DN-835414
+Message-ID: <08e89568-b081-4f7b-80cf-b1db9460629c@hernandez.net>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_171876_1470343742"
+X-Attachment-Name: lookalike_delivery_note_015.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

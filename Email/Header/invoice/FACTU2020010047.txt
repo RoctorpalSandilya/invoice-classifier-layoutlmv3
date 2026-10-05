@@ -1,0 +1,11 @@
+From: Tanvi Merchant <tanvi.merchant@owen.net>
+To: Elliott Howard-Mitchell <elliott.howard-mitchell@braun.io>
+Date: Thu, 20 Aug 2026 07:11:03 +0530
+Subject: Copy of invoice #20010047 as requested
+Message-ID: <98c4f059-b3eb-4592-b2c6-9bb6dae050ca@owen.net>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_809855_8930643268"
+X-Attachment-Name: FACTU2020010047.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

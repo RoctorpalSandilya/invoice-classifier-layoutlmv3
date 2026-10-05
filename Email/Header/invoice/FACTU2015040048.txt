@@ -1,0 +1,11 @@
+From: Nicole Webb <nicole.webb@karachauhan.com>
+To: Vanessa Evans <vanessa.evans@wardstevens.io>
+Date: Mon, 26 Jan 2026 23:36:42 -0800
+Subject: Tax Invoice FACTU2015040048
+Message-ID: <3d6418ca-b659-4d8f-aa4a-d76d59c8ae31@karachauhan.com>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_156279_4840615164"
+X-Attachment-Name: FACTU2015040048.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

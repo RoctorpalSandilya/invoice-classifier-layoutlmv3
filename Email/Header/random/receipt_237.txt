@@ -1,0 +1,11 @@
+From: Rachit Karan <rachit.karan@roberts.io>
+To: Kim Gray <kim.gray@tara.com>
+Date: Fri, 06 Feb 2026 19:53:02 -0800
+Subject: Receipt for expense claim
+Message-ID: <72056d99-5f86-4252-9dfa-07745bb79edb@roberts.io>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_854244_3124074676"
+X-Attachment-Name: receipt_237.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Marie Jones <marie.jones@watsonmcdonald.co.uk>
+To: Ayushman Suri <ayushman.suri@morahenry.io>
+Date: Sat, 06 Jun 2026 06:12:52 -0500
+Subject: Tax Invoice INV-19090059
+Message-ID: <862231c7-d16d-4686-8e62-223cfb65f33f@watsonmcdonald.co.uk>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_565564_8508746528"
+X-Attachment-Name: FACTU2019090059.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

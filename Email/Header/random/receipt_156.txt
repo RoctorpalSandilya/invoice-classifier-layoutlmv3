@@ -1,0 +1,11 @@
+From: Teresa Chamberlain <teresa.chamberlain@menon.com>
+To: Jordan Henderson <jordan.henderson@zacharia.com>
+Date: Tue, 04 Aug 2026 06:32:42 +0000
+Subject: Expenses – January
+Message-ID: <e6916dc5-dea1-4038-a8da-1a8981b883e0@menon.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_792872_7043380135"
+X-Attachment-Name: receipt_156.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

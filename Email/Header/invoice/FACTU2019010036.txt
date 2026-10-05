@@ -1,0 +1,11 @@
+From: Elijah Datta <elijah.datta@naik.co.uk>
+To: Ronith Sen <ronith.sen@hobbshussain.com>
+Date: Sun, 12 Jul 2026 05:14:43 +0530
+Subject: Your invoice FACTU2019010036 is attached
+Message-ID: <8189fe2a-1a25-43c1-9bf7-e22d01de5117@naik.co.uk>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_290795_2420221985"
+X-Attachment-Name: FACTU2019010036.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

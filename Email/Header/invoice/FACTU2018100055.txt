@@ -1,0 +1,11 @@
+From: Max Basak <max.basak@robinson.net>
+To: Alexis Daugherty <alexis.daugherty@rush.net>
+Date: Sat, 31 Jan 2026 05:47:25 +0200
+Subject: FW: Invoice INV-18100055
+Message-ID: <ecc4a93e-76a4-4486-895f-aef21f2ddf9c@robinson.net>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_736462_1147609946"
+X-Attachment-Name: FACTU2018100055.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

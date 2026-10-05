@@ -1,0 +1,12 @@
+From: Neha Mishra <neha.mishra@riddle.io>
+To: Jordan Jimenez <jordan.jimenez@moore.info>
+Date: Sat, 11 Apr 2026 22:11:25 +0530
+Subject: Your order has shipped
+Message-ID: <5a415477-d56e-4ee5-8e16-802c66a406f4@riddle.io>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_703590_1064330492"
+X-Attachment-Name: lookalike_delivery_note_188.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

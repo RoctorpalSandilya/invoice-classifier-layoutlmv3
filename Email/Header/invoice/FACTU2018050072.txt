@@ -1,0 +1,11 @@
+From: Urishilla Muni <urishilla.muni@edwards.io>
+To: Rebecca Haynes <rebecca.haynes@frost.com>
+Date: Sun, 15 Feb 2026 12:07:55 -0500
+Subject: Invoice 18050072 – Frost Inc
+Message-ID: <1f7a85e5-7c02-4857-adab-9b060b7b3ca7@edwards.io>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_747349_1070649025"
+X-Attachment-Name: FACTU2018050072.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

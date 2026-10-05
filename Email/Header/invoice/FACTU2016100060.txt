@@ -1,0 +1,11 @@
+From: Michelle Bevan <michelle.bevan@guzmanlewis.in>
+To: Hamsini Chanda <hamsini.chanda@rout.com>
+Date: Fri, 03 Jul 2026 00:40:57 -0500
+Subject: Reminder: outstanding invoice INV-16100060
+Message-ID: <289c44d5-3298-46e7-aaa8-69eb40029b7b@guzmanlewis.in>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_247509_6317558752"
+X-Attachment-Name: FACTU2016100060.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

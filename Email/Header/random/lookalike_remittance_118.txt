@@ -1,0 +1,11 @@
+From: Robin Arellano <robin.arellano@balakrishnan.co.uk>
+To: Diana Young <diana.young@eaton-scott.com>
+Date: Sat, 26 Sep 2026 11:24:41 +0100
+Subject: Payment advice
+Message-ID: <b7962632-434e-499a-b687-7abf2cdd19d7@balakrishnan.co.uk>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_467569_7447569712"
+X-Attachment-Name: lookalike_remittance_118.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

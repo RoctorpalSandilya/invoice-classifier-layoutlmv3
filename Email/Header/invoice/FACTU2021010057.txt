@@ -1,0 +1,11 @@
+From: Riya Patla <riya.patla@smith.in>
+To: Laura Williams <laura.williams@nagarajansaran.co.uk>
+Date: Mon, 29 Jun 2026 20:21:18 +0200
+Subject: Tax Invoice FACTU2021010057
+Message-ID: <bf1df7ae-ba19-4eb0-9e96-de801f259f89@smith.in>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_422859_9718579796"
+X-Attachment-Name: FACTU2021010057.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

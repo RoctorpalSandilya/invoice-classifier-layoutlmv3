@@ -1,0 +1,12 @@
+From: Jesse Bonilla <jesse.bonilla@richards.co.uk>
+To: Shaun Ramirez <shaun.ramirez@davis.com>
+Date: Tue, 06 Jan 2026 18:39:33 +0530
+Subject: Expense report EXP-4858 for approval
+Message-ID: <01c80993-2983-498a-af4c-bdd944edd29b@richards.co.uk>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_114971_9094108907"
+X-Attachment-Name: lookalike_expense_report_005.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

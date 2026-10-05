@@ -1,0 +1,11 @@
+From: Pam Mullen <pam.mullen@burns.com>
+To: Girik Murty <girik.murty@clarkelees.net>
+Date: Fri, 29 May 2026 09:57:51 +0530
+Subject: Invoice INV-17020058 | Due 28 Jun 2026
+Message-ID: <0cfb0afd-e15d-41ab-bf50-99737f3fc33d@burns.com>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_990306_3722063894"
+X-Attachment-Name: FACTU2017020058.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

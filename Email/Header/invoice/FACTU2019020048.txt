@@ -1,0 +1,13 @@
+From: Bryant, Foster and Shelton Billing <no-reply@walker.biz>
+To: Johnny Johnson <johnny.johnson@nguyen.com>
+Reply-To: billing@walker.biz
+Date: Thu, 21 May 2026 07:33:18 -0500
+Subject: Your Bryant, Foster and Shelton invoice INV-19020048
+Message-ID: <a8bcc0bd-b71a-4297-b9af-18c4ddbbc539@walker.biz>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_503213_3877979827"
+X-Attachment-Name: FACTU2019020048.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

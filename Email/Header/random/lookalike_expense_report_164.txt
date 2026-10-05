@@ -1,0 +1,11 @@
+From: Dakshesh Dhar <dakshesh.dhar@darseshadri.co.uk>
+To: Darpan Gill <darpan.gill@narang.biz>
+Date: Fri, 06 Feb 2026 13:13:19 +0200
+Subject: Expense claim submitted
+Message-ID: <01d78410-f052-4a06-b6dc-e7241f0aef78@darseshadri.co.uk>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_698499_0812275854"
+X-Attachment-Name: lookalike_expense_report_164.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

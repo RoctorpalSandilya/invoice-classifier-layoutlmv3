@@ -1,0 +1,12 @@
+From: Samantha Peacock <samantha.peacock@giles.io>
+To: Jeffrey Ball <jeffrey.ball@allen.com>
+Date: Wed, 12 Aug 2026 17:37:35 +0200
+Subject: Invoice #16100069 – Allen, Barron and Sutton
+Message-ID: <9e1248ae-3ade-44f6-8f06-6498d543f3e2@giles.io>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_209665_1052012008"
+X-Attachment-Name: FACTU2016100069.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

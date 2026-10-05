@@ -1,0 +1,12 @@
+From: Charita Kumer <charita.kumer@duffy.co.uk>
+To: Jeevika Parmar <jeevika.parmar@duffy.io>
+Cc: Aishani Patel <aishani.patel@duffy.io>
+Date: Wed, 13 May 2026 10:07:16 -0500
+Subject: AP: new vendor invoice INV-19040058
+Message-ID: <b08b8cfc-4fb7-49b3-9cce-d929cec03252@duffy.co.uk>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_948026_8741513901"
+X-Attachment-Name: FACTU2019040058.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

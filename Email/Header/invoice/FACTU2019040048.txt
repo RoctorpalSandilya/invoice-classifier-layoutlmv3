@@ -1,0 +1,13 @@
+From: Behl-Tripathi Billing <no-reply@romero.biz>
+To: Jessica Hanson <jessica.hanson@white.io>
+Reply-To: billing@romero.biz
+Date: Sun, 01 Mar 2026 00:42:52 +0530
+Subject: New invoice FACTU2019040048 generated
+Message-ID: <62b02fa8-6977-430c-b077-d7bd3adb4031@romero.biz>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_232091_9363935180"
+X-Attachment-Name: FACTU2019040048.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

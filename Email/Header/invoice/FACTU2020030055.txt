@@ -1,0 +1,12 @@
+From: Chloe King <chloe.king@marshall.net>
+To: Kavya Nath <kavya.nath@knightwood.com>
+Date: Sat, 04 Apr 2026 14:04:10 +0000
+Subject: Friendly reminder – invoice INV-20030055 due 04 May 2026
+Message-ID: <4cec9894-0bf2-48f7-ab26-2dbb9a4f06dd@marshall.net>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_438019_6940423247"
+X-Attachment-Name: FACTU2020030055.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

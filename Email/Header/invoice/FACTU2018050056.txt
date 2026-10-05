@@ -1,0 +1,11 @@
+From: Jonathan Harris <jonathan.harris@griffinanderson.in>
+To: Katie Hancock <katie.hancock@white.com>
+Date: Fri, 02 Oct 2026 08:31:10 +0000
+Subject: Invoice FACTU2018050056 – corrected copy
+Message-ID: <92325610-3e56-415d-a4e7-c9fe4c885e34@griffinanderson.in>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_309003_8987581821"
+X-Attachment-Name: FACTU2018050056.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

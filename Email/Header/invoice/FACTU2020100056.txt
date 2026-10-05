@@ -1,0 +1,13 @@
+From: Hunt, Hart and Warner Billing <no-reply@waters-green.com>
+To: Eta Bhat <eta.bhat@sekhonamble.co.uk>
+Reply-To: billing@waters-green.com
+Date: Wed, 05 Aug 2026 10:22:19 +0530
+Subject: [Automated] Invoice #20100056 is now available
+Message-ID: <74083ff9-df2b-4186-873e-2e8d55d552c8@waters-green.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_652884_7890481016"
+X-Attachment-Name: FACTU2020100056.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Darius Ellis <darius.ellis@aurora.net>
+To: Jason Pierce <jason.pierce@radhakrishnan.com>
+Date: Wed, 25 Feb 2026 03:04:21 +0530
+Subject: Your invoice FACTU2018070054 is attached
+Message-ID: <e83cd7f2-7020-4c73-b167-71eb9d6ae3e4@aurora.net>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_394167_1246412015"
+X-Attachment-Name: FACTU2018070054.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

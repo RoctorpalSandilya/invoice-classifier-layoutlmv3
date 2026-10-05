@@ -1,0 +1,11 @@
+From: Suzanne Reeves <suzanne.reeves@pai.com>
+To: Darpan Suresh <darpan.suresh@bumb.com>
+Date: Sat, 07 Feb 2026 09:17:53 +0100
+Subject: Timesheet w/e 07 Feb
+Message-ID: <48c30178-82ee-430f-8362-392189c81ac0@pai.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_540709_3547691156"
+X-Attachment-Name: lookalike_timesheet_049.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

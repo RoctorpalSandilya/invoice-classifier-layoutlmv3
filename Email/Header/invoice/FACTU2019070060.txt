@@ -1,0 +1,12 @@
+From: Bennett-Duncan Billing <no-reply@price.net>
+To: Alyssa Nguyen <alyssa.nguyen@snyderallen.io>
+Reply-To: billing@price.net
+Date: Tue, 09 Jun 2026 11:59:46 -0500
+Subject: Your Bennett-Duncan invoice 19070060
+Message-ID: <73a75519-c925-4c96-9d70-8b40ce8cfcb2@price.net>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_383073_9285267559"
+X-Attachment-Name: FACTU2019070060.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

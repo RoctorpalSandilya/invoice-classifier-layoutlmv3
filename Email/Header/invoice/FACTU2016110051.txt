@@ -1,0 +1,11 @@
+From: Robert Mills <robert.mills@garg.net>
+To: Kristina Harper <kristina.harper@vargas.in>
+Date: Wed, 22 Jul 2026 02:00:49 -0800
+Subject: Query on invoice #16110051
+Message-ID: <7b3448f7-0277-485d-87ef-9694946c7782@garg.net>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_841693_2340463712"
+X-Attachment-Name: FACTU2016110051.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

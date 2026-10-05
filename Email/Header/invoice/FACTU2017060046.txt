@@ -1,0 +1,12 @@
+From: Frederick Shere <frederick.shere@woodward.co.uk>
+To: Samantha Jones <samantha.jones@wallgill.com>
+Date: Tue, 10 Mar 2026 08:54:11 +0200
+Subject: Woodward Ltd: Invoice 17060046 for March services
+Message-ID: <64636e6d-44b8-4128-9b18-b27570301461@woodward.co.uk>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_424460_2929202601"
+X-Attachment-Name: FACTU2017060046.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

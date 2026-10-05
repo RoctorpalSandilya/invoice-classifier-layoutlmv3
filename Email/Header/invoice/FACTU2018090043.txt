@@ -1,0 +1,11 @@
+From: Falguni Loyal <falguni.loyal@date.net>
+To: Erica Hensley <erica.hensley@frost.net>
+Date: Thu, 03 Sep 2026 01:15:18 +0000
+Subject: Reminder: outstanding invoice #18090043
+Message-ID: <3a5ea49b-ff7d-4462-85d6-138d6f36d202@date.net>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_216422_8617539804"
+X-Attachment-Name: FACTU2018090043.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

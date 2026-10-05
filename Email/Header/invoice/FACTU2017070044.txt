@@ -1,0 +1,12 @@
+From: Lakshmi Bala <lakshmi.bala@ahmed.net>
+To: Heather Elliott <heather.elliott@robertson.com>
+Date: Sat, 04 Jul 2026 04:05:23 -0800
+Subject: Your invoice FACTU2017070044 is attached
+Message-ID: <a49ba561-bba1-493f-8b52-022c2055ecdd@ahmed.net>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_342438_3139053820"
+X-Attachment-Name: FACTU2017070044.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

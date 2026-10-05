@@ -1,0 +1,11 @@
+From: Leslie Evans <leslie.evans@moorejones.com>
+To: Emily Fisher <emily.fisher@parikh.com>
+Date: Wed, 29 Apr 2026 20:41:13 +0530
+Subject: Reimbursement – attached receipt
+Message-ID: <9f562925-0116-4d8f-8b81-734db6b08301@moorejones.com>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_744894_0719373097"
+X-Attachment-Name: receipt_162.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

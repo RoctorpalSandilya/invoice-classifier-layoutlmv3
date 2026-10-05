@@ -1,0 +1,12 @@
+From: Holt, Stephens and Allen Billing <no-reply@thompson.com>
+To: Christopher Arnold <christopher.arnold@walton.net>
+Reply-To: billing@thompson.com
+Date: Fri, 30 Jan 2026 00:25:35 +0200
+Subject: New invoice #17100047 generated
+Message-ID: <d6c0e3a6-e73a-49b0-a25c-83f22facf8f3@thompson.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_533453_0387222463"
+X-Attachment-Name: FACTU2017100047.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

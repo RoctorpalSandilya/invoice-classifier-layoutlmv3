@@ -1,0 +1,12 @@
+From: Courtney Johnson <courtney.johnson@hall.co.uk>
+To: Marion Kirk <marion.kirk@mander.io>
+Date: Sat, 25 Apr 2026 15:06:50 +0000
+Subject: Your invoice INV-15070069 is attached
+Message-ID: <475665b6-aeac-4ac8-ba5b-21e8b1a69b66@hall.co.uk>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_031282_9997792487"
+X-Attachment-Name: FACTU2015070069.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

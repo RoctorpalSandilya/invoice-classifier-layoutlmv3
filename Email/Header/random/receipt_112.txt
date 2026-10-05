@@ -1,0 +1,12 @@
+From: Sarah Short-Parker <sarah.short-parker@phillipscarter.io>
+To: Amber Hamilton <amber.hamilton@devan-jayaraman.com>
+Date: Sat, 19 Sep 2026 19:21:47 -0500
+Subject: Receipt for expense claim
+Message-ID: <a3e6f1fd-602c-4a2c-84a9-c8e25d4e72af@phillipscarter.io>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_147125_1433531402"
+X-Attachment-Name: receipt_112.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

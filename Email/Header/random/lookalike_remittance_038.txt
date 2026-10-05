@@ -1,0 +1,11 @@
+From: Jackson Vora <jackson.vora@russell.io>
+To: Mr. Jeffrey Wade <mr..wade@varughese.com>
+Date: Fri, 13 Feb 2026 07:55:08 -0500
+Subject: Remittance advice – payment PAY39780434
+Message-ID: <400f9769-759a-4e22-8891-14239be99753@russell.io>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_740421_3055182725"
+X-Attachment-Name: lookalike_remittance_038.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

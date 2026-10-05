@@ -1,0 +1,12 @@
+From: Payroll <payroll@cheema.com>
+To: Kathleen House <kathleen.house@sangha.com>
+Date: Sun, 08 Feb 2026 00:57:01 -0800
+Subject: Your payslip for June
+Message-ID: <8ebc3dbc-00a5-4a0c-9dea-3f303faa7ced@cheema.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_834881_6122112090"
+X-Attachment-Name: lookalike_payslip_115.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

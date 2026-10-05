@@ -1,0 +1,11 @@
+From: Jagdish Kunda <jagdish.kunda@moore.co.uk>
+To: Eta Dua <eta.dua@choudhurygaba.co.uk>
+Date: Wed, 01 Apr 2026 15:19:11 +0530
+Subject: Payment reminder: Invoice #15110056
+Message-ID: <b435060b-fa44-4a53-a8bd-a5cd7882879c@moore.co.uk>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_459745_6779082640"
+X-Attachment-Name: FACTU2015110056.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

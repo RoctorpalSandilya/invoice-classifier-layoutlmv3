@@ -1,0 +1,11 @@
+From: Alan Martin <alan.martin@brandt.com>
+To: Udarsh Bava <udarsh.bava@king-green.net>
+Date: Wed, 19 Aug 2026 11:37:37 +0000
+Subject: Payment made – €1,783.72
+Message-ID: <6619fb10-bb12-4f67-a602-43fd134b4878@brandt.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_389152_6943159379"
+X-Attachment-Name: lookalike_remittance_016.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

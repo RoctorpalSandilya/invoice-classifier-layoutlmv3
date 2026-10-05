@@ -1,0 +1,13 @@
+From: Mukherjee, Kothari and Wason Billing <no-reply@odom.com>
+To: Daniel Smith <daniel.smith@smith.com>
+Reply-To: billing@odom.com
+Date: Tue, 20 Jan 2026 18:42:45 -0500
+Subject: Billing notification – invoice INV-21020053
+Message-ID: <71e65914-428b-4cb0-b04f-f8c1245fb8c0@odom.com>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_501555_7913942444"
+X-Attachment-Name: FACTU2021020053.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

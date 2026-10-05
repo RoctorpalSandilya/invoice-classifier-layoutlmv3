@@ -1,0 +1,12 @@
+From: Crystal Ball <crystal.ball@pope.co.uk>
+To: Rudra Thaman <rudra.thaman@basak.com>
+Date: Thu, 07 May 2026 12:55:58 -0800
+Subject: Taxi receipt for last week's client visit
+Message-ID: <1c73cea4-ae72-468b-8595-ae4f9e0ecc97@pope.co.uk>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_257979_9638523473"
+X-Attachment-Name: receipt_150.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Tamanna Sharaf <tamanna.sharaf@nadkarni.co.uk>
+To: Aachal Bains <aachal.bains@khare.io>
+Date: Sun, 28 Jun 2026 01:17:14 +0200
+Subject: Invoice FACTU2016030057 | Due 12 Jul 2026
+Message-ID: <13834ae6-9d2a-4f0e-aa20-4c26f50e3f9e@nadkarni.co.uk>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_230954_5767517981"
+X-Attachment-Name: FACTU2016030057.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

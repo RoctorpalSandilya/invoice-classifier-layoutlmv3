@@ -1,0 +1,12 @@
+From: Kate Hudson-Pearson <kate.hudson-pearson@miller.co.uk>
+To: Eesha Srinivasan <eesha.srinivasan@smith.in>
+Date: Mon, 15 Jun 2026 17:36:53 -0800
+Subject: Invoice 21080057 – Smith PLC
+Message-ID: <090b38eb-d066-476a-944f-a05620728901@miller.co.uk>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_299013_6295192473"
+X-Attachment-Name: FACTU2021080057.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

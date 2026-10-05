@@ -1,0 +1,11 @@
+From: Mr Jordan Mason <mr.mason@buckley.in>
+To: Naveen Anne <naveen.anne@gallagher.com>
+Date: Sun, 05 Apr 2026 00:08:57 -0800
+Subject: Lunch receipt
+Message-ID: <ee93dbaa-a7ab-4427-812a-7720f5fd84db@buckley.in>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_262677_9979895216"
+X-Attachment-Name: receipt_231.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

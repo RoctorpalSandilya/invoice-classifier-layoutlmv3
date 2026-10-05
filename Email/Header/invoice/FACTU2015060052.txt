@@ -1,0 +1,12 @@
+From: Maanas Lad <maanas.lad@grewal.in>
+To: Lawrence Green <lawrence.green@grewal.com>
+Cc: Radha Mammen <radha.mammen@grewal.com>
+Date: Tue, 07 Jul 2026 16:41:24 +0530
+Subject: Invoice FACTU2015060052 for approval
+Message-ID: <a092bf03-0080-4a36-b008-216700429c5b@grewal.in>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_478016_3727764586"
+X-Attachment-Name: FACTU2015060052.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

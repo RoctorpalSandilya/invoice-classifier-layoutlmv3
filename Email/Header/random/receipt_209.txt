@@ -1,0 +1,11 @@
+From: Deepa Keer <deepa.keer@wilson.co.uk>
+To: Paula Ashton <paula.ashton@hernandez-larson.info>
+Date: Tue, 28 Apr 2026 06:13:59 +0100
+Subject: Here's that receipt you asked for
+Message-ID: <18a5fa00-2d6e-4db5-9bad-de7a973f70ed@wilson.co.uk>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_193941_9829975932"
+X-Attachment-Name: receipt_209.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

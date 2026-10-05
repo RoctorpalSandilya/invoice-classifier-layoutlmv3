@@ -1,0 +1,12 @@
+From: Tim Crawford <tim.crawford@ewingosborne.net>
+To: Frederick Berry-Steele <frederick.berry-steele@taylor.com>
+Date: Tue, 06 Jan 2026 15:55:02 +0530
+Subject: Receipt for team dinner
+Message-ID: <02d021d2-ba9e-4566-b059-0791e66e0413@ewingosborne.net>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_455962_1703502199"
+X-Attachment-Name: receipt_111.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

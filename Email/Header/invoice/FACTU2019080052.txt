@@ -1,0 +1,11 @@
+From: Kim Lloyd <kim.lloyd@fosterowens.com>
+To: Bakhshi Swaminathan <bakhshi.swaminathan@rose.net>
+Date: Tue, 11 Aug 2026 07:01:11 +0000
+Subject: Your invoice #19080052 is attached
+Message-ID: <4fbe2696-af1b-4e2f-97d1-7146aef89286@fosterowens.com>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_980008_4524144367"
+X-Attachment-Name: FACTU2019080052.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

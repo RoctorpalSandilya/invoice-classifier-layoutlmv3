@@ -1,0 +1,13 @@
+From: Dugar, Khosla and Vala Billing <no-reply@mcpherson.com>
+To: Marcus Bowen <marcus.bowen@anderson.com>
+Reply-To: billing@mcpherson.com
+Date: Mon, 03 Aug 2026 03:24:12 -0800
+Subject: Billing notification – invoice 20090059
+Message-ID: <e58f75ef-b125-4251-8974-5338d6bf2ca2@mcpherson.com>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_271455_4611234136"
+X-Attachment-Name: FACTU2020090059.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Barbara Moore <barbara.moore@watson.net>
+To: Wesley Griffin <wesley.griffin@marsh.co.uk>
+Date: Mon, 20 Apr 2026 14:21:50 +0530
+Subject: Invoice INV-20040053 from Watson and Sons
+Message-ID: <c919eabc-80c8-4416-af4a-192ae440d38d@watson.net>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_652969_7273722464"
+X-Attachment-Name: FACTU2020040053.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

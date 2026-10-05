@@ -1,0 +1,12 @@
+From: Northgate Bank <statements@jenkins-burton.com>
+To: Molly Baker-Thomas <molly.baker-thomas@hussain.net>
+Date: Sun, 31 May 2026 21:10:31 -0800
+Subject: Statement of account
+Message-ID: <9c219325-e48f-4fce-a451-6ad81d4e52c6@jenkins-burton.com>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_960249_2743455841"
+X-Attachment-Name: lookalike_bank_statement_138.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Rebecca Walker <rebecca.walker@williams.com>
+To: Angela Clark <angela.clark@bevan.io>
+Date: Wed, 04 Feb 2026 00:16:58 +0100
+Subject: Invoice 20040052 – Bevan Ltd
+Message-ID: <1a607115-ad37-44b9-aa9c-e01971c9cf0c@williams.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_020800_6714841432"
+X-Attachment-Name: FACTU2020040052.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

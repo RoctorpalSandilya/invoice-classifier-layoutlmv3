@@ -1,0 +1,12 @@
+From: Harini Date <harini.date@james.io>
+To: Jason Oza <jason.oza@armstrong-owens.com>
+Date: Tue, 13 Jan 2026 11:09:32 +0100
+Subject: Purchase order for your review
+Message-ID: <33113eb6-87c0-47ce-89b1-7c1397856e53@james.io>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_590710_1399315239"
+X-Attachment-Name: lookalike_purchase_order_028.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

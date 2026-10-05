@@ -1,0 +1,11 @@
+From: Vedhika Brahmbhatt <vedhika.brahmbhatt@reynolds.net>
+To: Kalpit Kala <kalpit.kala@bhaktashan.com>
+Date: Thu, 05 Mar 2026 06:18:48 +0530
+Subject: Payment reminder: Invoice INV-19070065
+Message-ID: <8b857147-d316-47ce-b367-d541eb824df1@reynolds.net>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_188319_8397186995"
+X-Attachment-Name: FACTU2019070065.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

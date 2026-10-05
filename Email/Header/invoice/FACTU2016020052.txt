@@ -1,0 +1,13 @@
+From: Wali, Kulkarni and Bhargava Billing <no-reply@khan-carter.com>
+To: Stephanie Davies <stephanie.davies@fisher.io>
+Reply-To: billing@khan-carter.com
+Date: Wed, 24 Jun 2026 16:10:24 -0500
+Subject: New invoice INV-16020052 generated
+Message-ID: <9cf5b852-d405-4b9a-a965-4e2528554a12@khan-carter.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_881792_7853539006"
+X-Attachment-Name: FACTU2016020052.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

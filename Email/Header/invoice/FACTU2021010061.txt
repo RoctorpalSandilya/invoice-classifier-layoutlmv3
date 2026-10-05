@@ -1,0 +1,12 @@
+From: Stephen Velasquez <stephen.velasquez@schmidtdavis.com>
+To: Neil Hall <neil.hall@bedi.co.uk>
+Date: Fri, 24 Jul 2026 12:43:20 +0100
+Subject: Second notice – invoice FACTU2021010061 past due
+Message-ID: <9f9405c2-ef72-459c-afa2-1dc0bef9c295@schmidtdavis.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_234126_1827187066"
+X-Attachment-Name: FACTU2021010061.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

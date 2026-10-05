@@ -1,0 +1,11 @@
+From: Nathan Hegde <nathan.hegde@kirk.net>
+To: Vasudha Brar <vasudha.brar@summers.com>
+Date: Mon, 19 Jan 2026 09:48:52 +0100
+Subject: RE: Invoice INV-15010040
+Message-ID: <ead81dcd-365f-4cd6-87bc-754812fad802@kirk.net>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_014673_0024589215"
+X-Attachment-Name: FACTU2015010040.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

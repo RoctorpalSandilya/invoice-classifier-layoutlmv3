@@ -1,0 +1,12 @@
+From: Jennifer Stout <jennifer.stout@jhaveri.co.uk>
+To: Oscar Narayanan <oscar.narayanan@arnold.org>
+Date: Wed, 13 May 2026 10:17:59 +0100
+Subject: Reimbursement – attached receipt
+Message-ID: <00b74f65-14e1-4be8-a952-fc161d58fd5b@jhaveri.co.uk>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_042509_0994495860"
+X-Attachment-Name: receipt_128.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

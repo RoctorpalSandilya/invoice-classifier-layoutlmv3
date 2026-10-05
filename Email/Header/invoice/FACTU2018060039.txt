@@ -1,0 +1,12 @@
+From: Lisa Lee <lisa.lee@jenkinsdavis.net>
+To: Maureen Webb <maureen.webb@richardson.com>
+Date: Fri, 02 Jan 2026 23:04:40 +0530
+Subject: Reminder: outstanding invoice FACTU2018060039
+Message-ID: <143b8e5c-c1ce-4ffa-8ac5-283bb5a68ece@jenkinsdavis.net>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_216352_7415952678"
+X-Attachment-Name: FACTU2018060039.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

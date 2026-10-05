@@ -1,0 +1,12 @@
+From: James Smith <james.smith@whitedavies.in>
+To: Steven Jones <steven.jones@bobal.com>
+Date: Wed, 25 Feb 2026 13:06:22 +0530
+Subject: Friendly reminder – invoice INV-16080047 due 11 Apr 2026
+Message-ID: <faa55d51-f3d2-429e-80bc-7171e0b1c895@whitedavies.in>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_111255_2129318543"
+X-Attachment-Name: FACTU2016080047.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

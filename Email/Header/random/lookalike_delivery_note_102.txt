@@ -1,0 +1,12 @@
+From: Jagvi Murty <jagvi.murty@sanderswilkinson.com>
+To: Quincy Ramesh <quincy.ramesh@morris-barker.biz>
+Date: Wed, 07 Jan 2026 10:54:04 -0800
+Subject: Packing list for order SO-74710
+Message-ID: <a2ff0b29-4f48-48d2-ad89-c2d45883e0b3@sanderswilkinson.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_700396_0484858651"
+X-Attachment-Name: lookalike_delivery_note_102.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

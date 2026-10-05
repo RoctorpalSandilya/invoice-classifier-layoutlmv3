@@ -1,0 +1,11 @@
+From: Dr Carly White <dr.white@muni.in>
+To: Kelsey Williams <kelsey.williams@murthy.com>
+Date: Thu, 26 Mar 2026 20:11:03 +0000
+Subject: Invoice 21050050 – amount does not match PO
+Message-ID: <aeeddfd8-cb29-4700-a75f-aca1056569aa@muni.in>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_363471_4532167670"
+X-Attachment-Name: FACTU2021050050.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

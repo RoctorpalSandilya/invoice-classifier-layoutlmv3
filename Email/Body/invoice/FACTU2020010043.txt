@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: INV-20010043
+Account: ACC-063660
+Amount: $18,324.72
+Due date: 02 Jun 2026
+
+The invoice is attached to this email in image format. You can also view and pay it online at https://billing.madan.biz/invoices/INV-20010043.
+
+This is an automated message; please do not reply to this email.
+
+Ochoa PLC Billing Team

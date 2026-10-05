@@ -1,0 +1,12 @@
+From: Qabil Patla <qabil.patla@jones.co.uk>
+To: Regina Blevins <regina.blevins@cartwrighthunt.in>
+Date: Sun, 23 Aug 2026 06:42:19 -0500
+Subject: Invoice 19120048 from Jones, Wells and Carpenter
+Message-ID: <49066d40-a333-42be-9c61-437bbb6b8257@jones.co.uk>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_358389_2373480717"
+X-Attachment-Name: FACTU2019120048.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

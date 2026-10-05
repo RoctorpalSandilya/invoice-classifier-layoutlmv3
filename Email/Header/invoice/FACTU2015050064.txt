@@ -1,0 +1,11 @@
+From: George Bumb <george.bumb@morrisaguilar.io>
+To: Amol Bose <amol.bose@bishop.in>
+Date: Sun, 20 Sep 2026 22:58:58 +0530
+Subject: Invoice #15050064 – Bishop, Sharp and Williams
+Message-ID: <0ba5fe54-29af-4537-8821-75950d48bd22@morrisaguilar.io>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_630036_7917025024"
+X-Attachment-Name: FACTU2015050064.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

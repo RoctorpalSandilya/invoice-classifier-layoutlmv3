@@ -1,0 +1,11 @@
+From: Marilyn Taylor-Hale <marilyn.taylor-hale@bumbkapadia.co.uk>
+To: John Banks <john.banks@chowdhury.com>
+Date: Wed, 29 Apr 2026 01:12:27 +0200
+Subject: November expenses
+Message-ID: <66f6505b-45f4-4168-b537-ab409b4ee8fc@bumbkapadia.co.uk>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_954132_8966212871"
+X-Attachment-Name: lookalike_expense_report_189.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

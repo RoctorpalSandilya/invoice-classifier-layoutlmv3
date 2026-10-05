@@ -1,0 +1,11 @@
+From: Dr Gary Mills <dr.mills@owensrussell.com>
+To: Robert Schultz <robert.schultz@rowe-foster.com>
+Date: Sun, 03 May 2026 15:48:18 -0500
+Subject: Expense claim submitted
+Message-ID: <46c9aade-50f1-4c33-be2b-97ab8c6a3234@owensrussell.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_504437_0878037319"
+X-Attachment-Name: lookalike_expense_report_177.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

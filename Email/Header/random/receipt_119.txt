@@ -1,0 +1,12 @@
+From: Pranit Ghosh <pranit.ghosh@griffin.com>
+To: Abdul Hartley <abdul.hartley@palla.org>
+Date: Mon, 27 Apr 2026 06:06:47 -0800
+Subject: Taxi receipt for last week's client visit
+Message-ID: <f99b6299-8a5d-43dc-b83c-fe9d069f1941@griffin.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_944588_5156111236"
+X-Attachment-Name: receipt_119.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

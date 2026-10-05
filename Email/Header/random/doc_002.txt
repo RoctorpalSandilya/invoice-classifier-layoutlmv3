@@ -1,0 +1,12 @@
+From: Wridesh Sathe <wridesh.sathe@bahri.net>
+To: Vanessa Gregory <vanessa.gregory@pope-foster.com>
+Date: Thu, 23 Apr 2026 12:40:50 +0530
+Subject: Reference document
+Message-ID: <fac3b309-9f67-4ead-88d6-d5cbf8e8a8fe@bahri.net>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_999123_2395848979"
+X-Attachment-Name: doc_002.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

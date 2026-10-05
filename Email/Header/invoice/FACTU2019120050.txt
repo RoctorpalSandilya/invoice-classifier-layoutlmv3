@@ -1,0 +1,11 @@
+From: Ross Ward <ross.ward@chaudhrykunda.com>
+To: Claire Lane <claire.lane@arnold.co.uk>
+Date: Sat, 21 Feb 2026 05:54:36 +0530
+Subject: Invoice FACTU2019120050 – corrected copy
+Message-ID: <a0633877-302f-4c72-978f-b97c77f05790@chaudhrykunda.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_493550_2981589186"
+X-Attachment-Name: FACTU2019120050.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

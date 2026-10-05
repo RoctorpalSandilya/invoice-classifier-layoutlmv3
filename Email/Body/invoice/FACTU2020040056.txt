@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: 20040056
+Account: ACC-070854
+Amount: ₹24,265.39
+Due date: 08 Jul 2026
+
+The invoice is attached to this email in PDF format. You can also view and pay it online at https://billing.dhar.com/invoices/20040056.
+
+This is an automated message; please do not reply to this email.
+
+Evans-Sullivan Billing Team

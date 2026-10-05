@@ -1,0 +1,12 @@
+From: Aarav Sanghvi <aarav.sanghvi@lawrence.net>
+To: Ekansh Verma <ekansh.verma@houstonmorris.com>
+Date: Tue, 19 May 2026 09:35:59 +0530
+Subject: Query on invoice #16040048
+Message-ID: <79ede101-54f8-41e6-8f59-f66ec4e7b9e1@lawrence.net>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_509014_1633524774"
+X-Attachment-Name: FACTU2016040048.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

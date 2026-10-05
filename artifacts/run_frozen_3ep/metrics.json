@@ -1,0 +1,118 @@
+{
+  "run_id": "run_20261003_121119",
+  "model_dir": "artifacts\\run_frozen_3ep\\model",
+  "config": {
+    "source_root": "Attachments",
+    "artifacts_root": "artifacts",
+    "cache_dir": ".feature_cache",
+    "docx_pdf_cache_dir": ".docx_pdf_cache",
+    "tesseract_cmd": "C:\\Users\\797008047\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe",
+    "soffice_cmd": "C:\\Users\\797008047\\AppData\\Local\\Programs\\LibreOfficePortable\\program\\soffice.com",
+    "soffice_profile_dir": ".soffice_profile",
+    "soffice_timeout_s": 600,
+    "ocr_lang": "eng+fra",
+    "pdf_render_dpi": 150,
+    "min_ocr_conf": 0.0,
+    "bbox_scale": 1000,
+    "model_name": "C:\\Users\\797008047\\Desktop\\Classification_demo\\models\\layoutlmv3-base",
+    "max_length": 512,
+    "threshold": 0.5,
+    "test_size": 0.2,
+    "seed": 42,
+    "freeze_backbone": true,
+    "epochs": 3,
+    "lr": null,
+    "batch_size": 4,
+    "weight_decay": 0.01,
+    "warmup_ratio": 0.1,
+    "class_weight_imbalance_ratio": 1.1,
+    "dataloader_workers": 0,
+    "max_items": null,
+    "effective_lr": 0.001
+  },
+  "dataset": {
+    "n_total": 1400,
+    "n_skipped": 3,
+    "n_train": 1117,
+    "n_test": 280,
+    "label_counts_train": {
+      "not_invoice": 397,
+      "invoice": 720
+    },
+    "label_counts_test": {
+      "not_invoice": 100,
+      "invoice": 180
+    },
+    "skipped": [
+      {
+        "id": "random/doc_005.pdf",
+        "filename": "doc_005.pdf",
+        "reason": "PdfminerException: "
+      },
+      {
+        "id": "random/doc_023.pdf",
+        "filename": "doc_023.pdf",
+        "reason": "MalformedPDFException: Failed to load document (PDFium: Data format error)."
+      },
+      {
+        "id": "random/doc_029.pdf",
+        "filename": "doc_029.pdf",
+        "reason": "PDF has no pages"
+      }
+    ]
+  },
+  "train": {
+    "train": {
+      "train_runtime": 17054.9105,
+      "train_samples_per_second": 0.196,
+      "train_steps_per_second": 0.049,
+      "total_flos": 889381638383616.0,
+      "train_loss": 0.22055945206832672,
+      "epoch": 3.0
+    },
+    "test": {
+      "loss": 0.10089894384145737,
+      "accuracy": 0.9857142857142858,
+      "precision": 0.9782608695652174,
+      "recall": 1.0,
+      "f1": 0.989010989010989,
+      "runtime": 711.6045,
+      "samples_per_second": 0.393,
+      "steps_per_second": 0.098,
+      "epoch": 3.0
+    },
+    "class_weights": [
+      1.4068009853363037,
+      0.7756944298744202
+    ],
+    "device": "cpu"
+  },
+  "test": {
+    "accuracy": 0.9857142857142858,
+    "precision": 0.9782608695652174,
+    "recall": 1.0,
+    "f1": 0.989010989010989,
+    "threshold": 0.5,
+    "n": 280,
+    "confusion_matrix": {
+      "labels": [
+        "not_invoice",
+        "invoice"
+      ],
+      "rows_true_cols_pred": [
+        [
+          96,
+          4
+        ],
+        [
+          0,
+          180
+        ]
+      ],
+      "tn": 96,
+      "fp": 4,
+      "fn": 0,
+      "tp": 180
+    }
+  }
+}

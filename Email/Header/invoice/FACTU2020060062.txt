@@ -1,0 +1,12 @@
+From: Jade Taylor <jade.taylor@maycurtis.com>
+To: Mark Johnson <mark.johnson@hayes.co.uk>
+Date: Tue, 07 Apr 2026 22:08:50 -0800
+Subject: May-Curtis: Invoice #20060062 for July services
+Message-ID: <1212918b-d816-429b-8d36-19325fd093d1@maycurtis.com>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_704749_5423279767"
+X-Attachment-Name: FACTU2020060062.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

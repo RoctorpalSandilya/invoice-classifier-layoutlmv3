@@ -1,0 +1,11 @@
+From: Sabrina Brown <sabrina.brown@whiterhodes.in>
+To: Shirley Khan <shirley.khan@ellis.io>
+Date: Tue, 21 Jul 2026 04:29:50 +0000
+Subject: Invoice 16090051 – Ellis, Ballard and Walker
+Message-ID: <864da58a-4c46-4869-9008-44b63bb5e6b3@whiterhodes.in>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_835038_1524380279"
+X-Attachment-Name: FACTU2016090051.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

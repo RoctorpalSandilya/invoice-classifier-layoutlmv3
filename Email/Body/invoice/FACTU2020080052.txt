@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: INV-20080052
+Account: ACC-805919
+Amount: €14,084.66
+Due date: 27 Jan 2026
+
+The invoice is attached to this email in PDF format. You can also view and pay it online at https://billing.cherian.com/invoices/INV-20080052.
+
+This is an automated message; please do not reply to this email.
+
+Stevens, Mitchell and Thomas Billing Team

@@ -1,0 +1,12 @@
+From: Cynthia Sherman <cynthia.sherman@little.co.uk>
+To: Kirsty Green <kirsty.green@basu.com>
+Date: Tue, 08 Sep 2026 04:38:11 +0530
+Subject: Here's that receipt you asked for
+Message-ID: <dc0da784-fec2-4f98-8211-39d12cdbbb5d@little.co.uk>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_720715_9927276216"
+X-Attachment-Name: receipt_056.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

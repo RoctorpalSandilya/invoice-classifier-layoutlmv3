@@ -1,0 +1,12 @@
+From: Ishani Vaidya <ishani.vaidya@vala.com>
+To: Sudiksha Kaul <sudiksha.kaul@turner.in>
+Date: Thu, 07 May 2026 03:58:16 -0500
+Subject: Invoice #17070035 – Turner Inc
+Message-ID: <9fe49fcf-4fab-44df-8bb9-a7538ace9f41@vala.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_023978_8411573973"
+X-Attachment-Name: FACTU2017070035.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

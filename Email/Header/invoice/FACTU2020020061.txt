@@ -1,0 +1,11 @@
+From: Sierra Delacruz <sierra.delacruz@palla.in>
+To: Zayan Iyer <zayan.iyer@pritchard.com>
+Date: Wed, 10 Jun 2026 17:33:07 +0100
+Subject: Invoice #20020061 | Due 09 Aug 2026
+Message-ID: <72f19576-7a65-452a-881f-ec00d860c4fa@palla.in>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_750817_2860877366"
+X-Attachment-Name: FACTU2020020061.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

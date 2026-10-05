@@ -1,0 +1,11 @@
+From: Terence Little <terence.little@thomas.com>
+To: Nathaniel Khalsa <nathaniel.khalsa@hamilton.co.uk>
+Date: Sun, 22 Mar 2026 03:36:10 +0200
+Subject: Friendly reminder – invoice INV-16090042 due 21 Apr 2026
+Message-ID: <eeac25a1-e4ed-459e-bca6-183c5eaa2ca1@thomas.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_244694_8778559554"
+X-Attachment-Name: FACTU2016090042.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

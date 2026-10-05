@@ -1,0 +1,12 @@
+From: Tracy Burns <tracy.burns@collinsholloway.net>
+To: Hitesh Jain <hitesh.jain@lambbegum.co.uk>
+Date: Thu, 14 May 2026 02:31:10 +0100
+Subject: Invoice INV-19080056 – 51 days overdue
+Message-ID: <a82ddc9f-8008-4051-9294-d8b593351b0a@collinsholloway.net>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_138692_8735626265"
+X-Attachment-Name: FACTU2019080056.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

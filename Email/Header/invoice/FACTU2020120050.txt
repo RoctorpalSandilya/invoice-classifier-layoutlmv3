@@ -1,0 +1,12 @@
+From: Hemani Bose <hemani.bose@townsendlynch.io>
+To: Georgina Elliott <georgina.elliott@townsendlynch.in>
+Cc: Urmi Savant <urmi.savant@townsendlynch.in>
+Date: Thu, 30 Jul 2026 16:34:03 -0500
+Subject: Please approve: Bhatti, Sangha and Basak invoice INV-20120050
+Message-ID: <19e166b1-93c3-488d-a92c-f21b883db897@townsendlynch.io>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_524120_1826320165"
+X-Attachment-Name: FACTU2020120050.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

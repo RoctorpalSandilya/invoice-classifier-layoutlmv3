@@ -1,0 +1,11 @@
+From: Scott Vance <scott.vance@surmandal.io>
+To: William Reed <william.reed@holmes.io>
+Date: Mon, 02 Mar 2026 00:50:34 +0000
+Subject: Invoice 18090045 – Holmes PLC
+Message-ID: <cfe7196b-1626-4e2e-a093-dd07fe4a7e3e@surmandal.io>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_783451_6983230354"
+X-Attachment-Name: FACTU2018090045.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

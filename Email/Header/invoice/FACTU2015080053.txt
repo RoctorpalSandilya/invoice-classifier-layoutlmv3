@@ -1,0 +1,11 @@
+From: Stuart Barber <stuart.barber@vora.co.uk>
+To: Dr Louis Hunter <dr.hunter@mistry.com>
+Date: Sun, 02 Aug 2026 06:26:06 +0000
+Subject: Payment reminder: Invoice INV-15080053
+Message-ID: <6d8bcac6-0cc9-44cb-b423-49a28c5bfbc9@vora.co.uk>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_726895_4202222983"
+X-Attachment-Name: FACTU2015080053.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

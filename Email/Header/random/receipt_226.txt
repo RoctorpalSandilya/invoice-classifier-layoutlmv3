@@ -1,0 +1,11 @@
+From: Yuvraj Dey <yuvraj.dey@floreslara.com>
+To: Shelly Wilson <shelly.wilson@davis-ray.com>
+Date: Wed, 10 Jun 2026 19:13:12 -0500
+Subject: Taxi receipt for last week's client visit
+Message-ID: <50b28b73-5685-4f4f-983c-863edf252cd1@floreslara.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_647050_8542491804"
+X-Attachment-Name: receipt_226.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

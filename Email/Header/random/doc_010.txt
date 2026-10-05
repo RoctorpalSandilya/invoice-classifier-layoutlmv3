@@ -1,0 +1,12 @@
+From: Christian Hanna <christian.hanna@groversarin.com>
+To: Ms Hannah Wood <ms.wood@ellis.biz>
+Date: Sun, 06 Sep 2026 09:51:02 +0100
+Subject: Slides from the session
+Message-ID: <241aac82-8f8d-4b52-811a-04388543e704@groversarin.com>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_346842_8885109277"
+X-Attachment-Name: doc_010.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

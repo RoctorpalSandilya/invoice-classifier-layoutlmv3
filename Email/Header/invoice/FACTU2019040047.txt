@@ -1,0 +1,11 @@
+From: Neha Panchal <neha.panchal@bakshi.com>
+To: Linda Clark <linda.clark@byrne.com>
+Date: Tue, 20 Jan 2026 15:24:53 +0000
+Subject: Your invoice FACTU2019040047 is attached
+Message-ID: <45ae69e7-6d8f-431d-b512-406b49ffdb60@bakshi.com>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_340321_4484228402"
+X-Attachment-Name: FACTU2019040047.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

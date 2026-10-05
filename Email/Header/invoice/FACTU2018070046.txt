@@ -1,0 +1,11 @@
+From: Jonathan Mistry <jonathan.mistry@collins.net>
+To: Bhavika Bawa <bhavika.bawa@parikh.net>
+Date: Sat, 04 Apr 2026 18:49:38 +0530
+Subject: Your invoice INV-18070046 is attached
+Message-ID: <d52cbd7b-ab1b-457a-968d-2c5f65ef14e7@collins.net>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_452973_6491609469"
+X-Attachment-Name: FACTU2018070046.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

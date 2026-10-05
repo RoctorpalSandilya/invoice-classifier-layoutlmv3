@@ -1,0 +1,12 @@
+From: Diya Parsa <diya.parsa@mitchell.com>
+To: Mary Moore <mary.moore@tak.org>
+Date: Wed, 11 Feb 2026 10:52:40 -0800
+Subject: Reimbursement – attached receipt
+Message-ID: <6e59f4fc-8911-4ef1-8947-f48f94606f9a@mitchell.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_111913_6171029990"
+X-Attachment-Name: receipt_137.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

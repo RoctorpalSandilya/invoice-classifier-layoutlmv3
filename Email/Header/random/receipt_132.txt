@@ -1,0 +1,12 @@
+From: Yashica Dave <yashica.dave@bhatiakarnik.net>
+To: Sachi Rastogi <sachi.rastogi@sama.com>
+Date: Wed, 29 Apr 2026 14:26:52 +0000
+Subject: Lunch receipt
+Message-ID: <28169c83-e3eb-4f28-9cf6-258d9ae583f8@bhatiakarnik.net>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_138743_2381533792"
+X-Attachment-Name: receipt_132.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

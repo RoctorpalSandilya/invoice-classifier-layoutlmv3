@@ -1,0 +1,12 @@
+From: Dr Sandra Jordan <dr.jordan@bhattisaha.co.uk>
+To: Dr Patrick Gough <dr.gough@evans.com>
+Date: Tue, 29 Sep 2026 10:34:20 +0000
+Subject: Invoice INV-16050068 – 7 days overdue
+Message-ID: <11f41473-f130-44a1-a00f-7fca1cbb6b98@bhattisaha.co.uk>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_965693_3931202250"
+X-Attachment-Name: FACTU2016050068.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

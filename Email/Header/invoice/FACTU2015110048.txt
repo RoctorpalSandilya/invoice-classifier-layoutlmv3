@@ -1,0 +1,11 @@
+From: Melissa Smith <melissa.smith@arorashukla.io>
+To: Mrs. Dawn Miller <mrs..miller@luna.com>
+Date: Mon, 28 Sep 2026 17:14:17 +0530
+Subject: Invoice INV-15110048 – corrected copy
+Message-ID: <b2b1d763-586a-4ef7-9bad-2987e58bf09c@arorashukla.io>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_276479_2360293174"
+X-Attachment-Name: FACTU2015110048.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

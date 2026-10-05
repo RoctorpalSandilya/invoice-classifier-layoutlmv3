@@ -1,0 +1,12 @@
+From: Anthony Vasquez <anthony.vasquez@garg.co.uk>
+To: Dev Bakshi <dev.bakshi@pall.com>
+Date: Wed, 06 May 2026 20:25:43 +0100
+Subject: Invoice 15060043 – 43 days overdue
+Message-ID: <5b1a6eec-0541-45f4-8fb3-905438966739@garg.co.uk>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_503444_0054692421"
+X-Attachment-Name: FACTU2015060043.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

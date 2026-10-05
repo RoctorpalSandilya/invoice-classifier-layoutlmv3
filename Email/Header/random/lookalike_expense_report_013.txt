@@ -1,0 +1,12 @@
+From: Dr Jemma Stevens <dr.stevens@adamsharris.com>
+To: Hemang Narain <hemang.narain@lalla.org>
+Date: Mon, 26 Jan 2026 17:52:49 -0500
+Subject: Expense claim submitted
+Message-ID: <0029fa41-8d0b-4925-ba27-49f142e2b13d@adamsharris.com>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_562836_3174291682"
+X-Attachment-Name: lookalike_expense_report_013.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

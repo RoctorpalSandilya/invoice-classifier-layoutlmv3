@@ -1,0 +1,11 @@
+From: Benjamin Ford <benjamin.ford@warner.net>
+To: Charles Smith <charles.smith@lewis.co.uk>
+Date: Fri, 23 Jan 2026 02:38:03 +0530
+Subject: Friendly reminder – invoice 16030039 due 09 Mar 2026
+Message-ID: <16050538-da7a-4214-b478-c7239114d71e@warner.net>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_165153_3636901647"
+X-Attachment-Name: FACTU2016030039.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

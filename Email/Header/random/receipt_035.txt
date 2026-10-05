@@ -1,0 +1,11 @@
+From: Zachary Taylor <zachary.taylor@hewitt.in>
+To: Kathryn Gomez <kathryn.gomez@newman.com>
+Date: Fri, 16 Jan 2026 23:24:13 +0000
+Subject: Here's that receipt you asked for
+Message-ID: <34765f84-256d-4878-8237-50b463593b45@hewitt.in>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_416894_8578872696"
+X-Attachment-Name: receipt_035.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

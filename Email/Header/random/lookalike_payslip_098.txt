@@ -1,0 +1,11 @@
+From: Payroll <payroll@muni-wali.info>
+To: Dr Mohammad Thomson <dr.thomson@borra-vala.com>
+Date: Wed, 25 Mar 2026 00:55:32 +0530
+Subject: Payslip attached – confidential
+Message-ID: <c9f74f43-abfe-4cfd-9796-8f7e8104d921@muni-wali.info>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_804934_4894672004"
+X-Attachment-Name: lookalike_payslip_098.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

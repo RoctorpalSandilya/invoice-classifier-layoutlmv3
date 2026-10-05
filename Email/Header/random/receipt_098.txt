@@ -1,0 +1,11 @@
+From: Shawn Cole <shawn.cole@valencia.com>
+To: Paul Acosta <paul.acosta@jones.com>
+Date: Fri, 19 Jun 2026 23:21:01 +0530
+Subject: Lunch receipt
+Message-ID: <fadd653b-f57a-4e87-a0a3-92881ba470d1@valencia.com>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_283078_7006539628"
+X-Attachment-Name: receipt_098.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

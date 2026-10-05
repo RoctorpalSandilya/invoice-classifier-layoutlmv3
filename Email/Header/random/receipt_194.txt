@@ -1,0 +1,11 @@
+From: Sarah Jones <sarah.jones@rhodes.io>
+To: David Booker <david.booker@khare-sangha.com>
+Date: Sat, 28 Feb 2026 11:54:30 +0100
+Subject: Receipt for expense claim
+Message-ID: <93cd5f3a-51b5-4081-a3b5-0a4169237980@rhodes.io>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_772593_6589359517"
+X-Attachment-Name: receipt_194.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

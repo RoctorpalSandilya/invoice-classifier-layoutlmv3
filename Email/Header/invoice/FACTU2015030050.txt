@@ -1,0 +1,12 @@
+From: Brian Collins <brian.collins@misra.com>
+To: Damian Wood <damian.wood@chahal.in>
+Date: Tue, 23 Jun 2026 13:00:16 +0000
+Subject: Invoice FACTU2015030050 – corrected copy
+Message-ID: <c451077c-3498-44ca-a5b2-03de239908e9@misra.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_675690_6953980453"
+X-Attachment-Name: FACTU2015030050.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Sathvik Madan <sathvik.madan@potts.net>
+To: Nathan Stone <nathan.stone@ryan.in>
+Date: Fri, 15 May 2026 20:45:04 +0530
+Subject: Reminder: outstanding invoice 18020064
+Message-ID: <75ef09f4-1577-4f77-b932-a68d2e8d669f@potts.net>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_021258_5991443720"
+X-Attachment-Name: FACTU2018020064.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

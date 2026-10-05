@@ -1,0 +1,11 @@
+From: Leigh Humphries <leigh.humphries@mcdonalddominguez.com>
+To: Donald Davies <donald.davies@murphy.co.uk>
+Date: Fri, 04 Sep 2026 12:08:35 +0000
+Subject: Copy of invoice INV-22010043 as requested
+Message-ID: <5a390248-154e-4889-9d2d-94cdc2bf8d72@mcdonalddominguez.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_685452_2776220242"
+X-Attachment-Name: FACTU2022010043.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

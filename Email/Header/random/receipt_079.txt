@@ -1,0 +1,12 @@
+From: Louis Ahmed-Fletcher <louis.ahmed-fletcher@bull.co.uk>
+To: Jacob Edwards <jacob.edwards@smith.net>
+Date: Wed, 09 Sep 2026 09:24:54 +0200
+Subject: Here's that receipt you asked for
+Message-ID: <deb1dcc2-efab-4860-a73e-08f74fa98a45@bull.co.uk>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_697325_6514399605"
+X-Attachment-Name: receipt_079.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

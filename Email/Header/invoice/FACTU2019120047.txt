@@ -1,0 +1,11 @@
+From: Harsh Bora <harsh.bora@graymartin.com>
+To: Vedhika Pandey <vedhika.pandey@carr.com>
+Date: Sun, 22 Mar 2026 11:07:50 +0200
+Subject: Second notice – invoice FACTU2019120047 past due
+Message-ID: <ce591191-ab70-4e06-a844-da5ab6a95b64@graymartin.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_968158_2379243512"
+X-Attachment-Name: FACTU2019120047.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Anthony Hendricks <anthony.hendricks@blake.net>
+To: Lawrence Chan-Bradley <lawrence.chan-bradley@hardy.com>
+Date: Sun, 18 Jan 2026 10:52:05 +0200
+Subject: Blake PLC: Invoice 19100058 for February services
+Message-ID: <7c02f267-8acf-4408-944a-1f9376ad4933@blake.net>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_683649_9342683232"
+X-Attachment-Name: FACTU2019100058.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

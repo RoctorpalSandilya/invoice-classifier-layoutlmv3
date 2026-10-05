@@ -1,0 +1,12 @@
+From: Kenneth Thompson <kenneth.thompson@weaver.net>
+To: Cathy Hayes <cathy.hayes@solanki.com>
+Date: Mon, 12 Jan 2026 21:32:21 -0500
+Subject: Payment reminder: Invoice FACTU2017100055
+Message-ID: <780d6234-0aaf-4659-818d-7d9f5be4866a@weaver.net>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_579306_5116727703"
+X-Attachment-Name: FACTU2017100055.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Gautami Halder <gautami.halder@chokshisom.net>
+To: Katherine Wood <katherine.wood@alexander.net>
+Date: Sun, 13 Sep 2026 01:16:27 -0500
+Subject: Your invoice 20080051 is attached
+Message-ID: <955803d8-bd8a-42bd-a056-1c4cf1818740@chokshisom.net>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_860763_8310947237"
+X-Attachment-Name: FACTU2020080051.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

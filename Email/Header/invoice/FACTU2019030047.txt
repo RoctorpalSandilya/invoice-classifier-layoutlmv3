@@ -1,0 +1,11 @@
+From: Marissa Cook <marissa.cook@allen.net>
+To: Chakrika Kunda <chakrika.kunda@anthony.com>
+Date: Sun, 09 Aug 2026 03:24:30 +0200
+Subject: Invoice INV-19030047 – Anthony, Waters and Gibbs
+Message-ID: <005c3069-9c12-4b17-9820-eef5760ff3b2@allen.net>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_885404_8855991812"
+X-Attachment-Name: FACTU2019030047.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

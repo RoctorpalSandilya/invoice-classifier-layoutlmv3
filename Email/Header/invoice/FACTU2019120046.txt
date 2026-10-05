@@ -1,0 +1,11 @@
+From: Charlene Edwards <charlene.edwards@deviyohannan.com>
+To: Mr Christopher Kelly <mr.kelly@martinezcurtis.com>
+Date: Wed, 14 Jan 2026 13:20:47 +0000
+Subject: Devi-Yohannan: Invoice FACTU2019120046 for January services
+Message-ID: <1b0e500e-b5a8-4c7d-b948-43e50dde5216@deviyohannan.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_037615_2570303534"
+X-Attachment-Name: FACTU2019120046.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

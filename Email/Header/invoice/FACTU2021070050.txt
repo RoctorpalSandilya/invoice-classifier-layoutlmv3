@@ -1,0 +1,12 @@
+From: Mitchell Daniels <mitchell.daniels@brown.in>
+To: Nilima Barad <nilima.barad@andra.com>
+Date: Tue, 24 Feb 2026 20:04:33 +0100
+Subject: Brown LLC: Invoice INV-21070050 for June services
+Message-ID: <15aae145-f12f-4551-b795-822cb9077066@brown.in>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_849764_2107244914"
+X-Attachment-Name: FACTU2021070050.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Teerth Rau <teerth.rau@kannan.net>
+To: Janani Mody <janani.mody@hernandez.in>
+Date: Sat, 14 Feb 2026 02:21:07 -0800
+Subject: Invoice 20080049 from Kannan LLC
+Message-ID: <4e2dc351-dfea-43ee-ab1d-86f276e63049@kannan.net>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_662888_7730004864"
+X-Attachment-Name: FACTU2020080049.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

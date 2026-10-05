@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: INV-20090062
+Account: ACC-183360
+Amount: £23,911.87
+Due date: 16 Jul 2026
+
+The invoice is attached to this email in PDF format. You can also view and pay it online at https://billing.oconnor.co.uk/invoices/INV-20090062.
+
+This is an automated message; please do not reply to this email.
+
+Virk Inc Billing Team

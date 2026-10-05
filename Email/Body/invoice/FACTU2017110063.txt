@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: FACTU2017110063
+Account: ACC-451500
+Amount: €3,430.49
+Due date: 03 Mar 2026
+
+The invoice is attached to this email in PDF format. You can also view and pay it online at https://billing.hancock-smith.co.uk/invoices/FACTU2017110063.
+
+This is an automated message; please do not reply to this email.
+
+Hopkins, Kelly and Connor Billing Team

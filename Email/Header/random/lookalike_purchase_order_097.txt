@@ -1,0 +1,12 @@
+From: Trevor Jennings-Williams <trevor.jennings-williams@bhatnagar.in>
+To: Bhavna Memon <bhavna.memon@carr-strickland.com>
+Date: Mon, 04 May 2026 14:38:54 +0530
+Subject: Purchase Order PO-06296
+Message-ID: <1621d429-2e62-43fb-b2ec-faeaf506b026@bhatnagar.in>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_922645_2814677441"
+X-Attachment-Name: lookalike_purchase_order_097.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

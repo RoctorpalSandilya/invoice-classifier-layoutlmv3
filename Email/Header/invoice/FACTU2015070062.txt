@@ -1,0 +1,11 @@
+From: Naksh Aggarwal <naksh.aggarwal@ravel.co.uk>
+To: Pauline Khan <pauline.khan@ramosshort.com>
+Date: Sun, 27 Sep 2026 23:34:34 -0500
+Subject: Re-sending invoice INV-15070062
+Message-ID: <9d44b8fa-99ec-4b07-83be-5128c6cd6a85@ravel.co.uk>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_295500_5977930937"
+X-Attachment-Name: FACTU2015070062.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

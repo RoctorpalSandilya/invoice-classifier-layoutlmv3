@@ -1,0 +1,11 @@
+From: Christopher Martin <christopher.martin@elliott.co.uk>
+To: Oliver Dewan <oliver.dewan@webb.com>
+Date: Sat, 12 Sep 2026 11:53:42 +0000
+Subject: Delivery note – shipment DN-280984
+Message-ID: <050d1770-a7dc-49a8-8c3a-5b2db846af00@elliott.co.uk>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_853565_7091076142"
+X-Attachment-Name: lookalike_delivery_note_031.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Darlene Thompson <darlene.thompson@handa.com>
+To: Russell Campbell <russell.campbell@yates.com>
+Date: Thu, 29 Jan 2026 08:39:01 +0000
+Subject: Here's that receipt you asked for
+Message-ID: <cb437c6e-4f49-4c83-9a67-2c058c9da80f@handa.com>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_074606_4604671652"
+X-Attachment-Name: receipt_155.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Tom Thornton <tom.thornton@chandler.co.uk>
+To: Shane Mccoy <shane.mccoy@wadedavison.com>
+Date: Wed, 26 Aug 2026 06:56:43 +0200
+Subject: Reminder: outstanding invoice 20120043
+Message-ID: <8e9e3b8b-90bb-48ec-981e-50a18da6dd23@chandler.co.uk>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_097838_8265924796"
+X-Attachment-Name: FACTU2020120043.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

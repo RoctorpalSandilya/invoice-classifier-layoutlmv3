@@ -1,0 +1,12 @@
+From: Victor Johal <victor.johal@sibal.io>
+To: Luke Bowen <luke.bowen@dhillon.co.uk>
+Date: Fri, 11 Sep 2026 07:44:15 +0530
+Subject: Re-sending invoice INV-19070053
+Message-ID: <0c538311-9757-4270-baaa-1a9f24eae4fd@sibal.io>
+X-Mailer: Gmail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_731314_1696059149"
+X-Attachment-Name: FACTU2019070053.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

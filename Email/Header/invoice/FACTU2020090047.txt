@@ -1,0 +1,12 @@
+From: Jeet Sarin <jeet.sarin@marsdenbailey.in>
+To: Alexander Bowen <alexander.bowen@burgessmorgan.io>
+Date: Thu, 04 Jun 2026 15:02:07 -0800
+Subject: OVERDUE: Invoice #20090047
+Message-ID: <04937064-96f1-4db0-acea-c7080bd585ce@marsdenbailey.in>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_169009_8401743190"
+X-Attachment-Name: FACTU2020090047.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Lucy Cooper <lucy.cooper@jones.com>
+To: Victor Mills <victor.mills@kaur.co.uk>
+Date: Tue, 14 Jul 2026 16:52:53 +0200
+Subject: Invoice #21100051 from Jones and Sons
+Message-ID: <69bdc8ab-d9fc-4ca5-bcda-27919bb3a46d@jones.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_167001_1344618716"
+X-Attachment-Name: FACTU2021100051.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

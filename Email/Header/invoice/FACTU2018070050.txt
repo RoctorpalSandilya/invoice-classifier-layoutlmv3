@@ -1,0 +1,11 @@
+From: Netra Ganguly <netra.ganguly@kashyap.net>
+To: Kenneth Rose <kenneth.rose@lad.in>
+Date: Sat, 17 Jan 2026 18:02:21 +0530
+Subject: Your invoice INV-18070050 is attached
+Message-ID: <a64d26cf-e7db-4076-9d0d-f5ce836ef798@kashyap.net>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_501948_4913478509"
+X-Attachment-Name: FACTU2018070050.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

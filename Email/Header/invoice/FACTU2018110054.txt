@@ -1,0 +1,12 @@
+From: Donald Owens <donald.owens@moore.co.uk>
+To: Rohan Chaudhuri <rohan.chaudhuri@parekh.co.uk>
+Date: Mon, 01 Jun 2026 05:39:02 -0500
+Subject: Invoice 18110054 – 28 days overdue
+Message-ID: <94555529-b659-4326-a0a7-1faacb9d215b@moore.co.uk>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_361539_9194151505"
+X-Attachment-Name: FACTU2018110054.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

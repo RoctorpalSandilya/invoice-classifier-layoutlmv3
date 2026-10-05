@@ -1,0 +1,11 @@
+From: Amy Davis <amy.davis@williams.io>
+To: Arjun Das <arjun.das@bahl.com>
+Date: Mon, 17 Aug 2026 21:26:56 +0200
+Subject: Copy of invoice #20080042 as requested
+Message-ID: <4ade53cb-2443-401c-b777-62128098b41c@williams.io>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_461492_3302140495"
+X-Attachment-Name: FACTU2020080042.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

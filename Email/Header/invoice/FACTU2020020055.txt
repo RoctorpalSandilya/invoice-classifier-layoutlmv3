@@ -1,0 +1,11 @@
+From: Mr Brett Ellis <mr.ellis@shaw.co.uk>
+To: Brijesh Ramakrishnan <brijesh.ramakrishnan@babu.io>
+Date: Sun, 12 Apr 2026 22:37:10 -0500
+Subject: Invoice INV-20020055 | Due 12 May 2026
+Message-ID: <eec7f34c-050b-4aa7-8d6c-3ab3e122e422@shaw.co.uk>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_319284_1748815746"
+X-Attachment-Name: FACTU2020020055.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

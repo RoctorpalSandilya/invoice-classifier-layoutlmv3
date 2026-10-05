@@ -1,0 +1,11 @@
+From: Yash Kaur <yash.kaur@suri.net>
+To: Jagdish Brar <jagdish.brar@saxena.in>
+Date: Sun, 16 Aug 2026 13:38:48 +0200
+Subject: Invoice 21050061 – 41 days overdue
+Message-ID: <3fd21cd6-90eb-4554-b9a0-4d2ccba9b1f2@suri.net>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_397586_3001184402"
+X-Attachment-Name: FACTU2021050061.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

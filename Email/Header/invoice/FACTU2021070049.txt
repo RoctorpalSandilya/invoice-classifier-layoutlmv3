@@ -1,0 +1,12 @@
+From: Saxena-Bakshi Billing <no-reply@dutt.org>
+To: Mark Hall <mark.hall@dickerson.io>
+Reply-To: billing@dutt.org
+Date: Thu, 17 Sep 2026 17:27:43 +0530
+Subject: [Automated] Invoice INV-21070049 is now available
+Message-ID: <ab56d738-cccc-434c-90ce-f35194fdd763@dutt.org>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_327664_6628101673"
+X-Attachment-Name: FACTU2021070049.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

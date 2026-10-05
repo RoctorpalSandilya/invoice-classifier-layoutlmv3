@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: 20070061
+Account: ACC-822729
+Amount: ₹13,642.19
+Due date: 09 Apr 2026
+
+The invoice is attached to this email in image format. You can also view and pay it online at https://billing.ghosh.com/invoices/20070061.
+
+This is an automated message; please do not reply to this email.
+
+Jackson-Brown Billing Team

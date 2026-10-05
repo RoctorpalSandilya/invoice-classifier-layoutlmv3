@@ -1,0 +1,12 @@
+From: Shawn Morris <shawn.morris@brown.io>
+To: Udyati Khanna <udyati.khanna@brown.com>
+Cc: David Hall <david.hall@brown.com>
+Date: Mon, 02 Mar 2026 01:45:28 +0530
+Subject: Invoice #19090048 for approval
+Message-ID: <fceb9106-a4bb-4df5-9939-abce9aa1e58a@brown.io>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_573508_0164692954"
+X-Attachment-Name: FACTU2019090048.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

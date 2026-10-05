@@ -1,0 +1,11 @@
+From: First National Bank <statements@terry.com>
+To: Meghana Luthra <meghana.luthra@subramanian.info>
+Date: Sun, 27 Sep 2026 03:45:57 +0100
+Subject: e-Statement attached
+Message-ID: <fe727ca2-8b18-49a8-bf30-34b6d174adca@terry.com>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_128393_3797239402"
+X-Attachment-Name: lookalike_bank_statement_129.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Krish-Varkey Billing <no-reply@james-greenwood.com>
+To: Lewis Hughes <lewis.hughes@gill.io>
+Reply-To: billing@james-greenwood.com
+Date: Thu, 20 Aug 2026 19:44:19 +0200
+Subject: Your Krish-Varkey invoice #16080048
+Message-ID: <643be74f-b924-4f89-ac0b-81dadafbf593@james-greenwood.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_476002_1930291777"
+X-Attachment-Name: FACTU2016080048.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

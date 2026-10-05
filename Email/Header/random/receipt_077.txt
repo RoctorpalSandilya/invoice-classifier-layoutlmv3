@@ -1,0 +1,11 @@
+From: Oscar Fleming <oscar.fleming@nobleevans.net>
+To: Darsh Konda <darsh.konda@spencer.com>
+Date: Tue, 28 Apr 2026 22:53:25 -0800
+Subject: Lunch receipt
+Message-ID: <e8dcdc3b-5ce2-4f1f-a9d5-ba374db0d876@nobleevans.net>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_755769_5940425234"
+X-Attachment-Name: receipt_077.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

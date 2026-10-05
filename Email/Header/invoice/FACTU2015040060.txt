@@ -1,0 +1,12 @@
+From: Aradhana Gulati <aradhana.gulati@davidsonpearson.co.uk>
+To: Mr Ross Bradshaw <mr.bradshaw@davidsonpearson.io>
+Cc: Patrick Bala <patrick.bala@davidsonpearson.io>
+Date: Fri, 28 Aug 2026 12:07:51 +0000
+Subject: Invoice #15040060 for approval
+Message-ID: <46de04ff-a82f-4041-8194-797d5e8baed4@davidsonpearson.co.uk>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_754415_9145323028"
+X-Attachment-Name: FACTU2015040060.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

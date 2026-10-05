@@ -1,0 +1,11 @@
+From: Samar Hora <samar.hora@swift.com>
+To: Ranveer Chauhan <ranveer.chauhan@vargas.com>
+Date: Sun, 01 Feb 2026 08:44:51 +0000
+Subject: Here's that receipt you asked for
+Message-ID: <41a56f15-474a-4903-bcff-c97517d2b401@swift.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_485034_8858225158"
+X-Attachment-Name: receipt_250.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

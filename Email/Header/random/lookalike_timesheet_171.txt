@@ -1,0 +1,11 @@
+From: Michael Owens <michael.owens@jaggi.io>
+To: Shaun White <shaun.white@kara.com>
+Date: Mon, 25 May 2026 05:48:58 +0530
+Subject: Timesheet w/e 25 May
+Message-ID: <855cadba-7d02-4cf4-8a7f-058e17151777@jaggi.io>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_406328_5028609189"
+X-Attachment-Name: lookalike_timesheet_171.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Michelle Pena <michelle.pena@wallaceblackburn.com>
+To: Kenneth Cole <kenneth.cole@mills.info>
+Date: Sun, 28 Jun 2026 01:19:51 -0500
+Subject: Weekly timesheet for approval
+Message-ID: <c5c31d6e-4016-4c91-afca-20cc20f8cf90@wallaceblackburn.com>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_542833_5067376296"
+X-Attachment-Name: lookalike_timesheet_174.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

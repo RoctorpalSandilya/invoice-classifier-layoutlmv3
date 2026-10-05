@@ -1,0 +1,12 @@
+From: Leslie Casey <leslie.casey@harringtonchristian.net>
+To: Ayushman Ghose <ayushman.ghose@raghavan.com>
+Date: Fri, 12 Jun 2026 10:42:00 +0200
+Subject: Slides from the session
+Message-ID: <d2b4444d-3b17-42ee-9d71-765fe1cfc4c1@harringtonchristian.net>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_313381_3745337017"
+X-Attachment-Name: doc_009.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

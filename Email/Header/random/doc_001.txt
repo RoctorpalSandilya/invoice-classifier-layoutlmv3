@@ -1,0 +1,11 @@
+From: Melanie Rahman <melanie.rahman@bawa.co.uk>
+To: Viraj Anand <viraj.anand@mays-ferguson.com>
+Date: Fri, 04 Sep 2026 23:01:41 +0000
+Subject: Document for review
+Message-ID: <0740455d-068c-4d94-b7d6-83574e34da1e@bawa.co.uk>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_618169_7690452054"
+X-Attachment-Name: doc_001.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Krishna Bhargava <krishna.bhargava@ward.com>
+To: Lisa Morton <lisa.morton@ward.net>
+Cc: Lakshmi Sangha <lakshmi.sangha@ward.net>
+Date: Fri, 06 Mar 2026 05:41:41 -0800
+Subject: AP: new vendor invoice INV-16110047
+Message-ID: <06ee8882-16c3-4d14-bbaa-30c674ff996e@ward.com>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_704672_9182279644"
+X-Attachment-Name: FACTU2016110047.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

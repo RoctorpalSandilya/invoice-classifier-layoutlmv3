@@ -1,0 +1,11 @@
+From: Nathan Carlson <nathan.carlson@garrettcase.com>
+To: Kerry Barker <kerry.barker@hussain.io>
+Date: Sat, 05 Sep 2026 08:32:30 +0000
+Subject: OVERDUE: Invoice 17070031
+Message-ID: <d5b70b83-27bb-4f38-a764-7cae0b8047a9@garrettcase.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_742619_3072574670"
+X-Attachment-Name: FACTU2017070031.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

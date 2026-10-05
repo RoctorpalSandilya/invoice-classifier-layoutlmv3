@@ -1,0 +1,12 @@
+From: Stephen Huber <stephen.huber@thomas.com>
+To: Dr Colin Parkin <dr.parkin@sangha-kapoor.com>
+Date: Sat, 04 Apr 2026 04:29:52 +0530
+Subject: Your order has shipped
+Message-ID: <747c7c92-5241-4514-a7a0-f7095cad0d1f@thomas.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_543433_3703887981"
+X-Attachment-Name: lookalike_delivery_note_141.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

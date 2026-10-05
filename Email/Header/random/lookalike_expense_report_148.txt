@@ -1,0 +1,11 @@
+From: Sergio Brown <sergio.brown@gaba.net>
+To: Victoria Leonard <victoria.leonard@dewan-roy.com>
+Date: Fri, 28 Aug 2026 23:09:51 +0200
+Subject: Expense claim submitted
+Message-ID: <a0fcadb5-ca29-4396-a3fe-458105ad953a@gaba.net>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_767392_0980054623"
+X-Attachment-Name: lookalike_expense_report_148.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

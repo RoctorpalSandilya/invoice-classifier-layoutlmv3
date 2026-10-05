@@ -1,0 +1,12 @@
+From: Chaaya Nagar <chaaya.nagar@wilkinson.com>
+To: Amol Raman <amol.raman@lalhayer.in>
+Date: Sun, 26 Jul 2026 19:58:30 -0800
+Subject: Your invoice INV-19030055 is attached
+Message-ID: <73b0fa87-1a56-4b91-833d-45ae29ce1647@wilkinson.com>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_288129_7473217791"
+X-Attachment-Name: FACTU2019030055.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

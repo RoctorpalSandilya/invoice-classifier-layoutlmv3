@@ -1,0 +1,12 @@
+From: Gabrielle Vaughan <gabrielle.vaughan@kala.co.uk>
+To: Qushi Dugar <qushi.dugar@kala.co.uk>
+Cc: Hannah Holmes <hannah.holmes@kala.co.uk>
+Date: Sun, 01 Feb 2026 18:45:16 +0530
+Subject: AP: new vendor invoice INV-15090051
+Message-ID: <57ee3f0b-e97f-45f0-b6e3-1f400d905f8e@kala.co.uk>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_359813_5286970684"
+X-Attachment-Name: FACTU2015090051.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

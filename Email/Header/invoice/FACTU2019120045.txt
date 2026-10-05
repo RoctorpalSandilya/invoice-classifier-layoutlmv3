@@ -1,0 +1,11 @@
+From: Manan Nadig <manan.nadig@white.io>
+To: Jay Taylor <jay.taylor@tailor.net>
+Date: Thu, 15 Jan 2026 12:26:37 +0200
+Subject: Your invoice INV-19120045 is attached
+Message-ID: <07f87f13-13fe-48c8-8d92-75da0e65a970@white.io>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_236133_5094826838"
+X-Attachment-Name: FACTU2019120045.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

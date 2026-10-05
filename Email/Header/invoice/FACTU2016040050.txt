@@ -1,0 +1,11 @@
+From: Jaime Sutton <jaime.sutton@garcia.in>
+To: Brenda Turner <brenda.turner@dean.in>
+Date: Thu, 05 Feb 2026 09:03:28 -0800
+Subject: Invoice INV-16040050 – corrected copy
+Message-ID: <619e2cda-f2c5-435a-871b-c615e2f9c55e@garcia.in>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_846579_8711918120"
+X-Attachment-Name: FACTU2016040050.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

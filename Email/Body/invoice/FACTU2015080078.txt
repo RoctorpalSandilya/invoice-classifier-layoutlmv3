@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: FACTU2015080078
+Account: ACC-144844
+Amount: ₹3,078.88
+Due date: 09 May 2026
+
+The invoice is attached to this email in PDF format. You can also view and pay it online at https://billing.mitchell.org/invoices/FACTU2015080078.
+
+This is an automated message; please do not reply to this email.
+
+Hall PLC Billing Team

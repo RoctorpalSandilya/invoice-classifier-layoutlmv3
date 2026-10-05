@@ -1,0 +1,13 @@
+From: Powell Inc Billing <no-reply@evans.com>
+To: Jason Mcclain <jason.mcclain@hall.net>
+Reply-To: billing@evans.com
+Date: Thu, 04 Jun 2026 12:00:47 +0530
+Subject: Billing notification – invoice INV-21050064
+Message-ID: <bb520ef2-9ef4-4de0-b0d8-ae3e7b8a6590@evans.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_657728_4011982070"
+X-Attachment-Name: FACTU2021050064.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

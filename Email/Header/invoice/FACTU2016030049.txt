@@ -1,0 +1,12 @@
+From: Evans, Roberts and Hodgson Billing <no-reply@rowe.biz>
+To: Adrian Moore <adrian.moore@stein.net>
+Reply-To: billing@rowe.biz
+Date: Mon, 23 Mar 2026 03:30:33 +0000
+Subject: [Automated] Invoice 16030049 is now available
+Message-ID: <a6cb6721-96a7-472f-a147-f45a85eec403@rowe.biz>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_895412_7804899664"
+X-Attachment-Name: FACTU2016030049.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

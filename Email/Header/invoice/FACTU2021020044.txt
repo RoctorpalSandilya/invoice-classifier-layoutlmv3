@@ -1,0 +1,12 @@
+From: Mason Pandya <mason.pandya@gillbell.in>
+To: Phillip Powell <phillip.powell@mannan.in>
+Date: Tue, 06 Jan 2026 01:36:10 +0200
+Subject: Invoice #21020044 from Gill-Bell
+Message-ID: <9cc98a56-78fd-4e71-b205-c95ebb3430ba@gillbell.in>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_057729_2558806707"
+X-Attachment-Name: FACTU2021020044.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

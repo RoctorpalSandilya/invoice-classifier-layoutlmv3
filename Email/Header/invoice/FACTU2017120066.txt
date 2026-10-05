@@ -1,0 +1,11 @@
+From: Kristen Reese <kristen.reese@ramirez.net>
+To: Dr Adrian Morris <dr.morris@jackson.com>
+Date: Thu, 06 Aug 2026 12:09:01 +0200
+Subject: Tax Invoice 17120066
+Message-ID: <27c9b16c-0d45-42e0-b77f-225e14e5f74a@ramirez.net>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_352275_5899724104"
+X-Attachment-Name: FACTU2017120066.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

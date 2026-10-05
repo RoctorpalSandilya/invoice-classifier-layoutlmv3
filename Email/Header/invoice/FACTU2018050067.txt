@@ -1,0 +1,11 @@
+From: Dr Joel Parker <dr.parker@lawson.com>
+To: Jose Clark <jose.clark@agarwal.com>
+Date: Sat, 25 Jul 2026 22:19:02 +0200
+Subject: Invoice 18050067 – amount does not match PO
+Message-ID: <a2b3f048-ff64-451e-a9a4-dbfc5a2d4056@lawson.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_804605_8058860917"
+X-Attachment-Name: FACTU2018050067.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

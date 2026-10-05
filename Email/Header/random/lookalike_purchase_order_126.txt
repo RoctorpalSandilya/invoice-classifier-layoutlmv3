@@ -1,0 +1,11 @@
+From: Lee Thomas <lee.thomas@greenelliott.co.uk>
+To: Kimberly Smith <kimberly.smith@hill.com>
+Date: Sat, 22 Aug 2026 15:36:41 +0530
+Subject: Purchase order for your review
+Message-ID: <2227c0ff-9eb3-49c5-b760-4cfd15446905@greenelliott.co.uk>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_299071_2554560344"
+X-Attachment-Name: lookalike_purchase_order_126.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

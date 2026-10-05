@@ -1,0 +1,11 @@
+From: Wyatt Srinivasan <wyatt.srinivasan@deysane.com>
+To: Rachit Chawla <rachit.chawla@wilkinson.com>
+Date: Thu, 18 Jun 2026 03:21:09 -0800
+Subject: Payment reminder: Invoice INV-19110049
+Message-ID: <6442ab30-69cf-445c-9441-5765ec1049dd@deysane.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_250408_6412754567"
+X-Attachment-Name: FACTU2019110049.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

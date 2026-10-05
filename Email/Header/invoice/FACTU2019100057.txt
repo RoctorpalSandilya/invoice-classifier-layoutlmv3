@@ -1,0 +1,11 @@
+From: Joanna Ford <joanna.ford@wang.net>
+To: Yashasvi Sen <yashasvi.sen@sani.com>
+Date: Wed, 10 Jun 2026 11:54:30 +0000
+Subject: Payment reminder: Invoice INV-19100057
+Message-ID: <2640090a-0ddd-4553-9921-ec366816f453@wang.net>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_362840_9740152459"
+X-Attachment-Name: FACTU2019100057.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

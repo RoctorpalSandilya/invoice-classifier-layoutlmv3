@@ -1,0 +1,11 @@
+From: Yug Nagy <yug.nagy@butlersmith.com>
+To: Dr. Charles Solomon Jr. <dr..jr.@navarro.biz>
+Date: Thu, 30 Apr 2026 02:36:26 +0530
+Subject: Receipt for team dinner
+Message-ID: <efd598d4-583f-4f85-9ae4-31d03f8c4d6c@butlersmith.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_993309_6973344426"
+X-Attachment-Name: receipt_005.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

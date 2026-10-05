@@ -1,0 +1,12 @@
+From: Gaurangi Sahni <gaurangi.sahni@baileydoherty.net>
+To: Nikita Kumer <nikita.kumer@thomas.com>
+Date: Mon, 10 Aug 2026 23:26:23 +0100
+Subject: Remittance advice – payment PAY69701545
+Message-ID: <c80a279e-375b-4e32-af85-0f895a63054f@baileydoherty.net>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_361634_5292357344"
+X-Attachment-Name: lookalike_remittance_206.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

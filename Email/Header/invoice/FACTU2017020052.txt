@@ -1,0 +1,12 @@
+From: Darsh Trivedi <darsh.trivedi@shroffdua.com>
+To: Kimberly Williams <kimberly.williams@brock.com>
+Date: Wed, 13 May 2026 09:03:42 +0200
+Subject: Your invoice 17020052 is attached
+Message-ID: <f5c74b26-78b1-48ca-8913-1ca7ecfa5103@shroffdua.com>
+X-Mailer: QuickBooks Online
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_022862_2129242036"
+X-Attachment-Name: FACTU2017020052.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

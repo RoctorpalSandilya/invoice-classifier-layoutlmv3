@@ -1,0 +1,13 @@
+From: Pall, Babu and Mohanty Billing <no-reply@scott.com>
+To: Agastya Naik <agastya.naik@reedcollins.io>
+Reply-To: billing@scott.com
+Date: Wed, 02 Sep 2026 09:33:30 -0500
+Subject: Your Pall, Babu and Mohanty invoice 21030045
+Message-ID: <aaa0b23a-184e-424d-b996-80c21ed8fcdf@scott.com>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_703855_8397621493"
+X-Attachment-Name: FACTU2021030045.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

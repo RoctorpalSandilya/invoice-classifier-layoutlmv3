@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: 15060039
+Account: ACC-580495
+Amount: $20,072.16
+Due date: 30 Nov 2026
+
+The invoice is attached to this email in PDF format. You can also view and pay it online at https://billing.narain-ganesh.info/invoices/15060039.
+
+This is an automated message; please do not reply to this email.
+
+Morris Group Billing Team

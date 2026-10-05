@@ -1,0 +1,11 @@
+From: Chameli Deshpande <chameli.deshpande@moodydavis.com>
+To: Patricia Williams <patricia.williams@brown.com>
+Date: Mon, 08 Jun 2026 01:01:11 -0500
+Subject: Invoice INV-19080047 from Moody-Davis
+Message-ID: <e010ac0d-a94e-403d-9e93-f4e2c72d9d26@moodydavis.com>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_486740_8400567825"
+X-Attachment-Name: FACTU2019080047.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

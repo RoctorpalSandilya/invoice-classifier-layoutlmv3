@@ -1,0 +1,11 @@
+From: Jack Subramanian <jack.subramanian@mooneybrowning.co.uk>
+To: Damini Sahota <damini.sahota@reddy.com>
+Date: Sat, 07 Feb 2026 04:23:28 +0530
+Subject: Lunch receipt
+Message-ID: <3edfc064-0e56-47a2-a480-66de4f4d23fe@mooneybrowning.co.uk>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_171172_1579591667"
+X-Attachment-Name: receipt_219.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

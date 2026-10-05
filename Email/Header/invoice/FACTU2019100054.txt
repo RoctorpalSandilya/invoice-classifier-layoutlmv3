@@ -1,0 +1,12 @@
+From: Mark Fleming <mark.fleming@walkeroneal.com>
+To: Megan Garrett <megan.garrett@holland.in>
+Date: Sun, 26 Jul 2026 07:08:03 +0530
+Subject: Walker-Oneal: Invoice INV-19100054 for January services
+Message-ID: <fd739021-5018-4219-98f4-523ef0814171@walkeroneal.com>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+X-Priority: 1 (Highest)
+Content-Type: multipart/mixed; boundary="----=_Part_709301_5949194594"
+X-Attachment-Name: FACTU2019100054.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

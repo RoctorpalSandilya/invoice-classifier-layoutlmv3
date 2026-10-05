@@ -1,0 +1,11 @@
+From: Lori Graham <lori.graham@pearson.in>
+To: Advay Som <advay.som@smith-mann.com>
+Date: Wed, 20 May 2026 14:42:31 +0000
+Subject: Here's that receipt you asked for
+Message-ID: <69817249-a77a-4d1f-bb32-ae35e6da5b3e@pearson.in>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_094880_6918507832"
+X-Attachment-Name: receipt_131.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

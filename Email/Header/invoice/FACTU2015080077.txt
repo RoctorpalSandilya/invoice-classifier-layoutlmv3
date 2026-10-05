@@ -1,0 +1,13 @@
+From: Harris Inc Billing <no-reply@khalsa-gupta.com>
+To: Vaishnavi Shan <vaishnavi.shan@stephensonlaw.co.uk>
+Reply-To: billing@khalsa-gupta.com
+Date: Sat, 23 May 2026 08:15:24 +0530
+Subject: Your Harris Inc invoice #15080077
+Message-ID: <1c8228dc-58af-4cb3-b831-2119b89422f6@khalsa-gupta.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_651897_9928846471"
+X-Attachment-Name: FACTU2015080077.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

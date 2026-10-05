@@ -1,0 +1,11 @@
+From: Banjeet Saha <banjeet.saha@wiley.in>
+To: Danielle Morris <danielle.morris@kunda.com>
+Date: Mon, 07 Sep 2026 02:53:31 -0800
+Subject: Reference document
+Message-ID: <82ccf25c-0c91-490f-89c0-9af46859ca2d@wiley.in>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_604206_9040540838"
+X-Attachment-Name: doc_027.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

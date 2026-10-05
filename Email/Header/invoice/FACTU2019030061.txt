@@ -1,0 +1,11 @@
+From: Nitesh Gade <nitesh.gade@jhaveri.net>
+To: Stephen Gonzalez <stephen.gonzalez@richardsarmstrong.net>
+Date: Sun, 23 Aug 2026 10:42:25 +0000
+Subject: Tax Invoice INV-19030061
+Message-ID: <90c9a0d4-0aa0-429c-a35c-30eb6967f62b@jhaveri.net>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_105187_8299993072"
+X-Attachment-Name: FACTU2019030061.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

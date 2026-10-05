@@ -1,0 +1,11 @@
+From: Veronica Cooper <veronica.cooper@shenoy.com>
+To: Kiaan Devi <kiaan.devi@lawson.biz>
+Date: Sun, 10 May 2026 07:53:48 +0000
+Subject: Delivery note – shipment DN-996170
+Message-ID: <65e5d724-a363-4e43-95e0-3943c77ee016@shenoy.com>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_342582_6249272271"
+X-Attachment-Name: lookalike_delivery_note_208.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Abhimanyu Varughese <abhimanyu.varughese@martinezwilliams.com>
+To: Vanessa Anderson <vanessa.anderson@campbell.net>
+Date: Sun, 06 Sep 2026 21:24:57 +0100
+Subject: Tax Invoice #18080045
+Message-ID: <62832373-841e-4c77-bd0b-4aeb7a6d1485@martinezwilliams.com>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_007823_4657833216"
+X-Attachment-Name: FACTU2018080045.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

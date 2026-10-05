@@ -1,0 +1,11 @@
+From: Dawn Williams <dawn.williams@guhalanka.net>
+To: Ms Catherine Curtis <ms.curtis@somangera.net>
+Date: Mon, 06 Apr 2026 12:47:52 +0200
+Subject: Invoice 20070057 | Due 21 May 2026
+Message-ID: <d72d2175-feb9-4f61-9c0a-2c1b48965e14@guhalanka.net>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_878180_0492622180"
+X-Attachment-Name: FACTU2020070057.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Zilmil Tata <zilmil.tata@bassi.co.uk>
+To: James Wilson <james.wilson@carter-mejia.com>
+Date: Tue, 03 Mar 2026 06:02:27 +0000
+Subject: Delivery note – shipment DN-193387
+Message-ID: <279da595-be64-40c5-b4d0-7e5548122b84@bassi.co.uk>
+X-Mailer: Mozilla Thunderbird
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_064338_7804474480"
+X-Attachment-Name: lookalike_delivery_note_039.pdf
+X-Attachment-Type: application/pdf
+X-Attachment-Count: 1

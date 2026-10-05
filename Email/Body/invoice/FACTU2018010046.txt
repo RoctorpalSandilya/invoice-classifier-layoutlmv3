@@ -1,0 +1,14 @@
+Dear Customer,
+
+A new invoice has been generated for your account.
+
+Invoice number: INV-18010046
+Account: ACC-127597
+Amount: £18,727.58
+Due date: 15 Sep 2026
+
+The invoice is attached to this email in image format. You can also view and pay it online at https://billing.barrett.com/invoices/INV-18010046.
+
+This is an automated message; please do not reply to this email.
+
+Mayer, Tanner and Davis Billing Team

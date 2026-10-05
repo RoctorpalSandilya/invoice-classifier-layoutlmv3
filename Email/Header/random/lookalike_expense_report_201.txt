@@ -1,0 +1,12 @@
+From: Eric Chen <eric.chen@washington.com>
+To: Carolyn Barker-Matthews <carolyn.barker-matthews@bruce-morgan.net>
+Date: Sun, 26 Apr 2026 15:47:00 -0500
+Subject: Expense report EXP-0898 for approval
+Message-ID: <f508af11-a7d2-45df-82ca-cf133293c6b0@washington.com>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_795548_5025707148"
+X-Attachment-Name: lookalike_expense_report_201.docx
+X-Attachment-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+X-Attachment-Count: 1

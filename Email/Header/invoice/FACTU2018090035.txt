@@ -1,0 +1,12 @@
+From: Katelyn Rocha <katelyn.rocha@pallram.net>
+To: Miss Geraldine Wilkinson <miss.wilkinson@webb.net>
+Date: Sun, 27 Sep 2026 11:01:59 -0800
+Subject: Invoice 18090035 – 57 days overdue
+Message-ID: <38f6fe9a-1815-4dce-9e2e-a3c93dca5cb3@pallram.net>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_092181_0440089593"
+X-Attachment-Name: FACTU2018090035.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

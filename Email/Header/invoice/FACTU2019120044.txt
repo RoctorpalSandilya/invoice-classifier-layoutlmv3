@@ -1,0 +1,11 @@
+From: Ms Rosie Smith <ms.smith@hodgson.com>
+To: Jeremiah Mand <jeremiah.mand@hicks.com>
+Date: Tue, 14 Jul 2026 07:34:01 +0000
+Subject: Tax Invoice 19120044
+Message-ID: <744dd46c-0e9b-4246-8a2b-d1495a461855@hodgson.com>
+X-Mailer: Gmail
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_070609_4667692787"
+X-Attachment-Name: FACTU2019120044.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

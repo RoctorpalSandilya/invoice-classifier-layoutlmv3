@@ -1,0 +1,12 @@
+From: Joel Wilson <joel.wilson@sheppardjimenez.co.uk>
+To: Udant Tripathi <udant.tripathi@barad.com>
+Date: Mon, 12 Jan 2026 11:23:01 -0500
+Subject: Query on invoice INV-17110052
+Message-ID: <1d3a75b2-5c46-4de4-93c8-6cb936eff904@sheppardjimenez.co.uk>
+X-Mailer: Apple Mail (2.3774.500.171)
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_766791_4514323903"
+X-Attachment-Name: FACTU2017110052.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,12 @@
+From: Amanda Murray <amanda.murray@garcia.in>
+To: Keith Brown <keith.brown@deleonpatrick.co.uk>
+Date: Sat, 21 Mar 2026 20:48:06 -0500
+Subject: Question about attached invoice 19070055
+Message-ID: <76ead1ff-510f-48e5-b79a-5d26db4ba464@garcia.in>
+X-Mailer: SAP Ariba Notifier
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_335075_1025821443"
+X-Attachment-Name: FACTU2019070055.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

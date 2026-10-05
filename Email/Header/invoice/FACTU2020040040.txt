@@ -1,0 +1,12 @@
+From: Lorraine Atkins <lorraine.atkins@morales.co.uk>
+To: Kevin Chen <kevin.chen@powell.io>
+Date: Thu, 04 Jun 2026 20:23:53 +0200
+Subject: Query on invoice 20040040
+Message-ID: <b22e5b87-57fe-4f4e-ab39-94c3f7bda8b3@morales.co.uk>
+X-Mailer: Zoho Mail
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="----=_Part_822552_6221971491"
+X-Attachment-Name: FACTU2020040040.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

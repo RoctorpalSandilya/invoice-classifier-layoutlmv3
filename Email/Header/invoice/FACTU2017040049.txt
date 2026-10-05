@@ -1,0 +1,11 @@
+From: Jeremy Woods <jeremy.woods@schmitt.co.uk>
+To: Gaurang Dora <gaurang.dora@palmer.io>
+Date: Sat, 13 Jun 2026 23:17:30 +0530
+Subject: Second notice – invoice 17040049 past due
+Message-ID: <8bc32e8e-f330-471e-a561-272562afcec1@schmitt.co.uk>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_198029_7997274075"
+X-Attachment-Name: FACTU2017040049.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1

@@ -1,0 +1,11 @@
+From: Neel Mitra <neel.mitra@davies.com>
+To: Megan Braun <megan.braun@hunt.com>
+Date: Wed, 18 Feb 2026 09:25:50 +0100
+Subject: Davies Inc: Invoice 19110048 for March services
+Message-ID: <5778b50a-5135-48d0-8b1c-8216110dc6bc@davies.com>
+X-Mailer: Microsoft Outlook 16.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_601582_3060611573"
+X-Attachment-Name: FACTU2019110048.jpg
+X-Attachment-Type: image/jpeg
+X-Attachment-Count: 1
