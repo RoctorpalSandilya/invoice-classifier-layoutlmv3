@@ -48,6 +48,7 @@ attachment_classifier/   the pipeline package (see its own README for module det
   cli.py                 train / evaluate / predict
   tests/                 pytest smoke tests
 demo.py                  interactive demo: paste a file path, get the verdict and confidence
+email_classifier/        zero-shot email (header + body) classification with Laya
 scripts/                 data generators (lookalike documents, matching email header/body text)
 Email/                   generated email header/body .txt files, one pair per attachment
 artifacts/               trained model, metrics.json, manifest.csv, test_predictions.csv
@@ -129,9 +130,52 @@ The lookalikes are purchase orders, quotations, delivery notes, payslips, bank s
 reports, remittance advices, timesheets and credit applications, filled with fictional data from
 Faker. `python scripts/gen_emails.py .` regenerates the `Email/` header and body files.
 
+## Email header + body classification (Laya, zero-shot)
+
+`email_classifier/` classifies the **email** rather than the attachment, using
+[Laya](https://huggingface.co/convaiinnovations/laya) (`convaiinnovations/laya`, English checkpoint,
+ModernBERT-large, 421 M parameters). Laya answers typed questions about an email in one forward pass,
+so it can be used zero-shot, without training.
+
+Zero-shot results on all 1,400 generated emails (900 invoice / 500 not), threshold 0.5:
+
+| Input | Question | Accuracy | Precision | Recall | F1 |
+|---|---|---|---|---|---|
+| body | document type (invoice / receipt / PO / quote / statement / other) | **1.000** | 1.000 | 1.000 | **1.000** |
+| header + body | document type | 0.999 | 0.999 | 1.000 | 0.999 |
+| body | yes/no as a two-option choice | 0.975 | 0.963 | 1.000 | 0.981 |
+| header + body | `noul` (true/false) | 0.962 | 0.953 | 0.990 | 0.971 |
+| body | `noul` (true/false) | 0.957 | 0.938 | 1.000 | 0.968 |
+| header + body | yes/no as a two-option choice | 0.956 | 0.937 | 1.000 | 0.967 |
+
+Yes/no questions mostly misfire on purchase orders, remittance advices and receipts. **These numbers are
+optimistic**: the emails are template-generated, every invoice email contains the word "invoice" (only 9
+of 500 others do), and the document-type options mirror the generated negative categories. Validate on
+real emails before relying on it. The attachment filename is excluded from the header input because in
+this data it encodes the label (`--include-attachment-name` adds it back).
+
+Setup: the Laya files are not committed (about 800 MB). Fetch them with curl:
+
+```
+mkdir models\laya\encoder models\laya\tokenizer
+for %f in (model.safetensors rl_agent_api.py rl_common.py email_utils.py rl_agent_config.json encoder/config.json tokenizer/tokenizer.json tokenizer/tokenizer_config.json) do ^
+  curl -L -o models\laya\%f https://huggingface.co/convaiinnovations/laya/resolve/main/%f
+```
+
+Run (about 1.5 s per email per question on a laptop CPU):
+
+```
+python -m email_classifier.zero_shot_eval                                    # all emails, both modes, 3 questions
+python -m email_classifier.zero_shot_eval --modes body --questions doc_type  # best setup only
+python -m email_classifier.zero_shot_eval --limit 20                         # quick check
+```
+
+Outputs go to `artifacts/laya_zero_shot/<run>/`: `metrics.json` (all metrics plus accuracy per
+document subgroup) and `predictions.csv` (P(invoice) and the answer for every email and question).
+
 ## Limitations and next steps
 
 - Plain-prose documents can be misread as invoices; add more letters, reports and articles as negatives.
 - Only the classification head has been trained so far; a full fine-tune should be run on a GPU.
 - Only the first page is used.
-- The generated email text is not yet used by the model.
+- The email classifier has only been tested zero-shot on generated emails; test it on real email traffic.

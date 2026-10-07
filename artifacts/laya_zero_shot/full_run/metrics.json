@@ -1,0 +1,432 @@
+{
+  "model": "convaiinnovations/laya (English, ModernBERT-large)",
+  "laya_dir": "C:\\Users\\797008047\\Desktop\\Classification_demo\\models\\laya",
+  "n_emails": 1400,
+  "n_invoice": 900,
+  "n_not_invoice": 500,
+  "threshold": 0.5,
+  "clean_body": true,
+  "include_attachment_name": false,
+  "questions": {
+    "invoice_ab": {
+      "question": {
+        "type": "choice",
+        "instructions": "Is the email in `body` sending an invoice, i.e. a bill asking the recipient to pay?",
+        "criteria": {
+          "A": "yes, the email sends an invoice or bill for payment",
+          "B": "no, the email is about something else"
+        }
+      },
+      "positive": "A"
+    },
+    "invoice_noul": {
+      "question": {
+        "type": "noul",
+        "instructions": "Is this email sending an invoice that the recipient has to pay?"
+      },
+      "positive": "true"
+    },
+    "doc_type": {
+      "question": {
+        "type": "choice",
+        "instructions": "What kind of document does the email in `body` send or discuss?",
+        "criteria": {
+          "invoice": "a bill requesting payment for goods or services",
+          "receipt": "proof of a payment that was already made",
+          "purchase_order": "an order placed with a supplier",
+          "quotation": "a price quote or estimate",
+          "statement": "a bank statement, payslip, remittance or payment advice",
+          "other": "any other document"
+        }
+      },
+      "positive": "invoice"
+    }
+  },
+  "seconds": 12682.2,
+  "results": {
+    "body/invoice_ab": {
+      "accuracy": 0.975,
+      "precision": 0.9625668449197861,
+      "recall": 1.0,
+      "f1": 0.9809264305177112,
+      "auroc": 1.0,
+      "tn": 465,
+      "fp": 35,
+      "fn": 0,
+      "tp": 900,
+      "n": 1400,
+      "mean_p_invoice_pos": 0.9742066666666668,
+      "mean_p_invoice_neg": 0.2395716,
+      "by_subgroup": {
+        "doc": {
+          "n": 35,
+          "accuracy": 0.9714
+        },
+        "invoice": {
+          "n": 900,
+          "accuracy": 1.0
+        },
+        "lookalike_bank_statement": {
+          "n": 18,
+          "accuracy": 1.0
+        },
+        "lookalike_credit_application": {
+          "n": 21,
+          "accuracy": 1.0
+        },
+        "lookalike_delivery_note": {
+          "n": 27,
+          "accuracy": 1.0
+        },
+        "lookalike_expense_report": {
+          "n": 30,
+          "accuracy": 1.0
+        },
+        "lookalike_payslip": {
+          "n": 22,
+          "accuracy": 1.0
+        },
+        "lookalike_purchase_order": {
+          "n": 23,
+          "accuracy": 0.7826
+        },
+        "lookalike_quotation": {
+          "n": 29,
+          "accuracy": 1.0
+        },
+        "lookalike_remittance": {
+          "n": 19,
+          "accuracy": 0.4737
+        },
+        "lookalike_timesheet": {
+          "n": 26,
+          "accuracy": 1.0
+        },
+        "receipt": {
+          "n": 250,
+          "accuracy": 0.924
+        }
+      }
+    },
+    "body/invoice_noul": {
+      "accuracy": 0.9571428571428572,
+      "precision": 0.9375,
+      "recall": 1.0,
+      "f1": 0.967741935483871,
+      "auroc": 0.9999100000000001,
+      "tn": 440,
+      "fp": 60,
+      "fn": 0,
+      "tp": 900,
+      "n": 1400,
+      "mean_p_invoice_pos": 0.9281608888888889,
+      "mean_p_invoice_neg": 0.26472720000000005,
+      "by_subgroup": {
+        "doc": {
+          "n": 35,
+          "accuracy": 1.0
+        },
+        "invoice": {
+          "n": 900,
+          "accuracy": 1.0
+        },
+        "lookalike_bank_statement": {
+          "n": 18,
+          "accuracy": 1.0
+        },
+        "lookalike_credit_application": {
+          "n": 21,
+          "accuracy": 1.0
+        },
+        "lookalike_delivery_note": {
+          "n": 27,
+          "accuracy": 1.0
+        },
+        "lookalike_expense_report": {
+          "n": 30,
+          "accuracy": 1.0
+        },
+        "lookalike_payslip": {
+          "n": 22,
+          "accuracy": 1.0
+        },
+        "lookalike_purchase_order": {
+          "n": 23,
+          "accuracy": 0.6522
+        },
+        "lookalike_quotation": {
+          "n": 29,
+          "accuracy": 1.0
+        },
+        "lookalike_remittance": {
+          "n": 19,
+          "accuracy": 1.0
+        },
+        "lookalike_timesheet": {
+          "n": 26,
+          "accuracy": 0.8462
+        },
+        "receipt": {
+          "n": 250,
+          "accuracy": 0.808
+        }
+      }
+    },
+    "body/doc_type": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "auroc": 1.0,
+      "tn": 500,
+      "fp": 0,
+      "fn": 0,
+      "tp": 900,
+      "n": 1400,
+      "mean_p_invoice_pos": 0.9986400000000001,
+      "mean_p_invoice_neg": 0.009825200000000001,
+      "by_subgroup": {
+        "doc": {
+          "n": 35,
+          "accuracy": 1.0
+        },
+        "invoice": {
+          "n": 900,
+          "accuracy": 1.0
+        },
+        "lookalike_bank_statement": {
+          "n": 18,
+          "accuracy": 1.0
+        },
+        "lookalike_credit_application": {
+          "n": 21,
+          "accuracy": 1.0
+        },
+        "lookalike_delivery_note": {
+          "n": 27,
+          "accuracy": 1.0
+        },
+        "lookalike_expense_report": {
+          "n": 30,
+          "accuracy": 1.0
+        },
+        "lookalike_payslip": {
+          "n": 22,
+          "accuracy": 1.0
+        },
+        "lookalike_purchase_order": {
+          "n": 23,
+          "accuracy": 1.0
+        },
+        "lookalike_quotation": {
+          "n": 29,
+          "accuracy": 1.0
+        },
+        "lookalike_remittance": {
+          "n": 19,
+          "accuracy": 1.0
+        },
+        "lookalike_timesheet": {
+          "n": 26,
+          "accuracy": 1.0
+        },
+        "receipt": {
+          "n": 250,
+          "accuracy": 1.0
+        }
+      }
+    },
+    "header_body/invoice_ab": {
+      "accuracy": 0.9564285714285714,
+      "precision": 0.9365244536940687,
+      "recall": 1.0,
+      "f1": 0.9672219236969372,
+      "auroc": 0.9997955555555555,
+      "tn": 439,
+      "fp": 61,
+      "fn": 0,
+      "tp": 900,
+      "n": 1400,
+      "mean_p_invoice_pos": 0.9640643333333334,
+      "mean_p_invoice_neg": 0.2933602,
+      "by_subgroup": {
+        "doc": {
+          "n": 35,
+          "accuracy": 1.0
+        },
+        "invoice": {
+          "n": 900,
+          "accuracy": 1.0
+        },
+        "lookalike_bank_statement": {
+          "n": 18,
+          "accuracy": 1.0
+        },
+        "lookalike_credit_application": {
+          "n": 21,
+          "accuracy": 1.0
+        },
+        "lookalike_delivery_note": {
+          "n": 27,
+          "accuracy": 1.0
+        },
+        "lookalike_expense_report": {
+          "n": 30,
+          "accuracy": 1.0
+        },
+        "lookalike_payslip": {
+          "n": 22,
+          "accuracy": 1.0
+        },
+        "lookalike_purchase_order": {
+          "n": 23,
+          "accuracy": 0.2609
+        },
+        "lookalike_quotation": {
+          "n": 29,
+          "accuracy": 0.8966
+        },
+        "lookalike_remittance": {
+          "n": 19,
+          "accuracy": 0.1053
+        },
+        "lookalike_timesheet": {
+          "n": 26,
+          "accuracy": 1.0
+        },
+        "receipt": {
+          "n": 250,
+          "accuracy": 0.904
+        }
+      }
+    },
+    "header_body/invoice_noul": {
+      "accuracy": 0.9621428571428572,
+      "precision": 0.9529411764705882,
+      "recall": 0.99,
+      "f1": 0.9711171662125341,
+      "auroc": 0.9933311111111112,
+      "tn": 456,
+      "fp": 44,
+      "fn": 9,
+      "tp": 891,
+      "n": 1400,
+      "mean_p_invoice_pos": 0.8278861111111111,
+      "mean_p_invoice_neg": 0.2510962,
+      "by_subgroup": {
+        "doc": {
+          "n": 35,
+          "accuracy": 1.0
+        },
+        "invoice": {
+          "n": 900,
+          "accuracy": 0.99
+        },
+        "lookalike_bank_statement": {
+          "n": 18,
+          "accuracy": 1.0
+        },
+        "lookalike_credit_application": {
+          "n": 21,
+          "accuracy": 1.0
+        },
+        "lookalike_delivery_note": {
+          "n": 27,
+          "accuracy": 1.0
+        },
+        "lookalike_expense_report": {
+          "n": 30,
+          "accuracy": 1.0
+        },
+        "lookalike_payslip": {
+          "n": 22,
+          "accuracy": 1.0
+        },
+        "lookalike_purchase_order": {
+          "n": 23,
+          "accuracy": 0.1739
+        },
+        "lookalike_quotation": {
+          "n": 29,
+          "accuracy": 1.0
+        },
+        "lookalike_remittance": {
+          "n": 19,
+          "accuracy": 0.7895
+        },
+        "lookalike_timesheet": {
+          "n": 26,
+          "accuracy": 0.9615
+        },
+        "receipt": {
+          "n": 250,
+          "accuracy": 0.92
+        }
+      }
+    },
+    "header_body/doc_type": {
+      "accuracy": 0.9992857142857143,
+      "precision": 0.9988901220865705,
+      "recall": 1.0,
+      "f1": 0.9994447529150472,
+      "auroc": 1.0,
+      "tn": 499,
+      "fp": 1,
+      "fn": 0,
+      "tp": 900,
+      "n": 1400,
+      "mean_p_invoice_pos": 0.997004,
+      "mean_p_invoice_neg": 0.011697200000000001,
+      "by_subgroup": {
+        "doc": {
+          "n": 35,
+          "accuracy": 1.0
+        },
+        "invoice": {
+          "n": 900,
+          "accuracy": 1.0
+        },
+        "lookalike_bank_statement": {
+          "n": 18,
+          "accuracy": 1.0
+        },
+        "lookalike_credit_application": {
+          "n": 21,
+          "accuracy": 1.0
+        },
+        "lookalike_delivery_note": {
+          "n": 27,
+          "accuracy": 1.0
+        },
+        "lookalike_expense_report": {
+          "n": 30,
+          "accuracy": 1.0
+        },
+        "lookalike_payslip": {
+          "n": 22,
+          "accuracy": 1.0
+        },
+        "lookalike_purchase_order": {
+          "n": 23,
+          "accuracy": 1.0
+        },
+        "lookalike_quotation": {
+          "n": 29,
+          "accuracy": 1.0
+        },
+        "lookalike_remittance": {
+          "n": 19,
+          "accuracy": 0.9474
+        },
+        "lookalike_timesheet": {
+          "n": 26,
+          "accuracy": 1.0
+        },
+        "receipt": {
+          "n": 250,
+          "accuracy": 1.0
+        }
+      }
+    }
+  }
+}

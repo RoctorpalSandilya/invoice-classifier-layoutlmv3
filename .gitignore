@@ -18,7 +18,7 @@ models/
 # The trained model in artifacts/run_frozen_3ep/model IS committed, via Git LFS.
 artifacts/**/checkpoints/
 artifacts/smoke/
-artifacts/*.log
+artifacts/**/*.log
 
 # --- Editor / tooling ---
 .claude/
